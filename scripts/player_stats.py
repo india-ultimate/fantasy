@@ -22,25 +22,24 @@ POINTS = {
     "defense": 5,
     "block": 5,
 }
+PLAYER_COLUMNS = ["Player {}".format(i) for i in range(7)]
 
 
 def compute_stats(stats_file):
     DATA = pd.read_csv(stats_file)
 
-    # Create Players Dict
-    players_map = dict()
-
-    # Iterate through all the players and add them in the player's dict
-    for i in range(7):
-        for player_name in DATA["Player " + str(i)]:
-            players_map[player_name] = {
-                "name": player_name,
-                "gender": "-",
-                "jersey": "-",
-                "team": TEAM_NAME,
-                "stats": dict(),
-                "fantasy-points": 0,
-            }
+    player_names = set(DATA[PLAYER_COLUMNS].values.flatten())
+    players_map = {
+        name: {
+            "name": name,
+            "gender": "-",
+            "jersey": "-",
+            "team": TEAM_NAME,
+            "stats": dict(),
+            "fantasy-points": 0,
+        }
+        for name in player_names
+    }
 
     goals = DATA[(DATA["Tournamemnt"] == TOURNAMENT) & (DATA["Action"] == "Goal")]
 
@@ -53,8 +52,7 @@ def compute_stats(stats_file):
         players_map[player]["stats"][opponent][action] += 1
 
     for _, row in goals.iterrows():
-        player_columns = ["Player {}".format(i) for i in range(7)]
-        players = set(list(row[player_columns]))
+        players = set(list(row[PLAYER_COLUMNS]))
 
         for player in players:
             initialize_stats(row["Opponent"], player)
