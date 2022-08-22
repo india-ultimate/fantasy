@@ -11,7 +11,7 @@ TOURNAMENT = "Regionals"
 # Get File Paths
 HERE = dirname(abspath(__file__))
 ROOT_DIR = Path(HERE).parent.absolute()
-STATS_FILE = join(ROOT_DIR, 'data', 'stats.csv')
+STATS_FILE = join(ROOT_DIR, "data", "stats.csv")
 
 # Read CSV
 DATA = pd.read_csv(STATS_FILE)
@@ -31,50 +31,51 @@ for i in range(7):
             "fantasy-points": 0,
         }
 
-goals = DATA[(DATA['Tournamemnt'] == TOURNAMENT) &
-             (DATA['Action'] == 'Goal')]
+goals = DATA[(DATA["Tournamemnt"] == TOURNAMENT) & (DATA["Action"] == "Goal")]
 
 
 def initialize_stats(opponent, player):
-    if opponent not in players_map[player]['stats']:
-        players_map[player]['stats'][opponent] = dict({
-            "assist": 0,
-            "goal": 0,
-            "throwaway": 0,
-            "drop": 0,
-            "o-line": 0,
-            "d-line": 0,
-            "o-scoring-line": 0,
-            "d-scoring-line": 0,
-            "defense": 0,
-            "block": 0
-        })
+    if opponent not in players_map[player]["stats"]:
+        players_map[player]["stats"][opponent] = dict(
+            {
+                "assist": 0,
+                "goal": 0,
+                "throwaway": 0,
+                "drop": 0,
+                "o-line": 0,
+                "d-line": 0,
+                "o-scoring-line": 0,
+                "d-scoring-line": 0,
+                "defense": 0,
+                "block": 0,
+            }
+        )
 
 
 def update_stats(opponent, player, action):
-    players_map[player]['stats'][opponent][action] += 1
+    players_map[player]["stats"][opponent][action] += 1
 
 
 for _, row in goals.iterrows():
-    player_columns = ['Player {}'.format(i) for i in range(7)]
+    player_columns = ["Player {}".format(i) for i in range(7)]
     players = set(list(row[player_columns]))
 
     for player in players:
-        initialize_stats(row['Opponent'], player)
+        initialize_stats(row["Opponent"], player)
 
         if row["Line"] == "O":
-            update_stats(row['Opponent'], player, "o-line")
+            update_stats(row["Opponent"], player, "o-line")
             if row["Event Type"] == "Offense":
-                update_stats(row['Opponent'], player, "o-scoring-line")
+                update_stats(row["Opponent"], player, "o-scoring-line")
 
         if row["Line"] == "D":
-            update_stats(row['Opponent'], player, "d-line")
+            update_stats(row["Opponent"], player, "d-line")
             if row["Event Type"] == "Offense":
-                update_stats(row['Opponent'], player, "d-scoring-line")
+                update_stats(row["Opponent"], player, "d-scoring-line")
 
     if row["Event Type"] == "Offense":
-        update_stats(row['Opponent'], row['Receiver'], "goal")
-        update_stats(row['Opponent'], row['Passer'], "assist")
+        update_stats(row["Opponent"], row["Receiver"], "goal")
+        update_stats(row["Opponent"], row["Passer"], "assist")
 
 for _, row in DATA.iterrows():
     if row["Action"] == "D":
@@ -92,8 +93,8 @@ for _, row in DATA.iterrows():
 for player in players_map:
     fantasy_points = 0
 
-    for opponent in players_map[player]['stats']:
-        stat = players_map[player]['stats'][opponent]
+    for opponent in players_map[player]["stats"]:
+        stat = players_map[player]["stats"][opponent]
 
         fantasy_points += stat["goal"] * 3
         fantasy_points += stat["assist"] * 3
@@ -106,7 +107,7 @@ for player in players_map:
         fantasy_points += stat["o-scoring-line"] * 1
         fantasy_points += stat["d-scoring-line"] * 2
 
-    players_map[player]['fantasy-points'] = fantasy_points
+    players_map[player]["fantasy-points"] = fantasy_points
 
 players_list = list(players_map.values())
 players_list_json = json.dumps(players_list)
