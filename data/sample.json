@@ -5,15 +5,17 @@
     "jersey": "2",
     "team": "California State",
     "stats": {
-      "assists": 4,
-      "throwaways": 4,
-      "goals": 6,
-      "drops": 1,
-      "o-points": 4,
-      "d-points": 56,
-      "defenses": 8,
-      "o-scoring-points": 1,
-      "d-scoring-points": 28
-    }
+      "assist": 4,
+      "goal": 6,
+      "throwaway": 4,
+      "drop": 1,
+      "o-line": 4,
+      "d-line": 56,
+      "o-scoring-line": 1,
+      "d-scoring-line": 28,
+      "defense": 8,
+      "block": 0
+    },
+    "fantasy-points": 147,
   }
 ]
