@@ -13,6 +13,19 @@ HERE = dirname(abspath(__file__))
 ROOT_DIR = Path(HERE).parent.absolute()
 STATS_FILE = join(ROOT_DIR, "data", "stats.csv")
 
+POINTS = {
+    "assist": 3,
+    "goal": 3,
+    "throwaway": -2,
+    "drop": -2,
+    "o-line": 0.5,
+    "d-line": 0.5,
+    "o-scoring-line": 1,
+    "d-scoring-line": 2,
+    "defense": 5,
+    "block": 5,
+}
+
 # Read CSV
 DATA = pd.read_csv(STATS_FILE)
 
@@ -91,21 +104,12 @@ for _, row in DATA.iterrows():
         update_stats(row["Opponent"], row["Receiver"], "drop")
 
 for player in players_map:
-    fantasy_points = 0
-
-    for opponent in players_map[player]["stats"]:
-        stat = players_map[player]["stats"][opponent]
-
-        fantasy_points += stat["goal"] * 3
-        fantasy_points += stat["assist"] * 3
-        fantasy_points += stat["throwaway"] * (-2)
-        fantasy_points += stat["drop"] * (-2)
-        fantasy_points += stat["defense"] * 5
-        fantasy_points += stat["block"] * 5
-        fantasy_points += stat["o-line"] * 0.5
-        fantasy_points += stat["d-line"] * 0.5
-        fantasy_points += stat["o-scoring-line"] * 1
-        fantasy_points += stat["d-scoring-line"] * 2
+    fantasy_points = sum(
+        [
+            sum(count * POINTS[stat] for stat, count in stats.items())
+            for stats in players_map[player]["stats"].values()
+        ]
+    )
 
     players_map[player]["fantasy-points"] = fantasy_points
 
