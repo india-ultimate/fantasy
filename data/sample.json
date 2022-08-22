@@ -1,21 +1,1457 @@
 [
   {
-    "name": "John Doe",
-    "gender": "F",
-    "jersey": "2",
-    "team": "California State",
+    "name": "Vish",
+    "gender": "-",
+    "jersey": "-",
+    "team": "Fire",
     "stats": {
-      "assist": 4,
-      "goal": 6,
-      "throwaway": 4,
-      "drop": 1,
-      "o-line": 4,
-      "d-line": 56,
-      "o-scoring-line": 1,
-      "d-scoring-line": 28,
-      "defense": 8,
-      "block": 0
+      "Clapham": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 1,
+        "d-line": 5,
+        "o-scoring-line": 0,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "block": 0
+      },
+      "Bristol": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 1,
+        "d-line": 1,
+        "o-scoring-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 2": {
+        "assist": 3,
+        "goal": 1,
+        "throwaway": 3,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 22,
+        "o-scoring-line": 0,
+        "d-scoring-line": 17,
+        "defense": 1,
+        "block": 0
+      },
+      "Kapow": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 1,
+        "o-line": 0,
+        "d-line": 8,
+        "o-scoring-line": 0,
+        "d-scoring-line": 3,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 1": {
+        "assist": 1,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 5,
+        "o-scoring-line": 0,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "block": 0
+      },
+      "Tonbridge": {
+        "assist": 1,
+        "goal": 2,
+        "throwaway": 1,
+        "drop": 2,
+        "o-line": 0,
+        "d-line": 10,
+        "o-scoring-line": 0,
+        "d-scoring-line": 7,
+        "defense": 0,
+        "block": 0
+      }
     },
-    "fantasy-points": 147
+    "fantasy-points": 99.5
+  },
+  {
+    "name": "Vid",
+    "gender": "-",
+    "jersey": "-",
+    "team": "Fire",
+    "stats": {
+      "Clapham": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 8,
+        "d-line": 0,
+        "o-scoring-line": 3,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Bristol": {
+        "assist": 0,
+        "goal": 1,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 9,
+        "d-line": 0,
+        "o-scoring-line": 4,
+        "d-scoring-line": 0,
+        "defense": 1,
+        "block": 0
+      },
+      "Reading 2": {
+        "assist": 1,
+        "goal": 1,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 7,
+        "d-line": 3,
+        "o-scoring-line": 7,
+        "d-scoring-line": 3,
+        "defense": 0,
+        "block": 0
+      },
+      "Kapow": {
+        "assist": 1,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 7,
+        "d-line": 0,
+        "o-scoring-line": 5,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 1": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 5,
+        "d-line": 0,
+        "o-scoring-line": 4,
+        "d-scoring-line": 0,
+        "defense": 1,
+        "block": 0
+      },
+      "Tonbridge": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 5,
+        "d-line": 1,
+        "o-scoring-line": 4,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      }
+    },
+    "fantasy-points": 73.5
+  },
+  {
+    "name": "Adam",
+    "gender": "-",
+    "jersey": "-",
+    "team": "Fire",
+    "stats": {
+      "Clapham": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 1,
+        "d-line": 7,
+        "o-scoring-line": 0,
+        "d-scoring-line": 1,
+        "defense": 1,
+        "block": 0
+      },
+      "Bristol": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 3,
+        "d-line": 5,
+        "o-scoring-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 2": {
+        "assist": 0,
+        "goal": 5,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 24,
+        "o-scoring-line": 0,
+        "d-scoring-line": 20,
+        "defense": 2,
+        "block": 0
+      },
+      "Kapow": {
+        "assist": 1,
+        "goal": 1,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 9,
+        "o-scoring-line": 0,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 1": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 1,
+        "d-line": 5,
+        "o-scoring-line": 1,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "block": 0
+      },
+      "Tonbridge": {
+        "assist": 0,
+        "goal": 1,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 10,
+        "o-scoring-line": 0,
+        "d-scoring-line": 7,
+        "defense": 0,
+        "block": 0
+      }
+    },
+    "fantasy-points": 130.5
+  },
+  {
+    "name": "Jake L",
+    "gender": "-",
+    "jersey": "-",
+    "team": "Fire",
+    "stats": {
+      "Clapham": {
+        "assist": 0,
+        "goal": 1,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 10,
+        "d-line": 0,
+        "o-scoring-line": 5,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Bristol": {
+        "assist": 1,
+        "goal": 1,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 7,
+        "d-line": 1,
+        "o-scoring-line": 3,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 2": {
+        "assist": 1,
+        "goal": 2,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 7,
+        "d-line": 4,
+        "o-scoring-line": 7,
+        "d-scoring-line": 4,
+        "defense": 1,
+        "block": 0
+      },
+      "Kapow": {
+        "assist": 1,
+        "goal": 1,
+        "throwaway": 1,
+        "drop": 1,
+        "o-line": 11,
+        "d-line": 0,
+        "o-scoring-line": 7,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 1": {
+        "assist": 0,
+        "goal": 2,
+        "throwaway": 4,
+        "drop": 0,
+        "o-line": 7,
+        "d-line": 0,
+        "o-scoring-line": 4,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Tonbridge": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 7,
+        "d-line": 2,
+        "o-scoring-line": 6,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "block": 0
+      }
+    },
+    "fantasy-points": 91.0
+  },
+  {
+    "name": "George",
+    "gender": "-",
+    "jersey": "-",
+    "team": "Fire",
+    "stats": {
+      "Clapham": {
+        "assist": 1,
+        "goal": 0,
+        "throwaway": 4,
+        "drop": 0,
+        "o-line": 1,
+        "d-line": 7,
+        "o-scoring-line": 0,
+        "d-scoring-line": 1,
+        "defense": 1,
+        "block": 0
+      },
+      "Bristol": {
+        "assist": 1,
+        "goal": 0,
+        "throwaway": 3,
+        "drop": 0,
+        "o-line": 4,
+        "d-line": 5,
+        "o-scoring-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 2": {
+        "assist": 4,
+        "goal": 2,
+        "throwaway": 5,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 16,
+        "o-scoring-line": 0,
+        "d-scoring-line": 12,
+        "defense": 2,
+        "block": 0
+      },
+      "Kapow": {
+        "assist": 1,
+        "goal": 0,
+        "throwaway": 2,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 10,
+        "o-scoring-line": 0,
+        "d-scoring-line": 3,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 1": {
+        "assist": 0,
+        "goal": 1,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 1,
+        "d-line": 6,
+        "o-scoring-line": 1,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "block": 0
+      },
+      "Tonbridge": {
+        "assist": 2,
+        "goal": 1,
+        "throwaway": 2,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 11,
+        "o-scoring-line": 0,
+        "d-scoring-line": 7,
+        "defense": 0,
+        "block": 0
+      }
+    },
+    "fantasy-points": 102.5
+  },
+  {
+    "name": "Wilf",
+    "gender": "-",
+    "jersey": "-",
+    "team": "Fire",
+    "stats": {
+      "Clapham": {
+        "assist": 1,
+        "goal": 0,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 8,
+        "d-line": 0,
+        "o-scoring-line": 5,
+        "d-scoring-line": 0,
+        "defense": 1,
+        "block": 0
+      },
+      "Bristol": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 3,
+        "d-line": 3,
+        "o-scoring-line": 0,
+        "d-scoring-line": 0,
+        "defense": 1,
+        "block": 0
+      },
+      "Reading 2": {
+        "assist": 1,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 2,
+        "d-line": 7,
+        "o-scoring-line": 2,
+        "d-scoring-line": 6,
+        "defense": 0,
+        "block": 0
+      },
+      "Kapow": {
+        "assist": 0,
+        "goal": 1,
+        "throwaway": 0,
+        "drop": 2,
+        "o-line": 8,
+        "d-line": 0,
+        "o-scoring-line": 5,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 1": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 4,
+        "d-line": 0,
+        "o-scoring-line": 2,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Tonbridge": {
+        "assist": 2,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 3,
+        "d-line": 3,
+        "o-scoring-line": 3,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "block": 0
+      }
+    },
+    "fantasy-points": 70.5
+  },
+  {
+    "name": "Sylv",
+    "gender": "-",
+    "jersey": "-",
+    "team": "Fire",
+    "stats": {
+      "Clapham": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 5,
+        "o-scoring-line": 0,
+        "d-scoring-line": 1,
+        "defense": 1,
+        "block": 0
+      },
+      "Bristol": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 3,
+        "drop": 0,
+        "o-line": 7,
+        "d-line": 0,
+        "o-scoring-line": 4,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 2": {
+        "assist": 1,
+        "goal": 1,
+        "throwaway": 1,
+        "drop": 1,
+        "o-line": 0,
+        "d-line": 14,
+        "o-scoring-line": 0,
+        "d-scoring-line": 12,
+        "defense": 1,
+        "block": 0
+      },
+      "Kapow": {
+        "assist": 1,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 7,
+        "o-scoring-line": 0,
+        "d-scoring-line": 3,
+        "defense": 1,
+        "block": 0
+      },
+      "Reading 1": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 4,
+        "o-scoring-line": 0,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "block": 0
+      },
+      "Tonbridge": {
+        "assist": 1,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 10,
+        "o-scoring-line": 0,
+        "d-scoring-line": 7,
+        "defense": 1,
+        "block": 0
+      }
+    },
+    "fantasy-points": 97.5
+  },
+  {
+    "name": "Jakob R",
+    "gender": "-",
+    "jersey": "-",
+    "team": "Fire",
+    "stats": {
+      "Reading 2": {
+        "assist": 1,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 4,
+        "d-line": 0,
+        "o-scoring-line": 4,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 1": {
+        "assist": 1,
+        "goal": 1,
+        "throwaway": 3,
+        "drop": 0,
+        "o-line": 7,
+        "d-line": 0,
+        "o-scoring-line": 4,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      }
+    },
+    "fantasy-points": 16.5
+  },
+  {
+    "name": "Smiler",
+    "gender": "-",
+    "jersey": "-",
+    "team": "Fire",
+    "stats": {
+      "Clapham": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 6,
+        "d-line": 0,
+        "o-scoring-line": 3,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Bristol": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 3,
+        "d-line": 3,
+        "o-scoring-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 2": {
+        "assist": 1,
+        "goal": 0,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 7,
+        "d-line": 0,
+        "o-scoring-line": 7,
+        "d-scoring-line": 0,
+        "defense": 1,
+        "block": 0
+      },
+      "Kapow": {
+        "assist": 2,
+        "goal": 2,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 8,
+        "d-line": 0,
+        "o-scoring-line": 7,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 1": {
+        "assist": 2,
+        "goal": 0,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 6,
+        "d-line": 0,
+        "o-scoring-line": 3,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Tonbridge": {
+        "assist": 1,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 4,
+        "d-line": 1,
+        "o-scoring-line": 3,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "block": 0
+      }
+    },
+    "fantasy-points": 65.0
+  },
+  {
+    "name": "Stef",
+    "gender": "-",
+    "jersey": "-",
+    "team": "Fire",
+    "stats": {
+      "Clapham": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 2,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 7,
+        "o-scoring-line": 0,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "block": 0
+      },
+      "Bristol": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 3,
+        "d-line": 4,
+        "o-scoring-line": 0,
+        "d-scoring-line": 0,
+        "defense": 1,
+        "block": 0
+      },
+      "Reading 2": {
+        "assist": 2,
+        "goal": 4,
+        "throwaway": 1,
+        "drop": 1,
+        "o-line": 0,
+        "d-line": 19,
+        "o-scoring-line": 0,
+        "d-scoring-line": 15,
+        "defense": 4,
+        "block": 0
+      },
+      "Kapow": {
+        "assist": 0,
+        "goal": 1,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 10,
+        "o-scoring-line": 0,
+        "d-scoring-line": 3,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 1": {
+        "assist": 0,
+        "goal": 1,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 1,
+        "d-line": 6,
+        "o-scoring-line": 1,
+        "d-scoring-line": 1,
+        "defense": 1,
+        "block": 0
+      },
+      "Tonbridge": {
+        "assist": 2,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 10,
+        "o-scoring-line": 0,
+        "d-scoring-line": 8,
+        "defense": 2,
+        "block": 0
+      }
+    },
+    "fantasy-points": 147.0
+  },
+  {
+    "name": "Amberish",
+    "gender": "-",
+    "jersey": "-",
+    "team": "Fire",
+    "stats": {
+      "Clapham": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 1,
+        "d-line": 2,
+        "o-scoring-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Bristol": {
+        "assist": 1,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 5,
+        "d-line": 0,
+        "o-scoring-line": 2,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 2": {
+        "assist": 1,
+        "goal": 1,
+        "throwaway": 1,
+        "drop": 1,
+        "o-line": 0,
+        "d-line": 15,
+        "o-scoring-line": 0,
+        "d-scoring-line": 11,
+        "defense": 0,
+        "block": 0
+      },
+      "Kapow": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 1,
+        "o-scoring-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 1": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 1,
+        "d-line": 1,
+        "o-scoring-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Tonbridge": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 1,
+        "o-scoring-line": 0,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "block": 0
+      }
+    },
+    "fantasy-points": 45.5
+  },
+  {
+    "name": "Martyn",
+    "gender": "-",
+    "jersey": "-",
+    "team": "Fire",
+    "stats": {
+      "Clapham": {
+        "assist": 0,
+        "goal": 1,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 10,
+        "d-line": 0,
+        "o-scoring-line": 5,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Bristol": {
+        "assist": 1,
+        "goal": 0,
+        "throwaway": 3,
+        "drop": 0,
+        "o-line": 8,
+        "d-line": 0,
+        "o-scoring-line": 4,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 2": {
+        "assist": 3,
+        "goal": 1,
+        "throwaway": 0,
+        "drop": 1,
+        "o-line": 6,
+        "d-line": 4,
+        "o-scoring-line": 6,
+        "d-scoring-line": 4,
+        "defense": 0,
+        "block": 0
+      },
+      "Kapow": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 10,
+        "d-line": 0,
+        "o-scoring-line": 6,
+        "d-scoring-line": 0,
+        "defense": 1,
+        "block": 0
+      },
+      "Reading 1": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 7,
+        "d-line": 0,
+        "o-scoring-line": 4,
+        "d-scoring-line": 0,
+        "defense": 2,
+        "block": 0
+      },
+      "Tonbridge": {
+        "assist": 1,
+        "goal": 1,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 6,
+        "d-line": 2,
+        "o-scoring-line": 5,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      }
+    },
+    "fantasy-points": 89.5
+  },
+  {
+    "name": "Nick H",
+    "gender": "-",
+    "jersey": "-",
+    "team": "Fire",
+    "stats": {
+      "Clapham": {
+        "assist": 3,
+        "goal": 1,
+        "throwaway": 2,
+        "drop": 0,
+        "o-line": 10,
+        "d-line": 0,
+        "o-scoring-line": 5,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Bristol": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 3,
+        "d-line": 5,
+        "o-scoring-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 2": {
+        "assist": 1,
+        "goal": 4,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 5,
+        "d-line": 4,
+        "o-scoring-line": 5,
+        "d-scoring-line": 3,
+        "defense": 2,
+        "block": 0
+      },
+      "Kapow": {
+        "assist": 1,
+        "goal": 0,
+        "throwaway": 2,
+        "drop": 0,
+        "o-line": 11,
+        "d-line": 0,
+        "o-scoring-line": 7,
+        "d-scoring-line": 0,
+        "defense": 1,
+        "block": 0
+      },
+      "Reading 1": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 4,
+        "d-line": 0,
+        "o-scoring-line": 3,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Tonbridge": {
+        "assist": 2,
+        "goal": 3,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 7,
+        "d-line": 3,
+        "o-scoring-line": 6,
+        "d-scoring-line": 2,
+        "defense": 1,
+        "block": 0
+      }
+    },
+    "fantasy-points": 117.0
+  },
+  {
+    "name": "Juan",
+    "gender": "-",
+    "jersey": "-",
+    "team": "Fire",
+    "stats": {
+      "Clapham": {
+        "assist": 0,
+        "goal": 1,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 1,
+        "d-line": 5,
+        "o-scoring-line": 0,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "block": 0
+      },
+      "Bristol": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 1,
+        "d-line": 3,
+        "o-scoring-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 2": {
+        "assist": 0,
+        "goal": 3,
+        "throwaway": 0,
+        "drop": 1,
+        "o-line": 0,
+        "d-line": 20,
+        "o-scoring-line": 0,
+        "d-scoring-line": 17,
+        "defense": 0,
+        "block": 0
+      },
+      "Kapow": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 6,
+        "o-scoring-line": 0,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 1": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 1,
+        "d-line": 3,
+        "o-scoring-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Tonbridge": {
+        "assist": 0,
+        "goal": 3,
+        "throwaway": 1,
+        "drop": 1,
+        "o-line": 0,
+        "d-line": 11,
+        "o-scoring-line": 0,
+        "d-scoring-line": 7,
+        "defense": 0,
+        "block": 0
+      }
+    },
+    "fantasy-points": 91.5
+  },
+  {
+    "name": "Jack",
+    "gender": "-",
+    "jersey": "-",
+    "team": "Fire",
+    "stats": {
+      "Clapham": {
+        "assist": 0,
+        "goal": 2,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 10,
+        "d-line": 0,
+        "o-scoring-line": 5,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Bristol": {
+        "assist": 0,
+        "goal": 2,
+        "throwaway": 0,
+        "drop": 1,
+        "o-line": 8,
+        "d-line": 0,
+        "o-scoring-line": 3,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 2": {
+        "assist": 0,
+        "goal": 2,
+        "throwaway": 0,
+        "drop": 1,
+        "o-line": 6,
+        "d-line": 2,
+        "o-scoring-line": 6,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "block": 0
+      },
+      "Kapow": {
+        "assist": 1,
+        "goal": 1,
+        "throwaway": 2,
+        "drop": 0,
+        "o-line": 8,
+        "d-line": 0,
+        "o-scoring-line": 5,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 1": {
+        "assist": 0,
+        "goal": 1,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 3,
+        "d-line": 0,
+        "o-scoring-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Tonbridge": {
+        "assist": 0,
+        "goal": 2,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 7,
+        "d-line": 2,
+        "o-scoring-line": 6,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "block": 0
+      }
+    },
+    "fantasy-points": 80.0
+  },
+  {
+    "name": "Farmer",
+    "gender": "-",
+    "jersey": "-",
+    "team": "Fire",
+    "stats": {
+      "Clapham": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 1,
+        "d-line": 5,
+        "o-scoring-line": 0,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "block": 0
+      },
+      "Bristol": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 1,
+        "o-line": 4,
+        "d-line": 5,
+        "o-scoring-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 2": {
+        "assist": 4,
+        "goal": 1,
+        "throwaway": 2,
+        "drop": 1,
+        "o-line": 1,
+        "d-line": 21,
+        "o-scoring-line": 1,
+        "d-scoring-line": 16,
+        "defense": 3,
+        "block": 0
+      },
+      "Kapow": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 10,
+        "o-scoring-line": 0,
+        "d-scoring-line": 3,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 1": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 1,
+        "d-line": 6,
+        "o-scoring-line": 1,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "block": 0
+      },
+      "Tonbridge": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 10,
+        "o-scoring-line": 0,
+        "d-scoring-line": 6,
+        "defense": 1,
+        "block": 0
+      }
+    },
+    "fantasy-points": 113.0
+  },
+  {
+    "name": "JV",
+    "gender": "-",
+    "jersey": "-",
+    "team": "Fire",
+    "stats": {
+      "Kapow": {
+        "assist": 1,
+        "goal": 2,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 10,
+        "d-line": 1,
+        "o-scoring-line": 6,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 2": {
+        "assist": 1,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 1,
+        "d-line": 1,
+        "o-scoring-line": 1,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "block": 0
+      },
+      "Tonbridge": {
+        "assist": 1,
+        "goal": 0,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 5,
+        "d-line": 1,
+        "o-scoring-line": 4,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "block": 0
+      }
+    },
+    "fantasy-points": 37.5
+  },
+  {
+    "name": "Tommy",
+    "gender": "-",
+    "jersey": "-",
+    "team": "Fire",
+    "stats": {
+      "Clapham": {
+        "assist": 1,
+        "goal": 0,
+        "throwaway": 2,
+        "drop": 0,
+        "o-line": 8,
+        "d-line": 0,
+        "o-scoring-line": 4,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Bristol": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 6,
+        "d-line": 0,
+        "o-scoring-line": 3,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 2": {
+        "assist": 3,
+        "goal": 0,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 3,
+        "d-line": 7,
+        "o-scoring-line": 3,
+        "d-scoring-line": 6,
+        "defense": 0,
+        "block": 0
+      },
+      "Kapow": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 2,
+        "drop": 0,
+        "o-line": 4,
+        "d-line": 0,
+        "o-scoring-line": 1,
+        "d-scoring-line": 0,
+        "defense": 1,
+        "block": 0
+      },
+      "Reading 1": {
+        "assist": 1,
+        "goal": 0,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 6,
+        "d-line": 0,
+        "o-scoring-line": 3,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Tonbridge": {
+        "assist": 1,
+        "goal": 1,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 5,
+        "d-line": 1,
+        "o-scoring-line": 5,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      }
+    },
+    "fantasy-points": 65.0
+  },
+  {
+    "name": "Clegg",
+    "gender": "-",
+    "jersey": "-",
+    "team": "Fire",
+    "stats": {
+      "Clapham": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 2,
+        "drop": 1,
+        "o-line": 1,
+        "d-line": 6,
+        "o-scoring-line": 0,
+        "d-scoring-line": 0,
+        "defense": 1,
+        "block": 0
+      },
+      "Bristol": {
+        "assist": 0,
+        "goal": 0,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 9,
+        "d-line": 0,
+        "o-scoring-line": 4,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "block": 0
+      },
+      "Reading 2": {
+        "assist": 2,
+        "goal": 2,
+        "throwaway": 2,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 13,
+        "o-scoring-line": 0,
+        "d-scoring-line": 12,
+        "defense": 4,
+        "block": 0
+      },
+      "Kapow": {
+        "assist": 0,
+        "goal": 1,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 8,
+        "o-scoring-line": 0,
+        "d-scoring-line": 3,
+        "defense": 2,
+        "block": 0
+      },
+      "Reading 1": {
+        "assist": 1,
+        "goal": 0,
+        "throwaway": 0,
+        "drop": 0,
+        "o-line": 1,
+        "d-line": 6,
+        "o-scoring-line": 1,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "block": 0
+      },
+      "Tonbridge": {
+        "assist": 1,
+        "goal": 1,
+        "throwaway": 1,
+        "drop": 0,
+        "o-line": 0,
+        "d-line": 9,
+        "o-scoring-line": 0,
+        "d-scoring-line": 6,
+        "defense": 1,
+        "block": 0
+      }
+    },
+    "fantasy-points": 125.5
   }
 ]

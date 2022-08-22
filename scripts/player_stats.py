@@ -1,17 +1,16 @@
 import json
 import os
-from os.path import abspath, dirname, exists, join
 from pathlib import Path
 import pandas as pd
 
 # TODO: Get Team name when running this script
-TEAM_NAME = "BPHC Ultimate"
+TEAM_NAME = "Fire"
 TOURNAMENT = "Regionals"
 
 # Get File Paths
-HERE = dirname(abspath(__file__))
-ROOT_DIR = Path(HERE).parent.absolute()
-STATS_FILE = join(ROOT_DIR, "data", "stats.csv")
+ROOT_DIR = Path(__file__).parent.parent.absolute()
+DATA_DIR = os.path.join(ROOT_DIR, "data")
+STATS_FILE = os.path.join(DATA_DIR, "stats.csv")
 
 POINTS = {
     "assist": 3,
@@ -113,6 +112,5 @@ for player in players_map:
 
     players_map[player]["fantasy-points"] = fantasy_points
 
-players_list = list(players_map.values())
-players_list_json = json.dumps(players_list)
-print(players_list_json)
+with open(os.path.join(DATA_DIR, "sample.json"), "w") as f:
+    json.dump(list(players_map.values()), f, indent=2)
