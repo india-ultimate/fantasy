@@ -1,0 +1,19 @@
+[
+  {
+    "name": "John Doe",
+    "gender": "F",
+    "jersey": "2",
+    "team": "California State",
+    "stats": {
+      "assists": 4,
+      "throwaways": 4,
+      "goals": 6,
+      "drops": 1,
+      "o-points": 4,
+      "d-points": 56,
+      "defenses": 8,
+      "o-scoring-points": 1,
+      "d-scoring-points": 28
+    }
+  }
+]
