@@ -107,4 +107,9 @@ if __name__ == "__main__":
 
     players_map = compute_stats(args.stats)
     with open(os.path.join(DATA_DIR, "sample.json"), "w") as f:
-        json.dump(list(players_map.values()), f, indent=2)
+        json.dump(
+            sorted(players_map.values(), key=lambda x: x["name"]),
+            f,
+            indent=2,
+            sort_keys=True,
+        )
