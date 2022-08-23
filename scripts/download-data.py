@@ -18,6 +18,11 @@ def get_fantasy_teams_csv(sheet_id):
 
 
 def get_stats_csvs(team_ids):
+    # Delete all existsing stats files. Useful to remove old stats files for
+    # teams removed from the team_ids list.
+    for path in DATA_DIR.glob("*stats*.csv"):
+        path.unlink()
+
     for team_id in team_ids:
         url = f"https://www.ultianalytics.com/rest/view/team/{team_id}/stats/export"
         response = requests.get(url)
