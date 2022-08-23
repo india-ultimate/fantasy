@@ -24,10 +24,12 @@ def get_stats_csvs(team_ids):
     for path in DATA_DIR.glob("*stats*.csv"):
         path.unlink()
 
+    session = requests.session()
+
     for team_id in team_ids:
         url = f"https://www.ultianalytics.com/rest/view/team/{team_id}/stats/export"
         print(f"Downloading data from {url}")
-        response = requests.get(url)
+        response = session.get(url)
         header = response.headers.get("Content-Disposition", "")
         _, headers = cgi.parse_header(header)
         filename = headers.get("filename", "")
