@@ -4,9 +4,6 @@ import os
 from pathlib import Path
 import pandas as pd
 
-# FIXME: Do we really need this?
-TOURNAMENT = "Regionals"
-
 # Get File Paths
 ROOT_DIR = Path(__file__).parent.parent.absolute()
 DATA_DIR = os.path.join(ROOT_DIR, "data")
@@ -46,7 +43,7 @@ def compute_stats(stats_file):
         for name in player_names
     }
 
-    goals = DATA[(DATA["Tournamemnt"] == TOURNAMENT) & (DATA["Action"] == "Goal")]
+    goals = DATA[DATA["Action"] == "Goal"]
 
     def initialize_stats(opponent, player):
         if opponent not in players_map[player]["stats"]:
