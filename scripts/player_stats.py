@@ -50,6 +50,7 @@ def compute_stats(stats_file):
             players_map[player]["stats"][opponent] = zeros
 
     def update_stats(opponent, player, action):
+        initialize_stats(opponent, player)
         players_map[player]["stats"][opponent][action] += 1
 
     for _, row in goals.iterrows():
@@ -57,8 +58,6 @@ def compute_stats(stats_file):
         opponent = row["Opponent"]
 
         for player in players:
-            initialize_stats(opponent, player)
-
             if row["Line"] == "O":
                 update_stats(opponent, player, "o-line")
                 if row["Event Type"] == "Offense":
@@ -77,17 +76,14 @@ def compute_stats(stats_file):
         opponent = row["Opponent"]
         if row["Action"] == "D":
             player = row["Defender"]
-            initialize_stats(opponent, player)
             update_stats(opponent, player, "defense")
 
         if row["Action"] == "Throwaway" and row["Event Type"] == "Offense":
             player = row["Passer"]
-            initialize_stats(opponent, player)
             update_stats(opponent, player, "throwaway")
 
         if row["Action"] == "Drop" and row["Event Type"] == "Offense":
             player = row["Receiver"]
-            initialize_stats(opponent, player)
             update_stats(opponent, player, "drop")
 
     for player in players_map:
