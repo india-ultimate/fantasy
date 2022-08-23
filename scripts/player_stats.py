@@ -1,4 +1,5 @@
 from functools import reduce
+from glob import glob
 import json
 import os
 from pathlib import Path
@@ -108,6 +109,9 @@ def merge_stats(player_maps):
 
 
 def main(stats_paths):
+    if not stats_paths:
+        stats_paths = glob(f"{DATA_DIR}/*stats*.csv")
+
     players_maps = [compute_stats(path) for path in stats_paths]
     players_map = reduce(merge_stats, players_maps)
 
