@@ -87,7 +87,7 @@ def main(teams_csv, stats_json):
             entries.append(entry)
 
     entries = sorted(
-        entries, key=lambda x: (x["fantasy_score"], x["name"]), reverse=True
+        entries, key=lambda x: (-x["fantasy_score"], x["valid_team"], x["name"])
     )
     with open(os.path.join(DATA_DIR, "fantasy_scores.json"), "w") as f:
         json.dump(entries, f, indent=2)
