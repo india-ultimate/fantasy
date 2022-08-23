@@ -1,4 +1,4 @@
-import { Button, Grid, Typography } from "@mui/material";
+import { Button, Link, Grid, Typography } from "@mui/material";
 import React from "react";
 import Navbar from "../components/Navbar";
 import KeyboardDoubleArrowRightIcon from "@mui/icons-material/KeyboardDoubleArrowRight";
@@ -126,36 +126,44 @@ const Home = () => {
 						</Button>
 					</Grid>
 					<Grid item xs={12}>
-						<Button
-							variant="outlined"
+						<Link
+							href="https://forms.gle/kVeJG27Jf6PGmwQHA"
+							target="_blank"
 							sx={{
-								display: "block",
-								width: "100%",
-								height: "15vh",
+								textDecoration: "none",
 							}}
 						>
-							<KeyboardDoubleArrowRightIcon
+							<Button
+								variant="outlined"
 								sx={{
-									position: "absolute",
-									right: "10%",
-									top: "40%",
+									display: "block",
+									width: "100%",
+									height: "15vh",
 								}}
-							/>
-							<Typography
-								variant="h5"
-								component="h5"
-								align="left"
 							>
-								<strong>My Squad</strong>
-							</Typography>
-							<Typography
-								variant="caption"
-								component="p"
-								align="left"
-							>
-								Edit your squad!
-							</Typography>
-						</Button>
+								<KeyboardDoubleArrowRightIcon
+									sx={{
+										position: "absolute",
+										right: "10%",
+										top: "40%",
+									}}
+								/>
+								<Typography
+									variant="h5"
+									component="h5"
+									align="left"
+								>
+									<strong>My Squad</strong>
+								</Typography>
+								<Typography
+									variant="caption"
+									component="p"
+									align="left"
+								>
+									Create your squad!
+								</Typography>
+							</Button>
+						</Link>
 					</Grid>
 				</Grid>
 			</Navbar>
