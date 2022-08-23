@@ -3,9 +3,9 @@ from glob import glob
 import json
 import os
 from pathlib import Path
+
 import pandas as pd
 
-# Get File Paths
 ROOT_DIR = Path(__file__).parent.parent.absolute()
 DATA_DIR = os.path.join(ROOT_DIR, "data")
 POINTS = {
