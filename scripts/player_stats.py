@@ -4,8 +4,7 @@ import os
 from pathlib import Path
 import pandas as pd
 
-# TODO: Get Team name when running this script
-TEAM_NAME = "Fire"
+# FIXME: Do we really need this?
 TOURNAMENT = "Regionals"
 
 # Get File Paths
@@ -26,16 +25,21 @@ POINTS = {
 PLAYER_COLUMNS = ["Player {}".format(i) for i in range(7)]
 
 
+def get_team_name(stats_file):
+    filename = os.path.basename(stats_file)
+    return filename.split("-", 1)[0]
+
+
 def compute_stats(stats_file):
     DATA = pd.read_csv(stats_file)
-
+    team_name = get_team_name(stats_file)
     player_names = set(DATA[PLAYER_COLUMNS].values.flatten())
     players_map = {
         name: {
             "name": name,
             "gender": "-",
             "jersey": "-",
-            "team": TEAM_NAME,
+            "team": team_name,
             "stats": dict(),
             "fantasy-points": 0,
         }
