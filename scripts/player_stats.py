@@ -100,18 +100,43 @@ def compute_stats(stats_file):
                 for stats in players_map[player]["stats"].values()
             ]
         )
-
         players_map[player]["fantasy-points"] = fantasy_points
 
     return players_map
 
 
-def merge_stats(player_maps):
-    if len(player_maps) == 1:
-        return player_maps[0]
+def merge_stats(player_map1, player_map2=None):
+    if player_map2 is None:
+        return player_map1
+
     else:
-        # FIXME: Add logic to merge two player maps from different CSVs
-        raise NotImplementedError
+        # Player names are assumed to be unique in a team, but could be
+        # duplicate across teams. So, we use team name to uniquify names.
+        m1 = {(player, info["team"]): info for player, info in player_map1.items()}
+        m2 = {(player, info["team"]): info for player, info in player_map2.items()}
+
+        for player, info in m2.items():
+            if player not in m1:
+                m1[player] = info
+
+            else:
+                stats1 = m1[player]["stats"]
+                stats2 = m2[player]["stats"]
+
+                for opponent, stats in stats2.items():
+                    if opponent not in stats1:
+                        stats1[opponent] = stats
+
+                    else:
+                        other_stats = stats1[opponent]
+                        if stats == other_stats:
+                            # NOTE: If stats are exactly same we assume they are the same match!
+                            continue
+                        else:
+                            # FIXME: Should we add up the stats?
+                            raise NotImplementedError
+
+        return m1
 
 
 def main(stats_paths):
@@ -123,7 +148,7 @@ def main(stats_paths):
 
     with open(os.path.join(DATA_DIR, "sample.json"), "w") as f:
         json.dump(
-            sorted(players_map.values(), key=lambda x: x["name"]),
+            sorted(players_map.values(), key=lambda x: (x["team"], x["name"])),
             f,
             indent=2,
             sort_keys=True,
