@@ -15,6 +15,7 @@ import Typography from "@mui/material/Typography";
 import Button from "@mui/material/Button";
 import EmojiEventsIcon from "@mui/icons-material/EmojiEvents";
 import { useNavigate } from "react-router-dom";
+import { Icon, Link } from "@mui/material";
 
 const drawerWidth = 240;
 const navItems = [
@@ -67,7 +68,7 @@ function Navbar(props) {
 		window !== undefined ? () => window().document.body : undefined;
 
 	return (
-		<Box sx={{ display: "flex" }}>
+		<Box sx={{ display: "flex", position: "relative" }}>
 			<AppBar component="nav">
 				<Toolbar>
 					<IconButton
@@ -131,9 +132,47 @@ function Navbar(props) {
 					{drawer}
 				</Drawer>
 			</Box>
-			<Box component="main" sx={{ p: 3, width: "100%" }}>
+			<Box component="main" sx={{ p: 3, width: "100%", mb: "5vh" }}>
 				<Toolbar />
 				{props.children}
+			</Box>
+			<Box
+				component="footer"
+				sx={{
+					backgroundColor: "primary.main",
+					height: "5vh",
+					width: "100vw",
+					position: "absolute",
+					bottom: 0,
+					left: 0,
+				}}
+			>
+				<Typography
+					variant="body1"
+					align="center"
+					color="white"
+					sx={{ mt: "1vh" }}
+				>
+					<Link
+						href="https://github.com/india-ultimate/fantasy"
+						target="_blank"
+						underline="none"
+						sx={{ color: "white", mr: "10px" }}
+					>
+						<IconButton
+							color="inherit"
+							component="span"
+							size="small"
+						>
+							<Icon
+								className="fab fa-github"
+								color="inherit"
+								fontSize="small"
+							></Icon>
+						</IconButton>
+					</Link>
+					Built with ❤️ in Bangalore, India
+				</Typography>
 			</Box>
 		</Box>
 	);
