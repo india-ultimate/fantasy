@@ -56,36 +56,41 @@ def compute_stats(stats_file):
 
     for _, row in goals.iterrows():
         players = set(list(row[PLAYER_COLUMNS]))
+        opponent = row["Opponent"]
 
         for player in players:
-            initialize_stats(row["Opponent"], player)
+            initialize_stats(opponent, player)
 
             if row["Line"] == "O":
-                update_stats(row["Opponent"], player, "o-line")
+                update_stats(opponent, player, "o-line")
                 if row["Event Type"] == "Offense":
-                    update_stats(row["Opponent"], player, "o-scoring-line")
+                    update_stats(opponent, player, "o-scoring-line")
 
             if row["Line"] == "D":
-                update_stats(row["Opponent"], player, "d-line")
+                update_stats(opponent, player, "d-line")
                 if row["Event Type"] == "Offense":
-                    update_stats(row["Opponent"], player, "d-scoring-line")
+                    update_stats(opponent, player, "d-scoring-line")
 
         if row["Event Type"] == "Offense":
-            update_stats(row["Opponent"], row["Receiver"], "goal")
-            update_stats(row["Opponent"], row["Passer"], "assist")
+            update_stats(opponent, row["Receiver"], "goal")
+            update_stats(opponent, row["Passer"], "assist")
 
     for _, row in DATA.iterrows():
+        opponent = row["Opponent"]
         if row["Action"] == "D":
-            initialize_stats(row["Opponent"], row["Defender"])
-            update_stats(row["Opponent"], row["Defender"], "defense")
+            player = row["Defender"]
+            initialize_stats(opponent, player)
+            update_stats(opponent, player, "defense")
 
         if row["Action"] == "Throwaway" and row["Event Type"] == "Offense":
-            initialize_stats(row["Opponent"], row["Passer"])
-            update_stats(row["Opponent"], row["Passer"], "throwaway")
+            player = row["Passer"]
+            initialize_stats(opponent, player)
+            update_stats(opponent, player, "throwaway")
 
         if row["Action"] == "Drop" and row["Event Type"] == "Offense":
-            initialize_stats(row["Opponent"], row["Receiver"])
-            update_stats(row["Opponent"], row["Receiver"], "drop")
+            player = row["Receiver"]
+            initialize_stats(opponent, player)
+            update_stats(opponent, player, "drop")
 
     for player in players_map:
         fantasy_points = sum(
