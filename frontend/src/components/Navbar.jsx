@@ -46,7 +46,7 @@ function Navbar(props) {
 					letterSpacing: ".3rem",
 				}}
 			>
-				FANTASY LEAGUE
+				Ultimate Fantasy League
 			</Typography>
 			<Divider />
 			<List>
@@ -87,17 +87,14 @@ function Navbar(props) {
 						component="a"
 						href="/"
 						sx={{
-							mr: 2,
 							flexGrow: 1,
 							display: { xs: "block" },
-							fontFamily: "monospace",
-							fontWeight: 700,
-							letterSpacing: ".3rem",
+							fontWeight: 600,
 							color: "inherit",
 							textDecoration: "none",
 						}}
 					>
-						FANTASY LEAGUE
+						Ultimate Fantasy League
 					</Typography>
 					<Box sx={{ display: { xs: "none", sm: "block" } }}>
 						{navItems.map((item) => (
