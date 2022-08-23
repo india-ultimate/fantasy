@@ -158,9 +158,9 @@ function Navbar(props) {
 						target="_blank"
 						sx={{ color: "white" }}
 					>
-					Built
-					</Link>
-					{" "} with ❤️ in Bangalore, India
+						Built
+					</Link>{" "}
+					with ❤️ in Bangalore, India
 				</Typography>
 			</Box>
 		</Box>
