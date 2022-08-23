@@ -1,13 +1,11 @@
 from functools import reduce
-from glob import glob
 import json
-import os
 from pathlib import Path
 
 import pandas as pd
 
 ROOT_DIR = Path(__file__).parent.parent.absolute()
-DATA_DIR = os.path.join(ROOT_DIR, "data")
+DATA_DIR = ROOT_DIR.joinpath("data")
 POINTS = {
     "assist": 3,
     "goal": 3,
@@ -24,8 +22,7 @@ PLAYER_COLUMNS = ["Player {}".format(i) for i in range(7)]
 
 
 def get_team_name(stats_file):
-    filename = os.path.basename(stats_file)
-    return filename.split("-", 1)[0]
+    return Path(stats_file).name.split("-", 1)[0]
 
 
 def compute_stats(stats_file):
@@ -141,12 +138,12 @@ def merge_stats(player_map1, player_map2=None):
 
 def main(stats_paths):
     if not stats_paths:
-        stats_paths = glob(f"{DATA_DIR}/*stats*.csv")
+        stats_paths = DATA_DIR.glob(f"*stats*.csv")
 
     players_maps = [compute_stats(path) for path in stats_paths]
     players_map = reduce(merge_stats, players_maps)
 
-    with open(os.path.join(DATA_DIR, "sample.json"), "w") as f:
+    with open(DATA_DIR.joinpath("sample.json"), "w") as f:
         json.dump(
             sorted(players_map.values(), key=lambda x: (x["team"], x["name"])),
             f,
