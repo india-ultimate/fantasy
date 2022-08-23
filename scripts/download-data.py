@@ -9,6 +9,7 @@ DATA_DIR = ROOT_DIR.joinpath("data")
 
 
 def get_fantasy_teams_csv(sheet_id):
+    print("Downloading Fantasy Teams from Google Spreadsheet")
     url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv"
     response = requests.get(url)
     path = DATA_DIR.joinpath("fantasy_teams.csv")
@@ -25,6 +26,7 @@ def get_stats_csvs(team_ids):
 
     for team_id in team_ids:
         url = f"https://www.ultianalytics.com/rest/view/team/{team_id}/stats/export"
+        print(f"Downloading data from {url}")
         response = requests.get(url)
         header = response.headers.get("Content-Disposition", "")
         _, headers = cgi.parse_header(header)
