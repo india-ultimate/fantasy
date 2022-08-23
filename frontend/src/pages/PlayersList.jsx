@@ -21,7 +21,7 @@ import {
 } from "@mui/material";
 import React, { useEffect, useState } from "react";
 import Navbar from "../components/Navbar";
-import data from "../data/players_sample.json";
+import data from "../data/players.json";
 
 const PlayersList = () => {
 	const [team, setTeam] = useState("all");
@@ -47,7 +47,8 @@ const PlayersList = () => {
 			.filter(
 				(p) =>
 					(p["gender"] === "Male" && male) ||
-					(p["gender"] === "Female" && female)
+			                (p["gender"] === "Female" && female) ||
+                                        (male && female)
 			)
 			.sort((a, b) => b["fantasy-points"] - a["fantasy-points"]);
 		setPlayers(newPlayers);
