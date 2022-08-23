@@ -34,6 +34,7 @@ def get_stats_csvs(team_ids):
         _, headers = cgi.parse_header(header)
         filename = headers.get("filename", "")
         name, ext = os.path.splitext(filename)
+        # FIXME: May need to add spaces in team names to match with actual names
         filename = f"{name}-{team_id}{ext}"
         with open(DATA_DIR.joinpath(filename), "w") as f:
             f.write(response.text)
