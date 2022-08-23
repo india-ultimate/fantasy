@@ -139,7 +139,7 @@ def main(stats_paths):
     players_maps = [compute_stats(path) for path in stats_paths]
     players_map = reduce(merge_stats, players_maps)
 
-    with open(DATA_DIR.joinpath("sample.json"), "w") as f:
+    with open(DATA_DIR.joinpath("players.json"), "w") as f:
         json.dump(
             sorted(players_map.values(), key=lambda x: (x["team"], x["name"])),
             f,
