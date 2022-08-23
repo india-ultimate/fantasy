@@ -1,3 +1,4 @@
+from functools import reduce
 import json
 import os
 from pathlib import Path
@@ -97,15 +98,18 @@ def compute_stats(stats_file):
     return players_map
 
 
-if __name__ == "__main__":
-    import argparse
+def merge_stats(player_maps):
+    if len(player_maps) == 1:
+        return player_maps[0]
+    else:
+        # FIXME: Add logic to merge two player maps from different CSVs
+        raise NotImplementedError
 
-    parser = argparse.ArgumentParser()
-    parser.add_argument("stats", help="Path to CSV containing stats")
 
-    args = parser.parse_args()
+def main(stats_paths):
+    players_maps = [compute_stats(path) for path in stats_paths]
+    players_map = reduce(merge_stats, players_maps)
 
-    players_map = compute_stats(args.stats)
     with open(os.path.join(DATA_DIR, "sample.json"), "w") as f:
         json.dump(
             sorted(players_map.values(), key=lambda x: x["name"]),
@@ -113,3 +117,12 @@ if __name__ == "__main__":
             indent=2,
             sort_keys=True,
         )
+
+
+if __name__ == "__main__":
+    import argparse
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument("stats", help="Path to CSV containing stats", nargs="*")
+    args = parser.parse_args()
+    main(args.stats)
