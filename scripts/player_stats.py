@@ -1,113 +1,161 @@
+from functools import reduce
 import json
-import os
-from os.path import abspath, dirname, exists, join
 from pathlib import Path
+
 import pandas as pd
 
-# TODO: Get Team name when running this script
-TEAM_NAME = "BPHC Ultimate"
-TOURNAMENT = "Regionals"
+ROOT_DIR = Path(__file__).parent.parent.absolute()
+DATA_DIR = ROOT_DIR.joinpath("data")
+POINTS = {
+    "assist": 3,
+    "goal": 3,
+    "throwaway": -2,
+    "drop": -2,
+    "o-line": 0.5,
+    "d-line": 0.5,
+    "o-scoring-line": 1,
+    "d-scoring-line": 2,
+    "defense": 5,
+    "block": 5,
+}
+PLAYER_COLUMNS = ["Player {}".format(i) for i in range(7)]
 
-# Get File Paths
-HERE = dirname(abspath(__file__))
-ROOT_DIR = Path(HERE).parent.absolute()
-STATS_FILE = join(ROOT_DIR, 'data', 'stats.csv')
 
-# Read CSV
-DATA = pd.read_csv(STATS_FILE)
+def get_team_name(stats_file):
+    return Path(stats_file).name.split("-", 1)[0]
 
-# Create Players Dict
-players_map = dict()
 
-# Iterate through all the players and add them in the player's dict
-for i in range(7):
-    for player_name in DATA["Player " + str(i)]:
-        players_map[player_name] = {
-            "name": player_name,
+def compute_stats(stats_file):
+    DATA = pd.read_csv(stats_file)
+    team_name = get_team_name(stats_file)
+    names_columns = PLAYER_COLUMNS + ["Passer", "Receiver"]
+    player_names = set(DATA[names_columns].fillna("Anonymous").values.flatten())
+    players_map = {
+        name: {
+            "name": name,
             "gender": "-",
             "jersey": "-",
-            "team": TEAM_NAME,
+            "team": team_name,
             "stats": dict(),
             "fantasy-points": 0,
         }
+        for name in player_names
+    }
 
-goals = DATA[(DATA['Tournamemnt'] == TOURNAMENT) &
-             (DATA['Action'] == 'Goal')]
+    goals = DATA[DATA["Action"] == "Goal"]
+
+    def initialize_stats(opponent, player):
+        if opponent not in players_map[player]["stats"]:
+            zeros = {key: 0 for key in POINTS.keys()}
+            players_map[player]["stats"][opponent] = zeros
+
+    def update_stats(opponent, player, action):
+        players_map[player]["stats"][opponent][action] += 1
+
+    for _, row in goals.iterrows():
+        players = set(list(row[PLAYER_COLUMNS].fillna("Anonymous")))
+        opponent = row["Opponent"]
+
+        for player in players:
+            initialize_stats(opponent, player)
+
+            if row["Line"] == "O":
+                update_stats(opponent, player, "o-line")
+                if row["Event Type"] == "Offense":
+                    update_stats(opponent, player, "o-scoring-line")
+
+            if row["Line"] == "D":
+                update_stats(opponent, player, "d-line")
+                if row["Event Type"] == "Offense":
+                    update_stats(opponent, player, "d-scoring-line")
+
+        if row["Event Type"] == "Offense":
+            update_stats(opponent, row["Receiver"], "goal")
+            update_stats(opponent, row["Passer"], "assist")
+
+    for _, row in DATA.iterrows():
+        opponent = row["Opponent"]
+        if row["Action"] == "D":
+            player = row["Defender"]
+            initialize_stats(opponent, player)
+            update_stats(opponent, player, "defense")
+
+        if row["Action"] == "Throwaway" and row["Event Type"] == "Offense":
+            player = row["Passer"]
+            initialize_stats(opponent, player)
+            update_stats(opponent, player, "throwaway")
+
+        if row["Action"] == "Drop" and row["Event Type"] == "Offense":
+            player = row["Receiver"]
+            initialize_stats(opponent, player)
+            update_stats(opponent, player, "drop")
+
+    for player in players_map:
+        fantasy_points = sum(
+            [
+                sum(count * POINTS[stat] for stat, count in stats.items())
+                for stats in players_map[player]["stats"].values()
+            ]
+        )
+        players_map[player]["fantasy-points"] = fantasy_points
+
+    return players_map
 
 
-def initialize_stats(opponent, player):
-    if opponent not in players_map[player]['stats']:
-        players_map[player]['stats'][opponent] = dict({
-            "assist": 0,
-            "goal": 0,
-            "throwaway": 0,
-            "drop": 0,
-            "o-line": 0,
-            "d-line": 0,
-            "o-scoring-line": 0,
-            "d-scoring-line": 0,
-            "defense": 0,
-            "block": 0
-        })
+def merge_stats(player_map1, player_map2=None):
+    if player_map2 is None:
+        return player_map1
+
+    else:
+        # Player names are assumed to be unique in a team, but could be
+        # duplicate across teams. So, we use team name to uniquify names.
+        m1 = {(player, info["team"]): info for player, info in player_map1.items()}
+        m2 = {(player, info["team"]): info for player, info in player_map2.items()}
+
+        for player, info in m2.items():
+            if player not in m1:
+                m1[player] = info
+
+            else:
+                stats1 = m1[player]["stats"]
+                stats2 = m2[player]["stats"]
+
+                for opponent, stats in stats2.items():
+                    if opponent not in stats1:
+                        stats1[opponent] = stats
+
+                    else:
+                        other_stats = stats1[opponent]
+                        if stats == other_stats:
+                            # NOTE: If stats are exactly same we assume they are the same match!
+                            continue
+                        else:
+                            # FIXME: Should we add up the stats?
+                            raise NotImplementedError
+
+        return m1
 
 
-def update_stats(opponent, player, action):
-    players_map[player]['stats'][opponent][action] += 1
+def main(stats_paths):
+    if not stats_paths:
+        stats_paths = DATA_DIR.glob(f"*stats*.csv")
+
+    players_maps = [compute_stats(path) for path in stats_paths]
+    players_map = reduce(merge_stats, players_maps)
+
+    with open(DATA_DIR.joinpath("sample.json"), "w") as f:
+        json.dump(
+            sorted(players_map.values(), key=lambda x: (x["team"], x["name"])),
+            f,
+            indent=2,
+            sort_keys=True,
+        )
 
 
-for _, row in goals.iterrows():
-    player_columns = ['Player {}'.format(i) for i in range(7)]
-    players = set(list(row[player_columns]))
+if __name__ == "__main__":
+    import argparse
 
-    for player in players:
-        initialize_stats(row['Opponent'], player)
-
-        if row["Line"] == "O":
-            update_stats(row['Opponent'], player, "o-line")
-            if row["Event Type"] == "Offense":
-                update_stats(row['Opponent'], player, "o-scoring-line")
-
-        if row["Line"] == "D":
-            update_stats(row['Opponent'], player, "d-line")
-            if row["Event Type"] == "Offense":
-                update_stats(row['Opponent'], player, "d-scoring-line")
-
-    if row["Event Type"] == "Offense":
-        update_stats(row['Opponent'], row['Receiver'], "goal")
-        update_stats(row['Opponent'], row['Passer'], "assist")
-
-for _, row in DATA.iterrows():
-    if row["Action"] == "D":
-        initialize_stats(row["Opponent"], row["Defender"])
-        update_stats(row["Opponent"], row["Defender"], "defense")
-
-    if row["Action"] == "Throwaway" and row["Event Type"] == "Offense":
-        initialize_stats(row["Opponent"], row["Passer"])
-        update_stats(row["Opponent"], row["Passer"], "throwaway")
-
-    if row["Action"] == "Drop" and row["Event Type"] == "Offense":
-        initialize_stats(row["Opponent"], row["Receiver"])
-        update_stats(row["Opponent"], row["Receiver"], "drop")
-
-for player in players_map:
-    fantasy_points = 0
-
-    for opponent in players_map[player]['stats']:
-        stat = players_map[player]['stats'][opponent]
-
-        fantasy_points += stat["goal"] * 3
-        fantasy_points += stat["assist"] * 3
-        fantasy_points += stat["throwaway"] * (-2)
-        fantasy_points += stat["drop"] * (-2)
-        fantasy_points += stat["defense"] * 5
-        fantasy_points += stat["block"] * 5
-        fantasy_points += stat["o-line"] * 0.5
-        fantasy_points += stat["d-line"] * 0.5
-        fantasy_points += stat["o-scoring-line"] * 1
-        fantasy_points += stat["d-scoring-line"] * 2
-
-    players_map[player]['fantasy-points'] = fantasy_points
-
-players_list = list(players_map.values())
-players_list_json = json.dumps(players_list)
-print(players_list_json)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("stats", help="Path to CSV containing stats", nargs="*")
+    args = parser.parse_args()
+    main(args.stats)
