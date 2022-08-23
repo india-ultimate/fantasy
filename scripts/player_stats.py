@@ -31,7 +31,8 @@ def get_team_name(stats_file):
 def compute_stats(stats_file):
     DATA = pd.read_csv(stats_file)
     team_name = get_team_name(stats_file)
-    player_names = set(DATA[PLAYER_COLUMNS].values.flatten())
+    names_columns = PLAYER_COLUMNS + ["Passer", "Receiver"]
+    player_names = set(DATA[names_columns].fillna("Anonymous").values.flatten())
     players_map = {
         name: {
             "name": name,
@@ -55,7 +56,7 @@ def compute_stats(stats_file):
         players_map[player]["stats"][opponent][action] += 1
 
     for _, row in goals.iterrows():
-        players = set(list(row[PLAYER_COLUMNS]))
+        players = set(list(row[PLAYER_COLUMNS].fillna("Anonymous")))
         opponent = row["Opponent"]
 
         for player in players:
