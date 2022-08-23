@@ -156,22 +156,11 @@ function Navbar(props) {
 					<Link
 						href="https://github.com/india-ultimate/fantasy"
 						target="_blank"
-						underline="none"
-						sx={{ color: "white", mr: "10px" }}
+						sx={{ color: "white" }}
 					>
-						<IconButton
-							color="inherit"
-							component="span"
-							size="small"
-						>
-							<Icon
-								className="fab fa-github"
-								color="inherit"
-								fontSize="small"
-							></Icon>
-						</IconButton>
+					Built
 					</Link>
-					Built with ❤️ in Bangalore, India
+					{" "} with ❤️ in Bangalore, India
 				</Typography>
 			</Box>
 		</Box>
