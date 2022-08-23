@@ -1,5 +1,270 @@
 [
   {
+    "name": "ASR",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Aatish",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Abhishek Gosavi",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Aditya",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Aditya Dubey",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Alex",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Amberish",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Aniketh MJ",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Anirudh",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Anish Paralikar",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Anshul Agarwal",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Arvind (Birdie)",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Ashish Parmar",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Athir",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Bhavya",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Bhavya jain",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Dickson George P",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Divakar Rai",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Farhan",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Gopinath",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Hari",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Joker",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "KK",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Karan Mantri",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Karan sharma",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Kunal",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Kush Kothari",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Maitreyi A",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Naren zala",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Nishtha Goyal",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Om Gandhi",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Panvi",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Parmesh",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Parth Jain",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Pranav",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Ramesh",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Rohit",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "SANDEEP KANNOUJIA (SANDY)",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Samyuktha",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Sanjeev",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Sarang",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Saumya",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Shubham Anant More",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Sriraam VG",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Stephen",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Sudharshana MVL",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Sumit",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Tarun Karthik",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Tharakai",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Vaishnavi",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Vennela",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Vikas Chauhan",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Vishwaa Sekar",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
     "name": "Abhishek",
     "valid_team": false,
     "fantasy_score": 0
@@ -112,256 +377,6 @@
   {
     "name": "Yuvraj Jain",
     "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "ASR",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Aatish",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Abhishek Gosavi",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Aditya",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Aditya Dubey",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Alex",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Amberish",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Aniketh MJ",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Anirudh",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Anish Paralikar",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Anshul Agarwal",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Arvind (Birdie)",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Ashish Parmar",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Athir",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Bhavya",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Bhavya jain",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Dickson George P",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Divakar Rai",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Farhan",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Gopinath",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Joker",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "KK",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Karan Mantri",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Karan sharma",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Kunal",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Kush Kothari",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Maitreyi A",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Naren zala",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Nishtha Goyal",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Om Gandhi",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Panvi",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Parmesh",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Parth Jain",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Pranav",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Ramesh",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Rohit",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "SANDEEP KANNOUJIA (SANDY)",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Sanjeev",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Sarang",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Saumya",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Shubham Anant More",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Sriraam VG",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Stephen",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Sudharshana MVL",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Sumit",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Tarun Karthik",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Tharakai",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Vaishnavi",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Vennela",
-    "valid_team": true,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Vikas Chauhan",
-    "valid_team": true,
     "fantasy_score": 0
   }
 ]
