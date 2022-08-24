@@ -100,6 +100,11 @@
     "fantasy_score": 0
   },
   {
+    "name": "Goundla Mamatha",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
     "name": "Hari",
     "valid_team": true,
     "fantasy_score": 0
@@ -181,6 +186,11 @@
   },
   {
     "name": "Rohit",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Rutuja Chavan",
     "valid_team": true,
     "fantasy_score": 0
   },
@@ -356,6 +366,11 @@
   },
   {
     "name": "Siva Kumar - Blitzkrieg",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Smrithi Shankar",
     "valid_team": false,
     "fantasy_score": 0
   },
