@@ -23,5 +23,5 @@ jobs:
       - env:
           GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
           ULTI_ANALYTICS_TEAM_IDS: ${{ secrets.ULTI_ANALYTICS_TEAM_IDS }}
-        run: scripts/update-data.sh
+        run: scripts/update-data.sh push
       - run: scripts/deploy-site.sh

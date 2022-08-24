@@ -1,115 +1,5 @@
 [
   {
-    "name": "Abhishek",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Amberish (evil)",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Arjun",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Arya",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Athir",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Harish",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Ishav Punia",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Karan Mantri",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Kush Kothari",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Mikhail Nazareth",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Moses",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Narayani",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Naveen",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Neha bharti",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Parth Jain",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Poonam",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Shubham Anant More",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Siva Kumar - Blitzkrieg",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Sravani Garapati",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Swapnil",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Tejhas Jagadish",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
-    "name": "Yuvraj Jain",
-    "valid_team": false,
-    "fantasy_score": 0
-  },
-  {
     "name": "ASR",
     "valid_team": true,
     "fantasy_score": 0
@@ -125,12 +15,22 @@
     "fantasy_score": 0
   },
   {
+    "name": "Aditya",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
     "name": "Aditya Dubey",
     "valid_team": true,
     "fantasy_score": 0
   },
   {
     "name": "Alex",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Amberish",
     "valid_team": true,
     "fantasy_score": 0
   },
@@ -196,6 +96,16 @@
   },
   {
     "name": "Gopinath",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Goundla Mamatha",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Hari",
     "valid_team": true,
     "fantasy_score": 0
   },
@@ -280,7 +190,17 @@
     "fantasy_score": 0
   },
   {
+    "name": "Rutuja Chavan",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
     "name": "SANDEEP KANNOUJIA (SANDY)",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Samyuktha",
     "valid_team": true,
     "fantasy_score": 0
   },
@@ -347,6 +267,131 @@
   {
     "name": "Vikas Chauhan",
     "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Vishwaa Sekar",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Abhishek",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Amberish (evil)",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Arjun",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Arya",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Athir",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Harish",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Ishav Punia",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Karan Mantri",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Kush Kothari",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Mikhail Nazareth",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Moses",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Narayani",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Naveen",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Neha bharti",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Parth Jain",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Poonam",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Samhita",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Shubham Anant More",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Siva Kumar - Blitzkrieg",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Smrithi Shankar",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Sravani Garapati",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Swapnil",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Tejhas Jagadish",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Yuvraj Jain",
+    "valid_team": false,
     "fantasy_score": 0
   }
 ]

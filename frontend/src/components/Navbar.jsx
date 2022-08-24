@@ -46,7 +46,7 @@ function Navbar(props) {
 					letterSpacing: ".3rem",
 				}}
 			>
-				FANTASY LEAGUE
+				Ultimate Fantasy League
 			</Typography>
 			<Divider />
 			<List>
@@ -80,24 +80,24 @@ function Navbar(props) {
 					>
 						<MenuIcon />
 					</IconButton>
-					<EmojiEventsIcon sx={{ display: { xs: "flex" }, mr: 1 }} />
+					<img
+						style={{ maxHeight: "20px", margin: "0 0.25em 0 0" }}
+						src="logo192.png"
+					/>
 					<Typography
 						variant="h6"
 						noWrap
 						component="a"
 						href="/"
 						sx={{
-							mr: 2,
 							flexGrow: 1,
 							display: { xs: "block" },
-							fontFamily: "monospace",
-							fontWeight: 700,
-							letterSpacing: ".3rem",
+							fontWeight: 600,
 							color: "inherit",
 							textDecoration: "none",
 						}}
 					>
-						FANTASY LEAGUE
+						Ultimate Fantasy League
 					</Typography>
 					<Box sx={{ display: { xs: "none", sm: "block" } }}>
 						{navItems.map((item) => (
