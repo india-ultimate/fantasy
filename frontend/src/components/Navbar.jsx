@@ -80,7 +80,10 @@ function Navbar(props) {
 					>
 						<MenuIcon />
 					</IconButton>
-					<EmojiEventsIcon sx={{ display: { xs: "flex" }, mr: 1 }} />
+					<img
+						style={{ maxHeight: "20px", margin: "0 0.25em 0 0" }}
+						src="logo192.png"
+					/>
 					<Typography
 						variant="h6"
 						noWrap
