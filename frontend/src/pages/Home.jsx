@@ -14,50 +14,6 @@ const Home = () => {
 					spacing={0}
 					alignItems="center"
 					justifyContent="center"
-					style={{ height: "90vh", width: "100%" }}
-				>
-					<Grid item xs={12} sx={{ px: "10px" }}>
-						<Typography
-							sx={{
-								font: "italic 5vw Poppins, sans-serif",
-							}}
-							variant="h1"
-							component="h1"
-							align="center"
-						>
-							The Ultimate
-						</Typography>
-						<Typography
-							sx={{
-								backgroundImage:
-									"-webkit-linear-gradient(60deg, #E21143, #FFB03A)",
-								backgroundClip: "text",
-								color: "transparent",
-								font: "bold 10vw Poppins, sans-serif",
-							}}
-							variant="h1"
-							component="h1"
-							align="center"
-						>
-							Fantasy League
-						</Typography>
-						<div class="mouse_scroll">
-							<div class="mouse">
-								<div class="wheel"></div>
-							</div>
-							<div>
-								<span class="m_scroll_arrows unu"></span>
-								<span class="m_scroll_arrows doi"></span>
-								<span class="m_scroll_arrows trei"></span>
-							</div>
-						</div>
-					</Grid>
-				</Grid>
-				<Grid
-					container
-					spacing={0}
-					alignItems="center"
-					justifyContent="center"
 					style={{ height: "60vh", width: "100%" }}
 				>
 					<Grid item xs={12}>
@@ -165,6 +121,30 @@ const Home = () => {
 							</Button>
 						</Link>
 					</Grid>
+				</Grid>
+				<Grid
+					container
+					spacing={0}
+					alignItems="center"
+					justifyContent="center"
+					style={{ height: "40vw", width: "100%" }}
+				>
+					<Grid item xs={12} sx={{ px: "10px" }}>
+						<Typography
+							variant="h1"
+							component="h1"
+							align="center"
+							sx={{
+								font: "5vh caption",
+							}}
+						>
+							Sponsors
+						</Typography>
+					</Grid>
+					<img
+						style={{ width: "90%" }}
+						src="https://res.cloudinary.com/india-ultimate/image/upload/v1661335497/Ultimate%20Fantasy%20League/sponsor-banner.png"
+					/>
 				</Grid>
 			</Navbar>
 		</div>
