@@ -1,6 +1,7 @@
 import { Button, Link, Grid, Typography } from "@mui/material";
 import React from "react";
 import Navbar from "../components/Navbar";
+import TeamList from "../components/TeamList";
 import KeyboardDoubleArrowRightIcon from "@mui/icons-material/KeyboardDoubleArrowRight";
 import { useNavigate } from "react-router-dom";
 
@@ -9,6 +10,7 @@ const Home = () => {
 	return (
 		<div>
 			<Navbar>
+				<TeamList />
 				<Grid
 					container
 					spacing={0}
