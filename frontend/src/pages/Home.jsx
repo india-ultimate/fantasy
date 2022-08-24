@@ -143,7 +143,7 @@ const Home = () => {
 					</Grid>
 					<img
 						style={{ width: "90%" }}
-						src="https://res.cloudinary.com/india-ultimate/image/upload/v1661335497/Ultimate%20Fantasy%20League/sponsor-banner.png"
+						src="https://res.cloudinary.com/india-ultimate/image/upload/v1661335497/ultimate-fantasy-league/sponsor-logos.png"
 					/>
 				</Grid>
 			</Navbar>
