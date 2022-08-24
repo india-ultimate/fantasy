@@ -7,6 +7,7 @@ import {
 	FormControlLabel,
 	FormGroup,
 	Grid,
+	IconButton,
 	InputLabel,
 	MenuItem,
 	Paper,
@@ -22,6 +23,7 @@ import {
 import React, { useEffect, useState } from "react";
 import Navbar from "../components/Navbar";
 import data from "../data/players.json";
+import InfoOutlinedIcon from "@mui/icons-material/InfoOutlined";
 
 const PlayersList = () => {
 	const [team, setTeam] = useState("all");
@@ -47,8 +49,8 @@ const PlayersList = () => {
 			.filter(
 				(p) =>
 					(p["gender"] === "Male" && male) ||
-			                (p["gender"] === "Female" && female) ||
-                                        (male && female)
+					(p["gender"] === "Female" && female) ||
+					(male && female)
 			)
 			.sort((a, b) => b["fantasy-points"] - a["fantasy-points"]);
 		setPlayers(newPlayers);
@@ -124,6 +126,9 @@ const PlayersList = () => {
 										<TableCell align="center">
 											Points Scored
 										</TableCell>
+										<TableCell align="right">
+											Stats
+										</TableCell>
 									</TableRow>
 								</TableHead>
 								<TableBody>
@@ -157,6 +162,11 @@ const PlayersList = () => {
 											</TableCell>
 											<TableCell align="center">
 												{player["fantasy-points"]}
+											</TableCell>
+											<TableCell align="right">
+												<IconButton color="primary">
+													<InfoOutlinedIcon />
+												</IconButton>
 											</TableCell>
 										</TableRow>
 									))}

@@ -132,7 +132,10 @@ function Navbar(props) {
 					{drawer}
 				</Drawer>
 			</Box>
-			<Box component="main" sx={{ p: 3, width: "100%", mb: "5vh" }}>
+			<Box
+				component="main"
+				sx={{ p: 3, width: "100%", mb: "5vh", minHeight: "90vh" }}
+			>
 				<Toolbar />
 				{props.children}
 			</Box>
@@ -158,9 +161,9 @@ function Navbar(props) {
 						target="_blank"
 						sx={{ color: "white" }}
 					>
-					Built
-					</Link>
-					{" "} with ❤️ in Bangalore, India
+						Built
+					</Link>{" "}
+					with ❤️ in Bangalore, India
 				</Typography>
 			</Box>
 		</Box>
