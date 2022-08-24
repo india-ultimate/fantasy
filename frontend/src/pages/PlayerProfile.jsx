@@ -15,96 +15,22 @@ import {
 	TableRow,
 	Typography,
 } from "@mui/material";
-import React, { useState } from "react";
-import { useNavigate } from "react-router-dom";
+import React, { useEffect, useState } from "react";
+import { useNavigate, useParams } from "react-router-dom";
 import Navbar from "../components/Navbar";
 import ArrowBackIosNewIcon from "@mui/icons-material/ArrowBackIosNew";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import { displayNames } from "../utils/fantasyCommons";
+import data from "../data/players.json";
 
 const PlayerProfile = () => {
-	const [player, setPlayer] = useState({
-		name: "Jonathan Samuel",
-		jersey: "3",
-		team: "Learning 2 Fly",
-		gender: "Male",
-		"fantasy-points": 297.5,
-		"points-distribution": {
-			assist: 10,
-			block: 0,
-			"d-line": 4,
-			"d-scoring-line": 1,
-			defense: 0,
-			drop: 0,
-			goal: 4,
-			"o-line": 52,
-			"o-scoring-line": 40,
-			throwaway: -7,
-		},
-		stats: {
-			"Austin Sol": {
-				assist: 10,
-				block: 0,
-				"d-line": 4,
-				"d-scoring-line": 1,
-				defense: 0,
-				drop: 0,
-				goal: 4,
-				"o-line": 52,
-				"o-scoring-line": 40,
-				throwaway: 7,
-			},
-			"Dallas Roughnecks": {
-				assist: 4,
-				block: 0,
-				"d-line": 0,
-				"d-scoring-line": 0,
-				defense: 0,
-				drop: 1,
-				goal: 3,
-				"o-line": 29,
-				"o-scoring-line": 24,
-				throwaway: 3,
-			},
-			"Indianapolis Alleycats": {
-				assist: 5,
-				block: 0,
-				"d-line": 0,
-				"d-scoring-line": 0,
-				defense: 0,
-				drop: 0,
-				goal: 2,
-				"o-line": 22,
-				"o-scoring-line": 20,
-				throwaway: 1,
-			},
-			"Raleigh Flyers": {
-				assist: 3,
-				block: 0,
-				"d-line": 15,
-				"d-scoring-line": 3,
-				defense: 2,
-				drop: 3,
-				goal: 2,
-				"o-line": 36,
-				"o-scoring-line": 25,
-				throwaway: 4,
-			},
-			"Tampa Bay Cannons": {
-				assist: 2,
-				block: 0,
-				"d-line": 11,
-				"d-scoring-line": 3,
-				defense: 0,
-				drop: 1,
-				goal: 1,
-				"o-line": 16,
-				"o-scoring-line": 12,
-				throwaway: 4,
-			},
-		},
-	});
+	let { slug } = useParams();
+	const [player, setPlayer] = useState();
 	const navigate = useNavigate();
+
+	useEffect(() => {
+		setPlayer(data.filter((p) => p.slug === slug)[0] || null);
+	}, [slug]);
 
 	return (
 		<div>
@@ -117,22 +43,26 @@ const PlayerProfile = () => {
 									variant="text"
 									startIcon={<ArrowBackIosNewIcon />}
 									size="small"
+									onClick={() => navigate("/players")}
 								>
 									Go Back
 								</Button>
 							</Grid>
-							<Box
-								component="img"
-								sx={{
-									height: { xs: 150, md: 250 },
-									width: { xs: 150, md: 250 },
-									maxHeight: { xs: 150, md: 250 },
-									maxWidth: { xs: 150, md: 250 },
-									borderRadius: "50%",
-								}}
-								alt={player.name}
-								src="https://avatars.githubusercontent.com/u/67282400?v=4"
-							/>
+							{player.img && (
+								<Box
+									component="img"
+									sx={{
+										height: { xs: 150, md: 250 },
+										width: { xs: 150, md: 250 },
+										maxHeight: { xs: 150, md: 250 },
+										maxWidth: { xs: 150, md: 250 },
+										borderRadius: "50%",
+									}}
+									alt={player.name}
+									src={player.img}
+								/>
+							)}
+
 							<Grid item xs={12}>
 								<Typography
 									sx={{

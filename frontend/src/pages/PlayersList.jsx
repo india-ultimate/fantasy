@@ -24,6 +24,7 @@ import React, { useEffect, useState } from "react";
 import Navbar from "../components/Navbar";
 import data from "../data/players.json";
 import InfoOutlinedIcon from "@mui/icons-material/InfoOutlined";
+import { useNavigate } from "react-router-dom";
 
 const PlayersList = () => {
 	const [team, setTeam] = useState("all");
@@ -31,6 +32,7 @@ const PlayersList = () => {
 	const [players, setPlayers] = useState([]);
 	const [male, setMale] = useState(true);
 	const [female, setFemale] = useState(true);
+	const navigate = useNavigate();
 
 	useEffect(() => {
 		let teamsMap = new Map();
@@ -164,7 +166,15 @@ const PlayersList = () => {
 												{player["fantasy-points"]}
 											</TableCell>
 											<TableCell align="right">
-												<IconButton color="primary">
+												<IconButton
+													color="primary"
+													onClick={() =>
+														navigate(
+															"/player/" +
+																player.slug
+														)
+													}
+												>
 													<InfoOutlinedIcon />
 												</IconButton>
 											</TableCell>
