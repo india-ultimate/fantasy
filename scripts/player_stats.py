@@ -137,7 +137,7 @@ def main(stats_paths):
         stats_paths = DATA_DIR.glob(f"*stats*.csv")
 
     players_maps = [compute_stats(path) for path in stats_paths]
-    players_map = reduce(merge_stats, players_maps)
+    players_map = reduce(merge_stats, players_maps, {})
 
     with open(DATA_DIR.joinpath("players.json"), "w") as f:
         json.dump(
