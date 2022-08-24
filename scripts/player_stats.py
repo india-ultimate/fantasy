@@ -36,7 +36,6 @@ def compute_stats(stats_file):
     player_names = set(DATA[names_columns].fillna(
         "Anonymous").values.flatten())
     slugs = generate_slugs(player_names)
-    zeros = {key: 0 for key in POINTS.keys()}
     players_map = {
         name: {
             "name": name,
@@ -46,7 +45,7 @@ def compute_stats(stats_file):
             "team": team_name,
             "stats": dict(),
             "fantasy-points": 0,
-            "points-distribution": zeros
+            "points-distribution": {key: 0 for key in POINTS.keys()}
         }
         for name in player_names
     }
