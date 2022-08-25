@@ -36,12 +36,17 @@ def compute_stats(stats_file):
     player_names = set(DATA[names_columns].fillna(
         "Anonymous").values.flatten())
     slugs = generate_slugs(player_names)
+    with open(DATA_DIR.joinpath("teams.json")) as f:
+        teams = json.load(f)
+        players_info = {(p["name"], p["team"]): p for p in teams}
+    default = {"gender": "-", "jersey": "-", "photo": ""}
     players_map = {
         name: {
             "name": name,
             "slug": slugs[name],
-            "gender": "-",
-            "jersey": "-",
+            "gender": players_info.get((name, team_name), default)["gender"],
+            "jersey": players_info.get((name, team_name), default)["jersey"],
+            "photo": players_info.get((name, team_name), default)["photo"],
             "team": team_name,
             "stats": dict(),
             "fantasy-points": 0,
