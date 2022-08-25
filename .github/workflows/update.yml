@@ -22,6 +22,9 @@ jobs:
           requirements: requirements.txt
       - env:
           GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
+          PLAYERS_SHEET_ID: ${{ secrets.PLAYERS_SHEET_ID }}
+          UPAI_CLIENT_ID: ${{ secrets.UPAI_CLIENT_ID }}
+          UPAI_CLIENT_SECRET: ${{ secrets.UPAI_CLIENT_SECRET }}
           ULTI_ANALYTICS_TEAM_IDS: ${{ secrets.ULTI_ANALYTICS_TEAM_IDS }}
         run: scripts/update-data.sh push
       - run: scripts/deploy-site.sh
