@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -euxo pipefail
+
 PUSH=$1
 python scripts/download-data.py
 python scripts/player_stats.py
