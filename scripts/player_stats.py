@@ -29,6 +29,21 @@ def generate_slugs(player_names):
     return {name: name.lower().strip().replace(" ", "-") for name in player_names}
 
 
+def default_player_list():
+    with open(DATA_DIR.joinpath("teams.json")) as f:
+        teams = json.load(f)
+    players_map = {p["name"]: p for p in teams}
+    player_names = set(p["name"] for p in teams)
+    slugs = generate_slugs(player_names)
+    for name, player in players_map.items():
+        player["slug"] = slugs[name]
+        player["stats"] = dict()
+        player["fantasy-points"] = 0
+        player["points-distribution"] = {key: 0 for key in POINTS.keys()}
+
+    return players_map
+
+
 def compute_stats(stats_file):
     DATA = pd.read_csv(stats_file)
     team_name = get_team_name(stats_file)
@@ -153,7 +168,7 @@ def main(stats_paths):
         stats_paths = DATA_DIR.glob(f"*stats*.csv")
 
     players_maps = [compute_stats(path) for path in stats_paths]
-    players_map = reduce(merge_stats, players_maps, {})
+    players_map = reduce(merge_stats, players_maps, default_player_list())
 
     with open(DATA_DIR.joinpath("players.json"), "w") as f:
         json.dump(
