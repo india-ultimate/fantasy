@@ -23,6 +23,10 @@ const navItems = [
 		title: "Players",
 		url: "/players",
 	},
+	{
+		title: "Leaderboard",
+		url: "/leaderboard",
+	},
 ];
 
 function Navbar(props) {
@@ -53,7 +57,9 @@ function Navbar(props) {
 				{navItems.map((item) => (
 					<ListItem key={item.title} disablePadding>
 						<ListItemButton
-							sx={{ textAlign: "center" }}
+							sx={{
+								textAlign: "center",
+							}}
 							onClick={() => navigate(item.url)}
 						>
 							<ListItemText primary={item.title} />
@@ -134,7 +140,7 @@ function Navbar(props) {
 			</Box>
 			<Box
 				component="main"
-				sx={{ p: 3, width: "100%", mb: "5vh", minHeight: "90vh" }}
+				sx={{ p: "5%", width: "90%", mb: "5vh", minHeight: "90vh" }}
 			>
 				<Toolbar />
 				{props.children}

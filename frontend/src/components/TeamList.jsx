@@ -1,5 +1,5 @@
 import { Grid } from "@mui/material";
-import teamLinks from "../data/team_logo_links.json";
+import teamLinks from "../data/teams.json";
 
 const TeamList = () => {
 	return (

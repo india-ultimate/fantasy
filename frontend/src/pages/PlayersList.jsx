@@ -132,9 +132,9 @@ const PlayersList = () => {
 									<TableRow>
 										<TableCell align="left">Name</TableCell>
 										<TableCell align="left">Team</TableCell>
-										<TableCell align="center">
+										{/* <TableCell align="center">
 											Gender
-										</TableCell>
+										</TableCell> */}
 										<TableCell align="center">
 											Fantasy Points
 										</TableCell>
@@ -145,9 +145,10 @@ const PlayersList = () => {
 										<TableRow
 											key={player.ucID}
 											sx={{
-												"&:last-child td, &:last-child th": {
-													border: 0,
-												},
+												"&:last-child td, &:last-child th":
+													{
+														border: 0,
+													},
 											}}
 										>
 											<TableCell
@@ -167,9 +168,49 @@ const PlayersList = () => {
 													}
 													component="button"
 													variant="body2"
+													color={
+														player["gender"] ===
+														"male"
+															? "primary"
+															: "secondary"
+													}
 												>
 													{player["name"]}
 												</Link>
+												{/* <Grid container spacing={2}>
+													<Grid item xs={8}>
+														<Link
+															onClick={() =>
+																navigate(
+																	"/player/" +
+																		player.slug
+																)
+															}
+															component="button"
+															variant="body2"
+														>
+															{player["name"]}
+														</Link>
+													</Grid>
+													<Grid item xs={4}>
+														<Chip
+															size="small"
+															label={
+																player[
+																	"gender"
+																][0]
+															}
+															variant="outlined"
+															color={
+																player[
+																	"gender"
+																] === "male"
+																	? "primary"
+																	: "secondary"
+															}
+														/>
+													</Grid>
+												</Grid> */}
 											</TableCell>
 											<TableCell
 												component="th"
@@ -182,14 +223,18 @@ const PlayersList = () => {
 													title={player.team}
 												/>
 											</TableCell>
-											<TableCell
+
+											<TableCell align="center">
+												{player["fantasy-points"]}
+											</TableCell>
+											{/* <TableCell
 												align="center"
 												sx={{
 													textTransform: "capitalize",
 												}}
 											>
 												<Chip
-													label={player["gender"]}
+													label={player["gender"][0]}
 													variant="outlined"
 													color={
 														player["gender"] ===
@@ -198,10 +243,7 @@ const PlayersList = () => {
 															: "secondary"
 													}
 												/>
-											</TableCell>
-											<TableCell align="center">
-												{player["fantasy-points"]}
-											</TableCell>
+											</TableCell> */}
 										</TableRow>
 									))}
 								</TableBody>
