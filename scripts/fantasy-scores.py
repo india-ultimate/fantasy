@@ -83,6 +83,7 @@ def main(teams_csv, stats_json):
                 "name": row["Enter your Name"].strip(),
                 "valid_team": valid_team,
                 "fantasy_score": fantasy_score,
+                "timestamp": row["Timestamp"],
             }
             entries.append(entry)
 

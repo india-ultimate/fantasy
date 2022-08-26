@@ -111,7 +111,10 @@ const Leaderboard = () => {
 													>
 														{player.rank}
 													</TableCell>
-													<TableCell align="center">
+													<TableCell
+														align="center"
+														title={`${player.name} — ${player.timestamp}`}
+													>
 														{player.name}
 													</TableCell>
 													<TableCell align="center">
@@ -144,7 +147,8 @@ const Leaderboard = () => {
 											<ListItem>
 												<ListItemText>
 													<Typography>
-														{player.name}
+														{player.name} &mdash;{" "}
+														{player.timestamp}
 													</Typography>
 												</ListItemText>
 											</ListItem>

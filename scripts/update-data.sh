@@ -2,7 +2,7 @@
 
 set -euxo pipefail
 
-PUSH=$1
+PUSH=${1:-}
 python scripts/download-data.py
 python scripts/player_stats.py
 python scripts/fantasy-scores.py data/fantasy_teams.csv data/players.json
