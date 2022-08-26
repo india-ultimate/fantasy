@@ -92,7 +92,9 @@ const PlayersList = () => {
 							>
 								<MenuItem value={"all"}>All Teams</MenuItem>
 								{teams.map((name) => (
-									<MenuItem value={name}>{name}</MenuItem>
+									<MenuItem key={name} value={name}>
+										{name}
+									</MenuItem>
 								))}
 							</Select>
 						</FormControl>
@@ -136,7 +138,7 @@ const PlayersList = () => {
 								<TableBody>
 									{players.map((player) => (
 										<TableRow
-											key={1}
+											key={player.ucID}
 											sx={{
 												"&:last-child td, &:last-child th": {
 													border: 0,
