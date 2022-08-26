@@ -531,6 +531,29 @@
   {
     "fantasy-points": 0,
     "gender": "male",
+    "jersey": "11",
+    "name": "Altaf Shaikh",
+    "photo": "https://secure.gravatar.com/avatar/5e9bf06dd511921f0de4558869be9e8a?s=280&d=mm&r=r",
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
+    "slug": "altaf-shaikh",
+    "stats": {},
+    "team": "Gujarat Ultimate",
+    "ucID": 463732
+  },
+  {
+    "fantasy-points": 0,
+    "gender": "male",
     "jersey": "29",
     "name": "Ansh Kapadia",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/y3ewWULM.280.jpg",
@@ -573,6 +596,29 @@
     "stats": {},
     "team": "Gujarat Ultimate",
     "ucID": 464009
+  },
+  {
+    "fantasy-points": 0,
+    "gender": "male",
+    "jersey": "7",
+    "name": "Atul Parmar",
+    "photo": "https://secure.gravatar.com/avatar/ed6c26fadedfbea1fa2a44aef7c5bc90?s=280&d=mm&r=r",
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
+    "slug": "atul-parmar",
+    "stats": {},
+    "team": "Gujarat Ultimate",
+    "ucID": 739920
   },
   {
     "fantasy-points": 0,
@@ -622,10 +668,10 @@
   },
   {
     "fantasy-points": 0,
-    "gender": "female",
-    "jersey": "18",
-    "name": "KIRTIKA KHAMBHU",
-    "photo": "https://secure.gravatar.com/avatar/4a84b5c459be5fc84e65a5e023ea253d?s=280&d=mm&r=r",
+    "gender": "male",
+    "jersey": "56",
+    "name": "Jigarkumar Parmar",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/p9bbLQZz.280.jpg",
     "points-distribution": {
       "assist": 0,
       "block": 0,
@@ -638,10 +684,10 @@
       "o-scoring-line": 0,
       "throwaway": 0
     },
-    "slug": "kirtika-khambhu",
+    "slug": "jigarkumar-parmar",
     "stats": {},
     "team": "Gujarat Ultimate",
-    "ucID": 765736
+    "ucID": 463995
   },
   {
     "fantasy-points": 0,
@@ -711,6 +757,52 @@
     "stats": {},
     "team": "Gujarat Ultimate",
     "ucID": 463936
+  },
+  {
+    "fantasy-points": 0,
+    "gender": "female",
+    "jersey": "18",
+    "name": "Kirtika Khambhu",
+    "photo": "https://secure.gravatar.com/avatar/4a84b5c459be5fc84e65a5e023ea253d?s=280&d=mm&r=r",
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
+    "slug": "kirtika-khambhu",
+    "stats": {},
+    "team": "Gujarat Ultimate",
+    "ucID": 765736
+  },
+  {
+    "fantasy-points": 0,
+    "gender": "male",
+    "jersey": "19",
+    "name": "Krish Patel",
+    "photo": "https://secure.gravatar.com/avatar/86c7ccafef333d5a4771eb5d1cb6d6f5?s=280&d=mm&r=r",
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
+    "slug": "krish-patel",
+    "stats": {},
+    "team": "Gujarat Ultimate",
+    "ucID": 463752
   },
   {
     "fantasy-points": 0,
@@ -849,6 +941,52 @@
     "stats": {},
     "team": "Gujarat Ultimate",
     "ucID": 280932
+  },
+  {
+    "fantasy-points": 0,
+    "gender": "male",
+    "jersey": "84",
+    "name": "Noman Pthan",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/TPGVs559.280.jpg",
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
+    "slug": "noman-pthan",
+    "stats": {},
+    "team": "Gujarat Ultimate",
+    "ucID": 463748
+  },
+  {
+    "fantasy-points": 0,
+    "gender": "female",
+    "jersey": "17",
+    "name": "Ritika Solanki",
+    "photo": "https://secure.gravatar.com/avatar/428b64c07a20ede8d6e584bfe89b56f1?s=280&d=mm&r=r",
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
+    "slug": "ritika-solanki",
+    "stats": {},
+    "team": "Gujarat Ultimate",
+    "ucID": 464847
   },
   {
     "fantasy-points": 0,
@@ -1014,9 +1152,9 @@
   {
     "fantasy-points": 0,
     "gender": "male",
-    "jersey": "11",
-    "name": "altaf shaikh",
-    "photo": "https://secure.gravatar.com/avatar/5e9bf06dd511921f0de4558869be9e8a?s=280&d=mm&r=r",
+    "jersey": "",
+    "name": "Aaron Varghese",
+    "photo": "https://secure.gravatar.com/avatar/12df054283b23c9ff1c77ce5835d96e7?s=280&d=mm&r=r",
     "points-distribution": {
       "assist": 0,
       "block": 0,
@@ -1029,125 +1167,10 @@
       "o-scoring-line": 0,
       "throwaway": 0
     },
-    "slug": "altaf-shaikh",
+    "slug": "aaron-varghese",
     "stats": {},
-    "team": "Gujarat Ultimate",
-    "ucID": 463732
-  },
-  {
-    "fantasy-points": 0,
-    "gender": "male",
-    "jersey": "7",
-    "name": "atul parmar",
-    "photo": "https://secure.gravatar.com/avatar/ed6c26fadedfbea1fa2a44aef7c5bc90?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
-    "slug": "atul-parmar",
-    "stats": {},
-    "team": "Gujarat Ultimate",
-    "ucID": 739920
-  },
-  {
-    "fantasy-points": 0,
-    "gender": "male",
-    "jersey": "56",
-    "name": "jigarkumar parmar",
-    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/p9bbLQZz.280.jpg",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
-    "slug": "jigarkumar-parmar",
-    "stats": {},
-    "team": "Gujarat Ultimate",
-    "ucID": 463995
-  },
-  {
-    "fantasy-points": 0,
-    "gender": "male",
-    "jersey": "19",
-    "name": "krish patel",
-    "photo": "https://secure.gravatar.com/avatar/86c7ccafef333d5a4771eb5d1cb6d6f5?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
-    "slug": "krish-patel",
-    "stats": {},
-    "team": "Gujarat Ultimate",
-    "ucID": 463752
-  },
-  {
-    "fantasy-points": 0,
-    "gender": "male",
-    "jersey": "84",
-    "name": "noman pthan",
-    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/TPGVs559.280.jpg",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
-    "slug": "noman-pthan",
-    "stats": {},
-    "team": "Gujarat Ultimate",
-    "ucID": 463748
-  },
-  {
-    "fantasy-points": 0,
-    "gender": "female",
-    "jersey": "17",
-    "name": "ritika solanki",
-    "photo": "https://secure.gravatar.com/avatar/428b64c07a20ede8d6e584bfe89b56f1?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
-    "slug": "ritika-solanki",
-    "stats": {},
-    "team": "Gujarat Ultimate",
-    "ucID": 464847
+    "team": "Karnataka State",
+    "ucID": 878650
   },
   {
     "fantasy-points": 0,
@@ -1792,29 +1815,6 @@
     "stats": {},
     "team": "Karnataka State",
     "ucID": 684256
-  },
-  {
-    "fantasy-points": 0,
-    "gender": "male",
-    "jersey": "",
-    "name": "aaron varghese",
-    "photo": "https://secure.gravatar.com/avatar/12df054283b23c9ff1c77ce5835d96e7?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
-    "slug": "aaron-varghese",
-    "stats": {},
-    "team": "Karnataka State",
-    "ucID": 878650
   },
   {
     "fantasy-points": 0,
@@ -2809,7 +2809,7 @@
     "fantasy-points": 0,
     "gender": "male",
     "jersey": "74",
-    "name": "Shubham more",
+    "name": "Shubham More",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/5wzpQ6ns.280.jpg",
     "points-distribution": {
       "assist": 0,
@@ -2855,7 +2855,7 @@
     "fantasy-points": 0,
     "gender": "male",
     "jersey": "1",
-    "name": "Sushant tapse",
+    "name": "Sushant Tapse",
     "photo": "https://secure.gravatar.com/avatar/fac6ab7f7e59195d3b2a5f9d602fef20?s=280&d=mm&r=r",
     "points-distribution": {
       "assist": 0,
@@ -2922,6 +2922,52 @@
   },
   {
     "fantasy-points": 0,
+    "gender": "female",
+    "jersey": "73",
+    "name": "Vaishnavi _",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/V2723erT.280.jpg",
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
+    "slug": "vaishnavi-_",
+    "stats": {},
+    "team": "Maharashtra Ultimate",
+    "ucID": 1044695
+  },
+  {
+    "fantasy-points": 0,
+    "gender": "female",
+    "jersey": "19",
+    "name": "Vidya Parmar",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/SEZPDfx9.280.jpg",
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
+    "slug": "vidya-parmar",
+    "stats": {},
+    "team": "Maharashtra Ultimate",
+    "ucID": 527720
+  },
+  {
+    "fantasy-points": 0,
     "gender": "male",
     "jersey": "10",
     "name": "Vikas Chauhan",
@@ -2945,52 +2991,6 @@
   },
   {
     "fantasy-points": 0,
-    "gender": "female",
-    "jersey": "73",
-    "name": "vaishnavi _",
-    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/V2723erT.280.jpg",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
-    "slug": "vaishnavi-_",
-    "stats": {},
-    "team": "Maharashtra Ultimate",
-    "ucID": 1044695
-  },
-  {
-    "fantasy-points": 0,
-    "gender": "female",
-    "jersey": "19",
-    "name": "vidya parmar",
-    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/SEZPDfx9.280.jpg",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
-    "slug": "vidya-parmar",
-    "stats": {},
-    "team": "Maharashtra Ultimate",
-    "ucID": 527720
-  },
-  {
-    "fantasy-points": 0,
     "gender": "male",
     "jersey": "",
     "name": "Arulmozhi Selvan",
@@ -3011,6 +3011,29 @@
     "stats": {},
     "team": "Tamilnadu",
     "ucID": 310595
+  },
+  {
+    "fantasy-points": 0,
+    "gender": "female",
+    "jersey": "",
+    "name": "Deepika Shankar",
+    "photo": "https://secure.gravatar.com/avatar/8e6b244c648586eff6c7ff4b740680b9?s=280&d=mm&r=r",
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
+    "slug": "deepika-shankar",
+    "stats": {},
+    "team": "Tamilnadu",
+    "ucID": 466950
   },
   {
     "fantasy-points": 0,
@@ -3383,6 +3406,29 @@
   {
     "fantasy-points": 0,
     "gender": "male",
+    "jersey": "",
+    "name": "Siva Kumar",
+    "photo": "https://secure.gravatar.com/avatar/18dfb3054c53467c361a1c7c66c47236?s=280&d=mm&r=r",
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
+    "slug": "siva-kumar",
+    "stats": {},
+    "team": "Tamilnadu",
+    "ucID": 466970
+  },
+  {
+    "fantasy-points": 0,
+    "gender": "male",
     "jersey": "99",
     "name": "Siva Raman",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/TC5YjMxw.280.jpg",
@@ -3543,52 +3589,6 @@
   },
   {
     "fantasy-points": 0,
-    "gender": "female",
-    "jersey": "",
-    "name": "deepika shankar",
-    "photo": "https://secure.gravatar.com/avatar/8e6b244c648586eff6c7ff4b740680b9?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
-    "slug": "deepika-shankar",
-    "stats": {},
-    "team": "Tamilnadu",
-    "ucID": 466950
-  },
-  {
-    "fantasy-points": 0,
-    "gender": "male",
-    "jersey": "",
-    "name": "siva kumar",
-    "photo": "https://secure.gravatar.com/avatar/18dfb3054c53467c361a1c7c66c47236?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
-    "slug": "siva-kumar",
-    "stats": {},
-    "team": "Tamilnadu",
-    "ucID": 466970
-  },
-  {
-    "fantasy-points": 0,
     "gender": "male",
     "jersey": "",
     "name": "Abimanyu Nair",
@@ -3727,6 +3727,29 @@
   },
   {
     "fantasy-points": 0,
+    "gender": "female",
+    "jersey": "",
+    "name": "Goundla Mamatha",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/lw4viC4k.280.jpg",
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
+    "slug": "goundla-mamatha",
+    "stats": {},
+    "team": "Telangana Ultimate",
+    "ucID": 927793
+  },
+  {
+    "fantasy-points": 0,
     "gender": "male",
     "jersey": "1",
     "name": "Kishen Chandar",
@@ -3770,6 +3793,29 @@
     "stats": {},
     "team": "Telangana Ultimate",
     "ucID": 982503
+  },
+  {
+    "fantasy-points": 0,
+    "gender": "male",
+    "jersey": "7",
+    "name": "Mayank Dawra",
+    "photo": "https://secure.gravatar.com/avatar/03127b1fdf09f6ad9ed5a353f97844cc?s=280&d=mm&r=r",
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
+    "slug": "mayank-dawra",
+    "stats": {},
+    "team": "Telangana Ultimate",
+    "ucID": 578432
   },
   {
     "fantasy-points": 0,
@@ -4046,52 +4092,6 @@
     "stats": {},
     "team": "Telangana Ultimate",
     "ucID": 464863
-  },
-  {
-    "fantasy-points": 0,
-    "gender": "female",
-    "jersey": "",
-    "name": "goundla mamatha",
-    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/lw4viC4k.280.jpg",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
-    "slug": "goundla-mamatha",
-    "stats": {},
-    "team": "Telangana Ultimate",
-    "ucID": 927793
-  },
-  {
-    "fantasy-points": 0,
-    "gender": "male",
-    "jersey": "7",
-    "name": "mayank dawra",
-    "photo": "https://secure.gravatar.com/avatar/03127b1fdf09f6ad9ed5a353f97844cc?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
-    "slug": "mayank-dawra",
-    "stats": {},
-    "team": "Telangana Ultimate",
-    "ucID": 578432
   },
   {
     "fantasy-points": 0,
