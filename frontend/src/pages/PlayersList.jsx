@@ -23,6 +23,7 @@ import {
 import React, { useEffect, useState } from "react";
 import Navbar from "../components/Navbar";
 import data from "../data/players.json";
+import teamsData from "../data/teams.json";
 import InfoOutlinedIcon from "@mui/icons-material/InfoOutlined";
 import { useNavigate } from "react-router-dom";
 
@@ -54,7 +55,12 @@ const PlayersList = () => {
 					(p["gender"] === "female" && female) ||
 					(male && female)
 			)
-			.sort((a, b) => b["fantasy-points"] - a["fantasy-points"]);
+			.sort((a, b) => b["fantasy-points"] - a["fantasy-points"])
+			.map((p) => {
+				const team = teamsData.find((it) => it.name === p.team);
+				const teamLogo = team?.logo;
+				return { ...p, teamLogo };
+			});
 		setPlayers(newPlayers);
 	}, [team, male, female]);
 
@@ -124,6 +130,7 @@ const PlayersList = () => {
 								<TableHead>
 									<TableRow>
 										<TableCell align="left">Name</TableCell>
+										<TableCell align="left">Team</TableCell>
 										<TableCell align="center">
 											Gender
 										</TableCell>
@@ -152,7 +159,16 @@ const PlayersList = () => {
 											>
 												{player["name"]}
 											</TableCell>
-
+											<TableCell
+												component="th"
+												scope="row"
+												align="left"
+											>
+												<img
+													style={{ height: "3em" }}
+													src={player.teamLogo}
+												/>
+											</TableCell>
 											<TableCell align="center">
 												<Chip
 													label={player["gender"]}
