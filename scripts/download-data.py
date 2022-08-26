@@ -98,7 +98,7 @@ def download_teams_info(sheet_id, event_id, client_id, client_secret):
             "gender": person["Person"]["gender"],
             "jersey": row["uniform_number"],
             "photo": person["Person"]["images"]["280"],
-            "team": person["Team"]["name"],
+            "team": person["Team"]["name"].title(),
             "ucID": id_,
         }
         data.append(player)
