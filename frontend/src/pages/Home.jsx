@@ -24,7 +24,7 @@ const Home = () => {
 							sx={{
 								display: "block",
 								width: "100%",
-								height: "15vh",
+								height: "15vh"
 							}}
 							onClick={() => navigate("/players")}
 						>
@@ -32,7 +32,7 @@ const Home = () => {
 								sx={{
 									position: "absolute",
 									right: "10%",
-									top: "40%",
+									top: "40%"
 								}}
 							/>
 							<Typography
@@ -57,14 +57,15 @@ const Home = () => {
 							sx={{
 								display: "block",
 								width: "100%",
-								height: "15vh",
+								height: "15vh"
 							}}
+							onClick={() => navigate("/leaderboard")}
 						>
 							<KeyboardDoubleArrowRightIcon
 								sx={{
 									position: "absolute",
 									right: "10%",
-									top: "40%",
+									top: "40%"
 								}}
 							/>
 							<Typography
@@ -72,14 +73,14 @@ const Home = () => {
 								component="h5"
 								align="left"
 							>
-								<strong>Leaderboards</strong>
+								<strong>Leaderboard</strong>
 							</Typography>
 							<Typography
 								variant="caption"
 								component="p"
 								align="left"
 							>
-								Checkout the live Leaderboards!
+								Checkout the live Leaderboard!
 							</Typography>
 						</Button>
 					</Grid>
@@ -88,7 +89,7 @@ const Home = () => {
 							href="https://forms.gle/kVeJG27Jf6PGmwQHA"
 							target="_blank"
 							sx={{
-								textDecoration: "none",
+								textDecoration: "none"
 							}}
 						>
 							<Button
@@ -96,14 +97,14 @@ const Home = () => {
 								sx={{
 									display: "block",
 									width: "100%",
-									height: "15vh",
+									height: "15vh"
 								}}
 							>
 								<KeyboardDoubleArrowRightIcon
 									sx={{
 										position: "absolute",
 										right: "10%",
-										top: "40%",
+										top: "40%"
 									}}
 								/>
 								<Typography
@@ -131,7 +132,7 @@ const Home = () => {
 						align="center"
 						sx={{
 							fontSize: "3.5vw",
-							opacity: 0.65,
+							opacity: 0.65
 						}}
 					>
 						Teams Participating
@@ -145,7 +146,7 @@ const Home = () => {
 						align="center"
 						sx={{
 							fontSize: "3.5vw",
-							opacity: 0.65,
+							opacity: 0.65
 						}}
 					>
 						Sponsors
