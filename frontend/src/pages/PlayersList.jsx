@@ -9,6 +9,7 @@ import {
 	Grid,
 	IconButton,
 	InputLabel,
+	Link,
 	MenuItem,
 	Paper,
 	Select,
@@ -137,9 +138,6 @@ const PlayersList = () => {
 										<TableCell align="center">
 											Fantasy Points
 										</TableCell>
-										<TableCell align="right">
-											Stats
-										</TableCell>
 									</TableRow>
 								</TableHead>
 								<TableBody>
@@ -160,7 +158,18 @@ const PlayersList = () => {
 													textTransform: "capitalize",
 												}}
 											>
-												{player["name"]}
+												<Link
+													onClick={() =>
+														navigate(
+															"/player/" +
+																player.slug
+														)
+													}
+													component="button"
+													variant="body2"
+												>
+													{player["name"]}
+												</Link>
 											</TableCell>
 											<TableCell
 												component="th"
@@ -191,19 +200,6 @@ const PlayersList = () => {
 											</TableCell>
 											<TableCell align="center">
 												{player["fantasy-points"]}
-											</TableCell>
-											<TableCell align="right">
-												<IconButton
-													color="primary"
-													onClick={() =>
-														navigate(
-															"/player/" +
-																player.slug
-														)
-													}
-												>
-													<InfoOutlinedIcon />
-												</IconButton>
 											</TableCell>
 										</TableRow>
 									))}
