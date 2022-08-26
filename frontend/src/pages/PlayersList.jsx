@@ -154,9 +154,6 @@ const PlayersList = () => {
 												component="th"
 												scope="row"
 												align="left"
-												sx={{
-													textTransform: "capitalize",
-												}}
 											>
 												<Link
 													onClick={() =>
