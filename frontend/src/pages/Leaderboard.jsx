@@ -143,7 +143,8 @@ const Leaderboard = () => {
 											<ListItem>
 												<ListItemText>
 													<Typography>
-														{player.name}
+														{player.name} &mdash;{" "}
+														{player.timestamp}
 													</Typography>
 												</ListItemText>
 											</ListItem>
