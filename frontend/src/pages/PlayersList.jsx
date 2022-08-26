@@ -24,7 +24,7 @@ import {
 import React, { useEffect, useState } from "react";
 import Navbar from "../components/Navbar";
 import data from "../data/players.json";
-import teamsData from "../data/team_logo_links.json";
+import teamsData from "../data/teams.json";
 import InfoOutlinedIcon from "@mui/icons-material/InfoOutlined";
 import { useNavigate } from "react-router-dom";
 
