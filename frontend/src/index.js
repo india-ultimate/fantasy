@@ -4,13 +4,28 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { HashRouter } from "react-router-dom";
+import { ThemeProvider, createTheme } from "@mui/material/styles";
+import { indigo } from "@mui/material/colors";
+
+const theme = createTheme({
+	palette: {
+		primary: {
+			main: "#002B5B",
+		},
+		secondary: {
+			main: "#EF5B0C",
+		},
+	},
+});
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
 	<React.StrictMode>
-		<HashRouter>
-			<App />
-		</HashRouter>
+		<ThemeProvider theme={theme}>
+			<HashRouter>
+				<App />
+			</HashRouter>
+		</ThemeProvider>
 	</React.StrictMode>
 );
 

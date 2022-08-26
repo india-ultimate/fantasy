@@ -16,15 +16,38 @@ const Home = () => {
 					spacing={0}
 					alignItems="center"
 					justifyContent="center"
-					style={{ height: "60vh", width: "100%" }}
+					style={{ width: "100%" }}
 				>
+					<img
+						src="https://res.cloudinary.com/india-ultimate/image/upload/v1661508047/ultimate-fantasy-league/logo-horizontal-2022.png"
+						alt="logo"
+						style={{ width: "100%" }}
+					/>
+					<Typography
+						sx={{
+							// backgroundImage:
+							// 	"-webkit-linear-gradient(60deg, #002B5B, #EF5B0C)",
+							// backgroundClip: "text",
+							// color: "transparent",
+							font: "bold 10vw Poppins, sans-serif",
+							mt: "2vh",
+							mb: "5vh",
+						}}
+						variant="h1"
+						component="h1"
+						align="center"
+						color="primary"
+					>
+						Fantasy League
+					</Typography>
 					<Grid item xs={12}>
 						<Button
 							variant="outlined"
 							sx={{
 								display: "block",
 								width: "100%",
-								height: "15vh"
+								height: "15vh",
+								my: "1vh",
 							}}
 							onClick={() => navigate("/players")}
 						>
@@ -32,7 +55,7 @@ const Home = () => {
 								sx={{
 									position: "absolute",
 									right: "10%",
-									top: "40%"
+									top: "40%",
 								}}
 							/>
 							<Typography
@@ -57,7 +80,8 @@ const Home = () => {
 							sx={{
 								display: "block",
 								width: "100%",
-								height: "15vh"
+								height: "15vh",
+								my: "1vh",
 							}}
 							onClick={() => navigate("/leaderboard")}
 						>
@@ -65,7 +89,7 @@ const Home = () => {
 								sx={{
 									position: "absolute",
 									right: "10%",
-									top: "40%"
+									top: "40%",
 								}}
 							/>
 							<Typography
@@ -89,7 +113,7 @@ const Home = () => {
 							href="https://forms.gle/kVeJG27Jf6PGmwQHA"
 							target="_blank"
 							sx={{
-								textDecoration: "none"
+								textDecoration: "none",
 							}}
 						>
 							<Button
@@ -97,14 +121,15 @@ const Home = () => {
 								sx={{
 									display: "block",
 									width: "100%",
-									height: "15vh"
+									height: "15vh",
+									my: "1vh",
 								}}
 							>
 								<KeyboardDoubleArrowRightIcon
 									sx={{
 										position: "absolute",
 										right: "10%",
-										top: "40%"
+										top: "40%",
 									}}
 								/>
 								<Typography
@@ -132,7 +157,7 @@ const Home = () => {
 						align="center"
 						sx={{
 							fontSize: "3.5vw",
-							opacity: 0.65
+							opacity: 0.65,
 						}}
 					>
 						Teams Participating
@@ -146,7 +171,7 @@ const Home = () => {
 						align="center"
 						sx={{
 							fontSize: "3.5vw",
-							opacity: 0.65
+							opacity: 0.65,
 						}}
 					>
 						Sponsors

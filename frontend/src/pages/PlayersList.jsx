@@ -74,15 +74,16 @@ const PlayersList = () => {
 					<Grid item xs={12} sx={{ px: "10px" }}>
 						<Typography
 							sx={{
-								backgroundImage:
-									"-webkit-linear-gradient(60deg, #E21143, #FFB03A)",
-								backgroundClip: "text",
-								color: "transparent",
+								// backgroundImage:
+								// 	"-webkit-linear-gradient(60deg, #002B5B, #EF5B0C)",
+								// backgroundClip: "text",
+								// color: "transparent",
 								font: "bold 10vw Poppins, sans-serif",
 							}}
 							variant="h6"
 							component="h6"
 							align="center"
+							color="primary"
 						>
 							Players
 						</Typography>

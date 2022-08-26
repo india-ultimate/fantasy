@@ -66,16 +66,17 @@ const PlayerProfile = () => {
 							<Grid item xs={12}>
 								<Typography
 									sx={{
-										backgroundImage:
-											"-webkit-linear-gradient(60deg, #E21143, #FFB03A)",
-										backgroundClip: "text",
-										color: "transparent",
+										// backgroundImage:
+										// 	"-webkit-linear-gradient(60deg, #002B5B, #EF5B0C)",
+										// backgroundClip: "text",
+										// color: "transparent",
 										font: "bold 8vw Poppins, sans-serif",
 										mt: "2vh",
 									}}
 									variant="h6"
 									component="h1"
 									align="center"
+									color="primary"
 								>
 									{player.name}
 								</Typography>
@@ -124,15 +125,16 @@ const PlayerProfile = () => {
 								</Typography>
 								<Typography
 									sx={{
-										backgroundImage:
-											"-webkit-linear-gradient(60deg, #E21143, #FFB03A)",
-										backgroundClip: "text",
-										color: "transparent",
+										// backgroundImage:
+										// 	"-webkit-linear-gradient(60deg, #002B5B, #EF5B0C)",
+										// backgroundClip: "text",
+										// color: "transparent",
 										font: "bold 8vw Poppins, sans-serif",
 									}}
 									variant="h6"
 									component="h4"
 									align="center"
+									color="primary"
 								>
 									{player["fantasy-points"]}
 								</Typography>
@@ -181,16 +183,16 @@ const PlayerProfile = () => {
 												<Typography
 													align="center"
 													sx={{
-														backgroundImage:
-															"-webkit-linear-gradient(60deg, #E21143, #FFB03A)",
-														backgroundClip: "text",
-														color: "transparent",
+														// backgroundImage:
+														// 	"-webkit-linear-gradient(60deg, #002B5B, #EF5B0C)",
+														// backgroundClip: "text",
+														// color: "transparent",
 														lineHeight: "2.66",
-														font:
-															"bold 3.5vw/2.66 Poppins, sans-serif",
+														font: "bold 3.5vw/2.66 Poppins, sans-serif",
 													}}
 													variant="overline"
 													component="p"
+													color="primary"
 												>
 													{
 														player[
@@ -235,9 +237,10 @@ const PlayerProfile = () => {
 															<TableRow
 																key={statName}
 																sx={{
-																	"&:last-child td, &:last-child th": {
-																		border: 0,
-																	},
+																	"&:last-child td, &:last-child th":
+																		{
+																			border: 0,
+																		},
 																}}
 															>
 																<TableCell
