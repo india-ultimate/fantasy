@@ -50,8 +50,8 @@ const PlayersList = () => {
 			.filter((p) => p["team"] === team || team === "all")
 			.filter(
 				(p) =>
-					(p["gender"] === "Male" && male) ||
-					(p["gender"] === "Female" && female) ||
+					(p["gender"] === "male" && male) ||
+					(p["gender"] === "female" && female) ||
 					(male && female)
 			)
 			.sort((a, b) => b["fantasy-points"] - a["fantasy-points"]);
@@ -138,8 +138,9 @@ const PlayersList = () => {
 										<TableRow
 											key={1}
 											sx={{
-												"&:last-child td, &:last-child th":
-													{ border: 0 },
+												"&:last-child td, &:last-child th": {
+													border: 0,
+												},
 											}}
 										>
 											<TableCell
