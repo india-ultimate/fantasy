@@ -156,6 +156,9 @@ const PlayersList = () => {
 												component="th"
 												scope="row"
 												align="left"
+												sx={{
+													textTransform: "capitalize",
+												}}
 											>
 												{player["name"]}
 											</TableCell>
@@ -169,13 +172,18 @@ const PlayersList = () => {
 													src={player.teamLogo}
 												/>
 											</TableCell>
-											<TableCell align="center">
+											<TableCell
+												align="center"
+												sx={{
+													textTransform: "capitalize",
+												}}
+											>
 												<Chip
 													label={player["gender"]}
 													variant="outlined"
 													color={
 														player["gender"] ===
-														"Male"
+														"male"
 															? "primary"
 															: "secondary"
 													}
