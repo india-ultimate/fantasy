@@ -1,4 +1,4 @@
-import { Button, Link, Grid, Typography } from "@mui/material";
+import { Button, Link, Grid, Typography, Divider } from "@mui/material";
 import React from "react";
 import Navbar from "../components/Navbar";
 import TeamList from "../components/TeamList";
@@ -10,7 +10,6 @@ const Home = () => {
 	return (
 		<div>
 			<Navbar>
-				<TeamList />
 				<Grid
 					container
 					spacing={0}
@@ -124,6 +123,33 @@ const Home = () => {
 						</Link>
 					</Grid>
 				</Grid>
+				<Divider>
+					<Typography
+						variant="overline"
+						component="h3"
+						align="center"
+						sx={{
+							fontSize: "3.5vw",
+							opacity: 0.65,
+						}}
+					>
+						Teams Participating
+					</Typography>
+				</Divider>
+				<TeamList />
+				<Divider>
+					<Typography
+						variant="overline"
+						component="h3"
+						align="center"
+						sx={{
+							fontSize: "3.5vw",
+							opacity: 0.65,
+						}}
+					>
+						Sponsors
+					</Typography>
+				</Divider>
 				<Grid
 					container
 					spacing={0}
@@ -131,7 +157,7 @@ const Home = () => {
 					justifyContent="center"
 					style={{ height: "40vw", width: "100%" }}
 				>
-					<Grid item xs={12} sx={{ px: "10px" }}>
+					{/* <Grid item xs={12} sx={{ px: "10px" }}>
 						<Typography
 							variant="h1"
 							component="h1"
@@ -142,7 +168,7 @@ const Home = () => {
 						>
 							Sponsors
 						</Typography>
-					</Grid>
+					</Grid> */}
 					<img
 						style={{ width: "90%" }}
 						src="https://res.cloudinary.com/india-ultimate/image/upload/v1661335497/ultimate-fantasy-league/sponsor-logos.png"
