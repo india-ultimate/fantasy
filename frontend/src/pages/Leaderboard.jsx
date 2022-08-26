@@ -41,12 +41,6 @@ const Leaderboard = () => {
 		);
 	}, []);
 
-	useEffect(() => {
-		const delayTimeout = setTimeout(() => {}, 2000);
-
-		return () => clearTimeout(delayTimeout);
-	}, [search]);
-
 	return (
 		<div>
 			<Navbar>

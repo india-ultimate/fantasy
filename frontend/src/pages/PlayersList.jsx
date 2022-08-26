@@ -19,6 +19,7 @@ import {
 	TableContainer,
 	TableHead,
 	TableRow,
+	TextField,
 	Typography,
 } from "@mui/material";
 import React, { useEffect, useState } from "react";
@@ -35,6 +36,7 @@ const PlayersList = () => {
 	const [male, setMale] = useState(true);
 	const [female, setFemale] = useState(true);
 	const navigate = useNavigate();
+	const [search, setSearch] = useState("");
 
 	useEffect(() => {
 		let teamsMap = new Map();
@@ -86,6 +88,13 @@ const PlayersList = () => {
 						</Typography>
 					</Grid>
 					<Grid item xs={12} sx={{ pt: "25px" }}>
+						<TextField
+							value={search}
+							onChange={(e) => setSearch(e.target.value)}
+							label="Search"
+							fullWidth
+							sx={{ mb: "2vh" }}
+						/>
 						<FormControl fullWidth>
 							<InputLabel id="demo-simple-select-label">
 								Team
@@ -141,40 +150,46 @@ const PlayersList = () => {
 									</TableRow>
 								</TableHead>
 								<TableBody>
-									{players.map((player) => (
-										<TableRow
-											key={player.ucID}
-											sx={{
-												"&:last-child td, &:last-child th":
-													{
-														border: 0,
-													},
-											}}
-										>
-											<TableCell
-												component="th"
-												scope="row"
-												align="left"
+									{players
+										.filter((p) =>
+											p["name"]
+												.toLowerCase()
+												.includes(search.toLowerCase())
+										)
+										.map((player) => (
+											<TableRow
+												key={player.ucID}
+												sx={{
+													"&:last-child td, &:last-child th":
+														{
+															border: 0,
+														},
+												}}
 											>
-												<Link
-													onClick={() =>
-														navigate(
-															"/player/" +
-																player.slug
-														)
-													}
-													component="button"
-													variant="body2"
-													color={
-														player["gender"] ===
-														"male"
-															? "primary"
-															: "secondary"
-													}
+												<TableCell
+													component="th"
+													scope="row"
+													align="left"
 												>
-													{player["name"]}
-												</Link>
-												{/* <Grid container spacing={2}>
+													<Link
+														onClick={() =>
+															navigate(
+																"/player/" +
+																	player.slug
+															)
+														}
+														component="button"
+														variant="body2"
+														color={
+															player["gender"] ===
+															"male"
+																? "primary"
+																: "secondary"
+														}
+													>
+														{player["name"]}
+													</Link>
+													{/* <Grid container spacing={2}>
 													<Grid item xs={8}>
 														<Link
 															onClick={() =>
@@ -208,23 +223,23 @@ const PlayersList = () => {
 														/>
 													</Grid>
 												</Grid> */}
-											</TableCell>
-											<TableCell
-												component="th"
-												scope="row"
-												align="left"
-											>
-												<Avatar
-													alt={player.team}
-													src={player.teamLogo}
-													title={player.team}
-												/>
-											</TableCell>
+												</TableCell>
+												<TableCell
+													component="th"
+													scope="row"
+													align="left"
+												>
+													<Avatar
+														alt={player.team}
+														src={player.teamLogo}
+														title={player.team}
+													/>
+												</TableCell>
 
-											<TableCell align="center">
-												{player["fantasy-points"]}
-											</TableCell>
-											{/* <TableCell
+												<TableCell align="center">
+													{player["fantasy-points"]}
+												</TableCell>
+												{/* <TableCell
 												align="center"
 												sx={{
 													textTransform: "capitalize",
@@ -241,8 +256,8 @@ const PlayersList = () => {
 													}
 												/>
 											</TableCell> */}
-										</TableRow>
-									))}
+											</TableRow>
+										))}
 								</TableBody>
 							</Table>
 						</TableContainer>
