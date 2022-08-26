@@ -121,7 +121,7 @@ const PlayerProfile = () => {
 										opacity: 0.65,
 									}}
 								>
-									Points scored
+									Fantasy Points
 								</Typography>
 								<Typography
 									sx={{

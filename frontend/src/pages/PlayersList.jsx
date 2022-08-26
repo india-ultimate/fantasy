@@ -135,7 +135,7 @@ const PlayersList = () => {
 											Gender
 										</TableCell>
 										<TableCell align="center">
-											Points Scored
+											Fantasy Points
 										</TableCell>
 										<TableCell align="right">
 											Stats
