@@ -176,9 +176,10 @@ const PlayersList = () => {
 												scope="row"
 												align="left"
 											>
-												<img
-													style={{ height: "3em" }}
+												<Avatar
+													alt={player.team}
 													src={player.teamLogo}
+													title={player.team}
 												/>
 											</TableCell>
 											<TableCell
