@@ -125,6 +125,16 @@
     "fantasy_score": 0
   },
   {
+    "name": "Battery",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Bharath",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
     "name": "Bhavya",
     "valid_team": true,
     "fantasy_score": 0
@@ -165,6 +175,16 @@
     "fantasy_score": 0
   },
   {
+    "name": "Gaurav",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Gokulavanan P",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
     "name": "Gopinath",
     "valid_team": true,
     "fantasy_score": 0
@@ -175,12 +195,27 @@
     "fantasy_score": 0
   },
   {
+    "name": "Goutham",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
     "name": "Hari",
     "valid_team": true,
     "fantasy_score": 0
   },
   {
+    "name": "Harish",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
     "name": "Harit Khadepaw",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Harsh Nisar",
     "valid_team": true,
     "fantasy_score": 0
   },
@@ -231,6 +266,11 @@
   },
   {
     "name": "Kush Kothari",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Kushagra Tak",
     "valid_team": true,
     "fantasy_score": 0
   },
@@ -315,6 +355,11 @@
     "fantasy_score": 0
   },
   {
+    "name": "Rajat Kumar",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
     "name": "Ramesh",
     "valid_team": true,
     "fantasy_score": 0
@@ -361,6 +406,11 @@
   },
   {
     "name": "Samyuktha",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Sanchit Bansal",
     "valid_team": true,
     "fantasy_score": 0
   },
@@ -560,6 +610,11 @@
     "fantasy_score": 0
   },
   {
+    "name": "Keshav Gupta",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
     "name": "Kush Kothari",
     "valid_team": false,
     "fantasy_score": 0
@@ -630,6 +685,11 @@
     "fantasy_score": 0
   },
   {
+    "name": "Shashank Adhikari",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
     "name": "Shubham Anant More",
     "valid_team": false,
     "fantasy_score": 0
@@ -656,6 +716,11 @@
   },
   {
     "name": "Tejhas Jagadish",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Virag Lakhani",
     "valid_team": false,
     "fantasy_score": 0
   },
