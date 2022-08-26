@@ -9,6 +9,7 @@ import {
 	Grid,
 	IconButton,
 	InputLabel,
+	Link,
 	MenuItem,
 	Paper,
 	Select,
@@ -23,6 +24,7 @@ import {
 import React, { useEffect, useState } from "react";
 import Navbar from "../components/Navbar";
 import data from "../data/players.json";
+import teamsData from "../data/teams.json";
 import InfoOutlinedIcon from "@mui/icons-material/InfoOutlined";
 import { useNavigate } from "react-router-dom";
 
@@ -50,11 +52,16 @@ const PlayersList = () => {
 			.filter((p) => p["team"] === team || team === "all")
 			.filter(
 				(p) =>
-					(p["gender"] === "Male" && male) ||
-					(p["gender"] === "Female" && female) ||
+					(p["gender"] === "male" && male) ||
+					(p["gender"] === "female" && female) ||
 					(male && female)
 			)
-			.sort((a, b) => b["fantasy-points"] - a["fantasy-points"]);
+			.sort((a, b) => b["fantasy-points"] - a["fantasy-points"])
+			.map((p) => {
+				const team = teamsData.find((it) => it.name === p.team);
+				const teamLogo = team?.logo;
+				return { ...p, teamLogo };
+			});
 		setPlayers(newPlayers);
 	}, [team, male, female]);
 
@@ -92,7 +99,9 @@ const PlayersList = () => {
 							>
 								<MenuItem value={"all"}>All Teams</MenuItem>
 								{teams.map((name) => (
-									<MenuItem value={name}>{name}</MenuItem>
+									<MenuItem key={name} value={name}>
+										{name}
+									</MenuItem>
 								))}
 							</Select>
 						</FormControl>
@@ -122,41 +131,69 @@ const PlayersList = () => {
 								<TableHead>
 									<TableRow>
 										<TableCell align="left">Name</TableCell>
+										<TableCell align="left">Team</TableCell>
 										<TableCell align="center">
 											Gender
 										</TableCell>
 										<TableCell align="center">
-											Points Scored
-										</TableCell>
-										<TableCell align="right">
-											Stats
+											Fantasy Points
 										</TableCell>
 									</TableRow>
 								</TableHead>
 								<TableBody>
 									{players.map((player) => (
 										<TableRow
-											key={1}
+											key={player.ucID}
 											sx={{
-												"&:last-child td, &:last-child th":
-													{ border: 0 },
+												"&:last-child td, &:last-child th": {
+													border: 0,
+												},
 											}}
 										>
 											<TableCell
 												component="th"
 												scope="row"
 												align="left"
+												sx={{
+													textTransform: "capitalize",
+												}}
 											>
-												{player["name"]}
+												<Link
+													onClick={() =>
+														navigate(
+															"/player/" +
+																player.slug
+														)
+													}
+													component="button"
+													variant="body2"
+												>
+													{player["name"]}
+												</Link>
 											</TableCell>
-
-											<TableCell align="center">
+											<TableCell
+												component="th"
+												scope="row"
+												align="left"
+											>
+												<Avatar
+													alt={player.team}
+													src={player.teamLogo}
+													title={player.team}
+												/>
+											</TableCell>
+											<TableCell
+												align="center"
+												sx={{
+													textTransform: "capitalize",
+												}}
+											>
 												<Chip
 													label={player["gender"]}
 													variant="outlined"
 													color={
 														player["gender"] ===
-														"Male"
+														"male"
 															? "primary"
 															: "secondary"
 													}
@@ -164,19 +201,6 @@ const PlayersList = () => {
 											</TableCell>
 											<TableCell align="center">
 												{player["fantasy-points"]}
-											</TableCell>
-											<TableCell align="right">
-												<IconButton
-													color="primary"
-													onClick={() =>
-														navigate(
-															"/player/" +
-																player.slug
-														)
-													}
-												>
-													<InfoOutlinedIcon />
-												</IconButton>
 											</TableCell>
 										</TableRow>
 									))}

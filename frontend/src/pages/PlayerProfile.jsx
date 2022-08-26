@@ -48,7 +48,7 @@ const PlayerProfile = () => {
 									Go Back
 								</Button>
 							</Grid>
-							{player.img && (
+							{player.photo && (
 								<Box
 									component="img"
 									sx={{
@@ -59,7 +59,7 @@ const PlayerProfile = () => {
 										borderRadius: "50%",
 									}}
 									alt={player.name}
-									src={player.img}
+									src={player.photo}
 								/>
 							)}
 
@@ -72,6 +72,7 @@ const PlayerProfile = () => {
 										color: "transparent",
 										font: "bold 8vw Poppins, sans-serif",
 										mt: "2vh",
+										textTransform: "capitalize",
 									}}
 									variant="h6"
 									component="h1"
@@ -96,10 +97,13 @@ const PlayerProfile = () => {
 									justifyContent="center"
 								>
 									<Chip
+										sx={{
+											textTransform: "capitalize",
+										}}
 										label={player["gender"]}
 										variant="outlined"
 										color={
-											player["gender"] === "Male"
+											player["gender"] === "male"
 												? "primary"
 												: "secondary"
 										}
@@ -117,7 +121,7 @@ const PlayerProfile = () => {
 										opacity: 0.65,
 									}}
 								>
-									Points scored
+									Fantasy Points
 								</Typography>
 								<Typography
 									sx={{
@@ -183,7 +187,8 @@ const PlayerProfile = () => {
 														backgroundClip: "text",
 														color: "transparent",
 														lineHeight: "2.66",
-														font: "bold 3.5vw/2.66 Poppins, sans-serif",
+														font:
+															"bold 3.5vw/2.66 Poppins, sans-serif",
 													}}
 													variant="overline"
 													component="p"
@@ -231,10 +236,9 @@ const PlayerProfile = () => {
 															<TableRow
 																key={statName}
 																sx={{
-																	"&:last-child td, &:last-child th":
-																		{
-																			border: 0,
-																		},
+																	"&:last-child td, &:last-child th": {
+																		border: 0,
+																	},
 																}}
 															>
 																<TableCell

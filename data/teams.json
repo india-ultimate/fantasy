@@ -1,0 +1,1602 @@
+[
+  {
+    "gender": "male",
+    "jersey": "18",
+    "name": "Grant Wagner",
+    "photo": "https://secure.gravatar.com/avatar/55a9513d4feb5a2135ccdece7dfc1976?s=280&d=mm&r=r",
+    "team": "Karnataka State",
+    "ucID": 190431
+  },
+  {
+    "gender": "male",
+    "jersey": "14",
+    "name": "Kenny Borsada",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/WDMSBI51.280.jpg",
+    "team": "Gujarat Ultimate",
+    "ucID": 280262
+  },
+  {
+    "gender": "female",
+    "jersey": "4",
+    "name": "Nimisha Vasava",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/33QRH5on.280.jpg",
+    "team": "Gujarat Ultimate",
+    "ucID": 280932
+  },
+  {
+    "gender": "female",
+    "jersey": "1",
+    "name": "Maitry Acharya",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/XxBNBpai.280.jpg",
+    "team": "Gujarat Ultimate",
+    "ucID": 283089
+  },
+  {
+    "gender": "male",
+    "jersey": "92",
+    "name": "Maksood Chaudhary",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/gIlsNYKm.280.png",
+    "team": "Maharashtra Ultimate",
+    "ucID": 283095
+  },
+  {
+    "gender": "male",
+    "jersey": "31",
+    "name": "Harsha GK",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/ZpIv6i79.280.jpg",
+    "team": "Tamilnadu",
+    "ucID": 283097
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Hariharan Kumar",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/3ZOvFcVX.280.jpg",
+    "team": "Tamilnadu",
+    "ucID": 283099
+  },
+  {
+    "gender": "male",
+    "jersey": "99",
+    "name": "Siva Raman",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/TC5YjMxw.280.jpg",
+    "team": "Tamilnadu",
+    "ucID": 283103
+  },
+  {
+    "gender": "female",
+    "jersey": "3",
+    "name": "Suhani Bedi",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/Bl143Wv5.280.jpg",
+    "team": "Delhi Ultimate",
+    "ucID": 283913
+  },
+  {
+    "gender": "female",
+    "jersey": "2",
+    "name": "Sneha Patil",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/8MJjzNWx.280.jpg",
+    "team": "Karnataka State",
+    "ucID": 310477
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Arulmozhi Selvan",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/O3iIhrwL.280.jpg",
+    "team": "Tamilnadu",
+    "ucID": 310595
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Ramkumar Nithyanandam",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/RZtCHyKF.280.jpg",
+    "team": "Tamilnadu",
+    "ucID": 318170
+  },
+  {
+    "gender": "male",
+    "jersey": "58",
+    "name": "Ajith Jagadish",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/dobT1wRr.280.jpg",
+    "team": "Karnataka State",
+    "ucID": 318880
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Esai Selvan Esakki",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/2FwZJkYv.280.jpg",
+    "team": "Karnataka State",
+    "ucID": 329027
+  },
+  {
+    "gender": "female",
+    "jersey": "",
+    "name": "Selvi Murugan",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/lf3ictSD.280.jpg",
+    "team": "Tamilnadu",
+    "ucID": 390663
+  },
+  {
+    "gender": "female",
+    "jersey": "55",
+    "name": "Meenakshi Kallapa Poojar",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/cBRag10u.280.jpg",
+    "team": "Karnataka State",
+    "ucID": 391192
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Chethan Srikanth",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/PKjA3dD6.280.jpg",
+    "team": "Karnataka State",
+    "ucID": 391610
+  },
+  {
+    "gender": "female",
+    "jersey": "8",
+    "name": "Mrinalini Siddhartha",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/0O5lKkWh.280.jpg",
+    "team": "Tamilnadu",
+    "ucID": 392821
+  },
+  {
+    "gender": "female",
+    "jersey": "93",
+    "name": "Sahitra Ghurye",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/3pdw8X2j.280.jpg",
+    "team": "Maharashtra Ultimate",
+    "ucID": 392825
+  },
+  {
+    "gender": "male",
+    "jersey": "74",
+    "name": "Udayan Philip",
+    "photo": "https://secure.gravatar.com/avatar/4978740576670c25ab72517ef79cd6c5?s=280&d=mm&r=r",
+    "team": "Delhi Ultimate",
+    "ucID": 392830
+  },
+  {
+    "gender": "male",
+    "jersey": "6",
+    "name": "Samarth Mishra",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/SlYpwCae.280.jpg",
+    "team": "Delhi Ultimate",
+    "ucID": 393809
+  },
+  {
+    "gender": "female",
+    "jersey": "",
+    "name": "Monika Shankar",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/lwU37uPR.280.jpg",
+    "team": "Tamilnadu",
+    "ucID": 395975
+  },
+  {
+    "gender": "male",
+    "jersey": "23",
+    "name": "Akshay Surange",
+    "photo": "https://secure.gravatar.com/avatar/210b331541e6e7664e9bfd0ebdcfdb3b?s=280&d=mm&r=r",
+    "team": "Gujarat Ultimate",
+    "ucID": 425822
+  },
+  {
+    "gender": "male",
+    "jersey": "45",
+    "name": "Rutvikkumar Nayka",
+    "photo": "https://secure.gravatar.com/avatar/17ceb02a1d51eddb9540ac42d1ea9c6f?s=280&d=mm&r=r",
+    "team": "Gujarat Ultimate",
+    "ucID": 425824
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Kishore Kumar",
+    "photo": "https://secure.gravatar.com/avatar/e70c2b61380b3e64a0bc1a299e72f29d?s=280&d=mm&r=r",
+    "team": "Tamilnadu",
+    "ucID": 425830
+  },
+  {
+    "gender": "male",
+    "jersey": "10",
+    "name": "Krishna Damor",
+    "photo": "https://secure.gravatar.com/avatar/51104b0e57e80648f0e183bf7e13a985?s=280&d=mm&r=r",
+    "team": "Gujarat Ultimate",
+    "ucID": 425832
+  },
+  {
+    "gender": "male",
+    "jersey": "58",
+    "name": "Sunil Varma",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/R3KqHmmG.280.jpg",
+    "team": "Maharashtra Ultimate",
+    "ucID": 425833
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Manikandan Kumar",
+    "photo": "https://secure.gravatar.com/avatar/f9355894a0414b81e318a4c316860282?s=280&d=mm&r=r",
+    "team": "Tamilnadu",
+    "ucID": 425835
+  },
+  {
+    "gender": "female",
+    "jersey": "27",
+    "name": "Garima Rathore",
+    "photo": "https://secure.gravatar.com/avatar/5e761a34b5dbcbf4b94b51b3c13a25ba?s=280&d=mm&r=r",
+    "team": "Delhi Ultimate",
+    "ucID": 451835
+  },
+  {
+    "gender": "female",
+    "jersey": "20",
+    "name": "Sharanya Ramesh",
+    "photo": "https://secure.gravatar.com/avatar/bdcb3a378ba646214738ce3b98e71e6f?s=280&d=mm&r=r",
+    "team": "Maharashtra Ultimate",
+    "ucID": 458852
+  },
+  {
+    "gender": "male",
+    "jersey": "0",
+    "name": "Deepak Gowda",
+    "photo": "https://secure.gravatar.com/avatar/efc83a1eefebf1ff809ef91a67dd2ed0?s=280&d=mm&r=r",
+    "team": "Karnataka State",
+    "ucID": 458889
+  },
+  {
+    "gender": "male",
+    "jersey": "43",
+    "name": "Sarang Minhas",
+    "photo": "https://secure.gravatar.com/avatar/7414ade9ca567e4def452079b85485ef?s=280&d=mm&r=r",
+    "team": "Karnataka State",
+    "ucID": 458912
+  },
+  {
+    "gender": "male",
+    "jersey": "47",
+    "name": "Michiaki Ito",
+    "photo": "https://secure.gravatar.com/avatar/e95645e7e23cdb6d890ff514c14dd846?s=280&d=mm&r=r",
+    "team": "Delhi Ultimate",
+    "ucID": 459014
+  },
+  {
+    "gender": "female",
+    "jersey": "",
+    "name": "Pooja Raghu",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/kOhyZ9TR.280.jpg",
+    "team": "Karnataka State",
+    "ucID": 459081
+  },
+  {
+    "gender": "female",
+    "jersey": "39",
+    "name": "Bhavya Jain",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/zQqXoNw4.280.jpg",
+    "team": "Gujarat Ultimate",
+    "ucID": 459103
+  },
+  {
+    "gender": "female",
+    "jersey": "2",
+    "name": "Muskan Jain",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/vWO0loyW.280.jpg",
+    "team": "Gujarat Ultimate",
+    "ucID": 459106
+  },
+  {
+    "gender": "female",
+    "jersey": "3",
+    "name": "Stania Peris",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/St1F2cBg.280.jpg",
+    "team": "Karnataka State",
+    "ucID": 459141
+  },
+  {
+    "gender": "male",
+    "jersey": "9",
+    "name": "Sandeep Kannoujia",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/kNpvCk9s.280.jpg",
+    "team": "Maharashtra Ultimate",
+    "ucID": 459187
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Sushil Kumar",
+    "photo": "https://secure.gravatar.com/avatar/aad79dbca1aa9eb105d0950551b683d4?s=280&d=mm&r=r",
+    "team": "Karnataka State",
+    "ucID": 459197
+  },
+  {
+    "gender": "male",
+    "jersey": "13",
+    "name": "Ranjan Khyadad",
+    "photo": "https://secure.gravatar.com/avatar/e830cb0fd4fdde6f8b998b4e6236617f?s=280&d=mm&r=r",
+    "team": "Karnataka State",
+    "ucID": 461526
+  },
+  {
+    "gender": "female",
+    "jersey": "10",
+    "name": "Ashwini Lokanath",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/OQ9xAuYp.280.jpg",
+    "team": "Karnataka State",
+    "ucID": 461527
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Dhiraj Gangaraju",
+    "photo": "https://secure.gravatar.com/avatar/fcbda32556b3959f4213f5466706fdb7?s=280&d=mm&r=r",
+    "team": "Telangana Ultimate",
+    "ucID": 462064
+  },
+  {
+    "gender": "female",
+    "jersey": "6",
+    "name": "Dhwani Jain",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/4cLX6KU8.280.jpg",
+    "team": "Gujarat Ultimate",
+    "ucID": 462853
+  },
+  {
+    "gender": "male",
+    "jersey": "26",
+    "name": "Karan Sharam",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/IIdFp0Kw.280.jpg",
+    "team": "Gujarat Ultimate",
+    "ucID": 463262
+  },
+  {
+    "gender": "male",
+    "jersey": "55",
+    "name": "Swayam Narang",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/hagQm7K5.280.jpg",
+    "team": "Gujarat Ultimate",
+    "ucID": 463692
+  },
+  {
+    "gender": "male",
+    "jersey": "11",
+    "name": "altaf shaikh",
+    "photo": "https://secure.gravatar.com/avatar/5e9bf06dd511921f0de4558869be9e8a?s=280&d=mm&r=r",
+    "team": "Gujarat Ultimate",
+    "ucID": 463732
+  },
+  {
+    "gender": "male",
+    "jersey": "84",
+    "name": "noman pthan",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/TPGVs559.280.jpg",
+    "team": "Gujarat Ultimate",
+    "ucID": 463748
+  },
+  {
+    "gender": "male",
+    "jersey": "19",
+    "name": "krish patel",
+    "photo": "https://secure.gravatar.com/avatar/86c7ccafef333d5a4771eb5d1cb6d6f5?s=280&d=mm&r=r",
+    "team": "Gujarat Ultimate",
+    "ucID": 463752
+  },
+  {
+    "gender": "female",
+    "jersey": "21",
+    "name": "Khushi Desai",
+    "photo": "https://secure.gravatar.com/avatar/132b66df3849f6bbc61199db0a70d42e?s=280&d=mm&r=r",
+    "team": "Gujarat Ultimate",
+    "ucID": 463936
+  },
+  {
+    "gender": "male",
+    "jersey": "56",
+    "name": "jigarkumar parmar",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/p9bbLQZz.280.jpg",
+    "team": "Gujarat Ultimate",
+    "ucID": 463995
+  },
+  {
+    "gender": "female",
+    "jersey": "97",
+    "name": "Arya Shah",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/YaHdY6lV.280.png",
+    "team": "Gujarat Ultimate",
+    "ucID": 464009
+  },
+  {
+    "gender": "male",
+    "jersey": "23",
+    "name": "Jatin Meena",
+    "photo": "https://secure.gravatar.com/avatar/5c373103b7597131bd19b6d82e53ba3e?s=280&d=mm&r=r",
+    "team": "Delhi Ultimate",
+    "ucID": 464183
+  },
+  {
+    "gender": "male",
+    "jersey": "29",
+    "name": "Ansh Kapadia",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/y3ewWULM.280.jpg",
+    "team": "Gujarat Ultimate",
+    "ucID": 464432
+  },
+  {
+    "gender": "male",
+    "jersey": "1",
+    "name": "Sushant tapse",
+    "photo": "https://secure.gravatar.com/avatar/fac6ab7f7e59195d3b2a5f9d602fef20?s=280&d=mm&r=r",
+    "team": "Maharashtra Ultimate",
+    "ucID": 464444
+  },
+  {
+    "gender": "female",
+    "jersey": "",
+    "name": "Auroshree Mohanta",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/oeujVVPb.280.jpg",
+    "team": "Karnataka State",
+    "ucID": 464549
+  },
+  {
+    "gender": "male",
+    "jersey": "5",
+    "name": "Subash S",
+    "photo": "https://secure.gravatar.com/avatar/532ff5799218d40b0a2e18b9e02156ff?s=280&d=mm&r=r",
+    "team": "Tamilnadu",
+    "ucID": 464784
+  },
+  {
+    "gender": "female",
+    "jersey": "17",
+    "name": "ritika solanki",
+    "photo": "https://secure.gravatar.com/avatar/428b64c07a20ede8d6e584bfe89b56f1?s=280&d=mm&r=r",
+    "team": "Gujarat Ultimate",
+    "ucID": 464847
+  },
+  {
+    "gender": "male",
+    "jersey": "59",
+    "name": "Venkatesh Kumar",
+    "photo": "https://secure.gravatar.com/avatar/2bd2eb4f2d7e0acae3185b5ff53a54cc?s=280&d=mm&r=r",
+    "team": "Telangana Ultimate",
+    "ucID": 464863
+  },
+  {
+    "gender": "female",
+    "jersey": "",
+    "name": "Shruthi Nathella",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/WW6clKqQ.280.jpg",
+    "team": "Tamilnadu",
+    "ucID": 464884
+  },
+  {
+    "gender": "male",
+    "jersey": "74",
+    "name": "Shubham more",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/5wzpQ6ns.280.jpg",
+    "team": "Maharashtra Ultimate",
+    "ucID": 465057
+  },
+  {
+    "gender": "female",
+    "jersey": "77",
+    "name": "Sushma Tapse",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/bxU06lc6.280.jpg",
+    "team": "Maharashtra Ultimate",
+    "ucID": 465252
+  },
+  {
+    "gender": "female",
+    "jersey": "12",
+    "name": "Shraddha Chaudhary",
+    "photo": "https://secure.gravatar.com/avatar/22febd3666a5158e613b22be76462706?s=280&d=mm&r=r",
+    "team": "Gujarat Ultimate",
+    "ucID": 465356
+  },
+  {
+    "gender": "female",
+    "jersey": "",
+    "name": "deepika shankar",
+    "photo": "https://secure.gravatar.com/avatar/8e6b244c648586eff6c7ff4b740680b9?s=280&d=mm&r=r",
+    "team": "Tamilnadu",
+    "ucID": 466950
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "siva kumar",
+    "photo": "https://secure.gravatar.com/avatar/18dfb3054c53467c361a1c7c66c47236?s=280&d=mm&r=r",
+    "team": "Tamilnadu",
+    "ucID": 466970
+  },
+  {
+    "gender": "female",
+    "jersey": "22",
+    "name": "Radhika Rathod",
+    "photo": "https://secure.gravatar.com/avatar/7d39fd56564ea9cd03b5ccc35f582c43?s=280&d=mm&r=r",
+    "team": "Maharashtra Ultimate",
+    "ucID": 475457
+  },
+  {
+    "gender": "male",
+    "jersey": "10",
+    "name": "Vikas Chauhan",
+    "photo": "https://secure.gravatar.com/avatar/52868ad313644964735513dfebd87471?s=280&d=mm&r=r",
+    "team": "Maharashtra Ultimate",
+    "ucID": 475458
+  },
+  {
+    "gender": "female",
+    "jersey": "97",
+    "name": "Nirbha Ghurye",
+    "photo": "https://secure.gravatar.com/avatar/8209e9c0d624135999aa05c1e238885b?s=280&d=mm&r=r",
+    "team": "Maharashtra Ultimate",
+    "ucID": 483532
+  },
+  {
+    "gender": "male",
+    "jersey": "23",
+    "name": "Akshai Abraham",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/Exas2eVR.280.jpg",
+    "team": "Uttar Pradesh",
+    "ucID": 511034
+  },
+  {
+    "gender": "female",
+    "jersey": "",
+    "name": "Shruthi Gowda",
+    "photo": "https://secure.gravatar.com/avatar/8752c3681336033d82b39e323bd37234?s=280&d=mm&r=r",
+    "team": "Karnataka State",
+    "ucID": 518785
+  },
+  {
+    "gender": "female",
+    "jersey": "",
+    "name": "Vaishnavi Devi",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/L8lfwwyQ.280.jpg",
+    "team": "Karnataka State",
+    "ucID": 520985
+  },
+  {
+    "gender": "female",
+    "jersey": "88",
+    "name": "Apoorva C A",
+    "photo": "https://secure.gravatar.com/avatar/823579d4949b1bfadc717b66f6730aff?s=280&d=mm&r=r",
+    "team": "Karnataka State",
+    "ucID": 524521
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Prashanth S",
+    "photo": "https://secure.gravatar.com/avatar/94477779ed859b622650c6e0775b4c6f?s=280&d=mm&r=r",
+    "team": "Karnataka State",
+    "ucID": 526788
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Sabeel Khader",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/Q2bdPl9L.280.jpg",
+    "team": "Karnataka State",
+    "ucID": 526970
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Kiran Kumar",
+    "photo": "https://secure.gravatar.com/avatar/d6406f58155183faea8300ac5e006cd9?s=280&d=mm&r=r",
+    "team": "Tamilnadu",
+    "ucID": 527513
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Vimanthan L",
+    "photo": "https://secure.gravatar.com/avatar/539057c8f9c6086c837dff9fc9bef8d4?s=280&d=mm&r=r",
+    "team": "Tamilnadu",
+    "ucID": 527519
+  },
+  {
+    "gender": "female",
+    "jersey": "19",
+    "name": "vidya parmar",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/SEZPDfx9.280.jpg",
+    "team": "Maharashtra Ultimate",
+    "ucID": 527720
+  },
+  {
+    "gender": "male",
+    "jersey": "7",
+    "name": "mayank dawra",
+    "photo": "https://secure.gravatar.com/avatar/03127b1fdf09f6ad9ed5a353f97844cc?s=280&d=mm&r=r",
+    "team": "Telangana Ultimate",
+    "ucID": 578432
+  },
+  {
+    "gender": "female",
+    "jersey": "10",
+    "name": "Aarti Kumari",
+    "photo": "https://secure.gravatar.com/avatar/9b44134c9dcc4b3a614fd2d9cbdd599a?s=280&d=mm&r=r",
+    "team": "Delhi Ultimate",
+    "ucID": 594171
+  },
+  {
+    "gender": "male",
+    "jersey": "4",
+    "name": "Kanishk K",
+    "photo": "https://secure.gravatar.com/avatar/48c48ea5f2bbab02be5bc62ea7a29e30?s=280&d=mm&r=r",
+    "team": "Delhi Ultimate",
+    "ucID": 599453
+  },
+  {
+    "gender": "female",
+    "jersey": "51",
+    "name": "Sowmya Gascon",
+    "photo": "https://secure.gravatar.com/avatar/9f4f88637d1d335a51aa25c41244d95f?s=280&d=mm&r=r",
+    "team": "Delhi Ultimate",
+    "ucID": 600252
+  },
+  {
+    "gender": "male",
+    "jersey": "1",
+    "name": "Vikram Namdeo",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/Cz2B8yob.280.jpg",
+    "team": "Uttar Pradesh",
+    "ucID": 601615
+  },
+  {
+    "gender": "male",
+    "jersey": "1",
+    "name": "Kishen Chandar",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/5hWWysTS.280.jpg",
+    "team": "Telangana Ultimate",
+    "ucID": 602339
+  },
+  {
+    "gender": "female",
+    "jersey": "19",
+    "name": "Roshni Bharti",
+    "photo": "https://secure.gravatar.com/avatar/d0ab3e7b0a4b99052979bab4c5879304?s=280&d=mm&r=r",
+    "team": "Uttar Pradesh",
+    "ucID": 608818
+  },
+  {
+    "gender": "male",
+    "jersey": "5",
+    "name": "Priyanshu Singh",
+    "photo": "https://secure.gravatar.com/avatar/c1fba8ed659d2516bb16677d823c97b2?s=280&d=mm&r=r",
+    "team": "Uttar Pradesh",
+    "ucID": 608835
+  },
+  {
+    "gender": "female",
+    "jersey": "18",
+    "name": "Raveena Kannaujia",
+    "photo": "https://secure.gravatar.com/avatar/3420e34bf13a4ed359e8ae9b66c0ac84?s=280&d=mm&r=r",
+    "team": "Uttar Pradesh",
+    "ucID": 608840
+  },
+  {
+    "gender": "female",
+    "jersey": "9",
+    "name": "Manju Kushwaha",
+    "photo": "https://secure.gravatar.com/avatar/045dc0151449e74e6d57114633d25494?s=280&d=mm&r=r",
+    "team": "Uttar Pradesh",
+    "ucID": 608843
+  },
+  {
+    "gender": "female",
+    "jersey": "2",
+    "name": "Neha Bharti",
+    "photo": "https://secure.gravatar.com/avatar/3b92489bd0be771c93fd308a89afd870?s=280&d=mm&r=r",
+    "team": "Uttar Pradesh",
+    "ucID": 610259
+  },
+  {
+    "gender": "male",
+    "jersey": "45",
+    "name": "Sunny Azad",
+    "photo": "https://secure.gravatar.com/avatar/ac616950beb6fc7def2d4370ad3a4ec5?s=280&d=mm&r=r",
+    "team": "Uttar Pradesh",
+    "ucID": 610260
+  },
+  {
+    "gender": "female",
+    "jersey": "8",
+    "name": "Mehr Parisha",
+    "photo": "https://secure.gravatar.com/avatar/cd7247f8dd0bfe7439fb7b053d253785?s=280&d=mm&r=r",
+    "team": "Delhi Ultimate",
+    "ucID": 610353
+  },
+  {
+    "gender": "female",
+    "jersey": "16",
+    "name": "Prachi Mehta",
+    "photo": "https://secure.gravatar.com/avatar/a7f4ca4a984b0b83683110b0274ce6bb?s=280&d=mm&r=r",
+    "team": "Delhi Ultimate",
+    "ucID": 681232
+  },
+  {
+    "gender": "female",
+    "jersey": "3",
+    "name": "Kalpana Rathod",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/L9vx8OA4.280.jpg",
+    "team": "Maharashtra Ultimate",
+    "ucID": 681596
+  },
+  {
+    "gender": "female",
+    "jersey": "97",
+    "name": "Mabiya Parbeen",
+    "photo": "https://secure.gravatar.com/avatar/b7bd4ab6948cdb20a2a2b653991c6eee?s=280&d=mm&r=r",
+    "team": "Uttar Pradesh",
+    "ucID": 681711
+  },
+  {
+    "gender": "male",
+    "jersey": "85",
+    "name": "Krishna Singh",
+    "photo": "https://secure.gravatar.com/avatar/8bb3f5047d7be39886737ae87fb1bbce?s=280&d=mm&r=r",
+    "team": "Uttar Pradesh",
+    "ucID": 681722
+  },
+  {
+    "gender": "male",
+    "jersey": "60",
+    "name": "Sonu Kashyap",
+    "photo": "https://secure.gravatar.com/avatar/31cf4c73c9857dadabe4cfce91fd8963?s=280&d=mm&r=r",
+    "team": "Uttar Pradesh",
+    "ucID": 681724
+  },
+  {
+    "gender": "male",
+    "jersey": "10",
+    "name": "Arun Kumar",
+    "photo": "https://secure.gravatar.com/avatar/a9c08997b18c4954e1d9eacf18ed6c6d?s=280&d=mm&r=r",
+    "team": "Uttar Pradesh",
+    "ucID": 682441
+  },
+  {
+    "gender": "female",
+    "jersey": "22",
+    "name": "Vandana Kashyap",
+    "photo": "https://secure.gravatar.com/avatar/fc222869389a60a2e01a584d8776131a?s=280&d=mm&r=r",
+    "team": "Uttar Pradesh",
+    "ucID": 682442
+  },
+  {
+    "gender": "female",
+    "jersey": "17",
+    "name": "Ananya Shaju",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/Ke67PKLH.280.jpg",
+    "team": "Karnataka State",
+    "ucID": 683614
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Harsh Nisar",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/oxf3qEQ8.280.jpg",
+    "team": "Tamilnadu",
+    "ucID": 684223
+  },
+  {
+    "gender": "female",
+    "jersey": "",
+    "name": "Gothainayagi R",
+    "photo": "https://secure.gravatar.com/avatar/de73f9ad0fdf94f9ab907fa7a96c6bc4?s=280&d=mm&r=r",
+    "team": "Tamilnadu",
+    "ucID": 684228
+  },
+  {
+    "gender": "female",
+    "jersey": "",
+    "name": "Nayanatara Vadali",
+    "photo": "https://secure.gravatar.com/avatar/f7040702d2f9ad6bbdf439d0f447c962?s=280&d=mm&r=r",
+    "team": "Telangana Ultimate",
+    "ucID": 684232
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Yadav Ajay",
+    "photo": "https://secure.gravatar.com/avatar/9c85701c09702561fa5673eb8149c99c?s=280&d=mm&r=r",
+    "team": "Karnataka State",
+    "ucID": 684256
+  },
+  {
+    "gender": "female",
+    "jersey": "",
+    "name": "Ramya Bhavana Kothapalli",
+    "photo": "https://secure.gravatar.com/avatar/f0ba6e5772276817d121cd2dde229ad8?s=280&d=mm&r=r",
+    "team": "Telangana Ultimate",
+    "ucID": 684265
+  },
+  {
+    "gender": "male",
+    "jersey": "17",
+    "name": "Aman Doharey",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/GDNTzkYT.280.jpg",
+    "team": "Delhi Ultimate",
+    "ucID": 685084
+  },
+  {
+    "gender": "male",
+    "jersey": "1",
+    "name": "Subhadeep Guha",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/UrV5O59p.280.jpg",
+    "team": "Delhi Ultimate",
+    "ucID": 685088
+  },
+  {
+    "gender": "female",
+    "jersey": "26",
+    "name": "Anudnya Jori",
+    "photo": "https://secure.gravatar.com/avatar/cd8b837ec57160eb4cb2a8e98a5d1033?s=280&d=mm&r=r",
+    "team": "Maharashtra Ultimate",
+    "ucID": 690928
+  },
+  {
+    "gender": "female",
+    "jersey": "9",
+    "name": "Tanisha Rathod",
+    "photo": "https://secure.gravatar.com/avatar/1c25b5b9a52e141acc2f07d18a9369f2?s=280&d=mm&r=r",
+    "team": "Gujarat Ultimate",
+    "ucID": 693884
+  },
+  {
+    "gender": "male",
+    "jersey": "12",
+    "name": "Chandan Rastogi",
+    "photo": "https://secure.gravatar.com/avatar/7bf356eeff956ef874a45f5b5e0d8d7c?s=280&d=mm&r=r",
+    "team": "Uttar Pradesh",
+    "ucID": 696362
+  },
+  {
+    "gender": "female",
+    "jersey": "8",
+    "name": "Suman Nachiketa",
+    "photo": "https://secure.gravatar.com/avatar/8f0852f56a68cce1db9998e1b93cdd81?s=280&d=mm&r=r",
+    "team": "Gujarat Ultimate",
+    "ucID": 726519
+  },
+  {
+    "gender": "male",
+    "jersey": "31",
+    "name": "Shivamkumar Dubey",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/kxz7Zfdl.280.jpg",
+    "team": "Maharashtra Ultimate",
+    "ucID": 737109
+  },
+  {
+    "gender": "male",
+    "jersey": "4",
+    "name": "Tahir Siddiqui",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/NGEvYqfb.280.jpg",
+    "team": "Maharashtra Ultimate",
+    "ucID": 738032
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Samatv Iyer",
+    "photo": "https://secure.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=280&d=mm&r=r",
+    "team": "Karnataka State",
+    "ucID": 739130
+  },
+  {
+    "gender": "female",
+    "jersey": "18",
+    "name": "Pooja B",
+    "photo": "https://secure.gravatar.com/avatar/b58784c417cf14bc8423753c2bba09d3?s=280&d=mm&r=r",
+    "team": "Tamilnadu",
+    "ucID": 739692
+  },
+  {
+    "gender": "male",
+    "jersey": "7",
+    "name": "atul parmar",
+    "photo": "https://secure.gravatar.com/avatar/ed6c26fadedfbea1fa2a44aef7c5bc90?s=280&d=mm&r=r",
+    "team": "Gujarat Ultimate",
+    "ucID": 739920
+  },
+  {
+    "gender": "female",
+    "jersey": "13",
+    "name": "Snehankita Rout",
+    "photo": "https://secure.gravatar.com/avatar/e87d127d9dc4f1a6200dc8f3f62ca20a?s=280&d=mm&r=r",
+    "team": "Tamilnadu",
+    "ucID": 742589
+  },
+  {
+    "gender": "female",
+    "jersey": "19",
+    "name": "Shrilaxmi Patil",
+    "photo": "https://secure.gravatar.com/avatar/622f1b518d5ec0ab939bc973c180b7ed?s=280&d=mm&r=r",
+    "team": "Karnataka State",
+    "ucID": 743982
+  },
+  {
+    "gender": "male",
+    "jersey": "23",
+    "name": "Sachin Pandit",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/geMOyGfJ.280.jpg",
+    "team": "Maharashtra Ultimate",
+    "ucID": 746716
+  },
+  {
+    "gender": "female",
+    "jersey": "",
+    "name": "Akshara Domala",
+    "photo": "https://secure.gravatar.com/avatar/72e4022736dfb2dd8a0934f94e07a8df?s=280&d=mm&r=r",
+    "team": "Telangana Ultimate",
+    "ucID": 756799
+  },
+  {
+    "gender": "male",
+    "jersey": "0",
+    "name": "Sunny Chauhan",
+    "photo": "https://secure.gravatar.com/avatar/e249fbb2966607bcce71e46fc7691836?s=280&d=mm&r=r",
+    "team": "Delhi Ultimate",
+    "ucID": 759113
+  },
+  {
+    "gender": "male",
+    "jersey": "13",
+    "name": "Mohit Rawat",
+    "photo": "https://secure.gravatar.com/avatar/1883885cbe61e9bfc669f9e3a1a2bfed?s=280&d=mm&r=r",
+    "team": "Delhi Ultimate",
+    "ucID": 759410
+  },
+  {
+    "gender": "female",
+    "jersey": "11",
+    "name": "Angana Prasad",
+    "photo": "https://secure.gravatar.com/avatar/4453acd98f402224e3efef9a5fb7538a?s=280&d=mm&r=r",
+    "team": "Uttar Pradesh",
+    "ucID": 759781
+  },
+  {
+    "gender": "male",
+    "jersey": "9",
+    "name": "Naveen G",
+    "photo": "https://secure.gravatar.com/avatar/cd62c720b68fabfca34d6eea3a7b9d66?s=280&d=mm&r=r",
+    "team": "Karnataka State",
+    "ucID": 760222
+  },
+  {
+    "gender": "female",
+    "jersey": "18",
+    "name": "KIRTIKA KHAMBHU",
+    "photo": "https://secure.gravatar.com/avatar/4a84b5c459be5fc84e65a5e023ea253d?s=280&d=mm&r=r",
+    "team": "Gujarat Ultimate",
+    "ucID": 765736
+  },
+  {
+    "gender": "female",
+    "jersey": "77",
+    "name": "Pooja S",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/qRTZgIAo.280.jpg",
+    "team": "Tamilnadu",
+    "ucID": 785012
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Abdul Talib",
+    "photo": "https://secure.gravatar.com/avatar/41f27c07699e42d1499c07a8827c1194?s=280&d=mm&r=r",
+    "team": "Karnataka State",
+    "ucID": 857281
+  },
+  {
+    "gender": "female",
+    "jersey": "8",
+    "name": "Kajal JMP",
+    "photo": "https://secure.gravatar.com/avatar/6dadd88d42b0a89e3f27107e047b7b58?s=280&d=mm&r=r",
+    "team": "Uttar Pradesh",
+    "ucID": 860276
+  },
+  {
+    "gender": "male",
+    "jersey": "3",
+    "name": "Gufraan Itaunja",
+    "photo": "https://secure.gravatar.com/avatar/612e49a7e7d1e7c1b08ef11ce7f8abbe?s=280&d=mm&r=r",
+    "team": "Uttar Pradesh",
+    "ucID": 866586
+  },
+  {
+    "gender": "male",
+    "jersey": "4",
+    "name": "Krishna Sharma",
+    "photo": "https://secure.gravatar.com/avatar/c823af2b1812b1d8745e4e7b030e25d9?s=280&d=mm&r=r",
+    "team": "Uttar Pradesh",
+    "ucID": 866588
+  },
+  {
+    "gender": "male",
+    "jersey": "15",
+    "name": "Divakar Rai",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/8tfTfTBZ.280.jpg",
+    "team": "Uttar Pradesh",
+    "ucID": 866645
+  },
+  {
+    "gender": "male",
+    "jersey": "7",
+    "name": "Govind JMP",
+    "photo": "https://secure.gravatar.com/avatar/2f94801a43936a38dc33ff5b1a89144e?s=280&d=mm&r=r",
+    "team": "Uttar Pradesh",
+    "ucID": 867380
+  },
+  {
+    "gender": "female",
+    "jersey": "95",
+    "name": "Aastha Gupta",
+    "photo": "https://secure.gravatar.com/avatar/eeb653b212993f45cceb21c3f69954ff?s=280&d=mm&r=r",
+    "team": "Delhi Ultimate",
+    "ucID": 869635
+  },
+  {
+    "gender": "female",
+    "jersey": "7",
+    "name": "Sapna Dodmani",
+    "photo": "https://secure.gravatar.com/avatar/46bcc4de0ed80e4598b40bde1252af41?s=280&d=mm&r=r",
+    "team": "Maharashtra Ultimate",
+    "ucID": 870204
+  },
+  {
+    "gender": "female",
+    "jersey": "",
+    "name": "Sagarika Ghanagam",
+    "photo": "https://secure.gravatar.com/avatar/cc64239f1874047080d27d88c81116cc?s=280&d=mm&r=r",
+    "team": "Karnataka State",
+    "ucID": 871649
+  },
+  {
+    "gender": "female",
+    "jersey": "12",
+    "name": "Khushboo Khatun",
+    "photo": "https://secure.gravatar.com/avatar/29fb5c5ecc48c01425e9acc6fbc9da9c?s=280&d=mm&r=r",
+    "team": "Delhi Ultimate",
+    "ucID": 872106
+  },
+  {
+    "gender": "female",
+    "jersey": "24",
+    "name": "Ananya Thomas",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/ELWv7vVs.280.png",
+    "team": "Maharashtra Ultimate",
+    "ucID": 872174
+  },
+  {
+    "gender": "male",
+    "jersey": "69",
+    "name": "Rohan Bijoor",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/XT3rOKJE.280.jpg",
+    "team": "Maharashtra Ultimate",
+    "ucID": 872227
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "aaron varghese",
+    "photo": "https://secure.gravatar.com/avatar/12df054283b23c9ff1c77ce5835d96e7?s=280&d=mm&r=r",
+    "team": "Karnataka State",
+    "ucID": 878650
+  },
+  {
+    "gender": "female",
+    "jersey": "17",
+    "name": "Anshika Itaunja",
+    "photo": "https://secure.gravatar.com/avatar/7566dff95368b38474f24642dc7affec?s=280&d=mm&r=r",
+    "team": "Uttar Pradesh",
+    "ucID": 895023
+  },
+  {
+    "gender": "male",
+    "jersey": "49",
+    "name": "Sanjeev Kumar",
+    "photo": "https://secure.gravatar.com/avatar/fdfd467e89938d2b18f9ee0a98dd1908?s=280&d=mm&r=r",
+    "team": "Maharashtra Ultimate",
+    "ucID": 901515
+  },
+  {
+    "gender": "female",
+    "jersey": "",
+    "name": "Naina Mathews",
+    "photo": "https://secure.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=280&d=mm&r=r",
+    "team": "Karnataka State",
+    "ucID": 901918
+  },
+  {
+    "gender": "female",
+    "jersey": "3",
+    "name": "Swathi Shetty",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/bMvUidbV.280.jpg",
+    "team": "Karnataka State",
+    "ucID": 901944
+  },
+  {
+    "gender": "female",
+    "jersey": "94",
+    "name": "Samyuktha Arvind",
+    "photo": "https://secure.gravatar.com/avatar/99a8dc43479e9f21a6a9939c04deee6a?s=280&d=mm&r=r",
+    "team": "Tamilnadu",
+    "ucID": 907808
+  },
+  {
+    "gender": "female",
+    "jersey": "5",
+    "name": "Riya Rathod",
+    "photo": "https://secure.gravatar.com/avatar/5e26a689370fcdd5aacbbbe0eee1639a?s=280&d=mm&r=r",
+    "team": "Gujarat Ultimate",
+    "ucID": 908378
+  },
+  {
+    "gender": "male",
+    "jersey": "9",
+    "name": "Stephen Charles",
+    "photo": "https://secure.gravatar.com/avatar/c2cdac48c62bba5ca52a2f583e3e8930?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 910501
+  },
+  {
+    "gender": "female",
+    "jersey": "",
+    "name": "goundla mamatha",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/lw4viC4k.280.jpg",
+    "team": "Telangana Ultimate",
+    "ucID": 927793
+  },
+  {
+    "gender": "female",
+    "jersey": "",
+    "name": "Manasa H G",
+    "photo": "https://secure.gravatar.com/avatar/de8132ad055a30408f1751be1b38d625?s=280&d=mm&r=r",
+    "team": "Telangana Ultimate",
+    "ucID": 982503
+  },
+  {
+    "gender": "male",
+    "jersey": "68",
+    "name": "Chandan Dubey",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/6yW1cIkE.280.jpg",
+    "team": "Maharashtra Ultimate",
+    "ucID": 1016548
+  },
+  {
+    "gender": "female",
+    "jersey": "2",
+    "name": "Vijaya Dharshini M",
+    "photo": "https://secure.gravatar.com/avatar/12658ae780dc00ce2976d3f1aa8a9bfe?s=280&d=mm&r=r",
+    "team": "Tamilnadu",
+    "ucID": 1016707
+  },
+  {
+    "gender": "male",
+    "jersey": "63",
+    "name": "Kunal Pasalkar",
+    "photo": "https://secure.gravatar.com/avatar/88f1cc662cf5c0f870198fbb26beb858?s=280&d=mm&r=r",
+    "team": "Maharashtra Ultimate",
+    "ucID": 1021202
+  },
+  {
+    "gender": "female",
+    "jersey": "",
+    "name": "Srividya Suriyashekar",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/DiJYyRdC.280.jpg",
+    "team": "Tamilnadu",
+    "ucID": 1043560
+  },
+  {
+    "gender": "female",
+    "jersey": "73",
+    "name": "vaishnavi _",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/V2723erT.280.jpg",
+    "team": "Maharashtra Ultimate",
+    "ucID": 1044695
+  },
+  {
+    "gender": "female",
+    "jersey": "27",
+    "name": "Kimaya Dhongde",
+    "photo": "https://secure.gravatar.com/avatar/b9f49e3c9f32cd0712add8035aa729d4?s=280&d=mm&r=r",
+    "team": "Maharashtra Ultimate",
+    "ucID": 1049306
+  },
+  {
+    "gender": "male",
+    "jersey": "35",
+    "name": "Sanjay Parmar",
+    "photo": "https://secure.gravatar.com/avatar/1931a1c46a28fa02fd6db84f51c4dd84?s=280&d=mm&r=r",
+    "team": "Gujarat Ultimate",
+    "ucID": 1050347
+  },
+  {
+    "gender": "male",
+    "jersey": "3",
+    "name": "Nikhil Diwakar",
+    "photo": "https://secure.gravatar.com/avatar/d0c0f0366a3fabcabe2536f7a1776949?s=280&d=mm&r=r",
+    "team": "Gujarat Ultimate",
+    "ucID": 1050487
+  },
+  {
+    "gender": "female",
+    "jersey": "0",
+    "name": "Sagarika AP",
+    "photo": "https://secure.gravatar.com/avatar/9e6d374e03312d12b29cbb4805a3d112?s=280&d=mm&r=r",
+    "team": "Tamilnadu",
+    "ucID": 1050945
+  },
+  {
+    "gender": "male",
+    "jersey": "14",
+    "name": "Karan Arora",
+    "photo": "https://secure.gravatar.com/avatar/0bd4c432c76ef53545e06b2720341421?s=280&d=mm&r=r",
+    "team": "Maharashtra Ultimate",
+    "ucID": 1051370
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Ravitheja Tetali",
+    "photo": "https://secure.gravatar.com/avatar/80f8eb3cede98b25226334964b5a0a08?s=280&d=mm&r=r",
+    "team": "Telangana Ultimate",
+    "ucID": 1076200
+  },
+  {
+    "gender": "female",
+    "jersey": "6",
+    "name": "Kavya Chandel",
+    "photo": "https://secure.gravatar.com/avatar/013ca633092db41ed85a82a0a06ea4fc?s=280&d=mm&r=r",
+    "team": "Maharashtra Ultimate",
+    "ucID": 1077390
+  },
+  {
+    "gender": "female",
+    "jersey": "11",
+    "name": "Poonam Pokale",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/27aMu23R.280.jpg",
+    "team": "Maharashtra Ultimate",
+    "ucID": 1077409
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Yuvaraj Magesh",
+    "photo": "https://secure.gravatar.com/avatar/f66c306cc14412054482872a0dd60cbf?s=280&d=mm&r=r",
+    "team": "Tamilnadu",
+    "ucID": 1078469
+  },
+  {
+    "gender": "female",
+    "jersey": "18",
+    "name": "Shraddha Tiwari",
+    "photo": "https://secure.gravatar.com/avatar/7cfc3eaa2388cd946bab1fe28f9f1dc0?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117008
+  },
+  {
+    "gender": "male",
+    "jersey": "1",
+    "name": "Anish Mallah",
+    "photo": "https://secure.gravatar.com/avatar/e583d3b374109404f52713b14690e9d9?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117009
+  },
+  {
+    "gender": "male",
+    "jersey": "11",
+    "name": "Om Yadav",
+    "photo": "https://secure.gravatar.com/avatar/ca271786296911447593a05e88d49b8a?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117012
+  },
+  {
+    "gender": "male",
+    "jersey": "10",
+    "name": "Harsh Kori",
+    "photo": "https://secure.gravatar.com/avatar/ac399f55bce1113ea6f947d6b8ec5042?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117548
+  },
+  {
+    "gender": "male",
+    "jersey": "17",
+    "name": "Dhanraj Kalar",
+    "photo": "https://secure.gravatar.com/avatar/71064fc7104cbe2945ae86972d548853?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117549
+  },
+  {
+    "gender": "male",
+    "jersey": "77",
+    "name": "Karan Mallah",
+    "photo": "https://secure.gravatar.com/avatar/5242a5bcbb8ea024beec553b1f6ffef3?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117550
+  },
+  {
+    "gender": "male",
+    "jersey": "14",
+    "name": "Rizwan Singh",
+    "photo": "https://secure.gravatar.com/avatar/e3d8ae8fae65dd2597a04947e045e877?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117552
+  },
+  {
+    "gender": "male",
+    "jersey": "3",
+    "name": "Radhepal Choudhary",
+    "photo": "https://secure.gravatar.com/avatar/ea8ea264ce7e318e647e0590958dc72c?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117553
+  },
+  {
+    "gender": "female",
+    "jersey": "8",
+    "name": "Harshita Kori",
+    "photo": "https://secure.gravatar.com/avatar/4bab0617e51a43291b0362b715fdfdf1?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117554
+  },
+  {
+    "gender": "female",
+    "jersey": "81",
+    "name": "Shruti Kori",
+    "photo": "https://secure.gravatar.com/avatar/e4e42a36e7df64d7f03ae2b236ab3e57?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117555
+  },
+  {
+    "gender": "female",
+    "jersey": "19",
+    "name": "Sakshi Mallah",
+    "photo": "https://secure.gravatar.com/avatar/04ab9cbd11c01d8b042f72e3283d4f8f?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117556
+  },
+  {
+    "gender": "male",
+    "jersey": "99",
+    "name": "Aryan Rawat",
+    "photo": "https://secure.gravatar.com/avatar/cde9c0faa1373560b4e0dd0e8a2d38cb?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117557
+  },
+  {
+    "gender": "male",
+    "jersey": "7",
+    "name": "Anurag Patel",
+    "photo": "https://secure.gravatar.com/avatar/746a8ae6915e12035c30e1f25abdcc6e?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117558
+  },
+  {
+    "gender": "female",
+    "jersey": "33",
+    "name": "Muskaan Mallah",
+    "photo": "https://secure.gravatar.com/avatar/0c4c9b20b6be2329fd85cf84c9d2106e?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117559
+  },
+  {
+    "gender": "female",
+    "jersey": "88",
+    "name": "Anushka Mallah",
+    "photo": "https://secure.gravatar.com/avatar/d9e5622662a6eba3766ff8864db8acd0?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117560
+  },
+  {
+    "gender": "female",
+    "jersey": "12",
+    "name": "Jiya Parmar",
+    "photo": "https://secure.gravatar.com/avatar/bf3264cf7de2be6ef19c190cdb2dba88?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117561
+  },
+  {
+    "gender": "female",
+    "jersey": "13",
+    "name": "Malti Jhanjhoriya",
+    "photo": "https://secure.gravatar.com/avatar/6527c97aae0a8b080dc6b5522f7d3dde?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117562
+  },
+  {
+    "gender": "female",
+    "jersey": "5",
+    "name": "Vandana Jhanjhoriya",
+    "photo": "https://secure.gravatar.com/avatar/69e184ae24a7a089feb338fcc9af1df4?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117563
+  },
+  {
+    "gender": "female",
+    "jersey": "22",
+    "name": "Shagun Kori",
+    "photo": "https://secure.gravatar.com/avatar/d02e216693dd51e0dc279523043354a9?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117564
+  },
+  {
+    "gender": "male",
+    "jersey": "27",
+    "name": "Abhishek Pawar",
+    "photo": "https://secure.gravatar.com/avatar/b29f390f49b3fdbdd822a93068a75466?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117604
+  },
+  {
+    "gender": "male",
+    "jersey": "2",
+    "name": "Rajveer Parmar",
+    "photo": "https://secure.gravatar.com/avatar/5c4a4de2b9c2f16d3bcca1d01aa3fa39?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117605
+  },
+  {
+    "gender": "male",
+    "jersey": "4",
+    "name": "Dilbaras Parmar",
+    "photo": "https://secure.gravatar.com/avatar/4fb20f461239401ef019314acffd8b7c?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117606
+  },
+  {
+    "gender": "female",
+    "jersey": "41",
+    "name": "Sheeba Itaunja",
+    "photo": "https://secure.gravatar.com/avatar/772fa0e4b25a98d421845e6df5819471?s=280&d=mm&r=r",
+    "team": "Uttar Pradesh",
+    "ucID": 1118689
+  },
+  {
+    "gender": "female",
+    "jersey": "15",
+    "name": "Neha Diwakar",
+    "photo": "https://secure.gravatar.com/avatar/17bde179023795f748d78f40eedad259?s=280&d=mm&r=r",
+    "team": "Gujarat Ultimate",
+    "ucID": 1119472
+  },
+  {
+    "gender": "female",
+    "jersey": "",
+    "name": "Varshita M",
+    "photo": "https://secure.gravatar.com/avatar/a81949f1395020eecc659544045cc00b?s=280&d=mm&r=r",
+    "team": "Telangana Ultimate",
+    "ucID": 1119859
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Anil Naik",
+    "photo": "https://secure.gravatar.com/avatar/7692d7955770c82eaf5f37525e6a2234?s=280&d=mm&r=r",
+    "team": "Telangana Ultimate",
+    "ucID": 1119862
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Anil K",
+    "photo": "https://secure.gravatar.com/avatar/80be51d84f025d18f6e8c7d6c03adc5e?s=280&d=mm&r=r",
+    "team": "Telangana Ultimate",
+    "ucID": 1119863
+  },
+  {
+    "gender": "female",
+    "jersey": "",
+    "name": "Sindhu M",
+    "photo": "https://secure.gravatar.com/avatar/d8c8882a71814c1f838cf505085c6f5c?s=280&d=mm&r=r",
+    "team": "Telangana Ultimate",
+    "ucID": 1119876
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Tharun K",
+    "photo": "https://secure.gravatar.com/avatar/9c33fc30318083c41240745b22352a41?s=280&d=mm&r=r",
+    "team": "Telangana Ultimate",
+    "ucID": 1119878
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Suresh K",
+    "photo": "https://secure.gravatar.com/avatar/4c1d1cde2489bd4645413777843972b6?s=280&d=mm&r=r",
+    "team": "Telangana Ultimate",
+    "ucID": 1119879
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Panvi  S",
+    "photo": "https://secure.gravatar.com/avatar/e646998c3220c87e9335b1e642ba5b8b?s=280&d=mm&r=r",
+    "team": "Telangana Ultimate",
+    "ucID": 1119880
+  },
+  {
+    "gender": "female",
+    "jersey": "",
+    "name": "Ankita P",
+    "photo": "https://secure.gravatar.com/avatar/46357e2e2cf2177b59f50ac4399efcca?s=280&d=mm&r=r",
+    "team": "Telangana Ultimate",
+    "ucID": 1119882
+  },
+  {
+    "gender": "female",
+    "jersey": "",
+    "name": "Usha Rani",
+    "photo": "https://secure.gravatar.com/avatar/83a80d8b66c4782c4ff2c478b1d3a795?s=280&d=mm&r=r",
+    "team": "Telangana Ultimate",
+    "ucID": 1119883
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Sandeep G",
+    "photo": "https://secure.gravatar.com/avatar/5f57579cdf34a848702b1b30ac6c18ed?s=280&d=mm&r=r",
+    "team": "Telangana Ultimate",
+    "ucID": 1119884
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Pranay M",
+    "photo": "https://secure.gravatar.com/avatar/3e3bf95b8fc86f685099b424798e36dc?s=280&d=mm&r=r",
+    "team": "Telangana Ultimate",
+    "ucID": 1119887
+  },
+  {
+    "gender": "male",
+    "jersey": "",
+    "name": "Abimanyu Nair",
+    "photo": "https://secure.gravatar.com/avatar/0faa165bd2da83615b9787788b47e708?s=280&d=mm&r=r",
+    "team": "Telangana Ultimate",
+    "ucID": 1119901
+  },
+  {
+    "gender": "female",
+    "jersey": "28",
+    "name": "Mansi Walecha",
+    "photo": "https://secure.gravatar.com/avatar/fb3ceef474326598d4b366b98fa4897d?s=280&d=mm&r=r",
+    "team": "Delhi Ultimate",
+    "ucID": 1120262
+  },
+  {
+    "gender": "male",
+    "jersey": "7",
+    "name": "Sidharth Walecha",
+    "photo": "https://secure.gravatar.com/avatar/4673c2a21bfae62e3d9a5aacb8561512?s=280&d=mm&r=r",
+    "team": "Delhi Ultimate",
+    "ucID": 1120263
+  },
+  {
+    "gender": "female",
+    "jersey": "34",
+    "name": "Sangeeta Singh",
+    "photo": "https://secure.gravatar.com/avatar/2c458bdba830bdd73f2512078636d034?s=280&d=mm&r=r",
+    "team": "Delhi Ultimate",
+    "ucID": 1120264
+  },
+  {
+    "gender": "female",
+    "jersey": "2",
+    "name": "Veena Singh",
+    "photo": "https://secure.gravatar.com/avatar/fe8979701b3e8604545ba470ca669e10?s=280&d=mm&r=r",
+    "team": "Delhi Ultimate",
+    "ucID": 1120265
+  },
+  {
+    "gender": "male",
+    "jersey": "94",
+    "name": "Aranyadev Jhala",
+    "photo": "https://secure.gravatar.com/avatar/71337537c9b62809e7219156ae483625?s=280&d=mm&r=r",
+    "team": "Delhi Ultimate",
+    "ucID": 1120266
+  }
+]
