@@ -72,7 +72,6 @@ const PlayerProfile = () => {
 										color: "transparent",
 										font: "bold 8vw Poppins, sans-serif",
 										mt: "2vh",
-										textTransform: "capitalize",
 									}}
 									variant="h6"
 									component="h1"
