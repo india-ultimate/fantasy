@@ -2,6 +2,7 @@ import { Button, Link, Grid, Typography, Divider } from "@mui/material";
 import React from "react";
 import Navbar from "../components/Navbar";
 import TeamList from "../components/TeamList";
+import SponsorList from "../components/SponsorList";
 import KeyboardDoubleArrowRightIcon from "@mui/icons-material/KeyboardDoubleArrowRight";
 import { useNavigate } from "react-router-dom";
 
@@ -150,30 +151,7 @@ const Home = () => {
 						Sponsors
 					</Typography>
 				</Divider>
-				<Grid
-					container
-					spacing={0}
-					alignItems="center"
-					justifyContent="center"
-					style={{ height: "40vw", width: "100%" }}
-				>
-					{/* <Grid item xs={12} sx={{ px: "10px" }}>
-						<Typography
-							variant="h1"
-							component="h1"
-							align="center"
-							sx={{
-								font: "5vh caption",
-							}}
-						>
-							Sponsors
-						</Typography>
-					</Grid> */}
-					<img
-						style={{ width: "90%" }}
-						src="https://res.cloudinary.com/india-ultimate/image/upload/v1661335497/ultimate-fantasy-league/sponsor-logos.png"
-					/>
-				</Grid>
+				<SponsorList />
 			</Navbar>
 		</div>
 	);

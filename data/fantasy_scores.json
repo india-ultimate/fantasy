@@ -100,6 +100,11 @@
     "fantasy_score": 0
   },
   {
+    "name": "Arnob Das",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
     "name": "Arvind (Birdie)",
     "valid_team": true,
     "fantasy_score": 0
@@ -151,6 +156,11 @@
   },
   {
     "name": "Cyril Binoy",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Deepak Chander Sharma",
     "valid_team": true,
     "fantasy_score": 0
   },
@@ -375,6 +385,11 @@
     "fantasy_score": 0
   },
   {
+    "name": "Rishvanjas Raghavan",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
     "name": "Rohan bijoor",
     "valid_team": true,
     "fantasy_score": 0
@@ -406,6 +421,11 @@
   },
   {
     "name": "Samyuktha",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Sanat Vohra",
     "valid_team": true,
     "fantasy_score": 0
   },
@@ -515,6 +535,11 @@
     "fantasy_score": 0
   },
   {
+    "name": "Venkey",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
     "name": "Vennela",
     "valid_team": true,
     "fantasy_score": 0
@@ -551,6 +576,11 @@
   },
   {
     "name": "Vishwaa Sekar",
+    "valid_team": true,
+    "fantasy_score": 0
+  },
+  {
+    "name": "pawan singh negi",
     "valid_team": true,
     "fantasy_score": 0
   },
@@ -650,6 +680,11 @@
     "fantasy_score": 0
   },
   {
+    "name": "Neetant",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
     "name": "Neha bharti",
     "valid_team": false,
     "fantasy_score": 0
@@ -726,6 +761,11 @@
   },
   {
     "name": "Tejhas Jagadish",
+    "valid_team": false,
+    "fantasy_score": 0
+  },
+  {
+    "name": "Vikas Badiger",
     "valid_team": false,
     "fantasy_score": 0
   },
