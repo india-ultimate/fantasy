@@ -48,7 +48,7 @@ const PlayerProfile = () => {
 									Go Back
 								</Button>
 							</Grid>
-							{player.img && (
+							{player.photo && (
 								<Box
 									component="img"
 									sx={{
@@ -59,7 +59,7 @@ const PlayerProfile = () => {
 										borderRadius: "50%",
 									}}
 									alt={player.name}
-									src={player.img}
+									src={player.photo}
 								/>
 							)}
 
