@@ -95,7 +95,6 @@ def download_teams_info(sheet_id, event_id, client_id, client_secret):
         person = registration_data[id_]
         first_name = row["first_name"].title()
         last_name = row["last_name"]
-        print(last_name)
         last_name = (
             last_name.title()
             if last_name not in {"AP", "JMP", "GK"}
