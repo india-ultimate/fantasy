@@ -19,18 +19,19 @@ import teamsData from "../data/teams.json";
 const LeaderboardRow = ({ player, playersMap }) => {
 	const [open, setOpen] = React.useState(false);
 	const [players, setPlayers] = React.useState([]);
+	const unknown = { name: "Unknown Player", team: "" };
 
 	React.useEffect(() => {
 		setPlayers(
 			player["team_slugs"]
-				.map((slug) => {
-					for (let i = 0; i < playersData.length; i++) {
-						if (playersData[i].slug === slug) return playersData[i];
-					}
-					// console.log(slug);
-					playersMap.set(slug, true);
-					return playersData[0];
-				})
+				.map(
+					(slug) =>
+						playersData.find((player) => player.slug === slug) || {
+							team: "",
+							name: slug,
+							slug,
+						}
+				)
 				.sort((a, b) => b["fantasy-points"] - a["fantasy-points"])
 				.map((p) => {
 					const team = teamsData.find((it) => it.name === p.team);
@@ -38,7 +39,6 @@ const LeaderboardRow = ({ player, playersMap }) => {
 					return { ...p, teamLogo };
 				})
 		);
-		console.log(playersMap);
 	}, []);
 
 	return (
