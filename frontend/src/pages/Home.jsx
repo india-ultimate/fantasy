@@ -109,45 +109,46 @@ const Home = () => {
 						</Button>
 					</Grid>
 					<Grid item xs={12}>
-						<Link
+						{/* <Link
 							href="https://forms.gle/kVeJG27Jf6PGmwQHA"
 							target="_blank"
 							sx={{
 								textDecoration: "none",
+                            }}
+						> */}
+						<Button
+							variant="outlined"
+							sx={{
+								display: "block",
+								width: "100%",
+								height: "15vh",
+								my: "1vh",
 							}}
+							disabled
 						>
-							<Button
-								variant="outlined"
+							<KeyboardDoubleArrowRightIcon
 								sx={{
-									display: "block",
-									width: "100%",
-									height: "15vh",
-									my: "1vh",
+									position: "absolute",
+									right: "10%",
+									top: "40%",
 								}}
+							/>
+							<Typography
+								variant="h5"
+								component="h5"
+								align="left"
 							>
-								<KeyboardDoubleArrowRightIcon
-									sx={{
-										position: "absolute",
-										right: "10%",
-										top: "40%",
-									}}
-								/>
-								<Typography
-									variant="h5"
-									component="h5"
-									align="left"
-								>
-									<strong>My Squad</strong>
-								</Typography>
-								<Typography
-									variant="caption"
-									component="p"
-									align="left"
-								>
-									Create your squad!
-								</Typography>
-							</Button>
-						</Link>
+								<strong>My Squad</strong>
+							</Typography>
+							<Typography
+								variant="caption"
+								component="p"
+								align="left"
+							>
+								Create your squad!
+							</Typography>
+						</Button>
+						{/* </Link> */}
 					</Grid>
 				</Grid>
 				<Divider>
