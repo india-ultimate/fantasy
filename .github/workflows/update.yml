@@ -24,6 +24,7 @@ jobs:
           requirements: requirements.txt
       - env:
           GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
+          STATS_SHEET_ID: ${{ secrets.STATS_SHEET_ID }}
           PLAYERS_SHEET_ID: ${{ secrets.PLAYERS_SHEET_ID }}
           UPAI_CLIENT_ID: ${{ secrets.UPAI_CLIENT_ID }}
           UPAI_CLIENT_SECRET: ${{ secrets.UPAI_CLIENT_SECRET }}
