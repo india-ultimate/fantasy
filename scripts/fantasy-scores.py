@@ -62,6 +62,10 @@ def score(team, data):
     )
 
 
+def generate_slugs(team):
+    return sorted({player.name.lower().strip().replace(" ", "-") for player in team})
+
+
 def main(teams_csv, stats_json):
     with open(stats_json) as f:
         data = json.load(f)
@@ -84,6 +88,7 @@ def main(teams_csv, stats_json):
                 "valid_team": valid_team,
                 "fantasy_score": fantasy_score,
                 "timestamp": row["Timestamp"],
+                "team_slugs": generate_slugs(team),
             }
             entries.append(entry)
 
