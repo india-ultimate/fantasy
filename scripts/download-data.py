@@ -22,6 +22,16 @@ def get_fantasy_teams_csv(sheet_id):
     return path
 
 
+def get_player_stats(sheet_id):
+    print("Downloading Player Stats from Google Spreadsheet")
+    url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv"
+    response = requests.get(url)
+    path = DATA_DIR.joinpath("player-stats.csv")
+    with open(path, "w") as f:
+        f.write(response.text)
+    return path
+
+
 def get_stats_csvs(team_ids):
     # Delete all existsing stats files. Useful to remove old stats files for
     # teams removed from the team_ids list.
@@ -144,8 +154,8 @@ def main():
     sheet_id = os.environ["GOOGLE_SHEET_ID"]
     get_fantasy_teams_csv(sheet_id)
 
-    team_ids = os.environ["ULTI_ANALYTICS_TEAM_IDS"].split()
-    get_stats_csvs(team_ids)
+    sheet_id = os.environ["STATS_SHEET_ID"]
+    get_player_stats(sheet_id)
 
     sheet_id = os.environ["PLAYERS_SHEET_ID"]
     event_id = "152238"
