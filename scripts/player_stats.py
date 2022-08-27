@@ -1,8 +1,6 @@
-from functools import reduce
+import csv
 import json
 from pathlib import Path
-
-import pandas as pd
 
 from translate import translate_player_name
 
@@ -27,8 +25,12 @@ def get_team_name(stats_file):
     return Path(stats_file).name.split("-", 1)[0]
 
 
+def slugify(name):
+    return name.lower().strip().replace(" ", "-")
+
+
 def generate_slugs(player_names):
-    return {name: name.lower().strip().replace(" ", "-") for name in player_names}
+    return {name: slugify(name) for name in player_names}
 
 
 def default_player_list():
@@ -47,7 +49,49 @@ def default_player_list():
     return players_map
 
 
-def compute_stats(stats_file):
+def compute_stats(path):
+
+    with open(path) as f:
+        data = list(csv.DictReader(f))
+
+    with open(DATA_DIR.joinpath("teams.json")) as f:
+        teams = json.load(f)
+
+    players = {
+        (player["name"], player["team"]): {
+            "name": player["name"],
+            "slug": slugify(player["name"]),
+            "gender": player["gender"],
+            "jersey": player["jersey"],
+            "photo": player["photo"],
+            "team": player["team"],
+            "stats": {
+                row["opponent"]: {
+                    key: int(row.get(key, 0) or 0) for key in POINTS.keys()
+                }
+                for row in data
+                if row["name"] == player["name"]
+            },
+        }
+        for player in teams
+    }
+
+    for player in players.values():
+        stats = player["stats"]
+        points_distribution = dict()
+        for team, stat in stats.items():
+            for key, count in stat.items():
+                old_points = points_distribution.setdefault(key, 0)
+                points = POINTS[key] * count
+                points_distribution[key] += points
+
+        player["fantasy-points"] = sum(points_distribution.values())
+        player["points-distribution"] = points_distribution
+
+    return players
+
+
+def compute_stats_ultianalytics(stats_file):
     DATA = pd.read_csv(stats_file)
     team_name = get_team_name(stats_file)
     names_columns = PLAYER_COLUMNS + ["Passer", "Receiver"]
@@ -163,13 +207,9 @@ def merge_stats(player_map1, player_map2=None):
         return m1
 
 
-def main(stats_paths):
-    if not stats_paths:
-        stats_paths = DATA_DIR.glob(f"*stats*.csv")
-
-    players_maps = [compute_stats(path) for path in stats_paths]
-    players_map = reduce(merge_stats, players_maps, default_player_list())
-
+def main():
+    stats_path = DATA_DIR.joinpath("player-stats.csv")
+    players_map = compute_stats(stats_path)
     with open(DATA_DIR.joinpath("players.json"), "w") as f:
         json.dump(
             sorted(players_map.values(), key=lambda x: (x["team"], x["name"])),
@@ -180,9 +220,4 @@ def main(stats_paths):
 
 
 if __name__ == "__main__":
-    import argparse
-
-    parser = argparse.ArgumentParser()
-    parser.add_argument("stats", help="Path to CSV containing stats", nargs="*")
-    args = parser.parse_args()
-    main(args.stats)
+    main()
