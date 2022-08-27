@@ -51,8 +51,7 @@ def compute_stats(stats_file):
     DATA = pd.read_csv(stats_file)
     team_name = get_team_name(stats_file)
     names_columns = PLAYER_COLUMNS + ["Passer", "Receiver"]
-    player_names = set(DATA[names_columns].fillna(
-        "Anonymous").values.flatten())
+    player_names = set(DATA[names_columns].fillna("Anonymous").values.flatten())
     slugs = generate_slugs(player_names)
     with open(DATA_DIR.joinpath("teams.json")) as f:
         teams = json.load(f)
@@ -68,7 +67,7 @@ def compute_stats(stats_file):
             "team": team_name,
             "stats": dict(),
             "fantasy-points": 0,
-            "points-distribution": {key: 0 for key in POINTS.keys()}
+            "points-distribution": {key: 0 for key in POINTS.keys()},
         }
         for name in player_names
     }
@@ -137,10 +136,8 @@ def merge_stats(player_map1, player_map2=None):
     else:
         # Player names are assumed to be unique in a team, but could be
         # duplicate across teams. So, we use team name to uniquify names.
-        m1 = {(player, info["team"]): info for player,
-              info in player_map1.items()}
-        m2 = {(player, info["team"]): info for player,
-              info in player_map2.items()}
+        m1 = {(player, info["team"]): info for player, info in player_map1.items()}
+        m2 = {(player, info["team"]): info for player, info in player_map2.items()}
 
         for player, info in m2.items():
             if player not in m1:
@@ -186,7 +183,6 @@ if __name__ == "__main__":
     import argparse
 
     parser = argparse.ArgumentParser()
-    parser.add_argument(
-        "stats", help="Path to CSV containing stats", nargs="*")
+    parser.add_argument("stats", help="Path to CSV containing stats", nargs="*")
     args = parser.parse_args()
     main(args.stats)
