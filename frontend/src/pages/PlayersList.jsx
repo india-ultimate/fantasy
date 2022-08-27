@@ -28,6 +28,7 @@ import data from "../data/players.json";
 import teamsData from "../data/teams.json";
 import InfoOutlinedIcon from "@mui/icons-material/InfoOutlined";
 import { useNavigate } from "react-router-dom";
+import PlayerRow from "../components/PlayerRow";
 
 const PlayersList = () => {
 	const [team, setTeam] = useState("all");
@@ -158,106 +159,7 @@ const PlayersList = () => {
 												.includes(search.toLowerCase())
 										)
 										.map((player) => (
-											<TableRow
-												key={player.ucID}
-												sx={{
-													"&:last-child td, &:last-child th":
-														{
-															border: 0,
-														},
-												}}
-											>
-												<TableCell
-													component="th"
-													scope="row"
-													align="left"
-												>
-													<Link
-														onClick={() =>
-															navigate(
-																"/player/" +
-																	player.slug
-															)
-														}
-														component="button"
-														variant="body2"
-														color={
-															player["gender"] ===
-															"male"
-																? "primary"
-																: "secondary"
-														}
-													>
-														{player["name"]}
-													</Link>
-													{/* <Grid container spacing={2}>
-													<Grid item xs={8}>
-														<Link
-															onClick={() =>
-																navigate(
-																	"/player/" +
-																		player.slug
-																)
-															}
-															component="button"
-															variant="body2"
-														>
-															{player["name"]}
-														</Link>
-													</Grid>
-													<Grid item xs={4}>
-														<Chip
-															size="small"
-															label={
-																player[
-																	"gender"
-																][0]
-															}
-															variant="outlined"
-															color={
-																player[
-																	"gender"
-																] === "male"
-																	? "primary"
-																	: "secondary"
-															}
-														/>
-													</Grid>
-												</Grid> */}
-												</TableCell>
-												<TableCell
-													component="th"
-													scope="row"
-													align="left"
-												>
-													<Avatar
-														alt={player.team}
-														src={player.teamLogo}
-														title={player.team}
-													/>
-												</TableCell>
-
-												<TableCell align="center">
-													{player["fantasy-points"]}
-												</TableCell>
-												{/* <TableCell
-												align="center"
-												sx={{
-													textTransform: "capitalize",
-												}}
-											>
-												<Chip
-													label={player["gender"][0]}
-													variant="outlined"
-													color={
-														player["gender"] ===
-														"male"
-															? "primary"
-															: "secondary"
-													}
-												/>
-											</TableCell> */}
-											</TableRow>
+											<PlayerRow player={player} />
 										))}
 								</TableBody>
 							</Table>

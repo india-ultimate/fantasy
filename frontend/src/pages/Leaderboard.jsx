@@ -22,10 +22,12 @@ import React, { useEffect, useState } from "react";
 import Navbar from "../components/Navbar";
 import data from "../data/fantasy_scores.json";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
+import LeaderboardRow from "../components/LeaderboardRow";
 
 const Leaderboard = () => {
 	const [validScores, setValidScores] = useState();
 	const [search, setSearch] = useState("");
+	let playersMap = new Map();
 
 	useEffect(() => {
 		setValidScores(
@@ -75,13 +77,14 @@ const Leaderboard = () => {
 							<Table aria-label="simple table">
 								<TableHead>
 									<TableRow>
-										<TableCell align="left">Rank</TableCell>
+										<TableCell align="left">#</TableCell>
 										<TableCell align="center">
 											Name
 										</TableCell>
 										<TableCell align="center">
 											Fantasy Score
 										</TableCell>
+										<TableCell />
 									</TableRow>
 								</TableHead>
 								<TableBody>
@@ -95,36 +98,10 @@ const Leaderboard = () => {
 													)
 											)
 											.map((player) => (
-												<TableRow
-													key={player.rank}
-													sx={{
-														"&:last-child td, &:last-child th":
-															{
-																border: 0,
-															},
-													}}
-												>
-													<TableCell
-														component="th"
-														scope="row"
-														align="left"
-													>
-														{player.rank}
-													</TableCell>
-													<TableCell
-														align="center"
-														title={`${player.name} — ${player.timestamp}`}
-													>
-														{player.name}
-													</TableCell>
-													<TableCell align="center">
-														{
-															player[
-																"fantasy_score"
-															]
-														}
-													</TableCell>
-												</TableRow>
+												<LeaderboardRow
+													player={player}
+													playersMap={playersMap}
+												/>
 											))}
 								</TableBody>
 							</Table>
