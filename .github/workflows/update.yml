@@ -6,7 +6,7 @@ on:
   # Add run this workflow button to GH
   workflow_dispatch:
   schedule:
-    - cron: '*/15 0-15 * * 0,6'
+    - cron: "*/15 * * * *"
 
 # A workflow run is made up of one or more jobs (sequential or parallel)
 jobs:
