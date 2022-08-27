@@ -6497,6 +6497,17 @@
     "team": "Tamilnadu"
   },
   {
+    "fantasy-points": 0,
+    "gender": "female",
+    "jersey": "8",
+    "name": "Koka Mrinalini Siddhartha",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/0O5lKkWh.280.jpg",
+    "points-distribution": {},
+    "slug": "koka-mrinalini-siddhartha",
+    "stats": {},
+    "team": "Tamilnadu"
+  },
+  {
     "fantasy-points": 0.0,
     "gender": "male",
     "jersey": "",
@@ -6602,97 +6613,14 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 0.0,
-    "gender": "female",
-    "jersey": "8",
-    "name": "Mrinalini Siddhartha",
-    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/0O5lKkWh.280.jpg",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0.0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0.0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
-    "slug": "mrinalini-siddhartha",
-    "stats": {
-      "Gujarat Ultimate": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 0,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 0,
-        "o-scoring-line": 0,
-        "throwaway": 0
-      },
-      "Uttar Pradesh": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 0,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 0,
-        "o-scoring-line": 0,
-        "throwaway": 0
-      }
-    },
-    "team": "Tamilnadu"
-  },
-  {
-    "fantasy-points": 0.0,
+    "fantasy-points": 0,
     "gender": "female",
     "jersey": "18",
-    "name": "Pooja B",
+    "name": "Pooja Bapat",
     "photo": "https://secure.gravatar.com/avatar/b58784c417cf14bc8423753c2bba09d3?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0.0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0.0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
-    "slug": "pooja-b",
-    "stats": {
-      "Gujarat Ultimate": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 0,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 0,
-        "o-scoring-line": 0,
-        "throwaway": 0
-      },
-      "Uttar Pradesh": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 0,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 0,
-        "o-scoring-line": 0,
-        "throwaway": 0
-      }
-    },
+    "points-distribution": {},
+    "slug": "pooja-bapat",
+    "stats": {},
     "team": "Tamilnadu"
   },
   {
@@ -6978,97 +6906,25 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 0.0,
+    "fantasy-points": 0,
     "gender": "male",
     "jersey": "",
-    "name": "Siva Kumar",
+    "name": "Sivakumar",
     "photo": "https://secure.gravatar.com/avatar/18dfb3054c53467c361a1c7c66c47236?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0.0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0.0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
-    "slug": "siva-kumar",
-    "stats": {
-      "Gujarat Ultimate": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 0,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 0,
-        "o-scoring-line": 0,
-        "throwaway": 0
-      },
-      "Uttar Pradesh": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 0,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 0,
-        "o-scoring-line": 0,
-        "throwaway": 0
-      }
-    },
+    "points-distribution": {},
+    "slug": "sivakumar",
+    "stats": {},
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 0.0,
+    "fantasy-points": 0,
     "gender": "male",
     "jersey": "99",
-    "name": "Siva Raman",
+    "name": "Sivaraman Venkatesan",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/TC5YjMxw.280.jpg",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0.0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0.0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
-    "slug": "siva-raman",
-    "stats": {
-      "Gujarat Ultimate": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 0,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 0,
-        "o-scoring-line": 0,
-        "throwaway": 0
-      },
-      "Uttar Pradesh": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 0,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 0,
-        "o-scoring-line": 0,
-        "throwaway": 0
-      }
-    },
+    "points-distribution": {},
+    "slug": "sivaraman-venkatesan",
+    "stats": {},
     "team": "Tamilnadu"
   },
   {

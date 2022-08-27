@@ -57,6 +57,8 @@ def compute_stats(path):
     with open(DATA_DIR.joinpath("teams.json")) as f:
         teams = json.load(f)
 
+    teams = [translate_player_name(p) for p in teams]
+
     players = {
         (player["name"], player["team"]): {
             "name": player["name"],
