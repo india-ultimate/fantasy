@@ -110,6 +110,25 @@ def download_teams_info(sheet_id, event_id, client_id, client_secret):
         }
         data.append(player)
 
+    # Add couple of missing players
+    hannah = {
+        "name": "Hannah Deborah",
+        "gender": "female",
+        "jersey": "",
+        "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/PWnDrAUK.280.jpg",
+        "team": "Tamilnadu",
+        "ucID": 1033257,
+    }
+    mirra = {
+        "name": "Mirra",
+        "gender": "female",
+        "jersey": "",
+        "photo": "",
+        "team": "Tamilnadu",
+        "ucID": 0,
+    }
+    data.extend([hannah, mirra])
+
     print(f"Saving data for {len(data)} players...")
 
     with open(DATA_DIR.joinpath("teams.json"), "w") as f:

@@ -4,6 +4,8 @@ import json
 import os
 import re
 
+from translate import translate_name
+
 TEAM_RE = re.compile(r"\s*([^,]+) - #(\d*), ([^,]+), \(([^,]+)\)")
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(HERE, "..", "data")
@@ -33,7 +35,10 @@ def team_from_csv(entry):
     male = "Select 4 Male Players (max 1 from each State)"
     female = "Select 4 Female Players (max 1 from each State)"
     names = f"{entry[female]}, {entry[male]}"
-    return [Player(*player) for player in TEAM_RE.findall(names)]
+    return [
+        Player(team, jersey, translate_name(name), gender)
+        for team, jersey, name, gender in TEAM_RE.findall(names)
+    ]
 
 
 def reshape_stats(stats):

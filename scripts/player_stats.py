@@ -4,6 +4,8 @@ from pathlib import Path
 
 import pandas as pd
 
+from translate import translate_player_name
+
 ROOT_DIR = Path(__file__).parent.parent.absolute()
 DATA_DIR = ROOT_DIR.joinpath("data")
 POINTS = {
@@ -32,6 +34,7 @@ def generate_slugs(player_names):
 def default_player_list():
     with open(DATA_DIR.joinpath("teams.json")) as f:
         teams = json.load(f)
+    teams = [translate_player_name(p) for p in teams]
     players_map = {p["name"]: p for p in teams}
     player_names = set(p["name"] for p in teams)
     slugs = generate_slugs(player_names)
