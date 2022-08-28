@@ -19,13 +19,13 @@ COLUMNS = [
 ]
 
 
-def make_row(player, opponent):
-    return [player["jersey"], player["name"], player["team"], opponent] + (
+def make_row(player, opponent, day):
+    return [player["jersey"], player["name"], day, player["team"], opponent] + (
         [""] * (len(COLUMNS))
     )
 
 
-def main(team, opponent, players):
+def main(team, opponent, day, players):
     players = [player for player in players if player["team"] == team]
     female = sorted(
         [player for player in players if player["gender"] == "female"],
@@ -37,11 +37,11 @@ def main(team, opponent, players):
     )
     f = io.StringIO()
     writer = csv.writer(f)
-    headers = ["jersey", "name", "team", "opponent"] + COLUMNS
+    headers = ["jersey", "name", "day", "team", "opponent"] + COLUMNS
     rows = (
         [headers]
-        + [make_row(p, opponent) for p in female]
-        + [make_row(p, opponent) for p in male]
+        + [make_row(p, opponent, day) for p in female]
+        + [make_row(p, opponent, day) for p in male]
     )
     writer.writerows(rows)
     print(f.getvalue())
@@ -59,5 +59,9 @@ if __name__ == "__main__":
         "team", help="Name of the team for which to generate list", choices=teams
     )
     parser.add_argument("opponent", help="Name of the opponent team", choices=teams)
+    parser.add_argument(
+        "--day", help="Day of the tournament", choices=[1, 2], default=1
+    )
     args = parser.parse_args()
-    main(args.team, args.opponent, players)
+    day = f"day-{args.day}"
+    main(args.team, args.opponent, day, players)
