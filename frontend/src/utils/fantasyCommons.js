@@ -1,3 +1,16 @@
+export const statsOrder = [
+	"goal",
+	"assist",
+	"o-scoring-line",
+	"o-line",
+	"defense",
+	// "block",  // We don't collect blocks data separately
+	"d-scoring-line",
+	"d-line",
+	"throwaway",
+	"drop",
+];
+
 export const displayNames = {
 	assist: "Assist",
 	block: "Block",

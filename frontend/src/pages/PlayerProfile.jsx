@@ -20,7 +20,7 @@ import { useNavigate, useParams } from "react-router-dom";
 import Navbar from "../components/Navbar";
 import ArrowBackIosNewIcon from "@mui/icons-material/ArrowBackIosNew";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
-import { displayNames } from "../utils/fantasyCommons";
+import { statsOrder, displayNames } from "../utils/fantasyCommons";
 import data from "../data/players.json";
 
 const PlayerProfile = () => {
@@ -211,9 +211,7 @@ const PlayerProfile = () => {
 											</Typography>
 										</Grid>
 									</>
-									{Object.keys(
-										player["stats-distribution"]
-									).map((statName) => (
+									{statsOrder.map((statName) => (
 										<>
 											<Grid item xs={6}>
 												<Typography
@@ -288,39 +286,41 @@ const PlayerProfile = () => {
 											<TableContainer component={Paper}>
 												<Table aria-label="simple table">
 													<TableBody>
-														{Object.keys(
-															player.stats[team]
-														).map((statName) => (
-															<TableRow
-																key={statName}
-																sx={{
-																	"&:last-child td, &:last-child th": {
-																		border: 0,
-																	},
-																}}
-															>
-																<TableCell
-																	component="th"
-																	scope="row"
+														{statsOrder.map(
+															(statName) => (
+																<TableRow
+																	key={
+																		statName
+																	}
+																	sx={{
+																		"&:last-child td, &:last-child th": {
+																			border: 0,
+																		},
+																	}}
 																>
-																	{
-																		displayNames[
-																			statName
-																		]
-																	}
-																</TableCell>
-																<TableCell align="right">
-																	{
-																		player
-																			.stats[
-																			team
-																		][
-																			statName
-																		]
-																	}
-																</TableCell>
-															</TableRow>
-														))}
+																	<TableCell
+																		component="th"
+																		scope="row"
+																	>
+																		{
+																			displayNames[
+																				statName
+																			]
+																		}
+																	</TableCell>
+																	<TableCell align="right">
+																		{
+																			player
+																				.stats[
+																				team
+																			][
+																				statName
+																			]
+																		}
+																	</TableCell>
+																</TableRow>
+															)
+														)}
 													</TableBody>
 												</Table>
 											</TableContainer>
