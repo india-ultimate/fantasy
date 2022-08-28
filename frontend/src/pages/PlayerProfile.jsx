@@ -43,7 +43,7 @@ const PlayerProfile = () => {
 									variant="text"
 									startIcon={<ArrowBackIosNewIcon />}
 									size="small"
-									onClick={() => navigate("/players")}
+									onClick={() => navigate(-1)}
 								>
 									Go Back
 								</Button>
@@ -185,8 +185,7 @@ const PlayerProfile = () => {
 													// backgroundClip: "text",
 													// color: "transparent",
 													lineHeight: "2.66",
-													font:
-														"bold 3.5vw/2.66 Poppins, sans-serif",
+													font: "bold 3.5vw/2.66 Poppins, sans-serif",
 												}}
 												variant="overline"
 												component="p"
@@ -200,8 +199,7 @@ const PlayerProfile = () => {
 												align="center"
 												sx={{
 													lineHeight: "2.66",
-													font:
-														"bold 3.5vw/2.66 Poppins, sans-serif",
+													font: "bold 3.5vw/2.66 Poppins, sans-serif",
 												}}
 												variant="overline"
 												component="p"
@@ -231,8 +229,7 @@ const PlayerProfile = () => {
 													align="center"
 													sx={{
 														lineHeight: "2.66",
-														font:
-															"bold 3.5vw/2.66 Poppins, sans-serif",
+														font: "bold 3.5vw/2.66 Poppins, sans-serif",
 													}}
 													variant="overline"
 													component="p"
@@ -246,8 +243,7 @@ const PlayerProfile = () => {
 													align="center"
 													sx={{
 														lineHeight: "2.66",
-														font:
-															"bold 3.5vw/2.66 Poppins, sans-serif",
+														font: "bold 3.5vw/2.66 Poppins, sans-serif",
 													}}
 													variant="overline"
 													component="p"
@@ -293,9 +289,10 @@ const PlayerProfile = () => {
 																		statName
 																	}
 																	sx={{
-																		"&:last-child td, &:last-child th": {
-																			border: 0,
-																		},
+																		"&:last-child td, &:last-child th":
+																			{
+																				border: 0,
+																			},
 																	}}
 																>
 																	<TableCell
