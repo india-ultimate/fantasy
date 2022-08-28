@@ -2,7 +2,7 @@ import csv
 import json
 from pathlib import Path
 
-from translate import translate_player_name
+from translate import translate_player_name, translate_name
 
 ROOT_DIR = Path(__file__).parent.parent.absolute()
 DATA_DIR = ROOT_DIR.joinpath("data")
@@ -72,7 +72,7 @@ def compute_stats(path):
                     key: int(row.get(key, 0) or 0) for key in POINTS.keys()
                 }
                 for row in data
-                if row["name"] == player["name"]
+                if translate_name(row["name"]) == player["name"]
             },
         }
         for player in teams
@@ -99,7 +99,8 @@ def compute_stats_ultianalytics(stats_file):
     DATA = pd.read_csv(stats_file)
     team_name = get_team_name(stats_file)
     names_columns = PLAYER_COLUMNS + ["Passer", "Receiver"]
-    player_names = set(DATA[names_columns].fillna("Anonymous").values.flatten())
+    player_names = set(DATA[names_columns].fillna(
+        "Anonymous").values.flatten())
     slugs = generate_slugs(player_names)
     with open(DATA_DIR.joinpath("teams.json")) as f:
         teams = json.load(f)
@@ -184,8 +185,10 @@ def merge_stats(player_map1, player_map2=None):
     else:
         # Player names are assumed to be unique in a team, but could be
         # duplicate across teams. So, we use team name to uniquify names.
-        m1 = {(player, info["team"]): info for player, info in player_map1.items()}
-        m2 = {(player, info["team"]): info for player, info in player_map2.items()}
+        m1 = {(player, info["team"]): info for player,
+              info in player_map1.items()}
+        m2 = {(player, info["team"]): info for player,
+              info in player_map2.items()}
 
         for player, info in m2.items():
             if player not in m1:
