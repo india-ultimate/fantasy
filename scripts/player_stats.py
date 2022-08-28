@@ -1,5 +1,7 @@
 import csv
+from fnmatch import filter
 import json
+import os
 from pathlib import Path
 
 from translate import translate_player_name, translate_name
@@ -49,11 +51,12 @@ def default_player_list():
     return players_map
 
 
-def compute_stats(path):
+def compute_stats(paths):
 
-    with open(path) as f:
-        next(f)
-        data = list(csv.DictReader(f))
+    data = list()
+    for path in paths:
+        with open(path) as f:
+            data.extend(list(csv.DictReader(f)))
 
     with open(DATA_DIR.joinpath("teams.json")) as f:
         teams = json.load(f)
@@ -216,8 +219,10 @@ def merge_stats(player_map1, player_map2=None):
 
 
 def main():
-    stats_path = DATA_DIR.joinpath("player-stats.csv")
-    players_map = compute_stats(stats_path)
+    # stats_path = DATA_DIR.joinpath("player-stats.csv")
+    stats_paths = [DATA_DIR.joinpath(p) for p in filter(
+        os.listdir(DATA_DIR), 'player-stats*.csv')]
+    players_map = compute_stats(stats_paths)
     with open(DATA_DIR.joinpath("players.json"), "w") as f:
         json.dump(
             sorted(players_map.values(), key=lambda x: (x["team"], x["name"])),

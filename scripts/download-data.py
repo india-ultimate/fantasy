@@ -22,11 +22,11 @@ def get_fantasy_teams_csv(sheet_id):
     return path
 
 
-def get_player_stats(sheet_id):
+def get_player_stats(sheet_id, sheet_name):
     print("Downloading Player Stats from Google Spreadsheet")
-    url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv"
+    url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/gviz/tq?tqx=out:csv&sheet={sheet_name}"
     response = requests.get(url)
-    path = DATA_DIR.joinpath("player-stats.csv")
+    path = DATA_DIR.joinpath(f"player-stats-{sheet_name}.csv")
     with open(path, "w") as f:
         f.write(response.text)
     return path
@@ -61,7 +61,8 @@ def get_topscore_access_token(client_id, client_secret, session):
         "client_secret": client_secret,
     }
     print("Fetching access token")
-    response = session.post("{}/api/oauth/server".format(UPAI_BASE_URL), data=data)
+    response = session.post(
+        "{}/api/oauth/server".format(UPAI_BASE_URL), data=data)
     if response.status_code != 200:
         print("Could not fetch access token")
         return ""
@@ -88,7 +89,8 @@ def download_teams_info(sheet_id, event_id, client_id, client_secret):
     print("Downloading State Championship Teams from Google Spreadsheet")
     url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv"
     response = requests.get(url)
-    team_data = {row["id"]: row for row in csv.DictReader(io.StringIO(response.text))}
+    team_data = {row["id"]: row for row in csv.DictReader(
+        io.StringIO(response.text))}
     registration_data = {
         person["person_id"]: person
         for person in fetch_registration_data(event_id, client_id, client_secret)
@@ -155,7 +157,8 @@ def main():
     get_fantasy_teams_csv(sheet_id)
 
     sheet_id = os.environ["STATS_SHEET_ID"]
-    get_player_stats(sheet_id)
+    get_player_stats(sheet_id, "Pool-A")
+    get_player_stats(sheet_id, "Pool-B")
 
     sheet_id = os.environ["PLAYERS_SHEET_ID"]
     event_id = "152238"
