@@ -80,15 +80,17 @@ def compute_stats(path):
 
     for player in players.values():
         stats = player["stats"]
-        points_distribution = dict()
-        for team, stat in stats.items():
+        stats_distribution = dict()
+        for stat in stats.values():
             for key, count in stat.items():
-                old_points = points_distribution.setdefault(key, 0)
-                points = POINTS[key] * count
-                points_distribution[key] += points
+                _ = stats_distribution.setdefault(key, 0)
+                stats_distribution[key] += count
 
-        player["fantasy-points"] = sum(points_distribution.values())
-        player["points-distribution"] = points_distribution
+        player["stats-distribution"] = stats_distribution
+        player["points-distribution"] = {
+            key: POINTS[key] * count for key, count in stats_distribution.items()
+        }
+        player["fantasy-points"] = sum(player["points-distribution"].values())
 
     return players
 

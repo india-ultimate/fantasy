@@ -44,6 +44,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 1,
+      "goal": 0,
+      "o-line": 6,
+      "o-scoring-line": 1,
+      "throwaway": 0
+    },
     "team": "Delhi Ultimate"
   },
   {
@@ -90,6 +102,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 5,
+      "o-scoring-line": 2,
+      "throwaway": 0
     },
     "team": "Delhi Ultimate"
   },
@@ -138,6 +162,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 8,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 0,
+      "throwaway": 1
+    },
     "team": "Delhi Ultimate"
   },
   {
@@ -184,6 +220,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Delhi Ultimate"
   },
@@ -232,6 +280,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 3,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 1,
+      "goal": 2,
+      "o-line": 14,
+      "o-scoring-line": 6,
+      "throwaway": 1
+    },
     "team": "Delhi Ultimate"
   },
   {
@@ -278,6 +338,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 1,
+      "defense": 1,
+      "drop": 2,
+      "goal": 1,
+      "o-line": 9,
+      "o-scoring-line": 5,
+      "throwaway": 1
     },
     "team": "Delhi Ultimate"
   },
@@ -326,6 +398,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 2,
+      "d-scoring-line": 0,
+      "defense": 1,
+      "drop": 0,
+      "goal": 2,
+      "o-line": 7,
+      "o-scoring-line": 4,
+      "throwaway": 0
+    },
     "team": "Delhi Ultimate"
   },
   {
@@ -372,6 +456,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Delhi Ultimate"
   },
@@ -420,6 +516,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 2,
+      "o-scoring-line": 1,
+      "throwaway": 0
+    },
     "team": "Delhi Ultimate"
   },
   {
@@ -466,6 +574,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 3,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 3,
+      "o-scoring-line": 3,
+      "throwaway": 0
     },
     "team": "Delhi Ultimate"
   },
@@ -514,6 +634,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Delhi Ultimate"
   },
   {
@@ -560,6 +692,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 1,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 5,
+      "o-scoring-line": 2,
+      "throwaway": 2
     },
     "team": "Delhi Ultimate"
   },
@@ -608,6 +752,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 3,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Delhi Ultimate"
   },
   {
@@ -654,6 +810,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 2,
+      "block": 0,
+      "d-line": 5,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 4,
+      "o-scoring-line": 2,
+      "throwaway": 1
     },
     "team": "Delhi Ultimate"
   },
@@ -702,6 +870,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Delhi Ultimate"
   },
   {
@@ -748,6 +928,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 2,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 2,
+      "o-scoring-line": 0,
+      "throwaway": 1
     },
     "team": "Delhi Ultimate"
   },
@@ -796,6 +988,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 8,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 8,
+      "o-scoring-line": 3,
+      "throwaway": 1
+    },
     "team": "Delhi Ultimate"
   },
   {
@@ -842,6 +1046,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 3,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 3,
+      "goal": 0,
+      "o-line": 6,
+      "o-scoring-line": 3,
+      "throwaway": 0
     },
     "team": "Delhi Ultimate"
   },
@@ -890,6 +1106,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 7,
+      "d-scoring-line": 1,
+      "defense": 1,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 10,
+      "o-scoring-line": 4,
+      "throwaway": 0
+    },
     "team": "Delhi Ultimate"
   },
   {
@@ -936,6 +1164,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 7,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 1,
+      "o-scoring-line": 0,
+      "throwaway": 1
     },
     "team": "Delhi Ultimate"
   },
@@ -984,6 +1224,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 2,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 13,
+      "o-scoring-line": 6,
+      "throwaway": 5
+    },
     "team": "Delhi Ultimate"
   },
   {
@@ -1030,6 +1282,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 2,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Delhi Ultimate"
   },
@@ -1078,6 +1342,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Gujarat Ultimate"
   },
   {
@@ -1124,6 +1400,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Gujarat Ultimate"
   },
@@ -1172,6 +1460,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Gujarat Ultimate"
   },
   {
@@ -1218,6 +1518,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Gujarat Ultimate"
   },
@@ -1266,6 +1578,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Gujarat Ultimate"
   },
   {
@@ -1312,6 +1636,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Gujarat Ultimate"
   },
@@ -1360,6 +1696,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Gujarat Ultimate"
   },
   {
@@ -1406,6 +1754,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Gujarat Ultimate"
   },
@@ -1454,6 +1814,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Gujarat Ultimate"
   },
   {
@@ -1500,6 +1872,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Gujarat Ultimate"
   },
@@ -1548,6 +1932,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Gujarat Ultimate"
   },
   {
@@ -1594,6 +1990,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Gujarat Ultimate"
   },
@@ -1642,6 +2050,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Gujarat Ultimate"
   },
   {
@@ -1688,6 +2108,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Gujarat Ultimate"
   },
@@ -1736,6 +2168,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Gujarat Ultimate"
   },
   {
@@ -1782,6 +2226,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Gujarat Ultimate"
   },
@@ -1830,6 +2286,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Gujarat Ultimate"
   },
   {
@@ -1876,6 +2344,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Gujarat Ultimate"
   },
@@ -1924,6 +2404,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Gujarat Ultimate"
   },
   {
@@ -1970,6 +2462,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Gujarat Ultimate"
   },
@@ -2018,6 +2522,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Gujarat Ultimate"
   },
   {
@@ -2064,6 +2580,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Gujarat Ultimate"
   },
@@ -2112,6 +2640,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Gujarat Ultimate"
   },
   {
@@ -2158,6 +2698,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Gujarat Ultimate"
   },
@@ -2206,6 +2758,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Gujarat Ultimate"
   },
   {
@@ -2252,6 +2816,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Gujarat Ultimate"
   },
@@ -2300,6 +2876,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Gujarat Ultimate"
   },
   {
@@ -2346,6 +2934,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Gujarat Ultimate"
   },
@@ -2394,6 +2994,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 6,
+      "o-scoring-line": 5,
+      "throwaway": 0
+    },
     "team": "Karnataka State"
   },
   {
@@ -2440,6 +3052,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 3,
+      "d-scoring-line": 1,
+      "defense": 1,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 2,
+      "o-scoring-line": 2,
+      "throwaway": 2
     },
     "team": "Karnataka State"
   },
@@ -2488,6 +3112,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 3,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 1,
+      "throwaway": 0
+    },
     "team": "Karnataka State"
   },
   {
@@ -2534,6 +3170,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 7,
+      "d-scoring-line": 5,
+      "defense": 1,
+      "drop": 0,
+      "goal": 2,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Karnataka State"
   },
@@ -2582,6 +3230,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 5,
+      "o-scoring-line": 4,
+      "throwaway": 1
+    },
     "team": "Karnataka State"
   },
   {
@@ -2628,6 +3288,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 4,
+      "o-scoring-line": 4,
+      "throwaway": 0
     },
     "team": "Karnataka State"
   },
@@ -2676,6 +3348,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 3,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Karnataka State"
   },
   {
@@ -2722,6 +3406,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 7,
+      "d-scoring-line": 4,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 2,
+      "o-scoring-line": 2,
+      "throwaway": 1
     },
     "team": "Karnataka State"
   },
@@ -2770,6 +3466,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 2,
+      "block": 0,
+      "d-line": 2,
+      "d-scoring-line": 2,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 5,
+      "o-scoring-line": 4,
+      "throwaway": 0
+    },
     "team": "Karnataka State"
   },
   {
@@ -2816,6 +3524,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 3,
+      "d-scoring-line": 0,
+      "defense": 1,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 1,
+      "throwaway": 0
     },
     "team": "Karnataka State"
   },
@@ -2864,6 +3584,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 5,
+      "d-scoring-line": 4,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Karnataka State"
   },
   {
@@ -2910,6 +3642,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 3,
+      "d-scoring-line": 3,
+      "defense": 0,
+      "drop": 0,
+      "goal": 3,
+      "o-line": 3,
+      "o-scoring-line": 3,
+      "throwaway": 0
     },
     "team": "Karnataka State"
   },
@@ -2958,6 +3702,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 3,
+      "d-scoring-line": 1,
+      "defense": 1,
+      "drop": 1,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 0,
+      "throwaway": 1
+    },
     "team": "Karnataka State"
   },
   {
@@ -3004,6 +3760,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 3,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 3,
+      "o-scoring-line": 3,
+      "throwaway": 1
     },
     "team": "Karnataka State"
   },
@@ -3052,6 +3820,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 5,
+      "d-scoring-line": 4,
+      "defense": 2,
+      "drop": 0,
+      "goal": 2,
+      "o-line": 3,
+      "o-scoring-line": 3,
+      "throwaway": 0
+    },
     "team": "Karnataka State"
   },
   {
@@ -3098,6 +3878,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Karnataka State"
   },
@@ -3146,6 +3938,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 4,
+      "d-scoring-line": 2,
+      "defense": 1,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Karnataka State"
   },
   {
@@ -3192,6 +3996,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 5,
+      "d-scoring-line": 4,
+      "defense": 2,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 3,
+      "o-scoring-line": 2,
+      "throwaway": 1
     },
     "team": "Karnataka State"
   },
@@ -3240,6 +4056,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 4,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 1,
+      "throwaway": 0
+    },
     "team": "Karnataka State"
   },
   {
@@ -3286,6 +4114,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 2,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 3,
+      "o-scoring-line": 3,
+      "throwaway": 0
     },
     "team": "Karnataka State"
   },
@@ -3334,6 +4174,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 7,
+      "d-scoring-line": 6,
+      "defense": 1,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 2,
+      "o-scoring-line": 2,
+      "throwaway": 0
+    },
     "team": "Karnataka State"
   },
   {
@@ -3380,6 +4232,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Karnataka State"
   },
@@ -3428,6 +4292,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 4,
+      "d-scoring-line": 2,
+      "defense": 0,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Karnataka State"
   },
   {
@@ -3474,6 +4350,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 3,
+      "block": 0,
+      "d-line": 6,
+      "d-scoring-line": 4,
+      "defense": 0,
+      "drop": 3,
+      "goal": 0,
+      "o-line": 5,
+      "o-scoring-line": 4,
+      "throwaway": 0
     },
     "team": "Karnataka State"
   },
@@ -3522,6 +4410,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 5,
+      "d-scoring-line": 4,
+      "defense": 1,
+      "drop": 0,
+      "goal": 3,
+      "o-line": 6,
+      "o-scoring-line": 5,
+      "throwaway": 1
+    },
     "team": "Karnataka State"
   },
   {
@@ -3568,6 +4468,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Karnataka State"
   },
@@ -3616,6 +4528,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 4,
+      "d-scoring-line": 2,
+      "defense": 0,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Karnataka State"
   },
   {
@@ -3662,6 +4586,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 4,
+      "d-scoring-line": 2,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Karnataka State"
   },
@@ -3710,6 +4646,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 4,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Karnataka State"
   },
   {
@@ -3756,6 +4704,18 @@
         "o-scoring-line": 1,
         "throwaway": 1
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 3,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 7,
+      "o-scoring-line": 1,
+      "throwaway": 2
     },
     "team": "Madhya Pradesh"
   },
@@ -3804,6 +4764,18 @@
         "throwaway": 2
       }
     },
+    "stats-distribution": {
+      "assist": 3,
+      "block": 0,
+      "d-line": 9,
+      "d-scoring-line": 1,
+      "defense": 1,
+      "drop": 1,
+      "goal": 1,
+      "o-line": 18,
+      "o-scoring-line": 5,
+      "throwaway": 3
+    },
     "team": "Madhya Pradesh"
   },
   {
@@ -3850,6 +4822,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 9,
+      "d-scoring-line": 2,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 2,
+      "o-scoring-line": 1,
+      "throwaway": 0
     },
     "team": "Madhya Pradesh"
   },
@@ -3898,6 +4882,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 3,
+      "o-scoring-line": 1,
+      "throwaway": 0
+    },
     "team": "Madhya Pradesh"
   },
   {
@@ -3944,6 +4940,18 @@
         "o-scoring-line": 7,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 3,
+      "block": 0,
+      "d-line": 14,
+      "d-scoring-line": 4,
+      "defense": 3,
+      "drop": 2,
+      "goal": 6,
+      "o-line": 15,
+      "o-scoring-line": 7,
+      "throwaway": 0
     },
     "team": "Madhya Pradesh"
   },
@@ -3992,6 +5000,18 @@
         "throwaway": 1
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 4,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 1
+    },
     "team": "Madhya Pradesh"
   },
   {
@@ -4038,6 +5058,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Madhya Pradesh"
   },
@@ -4086,6 +5118,18 @@
         "throwaway": 2
       }
     },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 2,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 12,
+      "o-scoring-line": 3,
+      "throwaway": 2
+    },
     "team": "Madhya Pradesh"
   },
   {
@@ -4132,6 +5176,18 @@
         "o-scoring-line": 7,
         "throwaway": 1
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 14,
+      "d-scoring-line": 3,
+      "defense": 0,
+      "drop": 3,
+      "goal": 1,
+      "o-line": 28,
+      "o-scoring-line": 11,
+      "throwaway": 1
     },
     "team": "Madhya Pradesh"
   },
@@ -4180,6 +5236,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Madhya Pradesh"
   },
   {
@@ -4226,6 +5294,18 @@
         "o-scoring-line": 5,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 4,
+      "block": 0,
+      "d-line": 14,
+      "d-scoring-line": 4,
+      "defense": 2,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 12,
+      "o-scoring-line": 6,
+      "throwaway": 0
     },
     "team": "Madhya Pradesh"
   },
@@ -4274,6 +5354,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 9,
+      "d-scoring-line": 1,
+      "defense": 1,
+      "drop": 3,
+      "goal": 0,
+      "o-line": 12,
+      "o-scoring-line": 7,
+      "throwaway": 0
+    },
     "team": "Madhya Pradesh"
   },
   {
@@ -4320,6 +5412,18 @@
         "o-scoring-line": 5,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 17,
+      "d-scoring-line": 4,
+      "defense": 1,
+      "drop": 0,
+      "goal": 3,
+      "o-line": 24,
+      "o-scoring-line": 9,
+      "throwaway": 0
     },
     "team": "Madhya Pradesh"
   },
@@ -4368,6 +5472,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 1,
+      "goal": 1,
+      "o-line": 11,
+      "o-scoring-line": 4,
+      "throwaway": 0
+    },
     "team": "Madhya Pradesh"
   },
   {
@@ -4414,6 +5530,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 2,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Madhya Pradesh"
   },
@@ -4462,6 +5590,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Madhya Pradesh"
   },
   {
@@ -4508,6 +5648,18 @@
         "o-scoring-line": 1,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 5,
+      "d-scoring-line": 1,
+      "defense": 2,
+      "drop": 4,
+      "goal": 0,
+      "o-line": 11,
+      "o-scoring-line": 3,
+      "throwaway": 0
     },
     "team": "Madhya Pradesh"
   },
@@ -4556,6 +5708,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 6,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 6,
+      "o-scoring-line": 4,
+      "throwaway": 0
+    },
     "team": "Madhya Pradesh"
   },
   {
@@ -4602,6 +5766,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Madhya Pradesh"
   },
@@ -4650,6 +5826,18 @@
         "throwaway": 1
       }
     },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 8,
+      "d-scoring-line": 2,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 21,
+      "o-scoring-line": 8,
+      "throwaway": 1
+    },
     "team": "Madhya Pradesh"
   },
   {
@@ -4696,6 +5884,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 3,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 1,
+      "goal": 0,
+      "o-line": 2,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Madhya Pradesh"
   },
@@ -4744,6 +5944,18 @@
         "throwaway": 4
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 2,
+      "d-scoring-line": 0,
+      "defense": 1,
+      "drop": 1,
+      "goal": 0,
+      "o-line": 11,
+      "o-scoring-line": 1,
+      "throwaway": 4
+    },
     "team": "Madhya Pradesh"
   },
   {
@@ -4790,6 +6002,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 3,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Madhya Pradesh"
   },
@@ -4838,6 +6062,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -4884,6 +6120,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
   },
@@ -4932,6 +6180,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -4978,6 +6238,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
   },
@@ -5026,6 +6298,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -5072,6 +6356,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
   },
@@ -5120,6 +6416,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -5166,6 +6474,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
   },
@@ -5214,6 +6534,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -5260,6 +6592,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
   },
@@ -5308,6 +6652,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -5354,6 +6710,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
   },
@@ -5402,6 +6770,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -5448,6 +6828,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
   },
@@ -5496,6 +6888,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -5542,6 +6946,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
   },
@@ -5590,6 +7006,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -5636,6 +7064,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
   },
@@ -5684,6 +7124,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -5730,6 +7182,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
   },
@@ -5778,6 +7242,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -5824,6 +7300,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
   },
@@ -5872,6 +7360,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -5918,6 +7418,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
   },
@@ -5966,6 +7478,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -6012,6 +7536,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
   },
@@ -6060,6 +7596,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -6106,6 +7654,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
   },
@@ -6154,6 +7714,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Tamilnadu"
   },
   {
@@ -6200,6 +7772,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Tamilnadu"
   },
@@ -6248,6 +7832,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Tamilnadu"
   },
   {
@@ -6259,6 +7855,7 @@
     "points-distribution": {},
     "slug": "hannah-deborah",
     "stats": {},
+    "stats-distribution": {},
     "team": "Tamilnadu"
   },
   {
@@ -6305,6 +7902,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Tamilnadu"
   },
@@ -6353,6 +7962,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Tamilnadu"
   },
   {
@@ -6399,6 +8020,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Tamilnadu"
   },
@@ -6447,6 +8080,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Tamilnadu"
   },
   {
@@ -6494,6 +8139,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Tamilnadu"
   },
   {
@@ -6505,6 +8162,7 @@
     "points-distribution": {},
     "slug": "koka-mrinalini-siddhartha",
     "stats": {},
+    "stats-distribution": {},
     "team": "Tamilnadu"
   },
   {
@@ -6552,6 +8210,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Tamilnadu"
   },
   {
@@ -6563,6 +8233,7 @@
     "points-distribution": {},
     "slug": "mirra",
     "stats": {},
+    "stats-distribution": {},
     "team": "Tamilnadu"
   },
   {
@@ -6610,6 +8281,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Tamilnadu"
   },
   {
@@ -6621,6 +8304,7 @@
     "points-distribution": {},
     "slug": "pooja-bapat",
     "stats": {},
+    "stats-distribution": {},
     "team": "Tamilnadu"
   },
   {
@@ -6667,6 +8351,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Tamilnadu"
   },
@@ -6715,6 +8411,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Tamilnadu"
   },
   {
@@ -6761,6 +8469,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Tamilnadu"
   },
@@ -6809,6 +8529,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Tamilnadu"
   },
   {
@@ -6855,6 +8587,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Tamilnadu"
   },
@@ -6903,6 +8647,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Tamilnadu"
   },
   {
@@ -6914,6 +8670,7 @@
     "points-distribution": {},
     "slug": "sivakumar",
     "stats": {},
+    "stats-distribution": {},
     "team": "Tamilnadu"
   },
   {
@@ -6925,6 +8682,7 @@
     "points-distribution": {},
     "slug": "sivaraman-venkatesan",
     "stats": {},
+    "stats-distribution": {},
     "team": "Tamilnadu"
   },
   {
@@ -6971,6 +8729,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Tamilnadu"
   },
@@ -7019,6 +8789,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Tamilnadu"
   },
   {
@@ -7065,6 +8847,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Tamilnadu"
   },
@@ -7113,6 +8907,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Tamilnadu"
   },
   {
@@ -7159,6 +8965,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Tamilnadu"
   },
@@ -7207,6 +9025,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Tamilnadu"
   },
   {
@@ -7253,6 +9083,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Telangana Ultimate"
   },
@@ -7301,6 +9143,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 2,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 4,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Telangana Ultimate"
   },
   {
@@ -7347,6 +9201,18 @@
         "o-scoring-line": 0,
         "throwaway": 1
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 2,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 1
     },
     "team": "Telangana Ultimate"
   },
@@ -7395,6 +9261,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 2,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Telangana Ultimate"
   },
   {
@@ -7441,6 +9319,18 @@
         "o-scoring-line": 2,
         "throwaway": 1
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 7,
+      "o-scoring-line": 2,
+      "throwaway": 1
     },
     "team": "Telangana Ultimate"
   },
@@ -7489,6 +9379,18 @@
         "throwaway": 4
       }
     },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 9,
+      "o-scoring-line": 2,
+      "throwaway": 4
+    },
     "team": "Telangana Ultimate"
   },
   {
@@ -7535,6 +9437,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Telangana Ultimate"
   },
@@ -7583,6 +9497,18 @@
         "throwaway": 1
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 3,
+      "o-scoring-line": 0,
+      "throwaway": 1
+    },
     "team": "Telangana Ultimate"
   },
   {
@@ -7629,6 +9555,18 @@
         "o-scoring-line": 2,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 0,
+      "defense": 1,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 7,
+      "o-scoring-line": 2,
+      "throwaway": 0
     },
     "team": "Telangana Ultimate"
   },
@@ -7677,6 +9615,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 1,
+      "goal": 1,
+      "o-line": 6,
+      "o-scoring-line": 2,
+      "throwaway": 0
+    },
     "team": "Telangana Ultimate"
   },
   {
@@ -7724,6 +9674,18 @@
         "throwaway": 2
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 3,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 0,
+      "throwaway": 2
+    },
     "team": "Telangana Ultimate"
   },
   {
@@ -7735,6 +9697,7 @@
     "points-distribution": {},
     "slug": "panvi--s",
     "stats": {},
+    "stats-distribution": {},
     "team": "Telangana Ultimate"
   },
   {
@@ -7781,6 +9744,18 @@
         "o-scoring-line": 1,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 6,
+      "o-scoring-line": 1,
+      "throwaway": 0
     },
     "team": "Telangana Ultimate"
   },
@@ -7829,6 +9804,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 6,
+      "o-scoring-line": 1,
+      "throwaway": 0
+    },
     "team": "Telangana Ultimate"
   },
   {
@@ -7875,6 +9862,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 2,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Telangana Ultimate"
   },
@@ -7923,6 +9922,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 4,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Telangana Ultimate"
   },
   {
@@ -7969,6 +9980,18 @@
         "o-scoring-line": 1,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 2,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 3,
+      "o-scoring-line": 1,
+      "throwaway": 0
     },
     "team": "Telangana Ultimate"
   },
@@ -8017,6 +10040,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 4,
+      "o-scoring-line": 1,
+      "throwaway": 0
+    },
     "team": "Telangana Ultimate"
   },
   {
@@ -8063,6 +10098,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Telangana Ultimate"
   },
@@ -8111,6 +10158,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 10,
+      "o-scoring-line": 2,
+      "throwaway": 0
+    },
     "team": "Telangana Ultimate"
   },
   {
@@ -8157,6 +10216,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 3,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 3,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Telangana Ultimate"
   },
@@ -8205,6 +10276,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 1,
+      "goal": 0,
+      "o-line": 2,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Telangana Ultimate"
   },
   {
@@ -8251,6 +10334,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Uttar Pradesh"
   },
@@ -8299,6 +10394,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Uttar Pradesh"
   },
   {
@@ -8345,6 +10452,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 6,
+      "d-scoring-line": 5,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Uttar Pradesh"
   },
@@ -8393,6 +10512,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Uttar Pradesh"
   },
   {
@@ -8439,6 +10570,18 @@
         "o-scoring-line": 2,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 5,
+      "d-scoring-line": 4,
+      "defense": 0,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 3,
+      "o-scoring-line": 2,
+      "throwaway": 0
     },
     "team": "Uttar Pradesh"
   },
@@ -8487,6 +10630,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 2,
+      "block": 0,
+      "d-line": 7,
+      "d-scoring-line": 6,
+      "defense": 1,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Uttar Pradesh"
   },
   {
@@ -8533,6 +10688,18 @@
         "o-scoring-line": 3,
         "throwaway": 4
       }
+    },
+    "stats-distribution": {
+      "assist": 2,
+      "block": 0,
+      "d-line": 13,
+      "d-scoring-line": 6,
+      "defense": 1,
+      "drop": 1,
+      "goal": 4,
+      "o-line": 12,
+      "o-scoring-line": 9,
+      "throwaway": 5
     },
     "team": "Uttar Pradesh"
   },
@@ -8581,6 +10748,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 5,
+      "d-scoring-line": 4,
+      "defense": 1,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 1,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Uttar Pradesh"
   },
   {
@@ -8627,6 +10806,18 @@
         "o-scoring-line": 2,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 9,
+      "d-scoring-line": 3,
+      "defense": 0,
+      "drop": 1,
+      "goal": 3,
+      "o-line": 14,
+      "o-scoring-line": 8,
+      "throwaway": 1
     },
     "team": "Uttar Pradesh"
   },
@@ -8675,6 +10866,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 9,
+      "d-scoring-line": 6,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 2,
+      "o-scoring-line": 1,
+      "throwaway": 0
+    },
     "team": "Uttar Pradesh"
   },
   {
@@ -8721,6 +10924,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 6,
+      "d-scoring-line": 4,
+      "defense": 0,
+      "drop": 0,
+      "goal": 2,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
     },
     "team": "Uttar Pradesh"
   },
@@ -8769,6 +10984,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 12,
+      "d-scoring-line": 5,
+      "defense": 1,
+      "drop": 0,
+      "goal": 4,
+      "o-line": 8,
+      "o-scoring-line": 7,
+      "throwaway": 0
+    },
     "team": "Uttar Pradesh"
   },
   {
@@ -8815,6 +11042,18 @@
         "o-scoring-line": 3,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 15,
+      "d-scoring-line": 8,
+      "defense": 0,
+      "drop": 0,
+      "goal": 2,
+      "o-line": 10,
+      "o-scoring-line": 6,
+      "throwaway": 0
     },
     "team": "Uttar Pradesh"
   },
@@ -8863,6 +11102,18 @@
         "throwaway": 1
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 8,
+      "d-scoring-line": 5,
+      "defense": 1,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 4,
+      "o-scoring-line": 3,
+      "throwaway": 1
+    },
     "team": "Uttar Pradesh"
   },
   {
@@ -8909,6 +11160,18 @@
         "o-scoring-line": 2,
         "throwaway": 1
       }
+    },
+    "stats-distribution": {
+      "assist": 4,
+      "block": 0,
+      "d-line": 7,
+      "d-scoring-line": 2,
+      "defense": 0,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 14,
+      "o-scoring-line": 8,
+      "throwaway": 2
     },
     "team": "Uttar Pradesh"
   },
@@ -8957,6 +11220,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 3,
+      "d-scoring-line": 3,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Uttar Pradesh"
   },
   {
@@ -9003,6 +11278,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 14,
+      "d-scoring-line": 7,
+      "defense": 0,
+      "drop": 2,
+      "goal": 0,
+      "o-line": 12,
+      "o-scoring-line": 6,
+      "throwaway": 0
     },
     "team": "Uttar Pradesh"
   },
@@ -9051,6 +11338,18 @@
         "throwaway": 0
       }
     },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 4,
+      "d-scoring-line": 3,
+      "defense": 0,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 1,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Uttar Pradesh"
   },
   {
@@ -9097,6 +11396,18 @@
         "o-scoring-line": 1,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 5,
+      "block": 0,
+      "d-line": 14,
+      "d-scoring-line": 7,
+      "defense": 0,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 5,
+      "o-scoring-line": 3,
+      "throwaway": 1
     },
     "team": "Uttar Pradesh"
   },
@@ -9145,6 +11456,18 @@
         "throwaway": 1
       }
     },
+    "stats-distribution": {
+      "assist": 4,
+      "block": 0,
+      "d-line": 7,
+      "d-scoring-line": 3,
+      "defense": 0,
+      "drop": 1,
+      "goal": 0,
+      "o-line": 14,
+      "o-scoring-line": 8,
+      "throwaway": 4
+    },
     "team": "Uttar Pradesh"
   },
   {
@@ -9192,6 +11515,18 @@
         "throwaway": 1
       }
     },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 11,
+      "d-scoring-line": 8,
+      "defense": 1,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 8,
+      "o-scoring-line": 5,
+      "throwaway": 1
+    },
     "team": "Uttar Pradesh"
   },
   {
@@ -9238,6 +11573,18 @@
         "o-scoring-line": 1,
         "throwaway": 0
       }
+    },
+    "stats-distribution": {
+      "assist": 2,
+      "block": 0,
+      "d-line": 6,
+      "d-scoring-line": 2,
+      "defense": 1,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 9,
+      "o-scoring-line": 4,
+      "throwaway": 2
     },
     "team": "Uttar Pradesh"
   }
