@@ -162,11 +162,60 @@ const PlayerProfile = () => {
 										borderRadius: "20px",
 									}}
 								>
+									<>
+										<Grid item xs={6}>
+											<Typography
+												align="center"
+												variant="overline"
+												component="p"
+												sx={{
+													fontSize: "3.5vw",
+													opacity: 0.65,
+												}}
+											>
+												{""}
+											</Typography>
+										</Grid>
+										<Grid item xs={3}>
+											<Typography
+												align="center"
+												sx={{
+													// backgroundImage:
+													// 	"-webkit-linear-gradient(60deg, #002B5B, #EF5B0C)",
+													// backgroundClip: "text",
+													// color: "transparent",
+													lineHeight: "2.66",
+													font:
+														"bold 3.5vw/2.66 Poppins, sans-serif",
+												}}
+												variant="overline"
+												component="p"
+												color="primary"
+											>
+												Stats
+											</Typography>
+										</Grid>
+										<Grid item xs={3}>
+											<Typography
+												align="center"
+												sx={{
+													lineHeight: "2.66",
+													font:
+														"bold 3.5vw/2.66 Poppins, sans-serif",
+												}}
+												variant="overline"
+												component="p"
+												color="primary"
+											>
+												Score
+											</Typography>
+										</Grid>
+									</>
 									{Object.keys(
-										player["points-distribution"]
+										player["stats-distribution"]
 									).map((statName) => (
 										<>
-											<Grid item xs={9}>
+											<Grid item xs={6}>
 												<Typography
 													align="center"
 													variant="overline"
@@ -183,22 +232,30 @@ const PlayerProfile = () => {
 												<Typography
 													align="center"
 													sx={{
-														// backgroundImage:
-														// 	"-webkit-linear-gradient(60deg, #002B5B, #EF5B0C)",
-														// backgroundClip: "text",
-														// color: "transparent",
 														lineHeight: "2.66",
-														font: "bold 3.5vw/2.66 Poppins, sans-serif",
+														font:
+															"bold 3.5vw/2.66 Poppins, sans-serif",
 													}}
 													variant="overline"
 													component="p"
 													color="primary"
 												>
-													{
-														player[
-															"points-distribution"
-														][statName]
-													}
+													{`${player["stats-distribution"][statName]}`}
+												</Typography>
+											</Grid>
+											<Grid item xs={3}>
+												<Typography
+													align="center"
+													sx={{
+														lineHeight: "2.66",
+														font:
+															"bold 3.5vw/2.66 Poppins, sans-serif",
+													}}
+													variant="overline"
+													component="p"
+													color="primary"
+												>
+													{`${player["points-distribution"][statName]}`}
 												</Typography>
 											</Grid>
 										</>
@@ -237,10 +294,9 @@ const PlayerProfile = () => {
 															<TableRow
 																key={statName}
 																sx={{
-																	"&:last-child td, &:last-child th":
-																		{
-																			border: 0,
-																		},
+																	"&:last-child td, &:last-child th": {
+																		border: 0,
+																	},
 																}}
 															>
 																<TableCell
