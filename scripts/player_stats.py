@@ -69,11 +69,11 @@ def compute_stats(path):
             "photo": player["photo"],
             "team": player["team"],
             "stats": {
-                row["opponent"]: {
+                row["Opponent"]: {
                     key: int(row.get(key, 0) or 0) for key in POINTS.keys()
                 }
                 for row in data
-                if translate_name(row["name"]) == player["name"]
+                if translate_name(row["Name"]) == player["name"]
             },
         }
         for player in teams
