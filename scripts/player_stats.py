@@ -52,6 +52,7 @@ def default_player_list():
 def compute_stats(path):
 
     with open(path) as f:
+        next(f)
         data = list(csv.DictReader(f))
 
     with open(DATA_DIR.joinpath("teams.json")) as f:
