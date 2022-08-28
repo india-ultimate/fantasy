@@ -7701,54 +7701,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 0,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 0,
-        "o-scoring-line": 0,
-        "throwaway": 0
-      }
-    },
-    "stats-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
-    "team": "Tamilnadu"
-  },
-  {
-    "fantasy-points": 0.0,
-    "gender": "female",
-    "jersey": "",
-    "name": "Deepika Shankar",
-    "photo": "https://secure.gravatar.com/avatar/8e6b244c648586eff6c7ff4b740680b9?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0.0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0.0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
-    "slug": "deepika-shankar",
-    "stats": {
-      "Gujarat Ultimate": {
+      "Telangana Ultimate": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7788,19 +7741,90 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 0.0,
+    "fantasy-points": 4.0,
     "gender": "female",
     "jersey": "",
-    "name": "Gothainayagi R",
-    "photo": "https://secure.gravatar.com/avatar/de73f9ad0fdf94f9ab907fa7a96c6bc4?s=280&d=mm&r=r",
+    "name": "Deepika Shankar",
+    "photo": "https://secure.gravatar.com/avatar/8e6b244c648586eff6c7ff4b740680b9?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 0,
+      "assist": 6,
       "block": 0,
       "d-line": 0.0,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
       "goal": 0,
+      "o-line": 0.0,
+      "o-scoring-line": 0,
+      "throwaway": -2
+    },
+    "slug": "deepika-shankar",
+    "stats": {
+      "Gujarat Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Telangana Ultimate": {
+        "assist": 2,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 1
+      },
+      "Uttar Pradesh": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 2,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 1
+    },
+    "team": "Tamilnadu"
+  },
+  {
+    "fantasy-points": 7.0,
+    "gender": "female",
+    "jersey": "",
+    "name": "Gothainayagi R",
+    "photo": "https://secure.gravatar.com/avatar/de73f9ad0fdf94f9ab907fa7a96c6bc4?s=280&d=mm&r=r",
+    "points-distribution": {
+      "assist": 3,
+      "block": 0,
+      "d-line": 0.0,
+      "d-scoring-line": 0,
+      "defense": 5,
+      "drop": -4,
+      "goal": 3,
       "o-line": 0.0,
       "o-scoring-line": 0,
       "throwaway": 0
@@ -7819,6 +7843,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Telangana Ultimate": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 1,
+        "drop": 2,
+        "goal": 1,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh": {
         "assist": 0,
         "block": 0,
@@ -7833,13 +7869,13 @@
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 1,
       "block": 0,
       "d-line": 0,
       "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
+      "defense": 1,
+      "drop": 2,
+      "goal": 1,
       "o-line": 0,
       "o-scoring-line": 0,
       "throwaway": 0
@@ -7879,6 +7915,18 @@
     "slug": "hariharan-kumar",
     "stats": {
       "Gujarat Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Telangana Ultimate": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7949,6 +7997,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Telangana Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh": {
         "assist": 0,
         "block": 0,
@@ -7997,6 +8057,18 @@
     "slug": "harsha-gk",
     "stats": {
       "Gujarat Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Telangana Ultimate": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8067,6 +8139,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Telangana Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh": {
         "assist": 0,
         "block": 0,
@@ -8115,6 +8199,18 @@
     "slug": "kishore-kumar",
     "stats": {
       "Gujarat Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Telangana Ultimate": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8197,6 +8293,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Telangana Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh": {
         "assist": 0,
         "block": 0,
@@ -8257,6 +8365,18 @@
     "slug": "monika-shankar",
     "stats": {
       "Gujarat Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Telangana Ultimate": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8339,6 +8459,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Telangana Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh": {
         "assist": 0,
         "block": 0,
@@ -8387,6 +8519,18 @@
     "slug": "ramkumar-nithyanandam",
     "stats": {
       "Gujarat Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Telangana Ultimate": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8457,6 +8601,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Telangana Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh": {
         "assist": 0,
         "block": 0,
@@ -8505,6 +8661,18 @@
     "slug": "samyuktha-arvind",
     "stats": {
       "Gujarat Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Telangana Ultimate": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8575,6 +8743,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Telangana Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh": {
         "assist": 0,
         "block": 0,
@@ -8623,6 +8803,18 @@
     "slug": "shruthi-nathella",
     "stats": {
       "Gujarat Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Telangana Ultimate": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8717,6 +8909,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Telangana Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh": {
         "assist": 0,
         "block": 0,
@@ -8765,6 +8969,18 @@
     "slug": "srividya-suriyashekar",
     "stats": {
       "Gujarat Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Telangana Ultimate": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8835,6 +9051,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Telangana Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh": {
         "assist": 0,
         "block": 0,
@@ -8883,6 +9111,18 @@
     "slug": "vijaya-dharshini-m",
     "stats": {
       "Gujarat Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Telangana Ultimate": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8953,6 +9193,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Telangana Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh": {
         "assist": 0,
         "block": 0,
@@ -9001,6 +9253,18 @@
     "slug": "yuvaraj-magesh",
     "stats": {
       "Gujarat Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Telangana Ultimate": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9071,6 +9335,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Tamilnadu": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh": {
         "assist": 0,
         "block": 0,
@@ -9119,6 +9395,18 @@
     "slug": "akshara-domala",
     "stats": {
       "Gujarat Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Tamilnadu": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9189,6 +9477,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Tamilnadu": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh": {
         "assist": 0,
         "block": 0,
@@ -9237,6 +9537,18 @@
     "slug": "anil-naik",
     "stats": {
       "Gujarat Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Tamilnadu": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9307,6 +9619,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Tamilnadu": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh": {
         "assist": 0,
         "block": 0,
@@ -9355,6 +9679,18 @@
     "slug": "dhiraj-gangaraju",
     "stats": {
       "Gujarat Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Tamilnadu": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9425,6 +9761,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Tamilnadu": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh": {
         "assist": 0,
         "block": 0,
@@ -9473,6 +9821,18 @@
     "slug": "kishen-chandar",
     "stats": {
       "Gujarat Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Tamilnadu": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9543,6 +9903,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Tamilnadu": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh": {
         "assist": 0,
         "block": 0,
@@ -9602,6 +9974,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Tamilnadu": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh": {
         "assist": 0,
         "block": 0,
@@ -9650,6 +10034,18 @@
     "slug": "nayanatara-vadali",
     "stats": {
       "Gujarat Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Tamilnadu": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9732,6 +10128,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Tamilnadu": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh": {
         "assist": 1,
         "block": 0,
@@ -9780,6 +10188,18 @@
     "slug": "ramya-bhavana-kothapalli",
     "stats": {
       "Gujarat Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Tamilnadu": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9850,6 +10270,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Tamilnadu": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh": {
         "assist": 0,
         "block": 0,
@@ -9898,6 +10330,18 @@
     "slug": "sandeep-g",
     "stats": {
       "Gujarat Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Tamilnadu": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9968,6 +10412,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Tamilnadu": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh": {
         "assist": 0,
         "block": 0,
@@ -10016,6 +10472,18 @@
     "slug": "suresh-k",
     "stats": {
       "Gujarat Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Tamilnadu": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10086,6 +10554,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Tamilnadu": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh": {
         "assist": 0,
         "block": 0,
@@ -10134,6 +10614,18 @@
     "slug": "usha-rani",
     "stats": {
       "Gujarat Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Tamilnadu": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10204,6 +10696,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Tamilnadu": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh": {
         "assist": 0,
         "block": 0,
@@ -10252,6 +10756,18 @@
     "slug": "venkatesh-kumar",
     "stats": {
       "Gujarat Ultimate": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Tamilnadu": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
