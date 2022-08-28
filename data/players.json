@@ -1,6 +1,6 @@
 [
   {
-    "fantasy-points": 2.0,
+    "fantasy-points": 9.5,
     "gender": "female",
     "jersey": "10",
     "name": "Aarti Kumari",
@@ -8,8 +8,8 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0.0,
-      "d-scoring-line": 0,
+      "d-line": 1.5,
+      "d-scoring-line": 6,
       "defense": 0,
       "drop": -2,
       "goal": 0,
@@ -34,8 +34,8 @@
       "Madhya Pradesh": {
         "assist": 0,
         "block": 0,
-        "d-line": 0,
-        "d-scoring-line": 0,
+        "d-line": 3,
+        "d-scoring-line": 3,
         "defense": 0,
         "drop": 0,
         "goal": 0,
@@ -47,8 +47,8 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
+      "d-line": 3,
+      "d-scoring-line": 3,
       "defense": 0,
       "drop": 1,
       "goal": 0,
@@ -59,7 +59,7 @@
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 4.5,
+    "fantasy-points": 14.0,
     "gender": "female",
     "jersey": "95",
     "name": "Aastha Gupta",
@@ -67,13 +67,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0.0,
-      "d-scoring-line": 0,
+      "d-line": 1.0,
+      "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 2.5,
-      "o-scoring-line": 2,
+      "o-line": 5.0,
+      "o-scoring-line": 6,
       "throwaway": 0
     },
     "slug": "aastha-gupta",
@@ -93,26 +93,26 @@
       "Madhya Pradesh": {
         "assist": 0,
         "block": 0,
-        "d-line": 0,
-        "d-scoring-line": 0,
+        "d-line": 2,
+        "d-scoring-line": 1,
         "defense": 0,
         "drop": 0,
         "goal": 0,
-        "o-line": 0,
-        "o-scoring-line": 0,
+        "o-line": 5,
+        "o-scoring-line": 4,
         "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
+      "d-line": 2,
+      "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 5,
-      "o-scoring-line": 2,
+      "o-line": 10,
+      "o-scoring-line": 6,
       "throwaway": 0
     },
     "team": "Delhi Ultimate"
@@ -236,21 +236,21 @@
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 18.5,
+    "fantasy-points": 51.5,
     "gender": "female",
     "jersey": "27",
     "name": "Garima Rathore",
     "photo": "https://secure.gravatar.com/avatar/5e761a34b5dbcbf4b94b51b3c13a25ba?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 0,
+      "assist": 3,
       "block": 0,
-      "d-line": 1.5,
-      "d-scoring-line": 2,
-      "defense": 0,
-      "drop": -2,
-      "goal": 6,
-      "o-line": 7.0,
-      "o-scoring-line": 6,
+      "d-line": 6.5,
+      "d-scoring-line": 14,
+      "defense": 5,
+      "drop": -6,
+      "goal": 9,
+      "o-line": 11.0,
+      "o-scoring-line": 11,
       "throwaway": -2
     },
     "slug": "garima-rathore",
@@ -268,28 +268,28 @@
         "throwaway": 1
       },
       "Madhya Pradesh": {
-        "assist": 0,
+        "assist": 1,
         "block": 0,
-        "d-line": 0,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 0,
-        "o-scoring-line": 0,
+        "d-line": 10,
+        "d-scoring-line": 6,
+        "defense": 1,
+        "drop": 2,
+        "goal": 1,
+        "o-line": 8,
+        "o-scoring-line": 5,
         "throwaway": 0
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 1,
       "block": 0,
-      "d-line": 3,
-      "d-scoring-line": 1,
-      "defense": 0,
-      "drop": 1,
-      "goal": 2,
-      "o-line": 14,
-      "o-scoring-line": 6,
+      "d-line": 13,
+      "d-scoring-line": 7,
+      "defense": 1,
+      "drop": 3,
+      "goal": 3,
+      "o-line": 22,
+      "o-scoring-line": 11,
       "throwaway": 1
     },
     "team": "Delhi Ultimate"
@@ -413,7 +413,7 @@
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 0.5,
+    "fantasy-points": 3.0,
     "gender": "female",
     "jersey": "12",
     "name": "Khushboo Khatun",
@@ -421,8 +421,8 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0.5,
-      "d-scoring-line": 0,
+      "d-line": 1.0,
+      "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -447,8 +447,8 @@
       "Madhya Pradesh": {
         "assist": 0,
         "block": 0,
-        "d-line": 0,
-        "d-scoring-line": 0,
+        "d-line": 1,
+        "d-scoring-line": 1,
         "defense": 0,
         "drop": 0,
         "goal": 0,
@@ -460,8 +460,8 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 1,
-      "d-scoring-line": 0,
+      "d-line": 2,
+      "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -472,7 +472,7 @@
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 2.0,
+    "fantasy-points": 5.0,
     "gender": "female",
     "jersey": "28",
     "name": "Mansi Walecha",
@@ -480,8 +480,8 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0.0,
-      "d-scoring-line": 0,
+      "d-line": 1.0,
+      "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -506,8 +506,8 @@
       "Madhya Pradesh": {
         "assist": 0,
         "block": 0,
-        "d-line": 0,
-        "d-scoring-line": 0,
+        "d-line": 2,
+        "d-scoring-line": 1,
         "defense": 0,
         "drop": 0,
         "goal": 0,
@@ -519,8 +519,8 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
+      "d-line": 2,
+      "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -531,7 +531,7 @@
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 6.0,
+    "fantasy-points": 17.5,
     "gender": "female",
     "jersey": "8",
     "name": "Mehr Parisha",
@@ -539,8 +539,8 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 1.5,
-      "d-scoring-line": 0,
+      "d-line": 5.0,
+      "d-scoring-line": 8,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -565,8 +565,8 @@
       "Madhya Pradesh": {
         "assist": 0,
         "block": 0,
-        "d-line": 0,
-        "d-scoring-line": 0,
+        "d-line": 7,
+        "d-scoring-line": 4,
         "defense": 0,
         "drop": 0,
         "goal": 0,
@@ -578,8 +578,8 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 3,
-      "d-scoring-line": 0,
+      "d-line": 10,
+      "d-scoring-line": 4,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -708,7 +708,7 @@
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 3.5,
+    "fantasy-points": 4.0,
     "gender": "female",
     "jersey": "16",
     "name": "Prachi Mehta",
@@ -716,7 +716,7 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 1.5,
+      "d-line": 2.0,
       "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
@@ -742,7 +742,7 @@
       "Madhya Pradesh": {
         "assist": 0,
         "block": 0,
-        "d-line": 0,
+        "d-line": 1,
         "d-scoring-line": 0,
         "defense": 0,
         "drop": 0,
@@ -755,7 +755,7 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 3,
+      "d-line": 4,
       "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
@@ -944,7 +944,7 @@
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 11.0,
+    "fantasy-points": 43.0,
     "gender": "female",
     "jersey": "51",
     "name": "Sowmya Gascon",
@@ -952,13 +952,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 4.0,
-      "d-scoring-line": 2,
+      "d-line": 9.0,
+      "d-scoring-line": 16,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
-      "o-line": 4.0,
-      "o-scoring-line": 3,
+      "goal": 6,
+      "o-line": 7.0,
+      "o-scoring-line": 7,
       "throwaway": -2
     },
     "slug": "sowmya-gascon",
@@ -978,26 +978,26 @@
       "Madhya Pradesh": {
         "assist": 0,
         "block": 0,
-        "d-line": 0,
-        "d-scoring-line": 0,
+        "d-line": 10,
+        "d-scoring-line": 7,
         "defense": 0,
         "drop": 0,
-        "goal": 0,
-        "o-line": 0,
-        "o-scoring-line": 0,
+        "goal": 2,
+        "o-line": 6,
+        "o-scoring-line": 4,
         "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 8,
-      "d-scoring-line": 1,
+      "d-line": 18,
+      "d-scoring-line": 8,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
-      "o-line": 8,
-      "o-scoring-line": 3,
+      "goal": 2,
+      "o-line": 14,
+      "o-scoring-line": 7,
       "throwaway": 1
     },
     "team": "Delhi Ultimate"
@@ -1062,7 +1062,7 @@
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 22.5,
+    "fantasy-points": 35.0,
     "gender": "female",
     "jersey": "3",
     "name": "Suhani Bedi",
@@ -1070,13 +1070,13 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 3.5,
+      "d-line": 8.5,
       "d-scoring-line": 2,
       "defense": 5,
       "drop": 0,
       "goal": 0,
-      "o-line": 5.0,
-      "o-scoring-line": 4,
+      "o-line": 8.5,
+      "o-scoring-line": 8,
       "throwaway": 0
     },
     "slug": "suhani-bedi",
@@ -1096,26 +1096,26 @@
       "Madhya Pradesh": {
         "assist": 0,
         "block": 0,
-        "d-line": 0,
+        "d-line": 10,
         "d-scoring-line": 0,
         "defense": 0,
         "drop": 0,
         "goal": 0,
-        "o-line": 0,
-        "o-scoring-line": 0,
+        "o-line": 7,
+        "o-scoring-line": 4,
         "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 7,
+      "d-line": 17,
       "d-scoring-line": 1,
       "defense": 1,
       "drop": 0,
       "goal": 0,
-      "o-line": 10,
-      "o-scoring-line": 4,
+      "o-line": 17,
+      "o-scoring-line": 8,
       "throwaway": 0
     },
     "team": "Delhi Ultimate"
