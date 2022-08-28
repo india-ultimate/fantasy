@@ -39,7 +39,7 @@ const LeaderboardRow = ({ player, playersMap }) => {
 					return { ...p, teamLogo };
 				})
 		);
-	}, []);
+	}, [player]);
 
 	return (
 		<>
@@ -92,12 +92,12 @@ const LeaderboardRow = ({ player, playersMap }) => {
 					</IconButton>
 				</TableCell>
 			</TableRow>
-			<TableRow>
+			<TableRow key={player.rank + "-details"}>
 				<TableCell
 					style={{ paddingBottom: 0, paddingTop: 0 }}
 					colSpan={6}
 				>
-					<Collapse in={open} timeout="auto" unmountOnExit>
+					<Collapse in={open} timeout="auto">
 						<TableContainer component={Paper} sx={{ my: "2vh" }}>
 							<Table aria-label="simple table">
 								<TableBody>
