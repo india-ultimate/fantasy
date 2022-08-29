@@ -269,61 +269,76 @@ const PlayerProfile = () => {
 								>
 									Game Stats
 								</Typography>
-								{Object.keys(player.stats).map((team) => (
-									<Accordion>
-										<AccordionSummary
-											expandIcon={<ExpandMoreIcon />}
-											aria-controls="panel1a-content"
-											id={team}
-										>
-											<Typography>{team}</Typography>
-										</AccordionSummary>
-										<AccordionDetails>
-											<TableContainer component={Paper}>
-												<Table aria-label="simple table">
-													<TableBody>
-														{statsOrder.map(
-															(statName) => (
-																<TableRow
-																	key={
-																		statName
-																	}
-																	sx={{
-																		"&:last-child td, &:last-child th":
-																			{
-																				border: 0,
-																			},
-																	}}
-																>
-																	<TableCell
-																		component="th"
-																		scope="row"
+								{Object.keys(player.stats).map(teamDay => {
+									const [team, day] = teamDay.split(";");
+									return (
+										<Accordion>
+											<AccordionSummary
+												expandIcon={<ExpandMoreIcon />}
+												aria-controls="panel1a-content"
+												id={teamDay}
+											>
+												<Typography>
+													{team} &mdash;{" "}
+													<Typography
+														component="span"
+														sx={{
+															textTransform:
+																"capitalize"
+														}}
+													>
+														{day}
+													</Typography>
+												</Typography>
+											</AccordionSummary>
+											<AccordionDetails>
+												<TableContainer
+													component={Paper}
+												>
+													<Table aria-label="simple table">
+														<TableBody>
+															{statsOrder.map(
+																statName => (
+																	<TableRow
+																		key={
+																			statName
+																		}
+																		sx={{
+																			"&:last-child td, &:last-child th": {
+																				border: 0
+																			}
+																		}}
 																	>
-																		{
-																			displayNames[
-																				statName
-																			]
-																		}
-																	</TableCell>
-																	<TableCell align="right">
-																		{
-																			player
-																				.stats[
-																				team
-																			][
-																				statName
-																			]
-																		}
-																	</TableCell>
-																</TableRow>
-															)
-														)}
-													</TableBody>
-												</Table>
-											</TableContainer>
-										</AccordionDetails>
-									</Accordion>
-								))}
+																		<TableCell
+																			component="th"
+																			scope="row"
+																		>
+																			{
+																				displayNames[
+																					statName
+																				]
+																			}
+																		</TableCell>
+																		<TableCell align="right">
+																			{
+																				player
+																					.stats[
+																					teamDay
+																				][
+																					statName
+																				]
+																			}
+																		</TableCell>
+																	</TableRow>
+																)
+															)}
+														</TableBody>
+													</Table>
+												</TableContainer>
+											</AccordionDetails>
+										</Accordion>
+									);
+								})}
 							</Grid>
 						</>
 					) : (

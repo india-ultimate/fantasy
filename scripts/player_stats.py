@@ -72,7 +72,7 @@ def compute_stats(paths):
             "photo": player["photo"],
             "team": player["team"],
             "stats": {
-                row["Opponent"]: {
+                f'{row["Opponent"]};{row["Day"]}': {
                     key: int(row.get(key, 0) or 0) for key in POINTS.keys()
                 }
                 for row in data

@@ -19,7 +19,7 @@
     },
     "slug": "aarti-kumari",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -31,7 +31,7 @@
         "o-scoring-line": 1,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 3,
@@ -43,7 +43,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -90,7 +90,7 @@
     },
     "slug": "aastha-gupta",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -102,7 +102,7 @@
         "o-scoring-line": 2,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 2,
@@ -114,7 +114,7 @@
         "o-scoring-line": 4,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -161,7 +161,7 @@
     },
     "slug": "aman-doharey",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 8,
@@ -173,7 +173,7 @@
         "o-scoring-line": 0,
         "throwaway": 1
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -185,7 +185,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 3,
@@ -232,7 +232,7 @@
     },
     "slug": "aranyadev-jhala",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -244,7 +244,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -256,7 +256,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 2,
@@ -303,7 +303,7 @@
     },
     "slug": "garima-rathore",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 3,
@@ -315,7 +315,7 @@
         "o-scoring-line": 6,
         "throwaway": 1
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 10,
@@ -327,7 +327,7 @@
         "o-scoring-line": 5,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 2,
         "block": 0,
         "d-line": 6,
@@ -374,7 +374,7 @@
     },
     "slug": "jatin-meena",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 1,
@@ -386,7 +386,7 @@
         "o-scoring-line": 5,
         "throwaway": 1
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -398,7 +398,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 2,
         "block": 0,
         "d-line": 1,
@@ -445,7 +445,7 @@
     },
     "slug": "kanishk-k",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 2,
@@ -457,7 +457,7 @@
         "o-scoring-line": 4,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -469,7 +469,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 4,
@@ -516,7 +516,7 @@
     },
     "slug": "khushboo-khatun",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -528,7 +528,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -540,7 +540,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -587,7 +587,7 @@
     },
     "slug": "mansi-walecha",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -599,7 +599,7 @@
         "o-scoring-line": 1,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 2,
@@ -611,7 +611,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -658,7 +658,7 @@
     },
     "slug": "mehr-parisha",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 3,
@@ -670,7 +670,7 @@
         "o-scoring-line": 3,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 7,
@@ -682,7 +682,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 4,
@@ -729,7 +729,7 @@
     },
     "slug": "michiaki-ito",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -741,7 +741,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -753,7 +753,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -800,7 +800,7 @@
     },
     "slug": "mohit-rawat",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -812,7 +812,7 @@
         "o-scoring-line": 2,
         "throwaway": 2
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -824,7 +824,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 0,
@@ -871,7 +871,7 @@
     },
     "slug": "prachi-mehta",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 3,
@@ -883,7 +883,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -895,7 +895,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -942,7 +942,7 @@
     },
     "slug": "samarth-mishra",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 2,
         "block": 0,
         "d-line": 5,
@@ -954,7 +954,7 @@
         "o-scoring-line": 2,
         "throwaway": 1
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -966,7 +966,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 5,
@@ -1013,7 +1013,7 @@
     },
     "slug": "sangeeta-singh",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1025,7 +1025,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1037,7 +1037,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1084,7 +1084,7 @@
     },
     "slug": "sidharth-walecha",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 2,
@@ -1096,7 +1096,7 @@
         "o-scoring-line": 0,
         "throwaway": 1
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1108,7 +1108,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 3,
@@ -1155,7 +1155,7 @@
     },
     "slug": "sowmya-gascon",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 8,
@@ -1167,7 +1167,7 @@
         "o-scoring-line": 3,
         "throwaway": 1
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 10,
@@ -1179,7 +1179,7 @@
         "o-scoring-line": 4,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 7,
@@ -1226,7 +1226,7 @@
     },
     "slug": "subhadeep-guha",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 3,
@@ -1238,7 +1238,7 @@
         "o-scoring-line": 3,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1250,7 +1250,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 3,
@@ -1297,7 +1297,7 @@
     },
     "slug": "suhani-bedi",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 7,
@@ -1309,7 +1309,7 @@
         "o-scoring-line": 4,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 10,
@@ -1321,7 +1321,7 @@
         "o-scoring-line": 4,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 8,
@@ -1368,7 +1368,7 @@
     },
     "slug": "sunny-chauhan",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 7,
@@ -1380,7 +1380,7 @@
         "o-scoring-line": 0,
         "throwaway": 1
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1392,7 +1392,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 5,
@@ -1439,7 +1439,7 @@
     },
     "slug": "udayan-philip",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 2,
         "block": 0,
         "d-line": 1,
@@ -1451,7 +1451,7 @@
         "o-scoring-line": 6,
         "throwaway": 5
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1463,7 +1463,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 2,
         "block": 0,
         "d-line": 4,
@@ -1510,7 +1510,7 @@
     },
     "slug": "veena-singh",
     "stats": {
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 2,
@@ -1522,7 +1522,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1534,7 +1534,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 7,
@@ -1581,7 +1581,7 @@
     },
     "slug": "akshay-surange",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1593,7 +1593,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1605,7 +1605,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1652,7 +1652,7 @@
     },
     "slug": "altaf-shaikh",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1664,7 +1664,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1676,7 +1676,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1723,7 +1723,7 @@
     },
     "slug": "ansh-kapadia",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1735,7 +1735,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1747,7 +1747,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1794,7 +1794,7 @@
     },
     "slug": "arya-shah",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1806,7 +1806,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1818,7 +1818,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1865,7 +1865,7 @@
     },
     "slug": "atul-parmar",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1877,7 +1877,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1889,7 +1889,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1936,7 +1936,7 @@
     },
     "slug": "bhavya-jain",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1948,7 +1948,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -1960,7 +1960,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2007,7 +2007,7 @@
     },
     "slug": "dhwani-jain",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2019,7 +2019,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2031,7 +2031,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2078,7 +2078,7 @@
     },
     "slug": "jigarkumar-parmar",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2090,7 +2090,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2102,7 +2102,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2149,7 +2149,7 @@
     },
     "slug": "karan-sharam",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2161,7 +2161,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2173,7 +2173,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2220,7 +2220,7 @@
     },
     "slug": "kenny-borsada",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2232,7 +2232,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2244,7 +2244,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2291,7 +2291,7 @@
     },
     "slug": "khushi-desai",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2303,7 +2303,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2315,7 +2315,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2362,7 +2362,7 @@
     },
     "slug": "kirtika-khambhu",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2374,7 +2374,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2386,7 +2386,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2433,7 +2433,7 @@
     },
     "slug": "krish-patel",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2445,7 +2445,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2457,7 +2457,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2504,7 +2504,7 @@
     },
     "slug": "krishna-damor",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2516,7 +2516,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2528,7 +2528,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2575,7 +2575,7 @@
     },
     "slug": "maitry-acharya",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2587,7 +2587,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2599,7 +2599,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2646,7 +2646,7 @@
     },
     "slug": "muskan-jain",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2658,7 +2658,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2670,7 +2670,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2717,7 +2717,7 @@
     },
     "slug": "neha-diwakar",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2729,7 +2729,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2741,7 +2741,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2788,7 +2788,7 @@
     },
     "slug": "nikhil-diwakar",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2800,7 +2800,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2812,7 +2812,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2859,7 +2859,7 @@
     },
     "slug": "nimisha-vasava",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2871,7 +2871,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2883,7 +2883,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2930,7 +2930,7 @@
     },
     "slug": "noman-pthan",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2942,7 +2942,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -2954,7 +2954,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3001,7 +3001,7 @@
     },
     "slug": "ritika-solanki",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3013,7 +3013,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3025,7 +3025,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3072,7 +3072,7 @@
     },
     "slug": "riya-rathod",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3084,7 +3084,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3096,7 +3096,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3143,7 +3143,7 @@
     },
     "slug": "rutvikkumar-nayka",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3155,7 +3155,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3167,7 +3167,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3214,7 +3214,7 @@
     },
     "slug": "sanjay-parmar",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3226,7 +3226,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3238,7 +3238,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3285,7 +3285,7 @@
     },
     "slug": "shraddha-chaudhary",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3297,7 +3297,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3309,7 +3309,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3356,7 +3356,7 @@
     },
     "slug": "suman-nachiketa",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3368,7 +3368,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3380,7 +3380,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3427,7 +3427,7 @@
     },
     "slug": "swayam-narang",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3439,7 +3439,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3451,7 +3451,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3498,7 +3498,7 @@
     },
     "slug": "tanisha-rathod",
     "stats": {
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3510,7 +3510,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3522,7 +3522,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3569,7 +3569,7 @@
     },
     "slug": "aaron-varghese",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 1,
@@ -3581,7 +3581,7 @@
         "o-scoring-line": 5,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3593,7 +3593,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3640,7 +3640,7 @@
     },
     "slug": "abdul-talib",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 3,
@@ -3652,7 +3652,7 @@
         "o-scoring-line": 2,
         "throwaway": 2
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3664,7 +3664,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3711,7 +3711,7 @@
     },
     "slug": "ajith-jagadish",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 3,
@@ -3723,7 +3723,7 @@
         "o-scoring-line": 1,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3735,7 +3735,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3782,7 +3782,7 @@
     },
     "slug": "ananya-shaju",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 7,
@@ -3794,7 +3794,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3806,7 +3806,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3853,7 +3853,7 @@
     },
     "slug": "apoorva-c-a",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3865,7 +3865,7 @@
         "o-scoring-line": 4,
         "throwaway": 1
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3877,7 +3877,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3924,7 +3924,7 @@
     },
     "slug": "ashwini-lokanath",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 1,
@@ -3936,7 +3936,7 @@
         "o-scoring-line": 4,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3948,7 +3948,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -3995,7 +3995,7 @@
     },
     "slug": "auroshree-mohanta",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 3,
@@ -4007,7 +4007,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4019,7 +4019,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4066,7 +4066,7 @@
     },
     "slug": "chethan-srikanth",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 7,
@@ -4078,7 +4078,7 @@
         "o-scoring-line": 2,
         "throwaway": 1
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4090,7 +4090,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4137,7 +4137,7 @@
     },
     "slug": "deepak-gowda",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 2,
         "block": 0,
         "d-line": 2,
@@ -4149,7 +4149,7 @@
         "o-scoring-line": 4,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4161,7 +4161,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4208,7 +4208,7 @@
     },
     "slug": "esai-selvan-esakki",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 3,
@@ -4220,7 +4220,7 @@
         "o-scoring-line": 1,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4232,7 +4232,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4279,7 +4279,7 @@
     },
     "slug": "grant-wagner",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 5,
@@ -4291,7 +4291,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4303,7 +4303,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4350,7 +4350,7 @@
     },
     "slug": "meenakshi-kallapa-poojar",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 3,
@@ -4362,7 +4362,7 @@
         "o-scoring-line": 3,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4374,7 +4374,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4421,7 +4421,7 @@
     },
     "slug": "naina-mathews",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 3,
@@ -4433,7 +4433,7 @@
         "o-scoring-line": 0,
         "throwaway": 1
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4445,7 +4445,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4492,7 +4492,7 @@
     },
     "slug": "naveen-g",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 3,
@@ -4504,7 +4504,7 @@
         "o-scoring-line": 3,
         "throwaway": 1
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4516,7 +4516,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4563,7 +4563,7 @@
     },
     "slug": "pooja-raghu",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 5,
@@ -4575,7 +4575,7 @@
         "o-scoring-line": 3,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4587,7 +4587,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4634,7 +4634,7 @@
     },
     "slug": "prashanth-s",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4646,7 +4646,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4658,7 +4658,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4705,7 +4705,7 @@
     },
     "slug": "ranjan-khyadad",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 4,
@@ -4717,7 +4717,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4729,7 +4729,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4776,7 +4776,7 @@
     },
     "slug": "sabeel-khader",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 5,
@@ -4788,7 +4788,7 @@
         "o-scoring-line": 2,
         "throwaway": 1
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4800,7 +4800,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4847,7 +4847,7 @@
     },
     "slug": "sagarika-ghanagam",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 4,
@@ -4859,7 +4859,7 @@
         "o-scoring-line": 1,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4871,7 +4871,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4918,7 +4918,7 @@
     },
     "slug": "samatv-iyer",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 2,
@@ -4930,7 +4930,7 @@
         "o-scoring-line": 3,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4942,7 +4942,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -4989,7 +4989,7 @@
     },
     "slug": "sarang-minhas",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 7,
@@ -5001,7 +5001,7 @@
         "o-scoring-line": 2,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5013,7 +5013,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5060,7 +5060,7 @@
     },
     "slug": "shrilaxmi-patil",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5072,7 +5072,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5084,7 +5084,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5131,7 +5131,7 @@
     },
     "slug": "shruthi-gowda",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 4,
@@ -5143,7 +5143,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5155,7 +5155,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5202,7 +5202,7 @@
     },
     "slug": "sneha-patil",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 3,
         "block": 0,
         "d-line": 6,
@@ -5214,7 +5214,7 @@
         "o-scoring-line": 4,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5226,7 +5226,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5273,7 +5273,7 @@
     },
     "slug": "stania-peris",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 5,
@@ -5285,7 +5285,7 @@
         "o-scoring-line": 5,
         "throwaway": 1
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5297,7 +5297,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5344,7 +5344,7 @@
     },
     "slug": "sushil-kumar",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5356,7 +5356,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5368,7 +5368,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5415,7 +5415,7 @@
     },
     "slug": "swathi-shetty",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 4,
@@ -5427,7 +5427,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5439,7 +5439,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5486,7 +5486,7 @@
     },
     "slug": "vaishnavi-devi",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 4,
@@ -5498,7 +5498,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5510,7 +5510,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5557,7 +5557,7 @@
     },
     "slug": "yadav-ajay",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 4,
@@ -5569,7 +5569,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5581,7 +5581,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5628,7 +5628,7 @@
     },
     "slug": "abhishek-pawar",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -5640,7 +5640,7 @@
         "o-scoring-line": 0,
         "throwaway": 1
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5652,7 +5652,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 2,
@@ -5699,7 +5699,7 @@
     },
     "slug": "anish-mallah",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 3,
@@ -5711,7 +5711,7 @@
         "o-scoring-line": 0,
         "throwaway": 1
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5723,7 +5723,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 2,
         "block": 0,
         "d-line": 6,
@@ -5770,7 +5770,7 @@
     },
     "slug": "anurag-patel",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 7,
@@ -5782,7 +5782,7 @@
         "o-scoring-line": 1,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5794,7 +5794,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 2,
@@ -5841,7 +5841,7 @@
     },
     "slug": "anushka-mallah",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5853,7 +5853,7 @@
         "o-scoring-line": 1,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5865,7 +5865,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5912,7 +5912,7 @@
     },
     "slug": "aryan-rawat",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 8,
@@ -5924,7 +5924,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -5936,7 +5936,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 3,
         "block": 0,
         "d-line": 6,
@@ -5983,7 +5983,7 @@
     },
     "slug": "dhanraj-kalar",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 3,
@@ -5995,7 +5995,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6007,7 +6007,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -6054,7 +6054,7 @@
     },
     "slug": "dilbaras-parmar",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6066,7 +6066,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6078,7 +6078,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6125,7 +6125,7 @@
     },
     "slug": "harsh-kori",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 2,
@@ -6137,7 +6137,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6149,7 +6149,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 0,
@@ -6196,7 +6196,7 @@
     },
     "slug": "harshita-kori",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 5,
@@ -6208,7 +6208,7 @@
         "o-scoring-line": 4,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6220,7 +6220,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 9,
@@ -6267,7 +6267,7 @@
     },
     "slug": "jiya-parmar",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6279,7 +6279,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6291,7 +6291,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6338,7 +6338,7 @@
     },
     "slug": "karan-mallah",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 3,
         "block": 0,
         "d-line": 6,
@@ -6350,7 +6350,7 @@
         "o-scoring-line": 1,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6362,7 +6362,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 8,
@@ -6409,7 +6409,7 @@
     },
     "slug": "malti-jhanjhoriya",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 4,
@@ -6421,7 +6421,7 @@
         "o-scoring-line": 3,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6433,7 +6433,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 5,
@@ -6480,7 +6480,7 @@
     },
     "slug": "muskaan-mallah",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 8,
@@ -6492,7 +6492,7 @@
         "o-scoring-line": 4,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6504,7 +6504,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 9,
@@ -6551,7 +6551,7 @@
     },
     "slug": "om-yadav",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -6563,7 +6563,7 @@
         "o-scoring-line": 1,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6575,7 +6575,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 0,
@@ -6622,7 +6622,7 @@
     },
     "slug": "radhepal-choudhary",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 2,
@@ -6634,7 +6634,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6646,7 +6646,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6693,7 +6693,7 @@
     },
     "slug": "rajveer-parmar",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6705,7 +6705,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6717,7 +6717,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6764,7 +6764,7 @@
     },
     "slug": "rizwan-singh",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 3,
@@ -6776,7 +6776,7 @@
         "o-scoring-line": 2,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6788,7 +6788,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 2,
@@ -6835,7 +6835,7 @@
     },
     "slug": "sakshi-mallah",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 2,
@@ -6847,7 +6847,7 @@
         "o-scoring-line": 1,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6859,7 +6859,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 4,
@@ -6906,7 +6906,7 @@
     },
     "slug": "shagun-kori",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6918,7 +6918,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6930,7 +6930,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -6977,7 +6977,7 @@
     },
     "slug": "shraddha-tiwari",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 3,
@@ -6989,7 +6989,7 @@
         "o-scoring-line": 3,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7001,7 +7001,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 5,
@@ -7048,7 +7048,7 @@
     },
     "slug": "shruti-kori",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -7060,7 +7060,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7072,7 +7072,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 2,
@@ -7119,7 +7119,7 @@
     },
     "slug": "stephen-charles",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7131,7 +7131,7 @@
         "o-scoring-line": 1,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7143,7 +7143,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 2,
@@ -7190,7 +7190,7 @@
     },
     "slug": "vandana-jhanjhoriya",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 3,
@@ -7202,7 +7202,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7214,7 +7214,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Maharashtra Ultimate": {
+      "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7261,7 +7261,7 @@
     },
     "slug": "ananya-thomas",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7273,7 +7273,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7285,7 +7285,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7332,7 +7332,7 @@
     },
     "slug": "anudnya-jori",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7344,7 +7344,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7356,7 +7356,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7403,7 +7403,7 @@
     },
     "slug": "chandan-dubey",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7415,7 +7415,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7427,7 +7427,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7474,7 +7474,7 @@
     },
     "slug": "kalpana-rathod",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7486,7 +7486,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7498,7 +7498,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7545,7 +7545,7 @@
     },
     "slug": "karan-arora",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7557,7 +7557,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7569,7 +7569,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7616,7 +7616,7 @@
     },
     "slug": "kavya-chandel",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7628,7 +7628,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7640,7 +7640,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7687,7 +7687,7 @@
     },
     "slug": "kimaya-dhongde",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7699,7 +7699,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7711,7 +7711,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7758,7 +7758,7 @@
     },
     "slug": "kunal-pasalkar",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7770,7 +7770,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7782,7 +7782,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7829,7 +7829,7 @@
     },
     "slug": "maksood-chaudhary",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7841,7 +7841,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7853,7 +7853,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7900,7 +7900,7 @@
     },
     "slug": "nirbha-ghurye",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7912,7 +7912,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7924,7 +7924,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7971,7 +7971,7 @@
     },
     "slug": "poonam-pokale",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7983,7 +7983,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -7995,7 +7995,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8042,7 +8042,7 @@
     },
     "slug": "radhika-rathod",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8054,7 +8054,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8066,7 +8066,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8113,7 +8113,7 @@
     },
     "slug": "rohan-bijoor",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8125,7 +8125,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8137,7 +8137,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8184,7 +8184,7 @@
     },
     "slug": "sachin-pandit",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8196,7 +8196,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8208,7 +8208,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8255,7 +8255,7 @@
     },
     "slug": "sahitra-ghurye",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8267,7 +8267,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8279,7 +8279,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8326,7 +8326,7 @@
     },
     "slug": "sandeep-kannoujia",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8338,7 +8338,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8350,7 +8350,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8397,7 +8397,7 @@
     },
     "slug": "sanjeev-kumar",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8409,7 +8409,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8421,7 +8421,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8468,7 +8468,7 @@
     },
     "slug": "sapna-dodmani",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8480,7 +8480,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8492,7 +8492,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8539,7 +8539,7 @@
     },
     "slug": "sharanya-ramesh",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8551,7 +8551,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8563,7 +8563,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8610,7 +8610,7 @@
     },
     "slug": "shivamkumar-dubey",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8622,7 +8622,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8634,7 +8634,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8681,7 +8681,7 @@
     },
     "slug": "shubham-more",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8693,7 +8693,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8705,7 +8705,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8752,7 +8752,7 @@
     },
     "slug": "sunil-varma",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8764,7 +8764,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8776,7 +8776,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8823,7 +8823,7 @@
     },
     "slug": "sushant-tapse",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8835,7 +8835,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8847,7 +8847,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8894,7 +8894,7 @@
     },
     "slug": "sushma-tapse",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8906,7 +8906,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8918,7 +8918,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8965,7 +8965,7 @@
     },
     "slug": "tahir-siddiqui",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8977,7 +8977,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -8989,7 +8989,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9036,7 +9036,7 @@
     },
     "slug": "vaishnavi-_",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9048,7 +9048,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9060,7 +9060,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9107,7 +9107,7 @@
     },
     "slug": "vidya-parmar",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9119,7 +9119,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9131,7 +9131,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9178,7 +9178,7 @@
     },
     "slug": "vikas-chauhan",
     "stats": {
-      "Delhi Ultimate": {
+      "Delhi Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9190,7 +9190,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Karnataka State": {
+      "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9202,7 +9202,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Madhya Pradesh": {
+      "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9249,7 +9249,7 @@
     },
     "slug": "arulmozhi-selvan",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -9261,7 +9261,7 @@
         "o-scoring-line": 2,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9273,7 +9273,7 @@
         "o-scoring-line": 0,
         "throwaway": 1
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9320,7 +9320,7 @@
     },
     "slug": "deepika-shankar",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 10,
@@ -9332,7 +9332,7 @@
         "o-scoring-line": 0,
         "throwaway": 1
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 2,
         "block": 0,
         "d-line": 0,
@@ -9344,7 +9344,7 @@
         "o-scoring-line": 0,
         "throwaway": 1
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9391,7 +9391,7 @@
     },
     "slug": "gothainayagi-r",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 2,
@@ -9403,7 +9403,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 0,
@@ -9415,7 +9415,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9474,7 +9474,7 @@
     },
     "slug": "hariharan-kumar",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 4,
         "block": 0,
         "d-line": 4,
@@ -9486,7 +9486,7 @@
         "o-scoring-line": 10,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 0,
@@ -9498,7 +9498,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9545,7 +9545,7 @@
     },
     "slug": "harsh-nisar",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 4,
@@ -9557,7 +9557,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 0,
@@ -9569,7 +9569,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9616,7 +9616,7 @@
     },
     "slug": "harsha-gk",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 12,
@@ -9628,7 +9628,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 0,
@@ -9640,7 +9640,7 @@
         "o-scoring-line": 0,
         "throwaway": 1
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9687,7 +9687,7 @@
     },
     "slug": "kiran-kumar",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 4,
@@ -9699,7 +9699,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9711,7 +9711,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9758,7 +9758,7 @@
     },
     "slug": "kishore-kumar",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9770,7 +9770,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9782,7 +9782,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9829,7 +9829,7 @@
     },
     "slug": "koka-mrinalini-siddhartha",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -9841,7 +9841,7 @@
         "o-scoring-line": 8,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 0,
@@ -9853,7 +9853,7 @@
         "o-scoring-line": 0,
         "throwaway": 1
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9900,7 +9900,7 @@
     },
     "slug": "manikandan-kumar",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 6,
@@ -9912,7 +9912,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 0,
@@ -9924,7 +9924,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -9983,7 +9983,7 @@
     },
     "slug": "monika-shankar",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 2,
@@ -9995,7 +9995,7 @@
         "o-scoring-line": 9,
         "throwaway": 1
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10007,7 +10007,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10054,7 +10054,7 @@
     },
     "slug": "pooja-bapat",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 2,
@@ -10066,7 +10066,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 0,
@@ -10078,7 +10078,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10125,7 +10125,7 @@
     },
     "slug": "pooja-s",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10137,7 +10137,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10149,7 +10149,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10196,7 +10196,7 @@
     },
     "slug": "ramkumar-nithyanandam",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 5,
@@ -10208,7 +10208,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10220,7 +10220,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10267,7 +10267,7 @@
     },
     "slug": "sagarika-ap",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 5,
@@ -10279,7 +10279,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10291,7 +10291,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10338,7 +10338,7 @@
     },
     "slug": "samyuktha-arvind",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 4,
@@ -10350,7 +10350,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10362,7 +10362,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10409,7 +10409,7 @@
     },
     "slug": "selvi-murugan",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 2,
         "block": 0,
         "d-line": 3,
@@ -10421,7 +10421,7 @@
         "o-scoring-line": 10,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 2,
         "block": 0,
         "d-line": 0,
@@ -10433,7 +10433,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10480,7 +10480,7 @@
     },
     "slug": "shruthi-nathella",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 3,
@@ -10492,7 +10492,7 @@
         "o-scoring-line": 9,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 0,
@@ -10504,7 +10504,7 @@
         "o-scoring-line": 0,
         "throwaway": 1
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10551,7 +10551,7 @@
     },
     "slug": "sivakumar",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10563,7 +10563,7 @@
         "o-scoring-line": 2,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10575,7 +10575,7 @@
         "o-scoring-line": 0,
         "throwaway": 1
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10622,7 +10622,7 @@
     },
     "slug": "sivaraman-venkatesan",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 2,
         "block": 0,
         "d-line": 1,
@@ -10634,7 +10634,7 @@
         "o-scoring-line": 10,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 2,
         "block": 0,
         "d-line": 0,
@@ -10646,7 +10646,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10693,7 +10693,7 @@
     },
     "slug": "snehankita-rout",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 4,
@@ -10705,7 +10705,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10717,7 +10717,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10764,7 +10764,7 @@
     },
     "slug": "srividya-suriyashekar",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 9,
@@ -10776,7 +10776,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 0,
@@ -10788,7 +10788,7 @@
         "o-scoring-line": 0,
         "throwaway": 1
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10835,7 +10835,7 @@
     },
     "slug": "subash-s",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 7,
@@ -10847,7 +10847,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10859,7 +10859,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10906,7 +10906,7 @@
     },
     "slug": "vijaya-dharshini-m",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10918,7 +10918,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10930,7 +10930,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -10977,7 +10977,7 @@
     },
     "slug": "vimanthan-l",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 2,
         "block": 0,
         "d-line": 0,
@@ -10989,7 +10989,7 @@
         "o-scoring-line": 10,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11001,7 +11001,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11048,7 +11048,7 @@
     },
     "slug": "yuvaraj-magesh",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -11060,7 +11060,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11072,7 +11072,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11119,7 +11119,7 @@
     },
     "slug": "abimanyu-nair",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11131,7 +11131,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11143,7 +11143,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -11190,7 +11190,7 @@
     },
     "slug": "akshara-domala",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11202,7 +11202,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11214,7 +11214,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 2,
@@ -11261,7 +11261,7 @@
     },
     "slug": "anil-k",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11273,7 +11273,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11285,7 +11285,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 2,
@@ -11332,7 +11332,7 @@
     },
     "slug": "anil-naik",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11344,7 +11344,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11356,7 +11356,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 2,
@@ -11403,7 +11403,7 @@
     },
     "slug": "ankita-p",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11415,7 +11415,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11427,7 +11427,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -11474,7 +11474,7 @@
     },
     "slug": "dhiraj-gangaraju",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11486,7 +11486,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11498,7 +11498,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 1,
@@ -11545,7 +11545,7 @@
     },
     "slug": "goundla-mamatha",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11557,7 +11557,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11569,7 +11569,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11616,7 +11616,7 @@
     },
     "slug": "kishen-chandar",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11628,7 +11628,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11640,7 +11640,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -11687,7 +11687,7 @@
     },
     "slug": "manasa-h-g",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11699,7 +11699,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11711,7 +11711,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -11758,7 +11758,7 @@
     },
     "slug": "mayank-dawra",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11770,7 +11770,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11782,7 +11782,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11829,7 +11829,7 @@
     },
     "slug": "nayanatara-vadali",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11841,7 +11841,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11853,7 +11853,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 3,
@@ -11912,7 +11912,7 @@
     },
     "slug": "pranay-m",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11924,7 +11924,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11936,7 +11936,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 1,
@@ -11983,7 +11983,7 @@
     },
     "slug": "ramya-bhavana-kothapalli",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -11995,7 +11995,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12007,7 +12007,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -12054,7 +12054,7 @@
     },
     "slug": "ravitheja-tetali",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12066,7 +12066,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12078,7 +12078,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -12125,7 +12125,7 @@
     },
     "slug": "sandeep-g",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12137,7 +12137,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12149,7 +12149,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -12196,7 +12196,7 @@
     },
     "slug": "sindhu-m",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12208,7 +12208,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12220,7 +12220,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 2,
@@ -12267,7 +12267,7 @@
     },
     "slug": "suresh-k",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12279,7 +12279,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12291,7 +12291,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12338,7 +12338,7 @@
     },
     "slug": "tharun-k",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12350,7 +12350,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12362,7 +12362,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12409,7 +12409,7 @@
     },
     "slug": "usha-rani",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12421,7 +12421,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12433,7 +12433,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -12480,7 +12480,7 @@
     },
     "slug": "varshita-m",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12492,7 +12492,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12504,7 +12504,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 3,
@@ -12551,7 +12551,7 @@
     },
     "slug": "venkatesh-kumar",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12563,7 +12563,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12575,7 +12575,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Uttar Pradesh": {
+      "Uttar Pradesh;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -12622,7 +12622,7 @@
     },
     "slug": "akshai-abraham",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12634,7 +12634,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12646,7 +12646,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12693,7 +12693,7 @@
     },
     "slug": "angana-prasad",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12705,7 +12705,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12717,7 +12717,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12764,7 +12764,7 @@
     },
     "slug": "anshika-itaunja",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12776,7 +12776,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -12788,7 +12788,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 5,
@@ -12835,7 +12835,7 @@
     },
     "slug": "arun-kumar",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12847,7 +12847,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12859,7 +12859,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12906,7 +12906,7 @@
     },
     "slug": "chandan-rastogi",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12918,7 +12918,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -12930,7 +12930,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 4,
@@ -12977,7 +12977,7 @@
     },
     "slug": "divakar-rai",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -12989,7 +12989,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -13001,7 +13001,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 2,
         "block": 0,
         "d-line": 7,
@@ -13048,7 +13048,7 @@
     },
     "slug": "govind-jmp",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -13060,7 +13060,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 7,
@@ -13072,7 +13072,7 @@
         "o-scoring-line": 6,
         "throwaway": 1
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 2,
         "block": 0,
         "d-line": 6,
@@ -13119,7 +13119,7 @@
     },
     "slug": "gufraan-itaunja",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -13131,7 +13131,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -13143,7 +13143,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 4,
@@ -13190,7 +13190,7 @@
     },
     "slug": "kajal-jmp",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -13202,7 +13202,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 6,
@@ -13214,7 +13214,7 @@
         "o-scoring-line": 6,
         "throwaway": 1
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 3,
@@ -13261,7 +13261,7 @@
     },
     "slug": "krishna-sharma",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -13273,7 +13273,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 4,
@@ -13285,7 +13285,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 5,
@@ -13332,7 +13332,7 @@
     },
     "slug": "krishna-singh",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -13344,7 +13344,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 2,
@@ -13356,7 +13356,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 4,
@@ -13403,7 +13403,7 @@
     },
     "slug": "mabiya-parbeen",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -13415,7 +13415,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 6,
@@ -13427,7 +13427,7 @@
         "o-scoring-line": 5,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 6,
@@ -13474,7 +13474,7 @@
     },
     "slug": "manju-kushwaha",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -13486,7 +13486,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 5,
@@ -13498,7 +13498,7 @@
         "o-scoring-line": 3,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 10,
@@ -13545,7 +13545,7 @@
     },
     "slug": "neha-bharti",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -13557,7 +13557,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -13569,7 +13569,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 7,
@@ -13616,7 +13616,7 @@
     },
     "slug": "priyanshu-singh",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -13628,7 +13628,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 2,
         "block": 0,
         "d-line": 4,
@@ -13640,7 +13640,7 @@
         "o-scoring-line": 6,
         "throwaway": 1
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 2,
         "block": 0,
         "d-line": 3,
@@ -13687,7 +13687,7 @@
     },
     "slug": "raveena-kannaujia",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -13699,7 +13699,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -13711,7 +13711,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 3,
@@ -13758,7 +13758,7 @@
     },
     "slug": "roshni-bharti",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -13770,7 +13770,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 8,
@@ -13782,7 +13782,7 @@
         "o-scoring-line": 6,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 6,
@@ -13829,7 +13829,7 @@
     },
     "slug": "sheeba-itaunja",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -13841,7 +13841,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 1,
@@ -13853,7 +13853,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 3,
@@ -13900,7 +13900,7 @@
     },
     "slug": "sonu-kashyap",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -13912,7 +13912,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 4,
         "block": 0,
         "d-line": 6,
@@ -13924,7 +13924,7 @@
         "o-scoring-line": 2,
         "throwaway": 1
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 8,
@@ -13971,7 +13971,7 @@
     },
     "slug": "sunny-azad",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -13983,7 +13983,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 3,
         "block": 0,
         "d-line": 3,
@@ -13995,7 +13995,7 @@
         "o-scoring-line": 7,
         "throwaway": 3
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 4,
@@ -14042,7 +14042,7 @@
     },
     "slug": "vandana-kashyap",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -14054,7 +14054,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 4,
@@ -14066,7 +14066,7 @@
         "o-scoring-line": 5,
         "throwaway": 0
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 1,
         "block": 0,
         "d-line": 7,
@@ -14113,7 +14113,7 @@
     },
     "slug": "vikram-namdeo",
     "stats": {
-      "Gujarat Ultimate": {
+      "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 0,
@@ -14125,7 +14125,7 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
-      "Tamilnadu": {
+      "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
         "d-line": 3,
@@ -14137,7 +14137,7 @@
         "o-scoring-line": 3,
         "throwaway": 2
       },
-      "Telangana Ultimate": {
+      "Telangana Ultimate;day-1": {
         "assist": 2,
         "block": 0,
         "d-line": 3,
