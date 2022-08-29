@@ -51,6 +51,10 @@ def default_player_list():
     return players_map
 
 
+def read_stat_cell(row, key):
+    return int(row.get(key, 0) or 0)
+
+
 def compute_stats(paths):
 
     data = list()
@@ -73,10 +77,11 @@ def compute_stats(paths):
             "team": player["team"],
             "stats": {
                 f'{row["Opponent"]};{row["Day"]}': {
-                    key: int(row.get(key, 0) or 0) for key in POINTS.keys()
+                    key: read_stat_cell(row, key) for key in POINTS.keys()
                 }
                 for row in data
                 if translate_name(row["Name"]) == player["name"]
+                and (read_stat_cell(row, "o-line") + read_stat_cell(row, "d-line")) > 0
             },
         }
         for player in teams
