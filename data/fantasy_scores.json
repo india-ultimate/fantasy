@@ -400,6 +400,22 @@
     ]
   },
   {
+    "name": "Sushma",
+    "valid_team": true,
+    "fantasy_score": 184.5,
+    "timestamp": "26/08/2022 16:35:28",
+    "team_slugs": [
+      "chandan-dubey",
+      "karan-sharam",
+      "maitry-acharya",
+      "sabeel-khader",
+      "sahitra-ghurye",
+      "sivaraman-venkatesan",
+      "sneha-patil",
+      "suhani-bedi"
+    ]
+  },
+  {
     "name": "Craig Savio Fonseca",
     "valid_team": true,
     "fantasy_score": 183.5,
@@ -572,22 +588,6 @@
       "shruthi-nathella",
       "sivaraman-venkatesan",
       "stania-peris",
-      "suhani-bedi"
-    ]
-  },
-  {
-    "name": "Sushma",
-    "valid_team": true,
-    "fantasy_score": 170.5,
-    "timestamp": "26/08/2022 16:35:28",
-    "team_slugs": [
-      "chandan-dubey",
-      "karan-sharam",
-      "maitry-acharya",
-      "sabeel-khader",
-      "sahitra-ghurye",
-      "sivaraman-venkatesan",
-      "sneha-patil",
       "suhani-bedi"
     ]
   },
@@ -828,6 +828,22 @@
       "selvi-murugan",
       "sivaraman-venkatesan",
       "sneha-patil",
+      "suhani-bedi"
+    ]
+  },
+  {
+    "name": "Andrew Samuel",
+    "valid_team": true,
+    "fantasy_score": 159.0,
+    "timestamp": "24/08/2022 19:04:06",
+    "team_slugs": [
+      "arya-shah",
+      "chandan-dubey",
+      "kenny-borsada",
+      "monika-shankar",
+      "sabeel-khader",
+      "stania-peris",
+      "subash-s",
       "suhani-bedi"
     ]
   },
@@ -1181,22 +1197,6 @@
       "sanjay-parmar",
       "sneha-patil",
       "udayan-philip"
-    ]
-  },
-  {
-    "name": "Andrew Samuel",
-    "valid_team": true,
-    "fantasy_score": 145.0,
-    "timestamp": "24/08/2022 19:04:06",
-    "team_slugs": [
-      "arya-shah",
-      "chandan-dubey",
-      "kenny-borsada",
-      "monika-shankar",
-      "sabeel-khader",
-      "stania-peris",
-      "subash-s",
-      "suhani-bedi"
     ]
   },
   {
@@ -2256,6 +2256,22 @@
     ]
   },
   {
+    "name": "Andrew",
+    "valid_team": true,
+    "fantasy_score": 82.0,
+    "timestamp": "24/08/2022 18:56:36",
+    "team_slugs": [
+      "altaf-shaikh",
+      "arya-shah",
+      "chandan-dubey",
+      "deepika-shankar",
+      "poonam-pokale",
+      "sabeel-khader",
+      "stania-peris",
+      "subash-s"
+    ]
+  },
+  {
     "name": "Aditya Dubey",
     "valid_team": true,
     "fantasy_score": 74.5,
@@ -2317,22 +2333,6 @@
       "nimisha-vasava",
       "ramya-bhavana-kothapalli",
       "vikas-chauhan"
-    ]
-  },
-  {
-    "name": "Andrew",
-    "valid_team": true,
-    "fantasy_score": 68.0,
-    "timestamp": "24/08/2022 18:56:36",
-    "team_slugs": [
-      "altaf-shaikh",
-      "arya-shah",
-      "chandan-dubey",
-      "deepika-shankar",
-      "poonam-pokale",
-      "sabeel-khader",
-      "stania-peris",
-      "subash-s"
     ]
   },
   {

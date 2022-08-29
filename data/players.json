@@ -4132,15 +4132,50 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 14.0,
     "gender": "male",
     "jersey": "68",
     "name": "Chandan Dubey",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/6yW1cIkE.280.jpg",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 3,
+      "block": 0,
+      "d-line": 5.0,
+      "d-scoring-line": 6,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0.0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "slug": "chandan-dubey",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 10,
+        "d-scoring-line": 3,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 10,
+      "d-scoring-line": 3,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
