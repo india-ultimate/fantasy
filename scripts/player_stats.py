@@ -219,9 +219,7 @@ def merge_stats(player_map1, player_map2=None):
 
 
 def main():
-    # stats_path = DATA_DIR.joinpath("player-stats.csv")
-    stats_paths = [DATA_DIR.joinpath(p) for p in filter(
-        os.listdir(DATA_DIR), 'player-stats*.csv')]
+    stats_paths = list(DATA_DIR.glob("player-stats*.csv"))
     players_map = compute_stats(stats_paths)
     with open(DATA_DIR.joinpath("players.json"), "w") as f:
         json.dump(
