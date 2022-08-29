@@ -4085,15 +4085,50 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 4.5,
     "gender": "female",
     "jersey": "26",
     "name": "Anudnya Jori",
     "photo": "https://secure.gravatar.com/avatar/cd8b837ec57160eb4cb2a8e98a5d1033?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 2.0,
+      "d-scoring-line": 2,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0.5,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "slug": "anudnya-jori",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 4,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 4,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -4133,27 +4168,97 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 1.5,
     "gender": "female",
     "jersey": "6",
     "name": "Kavya Chandel",
     "photo": "https://secure.gravatar.com/avatar/013ca633092db41ed85a82a0a06ea4fc?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0.0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0.5,
+      "o-scoring-line": 1,
+      "throwaway": 0
+    },
     "slug": "kavya-chandel",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 1,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 0.5,
     "gender": "female",
     "jersey": "27",
     "name": "Kimaya Dhongde",
     "photo": "https://secure.gravatar.com/avatar/b9f49e3c9f32cd0712add8035aa729d4?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0.0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0.5,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "slug": "kimaya-dhongde",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -4181,15 +4286,50 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 14.5,
     "gender": "female",
     "jersey": "97",
     "name": "Nirbha Ghurye",
     "photo": "https://secure.gravatar.com/avatar/8209e9c0d624135999aa05c1e238885b?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 6.0,
+      "d-scoring-line": 8,
+      "defense": 0,
+      "drop": -2,
+      "goal": 3,
+      "o-line": 1.5,
+      "o-scoring-line": 0,
+      "throwaway": -2
+    },
     "slug": "nirbha-ghurye",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 12,
+        "d-scoring-line": 4,
+        "defense": 0,
+        "drop": 1,
+        "goal": 1,
+        "o-line": 3,
+        "o-scoring-line": 0,
+        "throwaway": 1
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 12,
+      "d-scoring-line": 4,
+      "defense": 0,
+      "drop": 1,
+      "goal": 1,
+      "o-line": 3,
+      "o-scoring-line": 0,
+      "throwaway": 1
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -4205,15 +4345,50 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 6.0,
     "gender": "female",
     "jersey": "22",
     "name": "Radhika Rathod",
     "photo": "https://secure.gravatar.com/avatar/7d39fd56564ea9cd03b5ccc35f582c43?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0.5,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 2.5,
+      "o-scoring-line": 3,
+      "throwaway": 0
+    },
     "slug": "radhika-rathod",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 5,
+        "o-scoring-line": 3,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 5,
+      "o-scoring-line": 3,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -4241,15 +4416,50 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 27.0,
     "gender": "female",
     "jersey": "93",
     "name": "Sahitra Ghurye",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/3pdw8X2j.280.jpg",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 5.0,
+      "d-scoring-line": 4,
+      "defense": 5,
+      "drop": 0,
+      "goal": 3,
+      "o-line": 6.0,
+      "o-scoring-line": 6,
+      "throwaway": -2
+    },
     "slug": "sahitra-ghurye",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 10,
+        "d-scoring-line": 2,
+        "defense": 1,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 12,
+        "o-scoring-line": 6,
+        "throwaway": 1
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 10,
+      "d-scoring-line": 2,
+      "defense": 1,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 12,
+      "o-scoring-line": 6,
+      "throwaway": 1
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -4289,15 +4499,50 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 8.5,
     "gender": "female",
     "jersey": "20",
     "name": "Sharanya Ramesh",
     "photo": "https://secure.gravatar.com/avatar/bdcb3a378ba646214738ce3b98e71e6f?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0.0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 4.5,
+      "o-scoring-line": 4,
+      "throwaway": 0
+    },
     "slug": "sharanya-ramesh",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 9,
+        "o-scoring-line": 4,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 9,
+      "o-scoring-line": 4,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -4349,15 +4594,50 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 19.0,
     "gender": "female",
     "jersey": "77",
     "name": "Sushma Tapse",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/bxU06lc6.280.jpg",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1.5,
+      "d-scoring-line": 2,
+      "defense": 0,
+      "drop": 0,
+      "goal": 3,
+      "o-line": 6.5,
+      "o-scoring-line": 8,
+      "throwaway": -2
+    },
     "slug": "sushma-tapse",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 3,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 13,
+        "o-scoring-line": 8,
+        "throwaway": 1
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 3,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 13,
+      "o-scoring-line": 8,
+      "throwaway": 1
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -4373,27 +4653,97 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 21.0,
     "gender": "female",
     "jersey": "73",
     "name": "Vaishnavi _",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/V2723erT.280.jpg",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 3.0,
+      "d-scoring-line": 4,
+      "defense": 0,
+      "drop": 0,
+      "goal": 9,
+      "o-line": 2.0,
+      "o-scoring-line": 3,
+      "throwaway": 0
+    },
     "slug": "vaishnavi-_",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 6,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 0,
+        "goal": 3,
+        "o-line": 4,
+        "o-scoring-line": 3,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 6,
+      "d-scoring-line": 2,
+      "defense": 0,
+      "drop": 0,
+      "goal": 3,
+      "o-line": 4,
+      "o-scoring-line": 3,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 11.5,
     "gender": "female",
     "jersey": "19",
     "name": "Vidya Parmar",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/SEZPDfx9.280.jpg",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 4.0,
+      "d-scoring-line": 6,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0.5,
+      "o-scoring-line": 1,
+      "throwaway": 0
+    },
     "slug": "vidya-parmar",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 8,
+        "d-scoring-line": 3,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 8,
+      "d-scoring-line": 3,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 1,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
