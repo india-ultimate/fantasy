@@ -159,6 +159,7 @@ def main():
     sheet_id = os.environ["STATS_SHEET_ID"]
     get_player_stats(sheet_id, "Pool-A")
     get_player_stats(sheet_id, "Pool-B")
+    get_player_stats(sheet_id, "Brackets")
 
     sheet_id = os.environ["PLAYERS_SHEET_ID"]
     event_id = "152238"
