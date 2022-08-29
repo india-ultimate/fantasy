@@ -4191,15 +4191,50 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 1.5,
     "gender": "male",
     "jersey": "14",
     "name": "Karan Arora",
     "photo": "https://secure.gravatar.com/avatar/0bd4c432c76ef53545e06b2720341421?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0.0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0.5,
+      "o-scoring-line": 1,
+      "throwaway": 0
+    },
     "slug": "karan-arora",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 1,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -4297,27 +4332,97 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 8.0,
     "gender": "male",
     "jersey": "63",
     "name": "Kunal Pasalkar",
     "photo": "https://secure.gravatar.com/avatar/88f1cc662cf5c0f870198fbb26beb858?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 2.5,
+      "d-scoring-line": 4,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0.5,
+      "o-scoring-line": 1,
+      "throwaway": 0
+    },
     "slug": "kunal-pasalkar",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 5,
+      "d-scoring-line": 2,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 1,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 23.0,
     "gender": "male",
     "jersey": "92",
     "name": "Maksood Chaudhary",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/gIlsNYKm.280.png",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 6,
+      "block": 0,
+      "d-line": 1.5,
+      "d-scoring-line": 2,
+      "defense": 0,
+      "drop": 0,
+      "goal": 3,
+      "o-line": 5.5,
+      "o-scoring-line": 7,
+      "throwaway": -2
+    },
     "slug": "maksood-chaudhary",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 2,
+        "block": 0,
+        "d-line": 3,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 11,
+        "o-scoring-line": 7,
+        "throwaway": 1
+      }
+    },
+    "stats-distribution": {
+      "assist": 2,
+      "block": 0,
+      "d-line": 3,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 11,
+      "o-scoring-line": 7,
+      "throwaway": 1
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -4427,27 +4532,97 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 0.5,
     "gender": "male",
     "jersey": "69",
     "name": "Rohan Bijoor",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/XT3rOKJE.280.jpg",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0.5,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0.0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "slug": "rohan-bijoor",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 23.5,
     "gender": "male",
     "jersey": "23",
     "name": "Sachin Pandit",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/geMOyGfJ.280.jpg",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 9,
+      "block": 0,
+      "d-line": 6.0,
+      "d-scoring-line": 10,
+      "defense": 5,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0.5,
+      "o-scoring-line": 1,
+      "throwaway": -8
+    },
     "slug": "sachin-pandit",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 3,
+        "block": 0,
+        "d-line": 12,
+        "d-scoring-line": 5,
+        "defense": 1,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 4
+      }
+    },
+    "stats-distribution": {
+      "assist": 3,
+      "block": 0,
+      "d-line": 12,
+      "d-scoring-line": 5,
+      "defense": 1,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 1,
+      "throwaway": 4
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -4498,27 +4673,97 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 7.0,
     "gender": "male",
     "jersey": "9",
     "name": "Sandeep Kannoujia",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/kNpvCk9s.280.jpg",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 3.0,
+      "d-scoring-line": 4,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0.0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "slug": "sandeep-kannoujia",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 6,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 6,
+      "d-scoring-line": 2,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 3.5,
     "gender": "male",
     "jersey": "49",
     "name": "Sanjeev Kumar",
     "photo": "https://secure.gravatar.com/avatar/fdfd467e89938d2b18f9ee0a98dd1908?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0.5,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1.0,
+      "o-scoring-line": 2,
+      "throwaway": 0
+    },
     "slug": "sanjeev-kumar",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 2,
+        "o-scoring-line": 2,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 2,
+      "o-scoring-line": 2,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -4581,15 +4826,50 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 6.5,
     "gender": "male",
     "jersey": "31",
     "name": "Shivamkumar Dubey",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/kxz7Zfdl.280.jpg",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1.0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 2.5,
+      "o-scoring-line": 3,
+      "throwaway": 0
+    },
     "slug": "shivamkumar-dubey",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 5,
+        "o-scoring-line": 3,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 2,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 5,
+      "o-scoring-line": 3,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
