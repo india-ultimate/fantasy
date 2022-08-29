@@ -110,8 +110,38 @@ const PlayerProfile = () => {
 									/>
 								</Grid>
 							</Grid>
-							<Divider sx={{ width: "100%", mt: "2vh" }} />
+							<Divider
+								sx={{ width: "100%", mt: "2vh", mb: "1vh" }}
+							/>
 							<Grid item xs={12}>
+								<Typography
+									variant="body1"
+									component="h3"
+									align="center"
+									sx={{
+										fontSize: "3vw",
+										opacity: 0.65
+									}}
+								>
+									Number of Games
+								</Typography>
+								<Typography
+									sx={{
+										// backgroundImage:
+										// 	"-webkit-linear-gradient(60deg, #002B5B, #EF5B0C)",
+										// backgroundClip: "text",
+										// color: "transparent",
+										font: "5vw Poppins, sans-serif"
+									}}
+									variant="h6"
+									component="h4"
+									align="center"
+									color="primary"
+								>
+									{Object.keys(player.stats).length}
+								</Typography>
+
+								<Divider sx={{ width: "100%", mt: "1vh" }} />
 								<Typography
 									variant="overline"
 									component="h3"
