@@ -5471,6 +5471,18 @@
     "team": "Madhya Pradesh"
   },
   {
+    "fantasy-points": 0,
+    "gender": "male",
+    "jersey": "",
+    "name": "Kunal Namdev",
+    "photo": "https://secure.gravatar.com/avatar/e95bdeed0c65f64b3fe660e85f67f637?s=280&d=mm&r=r",
+    "points-distribution": {},
+    "slug": "kunal-namdev",
+    "stats": {},
+    "stats-distribution": {},
+    "team": "Madhya Pradesh"
+  },
+  {
     "fantasy-points": 18.5,
     "gender": "female",
     "jersey": "13",
@@ -9767,10 +9779,10 @@
     "fantasy-points": 0,
     "gender": "male",
     "jersey": "",
-    "name": "Panvi  S",
+    "name": "Panvi S",
     "photo": "https://secure.gravatar.com/avatar/e646998c3220c87e9335b1e642ba5b8b?s=280&d=mm&r=r",
     "points-distribution": {},
-    "slug": "panvi--s",
+    "slug": "panvi-s",
     "stats": {},
     "stats-distribution": {},
     "team": "Telangana Ultimate"
