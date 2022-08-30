@@ -1742,39 +1742,144 @@
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 20.0,
     "gender": "male",
     "jersey": "23",
     "name": "Akshay Surange",
     "photo": "https://secure.gravatar.com/avatar/210b331541e6e7664e9bfd0ebdcfdb3b?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 3,
+      "block": 0,
+      "d-line": 4.0,
+      "d-scoring-line": 10,
+      "defense": 0,
+      "drop": 0,
+      "goal": 3,
+      "o-line": 0.0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "slug": "akshay-surange",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Uttar Pradesh;day-2": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 8,
+        "d-scoring-line": 5,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 8,
+      "d-scoring-line": 5,
+      "defense": 0,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 12.0,
     "gender": "male",
     "jersey": "11",
     "name": "Altaf Shaikh",
     "photo": "https://secure.gravatar.com/avatar/5e9bf06dd511921f0de4558869be9e8a?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 3,
+      "block": 0,
+      "d-line": 2.5,
+      "d-scoring-line": 4,
+      "defense": 0,
+      "drop": 0,
+      "goal": 3,
+      "o-line": 0.5,
+      "o-scoring-line": 1,
+      "throwaway": -2
+    },
     "slug": "altaf-shaikh",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Uttar Pradesh;day-2": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 1
+      }
+    },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 5,
+      "d-scoring-line": 2,
+      "defense": 0,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 1,
+      "o-scoring-line": 1,
+      "throwaway": 1
+    },
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 14.5,
     "gender": "male",
     "jersey": "29",
     "name": "Ansh Kapadia",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/y3ewWULM.280.jpg",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 3,
+      "block": 0,
+      "d-line": 3.5,
+      "d-scoring-line": 8,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0.0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "slug": "ansh-kapadia",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Uttar Pradesh;day-2": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 7,
+        "d-scoring-line": 4,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 7,
+      "d-scoring-line": 4,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Gujarat Ultimate"
   },
   {
@@ -1825,15 +1930,50 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 11.0,
     "gender": "male",
     "jersey": "7",
     "name": "Atul Parmar",
     "photo": "https://secure.gravatar.com/avatar/ed6c26fadedfbea1fa2a44aef7c5bc90?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 3,
+      "block": 0,
+      "d-line": 0.0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 3.0,
+      "o-scoring-line": 5,
+      "throwaway": 0
+    },
     "slug": "atul-parmar",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Uttar Pradesh;day-2": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 6,
+        "o-scoring-line": 5,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 6,
+      "o-scoring-line": 5,
+      "throwaway": 0
+    },
     "team": "Gujarat Ultimate"
   },
   {
@@ -1931,27 +2071,97 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 11.5,
     "gender": "male",
     "jersey": "56",
     "name": "Jigarkumar Parmar",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/p9bbLQZz.280.jpg",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 2.5,
+      "d-scoring-line": 4,
+      "defense": 5,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0.0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "slug": "jigarkumar-parmar",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Uttar Pradesh;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 2,
+        "defense": 1,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 5,
+      "d-scoring-line": 2,
+      "defense": 1,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 19.5,
     "gender": "male",
     "jersey": "26",
     "name": "Karan Sharam",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/IIdFp0Kw.280.jpg",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 9,
+      "block": 0,
+      "d-line": 0.0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 3,
+      "o-line": 4.5,
+      "o-scoring-line": 7,
+      "throwaway": -4
+    },
     "slug": "karan-sharam",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Uttar Pradesh;day-2": {
+        "assist": 3,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 9,
+        "o-scoring-line": 7,
+        "throwaway": 2
+      }
+    },
+    "stats-distribution": {
+      "assist": 3,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 9,
+      "o-scoring-line": 7,
+      "throwaway": 2
+    },
     "team": "Gujarat Ultimate"
   },
   {
@@ -2344,15 +2554,50 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 6.5,
     "gender": "female",
     "jersey": "5",
     "name": "Riya Rathod",
     "photo": "https://secure.gravatar.com/avatar/5e26a689370fcdd5aacbbbe0eee1639a?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0.0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 2.5,
+      "o-scoring-line": 4,
+      "throwaway": 0
+    },
     "slug": "riya-rathod",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Uttar Pradesh;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 5,
+        "o-scoring-line": 4,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 5,
+      "o-scoring-line": 4,
+      "throwaway": 0
+    },
     "team": "Gujarat Ultimate"
   },
   {
@@ -2380,27 +2625,97 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 3.5,
     "gender": "female",
     "jersey": "12",
     "name": "Shraddha Chaudhary",
     "photo": "https://secure.gravatar.com/avatar/22febd3666a5158e613b22be76462706?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0.0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1.5,
+      "o-scoring-line": 2,
+      "throwaway": 0
+    },
     "slug": "shraddha-chaudhary",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Uttar Pradesh;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 2,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 3,
+      "o-scoring-line": 2,
+      "throwaway": 0
+    },
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 4.0,
     "gender": "female",
     "jersey": "8",
     "name": "Suman Nachiketa",
     "photo": "https://secure.gravatar.com/avatar/8f0852f56a68cce1db9998e1b93cdd81?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 2.0,
+      "d-scoring-line": 2,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0.0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "slug": "suman-nachiketa",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Uttar Pradesh;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 4,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 4,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Gujarat Ultimate"
   },
   {
