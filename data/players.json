@@ -4593,7 +4593,7 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 14.5,
+    "fantasy-points": 26.0,
     "gender": "female",
     "jersey": "97",
     "name": "Nirbha Ghurye",
@@ -4601,13 +4601,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 6.0,
-      "d-scoring-line": 8,
+      "d-line": 10.0,
+      "d-scoring-line": 12,
       "defense": 0,
       "drop": -2,
       "goal": 3,
-      "o-line": 1.5,
-      "o-scoring-line": 0,
+      "o-line": 3.0,
+      "o-scoring-line": 2,
       "throwaway": -2
     },
     "slug": "nirbha-ghurye",
@@ -4623,18 +4623,30 @@
         "o-line": 3,
         "o-scoring-line": 0,
         "throwaway": 1
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 8,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 2,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 12,
-      "d-scoring-line": 4,
+      "d-line": 20,
+      "d-scoring-line": 6,
       "defense": 0,
       "drop": 1,
       "goal": 1,
-      "o-line": 3,
-      "o-scoring-line": 0,
+      "o-line": 6,
+      "o-scoring-line": 2,
       "throwaway": 1
     },
     "team": "Maharashtra Ultimate"
@@ -4652,7 +4664,7 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 6.0,
+    "fantasy-points": 7.0,
     "gender": "female",
     "jersey": "22",
     "name": "Radhika Rathod",
@@ -4663,10 +4675,10 @@
       "d-line": 0.5,
       "d-scoring-line": 0,
       "defense": 0,
-      "drop": 0,
+      "drop": -2,
       "goal": 0,
-      "o-line": 2.5,
-      "o-scoring-line": 3,
+      "o-line": 4.5,
+      "o-scoring-line": 4,
       "throwaway": 0
     },
     "slug": "radhika-rathod",
@@ -4682,6 +4694,18 @@
         "o-line": 5,
         "o-scoring-line": 3,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 1,
+        "goal": 0,
+        "o-line": 4,
+        "o-scoring-line": 1,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
@@ -4690,10 +4714,10 @@
       "d-line": 1,
       "d-scoring-line": 0,
       "defense": 0,
-      "drop": 0,
+      "drop": 1,
       "goal": 0,
-      "o-line": 5,
-      "o-scoring-line": 3,
+      "o-line": 9,
+      "o-scoring-line": 4,
       "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
@@ -4793,22 +4817,22 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 27.0,
+    "fantasy-points": 62.5,
     "gender": "female",
     "jersey": "93",
     "name": "Sahitra Ghurye",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/3pdw8X2j.280.jpg",
     "points-distribution": {
-      "assist": 0,
+      "assist": 6,
       "block": 0,
-      "d-line": 5.0,
-      "d-scoring-line": 4,
-      "defense": 5,
-      "drop": 0,
-      "goal": 3,
-      "o-line": 6.0,
-      "o-scoring-line": 6,
-      "throwaway": -2
+      "d-line": 9.0,
+      "d-scoring-line": 8,
+      "defense": 15,
+      "drop": -2,
+      "goal": 9,
+      "o-line": 11.5,
+      "o-scoring-line": 12,
+      "throwaway": -6
     },
     "slug": "sahitra-ghurye",
     "stats": {
@@ -4823,19 +4847,31 @@
         "o-line": 12,
         "o-scoring-line": 6,
         "throwaway": 1
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 2,
+        "block": 0,
+        "d-line": 8,
+        "d-scoring-line": 2,
+        "defense": 2,
+        "drop": 1,
+        "goal": 2,
+        "o-line": 11,
+        "o-scoring-line": 6,
+        "throwaway": 2
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 2,
       "block": 0,
-      "d-line": 10,
-      "d-scoring-line": 2,
-      "defense": 1,
-      "drop": 0,
-      "goal": 1,
-      "o-line": 12,
-      "o-scoring-line": 6,
-      "throwaway": 1
+      "d-line": 18,
+      "d-scoring-line": 4,
+      "defense": 3,
+      "drop": 1,
+      "goal": 3,
+      "o-line": 23,
+      "o-scoring-line": 12,
+      "throwaway": 3
     },
     "team": "Maharashtra Ultimate"
   },
@@ -4946,7 +4982,7 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 8.5,
+    "fantasy-points": 15.0,
     "gender": "female",
     "jersey": "20",
     "name": "Sharanya Ramesh",
@@ -4959,8 +4995,8 @@
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 4.5,
-      "o-scoring-line": 4,
+      "o-line": 8.0,
+      "o-scoring-line": 7,
       "throwaway": 0
     },
     "slug": "sharanya-ramesh",
@@ -4976,6 +5012,18 @@
         "o-line": 9,
         "o-scoring-line": 4,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 7,
+        "o-scoring-line": 3,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
@@ -4986,8 +5034,8 @@
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 9,
-      "o-scoring-line": 4,
+      "o-line": 16,
+      "o-scoring-line": 7,
       "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
@@ -5181,22 +5229,22 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 19.0,
+    "fantasy-points": 30.0,
     "gender": "female",
     "jersey": "77",
     "name": "Sushma Tapse",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/bxU06lc6.280.jpg",
     "points-distribution": {
-      "assist": 0,
+      "assist": 3,
       "block": 0,
       "d-line": 1.5,
       "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
       "goal": 3,
-      "o-line": 6.5,
-      "o-scoring-line": 8,
-      "throwaway": -2
+      "o-line": 11.5,
+      "o-scoring-line": 13,
+      "throwaway": -4
     },
     "slug": "sushma-tapse",
     "stats": {
@@ -5211,19 +5259,31 @@
         "o-line": 13,
         "o-scoring-line": 8,
         "throwaway": 1
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 10,
+        "o-scoring-line": 5,
+        "throwaway": 1
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 1,
       "block": 0,
       "d-line": 3,
       "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
       "goal": 1,
-      "o-line": 13,
-      "o-scoring-line": 8,
-      "throwaway": 1
+      "o-line": 23,
+      "o-scoring-line": 13,
+      "throwaway": 2
     },
     "team": "Maharashtra Ultimate"
   },
@@ -5275,7 +5335,7 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 21.0,
+    "fantasy-points": 33.0,
     "gender": "female",
     "jersey": "73",
     "name": "Vaishnavi _",
@@ -5283,13 +5343,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 3.0,
-      "d-scoring-line": 4,
-      "defense": 0,
-      "drop": 0,
+      "d-line": 5.5,
+      "d-scoring-line": 6,
+      "defense": 5,
+      "drop": -2,
       "goal": 9,
-      "o-line": 2.0,
-      "o-scoring-line": 3,
+      "o-line": 3.5,
+      "o-scoring-line": 6,
       "throwaway": 0
     },
     "slug": "vaishnavi-_",
@@ -5305,24 +5365,36 @@
         "o-line": 4,
         "o-scoring-line": 3,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 1,
+        "defense": 1,
+        "drop": 1,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 3,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 6,
-      "d-scoring-line": 2,
-      "defense": 0,
-      "drop": 0,
+      "d-line": 11,
+      "d-scoring-line": 3,
+      "defense": 1,
+      "drop": 1,
       "goal": 3,
-      "o-line": 4,
-      "o-scoring-line": 3,
+      "o-line": 7,
+      "o-scoring-line": 6,
       "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 11.5,
+    "fantasy-points": 15.0,
     "gender": "female",
     "jersey": "19",
     "name": "Vidya Parmar",
@@ -5330,7 +5402,7 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 4.0,
+      "d-line": 7.5,
       "d-scoring-line": 6,
       "defense": 0,
       "drop": 0,
@@ -5352,12 +5424,24 @@
         "o-line": 1,
         "o-scoring-line": 1,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 7,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 8,
+      "d-line": 15,
       "d-scoring-line": 3,
       "defense": 0,
       "drop": 0,
@@ -7616,7 +7700,7 @@
     "team": "Uttar Pradesh"
   },
   {
-    "fantasy-points": 17.0,
+    "fantasy-points": 17.5,
     "gender": "male",
     "jersey": "12",
     "name": "Chandan Rastogi",
@@ -7624,7 +7708,7 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2.5,
+      "d-line": 3.0,
       "d-scoring-line": 8,
       "defense": 0,
       "drop": 0,
@@ -7635,6 +7719,18 @@
     },
     "slug": "chandan-rastogi",
     "stats": {
+      "Maharashtra Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
@@ -7663,7 +7759,7 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 5,
+      "d-line": 6,
       "d-scoring-line": 4,
       "defense": 0,
       "drop": 0,
@@ -7722,7 +7818,7 @@
     "team": "Uttar Pradesh"
   },
   {
-    "fantasy-points": 44.5,
+    "fantasy-points": 72.0,
     "gender": "male",
     "jersey": "7",
     "name": "Govind JMP",
@@ -7730,17 +7826,29 @@
     "points-distribution": {
       "assist": 6,
       "block": 0,
-      "d-line": 6.5,
-      "d-scoring-line": 12,
+      "d-line": 11.5,
+      "d-scoring-line": 22,
       "defense": 5,
       "drop": -2,
-      "goal": 12,
-      "o-line": 6.0,
-      "o-scoring-line": 9,
-      "throwaway": -10
+      "goal": 24,
+      "o-line": 9.5,
+      "o-scoring-line": 14,
+      "throwaway": -18
     },
     "slug": "govind-jmp",
     "stats": {
+      "Maharashtra Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 10,
+        "d-scoring-line": 5,
+        "defense": 0,
+        "drop": 0,
+        "goal": 4,
+        "o-line": 7,
+        "o-scoring-line": 5,
+        "throwaway": 4
+      },
       "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
@@ -7769,14 +7877,14 @@
     "stats-distribution": {
       "assist": 2,
       "block": 0,
-      "d-line": 13,
-      "d-scoring-line": 6,
+      "d-line": 23,
+      "d-scoring-line": 11,
       "defense": 1,
       "drop": 1,
-      "goal": 4,
-      "o-line": 12,
-      "o-scoring-line": 9,
-      "throwaway": 5
+      "goal": 8,
+      "o-line": 19,
+      "o-scoring-line": 14,
+      "throwaway": 9
     },
     "team": "Uttar Pradesh"
   },
@@ -7840,7 +7948,7 @@
     "team": "Uttar Pradesh"
   },
   {
-    "fantasy-points": 33.5,
+    "fantasy-points": 44.5,
     "gender": "female",
     "jersey": "8",
     "name": "Kajal JMP",
@@ -7848,17 +7956,29 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 4.5,
-      "d-scoring-line": 6,
+      "d-line": 6.5,
+      "d-scoring-line": 8,
       "defense": 0,
       "drop": -2,
-      "goal": 9,
-      "o-line": 7.0,
-      "o-scoring-line": 8,
+      "goal": 12,
+      "o-line": 9.0,
+      "o-scoring-line": 10,
       "throwaway": -2
     },
     "slug": "kajal-jmp",
     "stats": {
+      "Maharashtra Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 4,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 4,
+        "o-scoring-line": 2,
+        "throwaway": 0
+      },
       "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
@@ -7887,19 +8007,19 @@
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 9,
-      "d-scoring-line": 3,
+      "d-line": 13,
+      "d-scoring-line": 4,
       "defense": 0,
       "drop": 1,
-      "goal": 3,
-      "o-line": 14,
-      "o-scoring-line": 8,
+      "goal": 4,
+      "o-line": 18,
+      "o-scoring-line": 10,
       "throwaway": 1
     },
     "team": "Uttar Pradesh"
   },
   {
-    "fantasy-points": 18.5,
+    "fantasy-points": 19.0,
     "gender": "male",
     "jersey": "4",
     "name": "Krishna Sharma",
@@ -7907,7 +8027,7 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 4.5,
+      "d-line": 5.0,
       "d-scoring-line": 12,
       "defense": 0,
       "drop": 0,
@@ -7918,6 +8038,18 @@
     },
     "slug": "krishna-sharma",
     "stats": {
+      "Maharashtra Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
@@ -7946,7 +8078,7 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 9,
+      "d-line": 10,
       "d-scoring-line": 6,
       "defense": 0,
       "drop": 0,
@@ -8017,7 +8149,7 @@
     "team": "Uttar Pradesh"
   },
   {
-    "fantasy-points": 44.0,
+    "fantasy-points": 61.5,
     "gender": "female",
     "jersey": "97",
     "name": "Mabiya Parbeen",
@@ -8025,17 +8157,29 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 6.0,
-      "d-scoring-line": 10,
-      "defense": 5,
+      "d-line": 8.5,
+      "d-scoring-line": 12,
+      "defense": 10,
       "drop": 0,
       "goal": 12,
-      "o-line": 4.0,
-      "o-scoring-line": 7,
+      "o-line": 7.0,
+      "o-scoring-line": 12,
       "throwaway": 0
     },
     "slug": "mabiya-parbeen",
     "stats": {
+      "Maharashtra Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 1,
+        "defense": 1,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 6,
+        "o-scoring-line": 5,
+        "throwaway": 0
+      },
       "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
@@ -8064,37 +8208,49 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 12,
-      "d-scoring-line": 5,
-      "defense": 1,
+      "d-line": 17,
+      "d-scoring-line": 6,
+      "defense": 2,
       "drop": 0,
       "goal": 4,
-      "o-line": 8,
-      "o-scoring-line": 7,
+      "o-line": 14,
+      "o-scoring-line": 12,
       "throwaway": 0
     },
     "team": "Uttar Pradesh"
   },
   {
-    "fantasy-points": 40.5,
+    "fantasy-points": 63.0,
     "gender": "female",
     "jersey": "9",
     "name": "Manju Kushwaha",
     "photo": "https://secure.gravatar.com/avatar/045dc0151449e74e6d57114633d25494?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 0,
+      "assist": 3,
       "block": 0,
-      "d-line": 7.5,
-      "d-scoring-line": 16,
+      "d-line": 11.5,
+      "d-scoring-line": 26,
       "defense": 0,
-      "drop": 0,
+      "drop": -2,
       "goal": 6,
-      "o-line": 5.0,
-      "o-scoring-line": 6,
-      "throwaway": 0
+      "o-line": 8.5,
+      "o-scoring-line": 12,
+      "throwaway": -2
     },
     "slug": "manju-kushwaha",
     "stats": {
+      "Maharashtra Ultimate;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 8,
+        "d-scoring-line": 5,
+        "defense": 0,
+        "drop": 1,
+        "goal": 0,
+        "o-line": 7,
+        "o-scoring-line": 6,
+        "throwaway": 1
+      },
       "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
@@ -8121,16 +8277,16 @@
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 1,
       "block": 0,
-      "d-line": 15,
-      "d-scoring-line": 8,
+      "d-line": 23,
+      "d-scoring-line": 13,
       "defense": 0,
-      "drop": 0,
+      "drop": 1,
       "goal": 2,
-      "o-line": 10,
-      "o-scoring-line": 6,
-      "throwaway": 0
+      "o-line": 17,
+      "o-scoring-line": 12,
+      "throwaway": 1
     },
     "team": "Uttar Pradesh"
   },
@@ -8194,25 +8350,37 @@
     "team": "Uttar Pradesh"
   },
   {
-    "fantasy-points": 33.5,
+    "fantasy-points": 56.5,
     "gender": "male",
     "jersey": "5",
     "name": "Priyanshu Singh",
     "photo": "https://secure.gravatar.com/avatar/c1fba8ed659d2516bb16677d823c97b2?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 12,
+      "assist": 15,
       "block": 0,
-      "d-line": 3.5,
-      "d-scoring-line": 4,
+      "d-line": 8.0,
+      "d-scoring-line": 12,
       "defense": 0,
       "drop": 0,
       "goal": 3,
-      "o-line": 7.0,
-      "o-scoring-line": 8,
-      "throwaway": -4
+      "o-line": 10.5,
+      "o-scoring-line": 14,
+      "throwaway": -6
     },
     "slug": "priyanshu-singh",
     "stats": {
+      "Maharashtra Ultimate;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 9,
+        "d-scoring-line": 4,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 7,
+        "o-scoring-line": 6,
+        "throwaway": 1
+      },
       "Tamilnadu;day-1": {
         "assist": 2,
         "block": 0,
@@ -8239,16 +8407,16 @@
       }
     },
     "stats-distribution": {
-      "assist": 4,
+      "assist": 5,
       "block": 0,
-      "d-line": 7,
-      "d-scoring-line": 2,
+      "d-line": 16,
+      "d-scoring-line": 6,
       "defense": 0,
       "drop": 0,
       "goal": 1,
-      "o-line": 14,
-      "o-scoring-line": 8,
-      "throwaway": 2
+      "o-line": 21,
+      "o-scoring-line": 14,
+      "throwaway": 3
     },
     "team": "Uttar Pradesh"
   },
@@ -8312,7 +8480,7 @@
     "team": "Uttar Pradesh"
   },
   {
-    "fantasy-points": 29.0,
+    "fantasy-points": 68.0,
     "gender": "female",
     "jersey": "19",
     "name": "Roshni Bharti",
@@ -8320,17 +8488,29 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 7.0,
-      "d-scoring-line": 14,
+      "d-line": 12.5,
+      "d-scoring-line": 24,
       "defense": 0,
       "drop": -4,
-      "goal": 0,
-      "o-line": 6.0,
-      "o-scoring-line": 6,
+      "goal": 12,
+      "o-line": 10.5,
+      "o-scoring-line": 13,
       "throwaway": 0
     },
     "slug": "roshni-bharti",
     "stats": {
+      "Maharashtra Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 11,
+        "d-scoring-line": 5,
+        "defense": 0,
+        "drop": 0,
+        "goal": 4,
+        "o-line": 9,
+        "o-scoring-line": 7,
+        "throwaway": 0
+      },
       "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
@@ -8359,19 +8539,19 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 14,
-      "d-scoring-line": 7,
+      "d-line": 25,
+      "d-scoring-line": 12,
       "defense": 0,
       "drop": 2,
-      "goal": 0,
-      "o-line": 12,
-      "o-scoring-line": 6,
+      "goal": 4,
+      "o-line": 21,
+      "o-scoring-line": 13,
       "throwaway": 0
     },
     "team": "Uttar Pradesh"
   },
   {
-    "fantasy-points": 11.5,
+    "fantasy-points": 14.0,
     "gender": "female",
     "jersey": "41",
     "name": "Sheeba Itaunja",
@@ -8379,8 +8559,8 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2.0,
-      "d-scoring-line": 6,
+      "d-line": 2.5,
+      "d-scoring-line": 8,
       "defense": 0,
       "drop": 0,
       "goal": 3,
@@ -8390,6 +8570,18 @@
     },
     "slug": "sheeba-itaunja",
     "stats": {
+      "Maharashtra Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
@@ -8418,8 +8610,8 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 4,
-      "d-scoring-line": 3,
+      "d-line": 5,
+      "d-scoring-line": 4,
       "defense": 0,
       "drop": 0,
       "goal": 1,
@@ -8430,7 +8622,7 @@
     "team": "Uttar Pradesh"
   },
   {
-    "fantasy-points": 42.5,
+    "fantasy-points": 47.0,
     "gender": "male",
     "jersey": "60",
     "name": "Sonu Kashyap",
@@ -8438,17 +8630,29 @@
     "points-distribution": {
       "assist": 15,
       "block": 0,
-      "d-line": 7.0,
-      "d-scoring-line": 14,
+      "d-line": 10.0,
+      "d-scoring-line": 18,
       "defense": 0,
       "drop": 0,
       "goal": 3,
-      "o-line": 2.5,
-      "o-scoring-line": 3,
-      "throwaway": -2
+      "o-line": 4.0,
+      "o-scoring-line": 5,
+      "throwaway": -8
     },
     "slug": "sonu-kashyap",
     "stats": {
+      "Maharashtra Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 6,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 2,
+        "throwaway": 3
+      },
       "Tamilnadu;day-1": {
         "assist": 4,
         "block": 0,
@@ -8477,37 +8681,49 @@
     "stats-distribution": {
       "assist": 5,
       "block": 0,
-      "d-line": 14,
-      "d-scoring-line": 7,
+      "d-line": 20,
+      "d-scoring-line": 9,
       "defense": 0,
       "drop": 0,
       "goal": 1,
-      "o-line": 5,
-      "o-scoring-line": 3,
-      "throwaway": 1
+      "o-line": 8,
+      "o-scoring-line": 5,
+      "throwaway": 4
     },
     "team": "Uttar Pradesh"
   },
   {
-    "fantasy-points": 26.5,
+    "fantasy-points": 69.5,
     "gender": "male",
     "jersey": "45",
     "name": "Sunny Azad",
     "photo": "https://secure.gravatar.com/avatar/ac616950beb6fc7def2d4370ad3a4ec5?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 12,
+      "assist": 33,
       "block": 0,
-      "d-line": 3.5,
-      "d-scoring-line": 6,
-      "defense": 0,
-      "drop": -2,
-      "goal": 0,
-      "o-line": 7.0,
-      "o-scoring-line": 8,
-      "throwaway": -8
+      "d-line": 7.5,
+      "d-scoring-line": 16,
+      "defense": 5,
+      "drop": -4,
+      "goal": 3,
+      "o-line": 11.0,
+      "o-scoring-line": 14,
+      "throwaway": -16
     },
     "slug": "sunny-azad",
     "stats": {
+      "Maharashtra Ultimate;day-1": {
+        "assist": 7,
+        "block": 0,
+        "d-line": 8,
+        "d-scoring-line": 5,
+        "defense": 1,
+        "drop": 1,
+        "goal": 1,
+        "o-line": 8,
+        "o-scoring-line": 6,
+        "throwaway": 4
+      },
       "Tamilnadu;day-1": {
         "assist": 3,
         "block": 0,
@@ -8534,21 +8750,21 @@
       }
     },
     "stats-distribution": {
-      "assist": 4,
+      "assist": 11,
       "block": 0,
-      "d-line": 7,
-      "d-scoring-line": 3,
-      "defense": 0,
-      "drop": 1,
-      "goal": 0,
-      "o-line": 14,
-      "o-scoring-line": 8,
-      "throwaway": 4
+      "d-line": 15,
+      "d-scoring-line": 8,
+      "defense": 1,
+      "drop": 2,
+      "goal": 1,
+      "o-line": 22,
+      "o-scoring-line": 14,
+      "throwaway": 8
     },
     "team": "Uttar Pradesh"
   },
   {
-    "fantasy-points": 39.5,
+    "fantasy-points": 66.0,
     "gender": "female",
     "jersey": "22",
     "name": "Vandana Kashyap",
@@ -8556,17 +8772,29 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 5.5,
-      "d-scoring-line": 16,
+      "d-line": 10.0,
+      "d-scoring-line": 26,
       "defense": 5,
       "drop": 0,
-      "goal": 3,
-      "o-line": 4.0,
-      "o-scoring-line": 5,
-      "throwaway": -2
+      "goal": 9,
+      "o-line": 7.0,
+      "o-scoring-line": 10,
+      "throwaway": -4
     },
     "slug": "vandana-kashyap",
     "stats": {
+      "Maharashtra Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 9,
+        "d-scoring-line": 5,
+        "defense": 0,
+        "drop": 0,
+        "goal": 2,
+        "o-line": 6,
+        "o-scoring-line": 5,
+        "throwaway": 1
+      },
       "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
@@ -8595,37 +8823,49 @@
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 11,
-      "d-scoring-line": 8,
+      "d-line": 20,
+      "d-scoring-line": 13,
       "defense": 1,
       "drop": 0,
-      "goal": 1,
-      "o-line": 8,
-      "o-scoring-line": 5,
-      "throwaway": 1
+      "goal": 3,
+      "o-line": 14,
+      "o-scoring-line": 10,
+      "throwaway": 2
     },
     "team": "Uttar Pradesh"
   },
   {
-    "fantasy-points": 22.5,
+    "fantasy-points": 35.5,
     "gender": "male",
     "jersey": "1",
     "name": "Vikram Namdeo",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/Cz2B8yob.280.jpg",
     "points-distribution": {
-      "assist": 6,
+      "assist": 9,
       "block": 0,
-      "d-line": 3.0,
-      "d-scoring-line": 4,
+      "d-line": 5.0,
+      "d-scoring-line": 6,
       "defense": 5,
       "drop": 0,
       "goal": 0,
-      "o-line": 4.5,
-      "o-scoring-line": 4,
-      "throwaway": -4
+      "o-line": 7.5,
+      "o-scoring-line": 9,
+      "throwaway": -6
     },
     "slug": "vikram-namdeo",
     "stats": {
+      "Maharashtra Ultimate;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 4,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 6,
+        "o-scoring-line": 5,
+        "throwaway": 1
+      },
       "Tamilnadu;day-1": {
         "assist": 0,
         "block": 0,
@@ -8652,16 +8892,16 @@
       }
     },
     "stats-distribution": {
-      "assist": 2,
+      "assist": 3,
       "block": 0,
-      "d-line": 6,
-      "d-scoring-line": 2,
+      "d-line": 10,
+      "d-scoring-line": 3,
       "defense": 1,
       "drop": 0,
       "goal": 0,
-      "o-line": 9,
-      "o-scoring-line": 4,
-      "throwaway": 2
+      "o-line": 15,
+      "o-scoring-line": 9,
+      "throwaway": 3
     },
     "team": "Uttar Pradesh"
   }
