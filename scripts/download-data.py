@@ -122,6 +122,21 @@ def download_teams_info(sheet_id, event_id, client_id, client_secret):
         }
         data.append(player)
 
+    for id_, person in registration_data.items():
+        if str(id_) not in team_data:
+            if "player" in person.get("roles", []):
+                first_name = person["Person"]["first_name"].strip()
+                last_name = person["Person"]["last_name"]
+                player_info = {
+                    "name": f"{first_name} {last_name}",
+                    "gender": person["Person"]["gender"],
+                    "jersey": "",
+                    "photo": person["Person"]["images"]["280"],
+                    "team": person["Team"]["name"].title(),
+                    "ucID": id_,
+                }
+                data.append(player_info)
+
     # Add couple of missing players
     hannah = {
         "name": "Hannah Deborah",
