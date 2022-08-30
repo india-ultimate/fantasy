@@ -1814,21 +1814,21 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 13.5,
+    "fantasy-points": 25.5,
     "gender": "male",
     "jersey": "",
     "name": "Aaron Varghese",
     "photo": "https://secure.gravatar.com/avatar/12df054283b23c9ff1c77ce5835d96e7?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 3,
+      "assist": 9,
       "block": 0,
       "d-line": 0.5,
       "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 3.0,
-      "o-scoring-line": 5,
+      "o-line": 5.0,
+      "o-scoring-line": 9,
       "throwaway": 0
     },
     "slug": "aaron-varghese",
@@ -1844,24 +1844,36 @@
         "o-line": 6,
         "o-scoring-line": 5,
         "throwaway": 0
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 2,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 4,
+        "o-scoring-line": 4,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
-      "assist": 1,
+      "assist": 3,
       "block": 0,
       "d-line": 1,
       "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 6,
-      "o-scoring-line": 5,
+      "o-line": 10,
+      "o-scoring-line": 9,
       "throwaway": 0
     },
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 7.5,
+    "fantasy-points": 17.0,
     "gender": "male",
     "jersey": "",
     "name": "Abdul Talib",
@@ -1869,14 +1881,14 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 1.5,
-      "d-scoring-line": 2,
+      "d-line": 4.0,
+      "d-scoring-line": 8,
       "defense": 5,
       "drop": 0,
-      "goal": 0,
+      "goal": 3,
       "o-line": 1.0,
       "o-scoring-line": 2,
-      "throwaway": -4
+      "throwaway": -6
     },
     "slug": "abdul-talib",
     "stats": {
@@ -1891,38 +1903,50 @@
         "o-line": 2,
         "o-scoring-line": 2,
         "throwaway": 2
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 3,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 1
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 3,
-      "d-scoring-line": 1,
+      "d-line": 8,
+      "d-scoring-line": 4,
       "defense": 1,
       "drop": 0,
-      "goal": 0,
+      "goal": 1,
       "o-line": 2,
       "o-scoring-line": 2,
-      "throwaway": 2
+      "throwaway": 3
     },
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 5.0,
+    "fantasy-points": 26.0,
     "gender": "male",
     "jersey": "58",
     "name": "Ajith Jagadish",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/dobT1wRr.280.jpg",
     "points-distribution": {
-      "assist": 0,
+      "assist": 6,
       "block": 0,
-      "d-line": 1.5,
-      "d-scoring-line": 2,
+      "d-line": 4.0,
+      "d-scoring-line": 10,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
-      "o-line": 0.5,
-      "o-scoring-line": 1,
+      "goal": 3,
+      "o-line": 1.0,
+      "o-scoring-line": 2,
       "throwaway": 0
     },
     "slug": "ajith-jagadish",
@@ -1938,18 +1962,30 @@
         "o-line": 1,
         "o-scoring-line": 1,
         "throwaway": 0
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 2,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 4,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 2,
       "block": 0,
-      "d-line": 3,
-      "d-scoring-line": 1,
+      "d-line": 8,
+      "d-scoring-line": 5,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
-      "o-line": 1,
-      "o-scoring-line": 1,
+      "goal": 1,
+      "o-line": 2,
+      "o-scoring-line": 2,
       "throwaway": 0
     },
     "team": "Karnataka State"
@@ -2191,17 +2227,17 @@
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 15.5,
+    "fantasy-points": 31.5,
     "gender": "male",
     "jersey": "",
     "name": "Chethan Srikanth",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/PKjA3dD6.280.jpg",
     "points-distribution": {
-      "assist": 3,
+      "assist": 6,
       "block": 0,
-      "d-line": 3.5,
-      "d-scoring-line": 8,
-      "defense": 0,
+      "d-line": 5.5,
+      "d-scoring-line": 14,
+      "defense": 5,
       "drop": 0,
       "goal": 0,
       "o-line": 1.0,
@@ -2221,14 +2257,26 @@
         "o-line": 2,
         "o-scoring-line": 2,
         "throwaway": 1
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 4,
+        "d-scoring-line": 3,
+        "defense": 1,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
-      "assist": 1,
+      "assist": 2,
       "block": 0,
-      "d-line": 7,
-      "d-scoring-line": 4,
-      "defense": 0,
+      "d-line": 11,
+      "d-scoring-line": 7,
+      "defense": 1,
       "drop": 0,
       "goal": 0,
       "o-line": 2,
@@ -2238,21 +2286,21 @@
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 17.5,
+    "fantasy-points": 35.5,
     "gender": "male",
     "jersey": "0",
     "name": "Deepak Gowda",
     "photo": "https://secure.gravatar.com/avatar/efc83a1eefebf1ff809ef91a67dd2ed0?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 6,
+      "assist": 12,
       "block": 0,
-      "d-line": 1.0,
-      "d-scoring-line": 4,
+      "d-line": 2.0,
+      "d-scoring-line": 6,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
-      "o-line": 2.5,
-      "o-scoring-line": 4,
+      "goal": 3,
+      "o-line": 4.5,
+      "o-scoring-line": 8,
       "throwaway": 0
     },
     "slug": "deepak-gowda",
@@ -2268,24 +2316,36 @@
         "o-line": 5,
         "o-scoring-line": 4,
         "throwaway": 0
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 2,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 4,
+        "o-scoring-line": 4,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
-      "assist": 2,
+      "assist": 4,
       "block": 0,
-      "d-line": 2,
-      "d-scoring-line": 2,
+      "d-line": 4,
+      "d-scoring-line": 3,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
-      "o-line": 5,
-      "o-scoring-line": 4,
+      "goal": 1,
+      "o-line": 9,
+      "o-scoring-line": 8,
       "throwaway": 0
     },
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 8.0,
+    "fantasy-points": 26.5,
     "gender": "male",
     "jersey": "",
     "name": "Esai Selvan Esakki",
@@ -2293,11 +2353,11 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 1.5,
-      "d-scoring-line": 0,
+      "d-line": 4.0,
+      "d-scoring-line": 10,
       "defense": 5,
       "drop": 0,
-      "goal": 0,
+      "goal": 6,
       "o-line": 0.5,
       "o-scoring-line": 1,
       "throwaway": 0
@@ -2315,16 +2375,28 @@
         "o-line": 1,
         "o-scoring-line": 1,
         "throwaway": 0
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 5,
+        "defense": 0,
+        "drop": 0,
+        "goal": 2,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 3,
-      "d-scoring-line": 0,
+      "d-line": 8,
+      "d-scoring-line": 5,
       "defense": 1,
       "drop": 0,
-      "goal": 0,
+      "goal": 2,
       "o-line": 1,
       "o-scoring-line": 1,
       "throwaway": 0
@@ -2332,7 +2404,7 @@
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 10.5,
+    "fantasy-points": 22.5,
     "gender": "male",
     "jersey": "18",
     "name": "Grant Wagner",
@@ -2340,13 +2412,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2.5,
-      "d-scoring-line": 8,
+      "d-line": 4.0,
+      "d-scoring-line": 14,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 0.0,
-      "o-scoring-line": 0,
+      "o-line": 1.5,
+      "o-scoring-line": 3,
       "throwaway": 0
     },
     "slug": "grant-wagner",
@@ -2362,18 +2434,30 @@
         "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 3,
+        "d-scoring-line": 3,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 3,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 5,
-      "d-scoring-line": 4,
+      "d-line": 8,
+      "d-scoring-line": 7,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
+      "o-line": 3,
+      "o-scoring-line": 3,
       "throwaway": 0
     },
     "team": "Karnataka State"
@@ -2438,7 +2522,7 @@
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 13.0,
+    "fantasy-points": 16.0,
     "gender": "female",
     "jersey": "",
     "name": "Naina Mathews",
@@ -2447,12 +2531,12 @@
       "assist": 0,
       "block": 0,
       "d-line": 3.0,
-      "d-scoring-line": 2,
+      "d-scoring-line": 4,
       "defense": 5,
       "drop": -2,
       "goal": 6,
       "o-line": 1.0,
-      "o-scoring-line": 0,
+      "o-scoring-line": 1,
       "throwaway": -2
     },
     "slug": "naina-mathews",
@@ -2473,12 +2557,12 @@
         "assist": 0,
         "block": 0,
         "d-line": 3,
-        "d-scoring-line": 0,
+        "d-scoring-line": 1,
         "defense": 0,
         "drop": 0,
         "goal": 2,
         "o-line": 1,
-        "o-scoring-line": 0,
+        "o-scoring-line": 1,
         "throwaway": 0
       }
     },
@@ -2486,18 +2570,18 @@
       "assist": 0,
       "block": 0,
       "d-line": 6,
-      "d-scoring-line": 1,
+      "d-scoring-line": 2,
       "defense": 1,
       "drop": 1,
       "goal": 2,
       "o-line": 2,
-      "o-scoring-line": 0,
+      "o-scoring-line": 1,
       "throwaway": 1
     },
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 6.0,
+    "fantasy-points": 9.5,
     "gender": "male",
     "jersey": "9",
     "name": "Naveen G",
@@ -2505,8 +2589,8 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 1.5,
-      "d-scoring-line": 2,
+      "d-line": 3.0,
+      "d-scoring-line": 4,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -2527,13 +2611,25 @@
         "o-line": 3,
         "o-scoring-line": 3,
         "throwaway": 1
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 3,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 3,
-      "d-scoring-line": 1,
+      "d-line": 6,
+      "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -2544,22 +2640,22 @@
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 34.0,
+    "fantasy-points": 61.5,
     "gender": "female",
     "jersey": "",
     "name": "Pooja Raghu",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/kOhyZ9TR.280.jpg",
     "points-distribution": {
-      "assist": 3,
+      "assist": 6,
       "block": 0,
-      "d-line": 2.5,
-      "d-scoring-line": 8,
-      "defense": 10,
+      "d-line": 6.0,
+      "d-scoring-line": 18,
+      "defense": 20,
       "drop": 0,
-      "goal": 6,
+      "goal": 9,
       "o-line": 1.5,
       "o-scoring-line": 3,
-      "throwaway": 0
+      "throwaway": -2
     },
     "slug": "pooja-raghu",
     "stats": {
@@ -2574,19 +2670,31 @@
         "o-line": 3,
         "o-scoring-line": 3,
         "throwaway": 0
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 7,
+        "d-scoring-line": 5,
+        "defense": 2,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 1
       }
     },
     "stats-distribution": {
-      "assist": 1,
+      "assist": 2,
       "block": 0,
-      "d-line": 5,
-      "d-scoring-line": 4,
-      "defense": 2,
+      "d-line": 12,
+      "d-scoring-line": 9,
+      "defense": 4,
       "drop": 0,
-      "goal": 2,
+      "goal": 3,
       "o-line": 3,
       "o-scoring-line": 3,
-      "throwaway": 0
+      "throwaway": 1
     },
     "team": "Karnataka State"
   },
@@ -2603,17 +2711,17 @@
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 14.0,
+    "fantasy-points": 28.0,
     "gender": "male",
     "jersey": "13",
     "name": "Ranjan Khyadad",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/wwrqIaWk.280.jpg",
     "points-distribution": {
-      "assist": 3,
+      "assist": 6,
       "block": 0,
-      "d-line": 2.0,
-      "d-scoring-line": 4,
-      "defense": 5,
+      "d-line": 4.0,
+      "d-scoring-line": 8,
+      "defense": 10,
       "drop": 0,
       "goal": 0,
       "o-line": 0.0,
@@ -2633,14 +2741,26 @@
         "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 4,
+        "d-scoring-line": 2,
+        "defense": 1,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
-      "assist": 1,
+      "assist": 2,
       "block": 0,
-      "d-line": 4,
-      "d-scoring-line": 2,
-      "defense": 1,
+      "d-line": 8,
+      "d-scoring-line": 4,
+      "defense": 2,
       "drop": 0,
       "goal": 0,
       "o-line": 0,
@@ -2650,21 +2770,21 @@
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 22.0,
+    "fantasy-points": 40.0,
     "gender": "male",
     "jersey": "",
     "name": "Sabeel Khader",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/Q2bdPl9L.280.jpg",
     "points-distribution": {
-      "assist": 0,
+      "assist": 3,
       "block": 0,
-      "d-line": 2.5,
-      "d-scoring-line": 8,
+      "d-line": 5.0,
+      "d-scoring-line": 16,
       "defense": 10,
       "drop": 0,
-      "goal": 0,
-      "o-line": 1.5,
-      "o-scoring-line": 2,
+      "goal": 3,
+      "o-line": 2.0,
+      "o-scoring-line": 3,
       "throwaway": -2
     },
     "slug": "sabeel-khader",
@@ -2680,24 +2800,36 @@
         "o-line": 3,
         "o-scoring-line": 2,
         "throwaway": 1
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 4,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 1,
       "block": 0,
-      "d-line": 5,
-      "d-scoring-line": 4,
+      "d-line": 10,
+      "d-scoring-line": 8,
       "defense": 2,
       "drop": 0,
-      "goal": 0,
-      "o-line": 3,
-      "o-scoring-line": 2,
+      "goal": 1,
+      "o-line": 4,
+      "o-scoring-line": 3,
       "throwaway": 1
     },
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 5.5,
+    "fantasy-points": 10.0,
     "gender": "female",
     "jersey": "",
     "name": "Sagarika Ghanagam",
@@ -2705,13 +2837,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2.0,
-      "d-scoring-line": 2,
+      "d-line": 3.0,
+      "d-scoring-line": 6,
       "defense": 0,
-      "drop": 0,
+      "drop": -2,
       "goal": 0,
-      "o-line": 0.5,
-      "o-scoring-line": 1,
+      "o-line": 1.0,
+      "o-scoring-line": 2,
       "throwaway": 0
     },
     "slug": "sagarika-ghanagam",
@@ -2727,38 +2859,50 @@
         "o-line": 1,
         "o-scoring-line": 1,
         "throwaway": 0
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 1,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 4,
-      "d-scoring-line": 1,
+      "d-line": 6,
+      "d-scoring-line": 3,
       "defense": 0,
-      "drop": 0,
+      "drop": 1,
       "goal": 0,
-      "o-line": 1,
-      "o-scoring-line": 1,
+      "o-line": 2,
+      "o-scoring-line": 2,
       "throwaway": 0
     },
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 13.5,
+    "fantasy-points": 25.0,
     "gender": "male",
     "jersey": "",
     "name": "Samatv Iyer",
     "photo": "https://secure.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 3,
+      "assist": 6,
       "block": 0,
-      "d-line": 1.0,
-      "d-scoring-line": 2,
+      "d-line": 2.5,
+      "d-scoring-line": 6,
       "defense": 0,
       "drop": 0,
       "goal": 3,
-      "o-line": 1.5,
-      "o-scoring-line": 3,
+      "o-line": 2.5,
+      "o-scoring-line": 5,
       "throwaway": 0
     },
     "slug": "samatv-iyer",
@@ -2774,38 +2918,50 @@
         "o-line": 3,
         "o-scoring-line": 3,
         "throwaway": 0
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 3,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 2,
+        "o-scoring-line": 2,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
-      "assist": 1,
+      "assist": 2,
       "block": 0,
-      "d-line": 2,
-      "d-scoring-line": 1,
+      "d-line": 5,
+      "d-scoring-line": 3,
       "defense": 0,
       "drop": 0,
       "goal": 1,
-      "o-line": 3,
-      "o-scoring-line": 3,
+      "o-line": 5,
+      "o-scoring-line": 5,
       "throwaway": 0
     },
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 29.5,
+    "fantasy-points": 53.0,
     "gender": "male",
     "jersey": "43",
     "name": "Sarang Minhas",
     "photo": "https://secure.gravatar.com/avatar/7414ade9ca567e4def452079b85485ef?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 3,
+      "assist": 6,
       "block": 0,
-      "d-line": 3.5,
-      "d-scoring-line": 12,
-      "defense": 5,
+      "d-line": 6.0,
+      "d-scoring-line": 22,
+      "defense": 10,
       "drop": 0,
       "goal": 3,
-      "o-line": 1.0,
-      "o-scoring-line": 2,
+      "o-line": 2.0,
+      "o-scoring-line": 4,
       "throwaway": 0
     },
     "slug": "sarang-minhas",
@@ -2821,18 +2977,30 @@
         "o-line": 2,
         "o-scoring-line": 2,
         "throwaway": 0
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 5,
+        "defense": 1,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 2,
+        "o-scoring-line": 2,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
-      "assist": 1,
+      "assist": 2,
       "block": 0,
-      "d-line": 7,
-      "d-scoring-line": 6,
-      "defense": 1,
+      "d-line": 12,
+      "d-scoring-line": 11,
+      "defense": 2,
       "drop": 0,
       "goal": 1,
-      "o-line": 2,
-      "o-scoring-line": 2,
+      "o-line": 4,
+      "o-scoring-line": 4,
       "throwaway": 0
     },
     "team": "Karnataka State"
@@ -2850,7 +3018,7 @@
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 9.0,
+    "fantasy-points": 14.0,
     "gender": "female",
     "jersey": "",
     "name": "Shruthi Gowda",
@@ -2858,14 +3026,14 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2.0,
-      "d-scoring-line": 4,
+      "d-line": 3.5,
+      "d-scoring-line": 8,
       "defense": 0,
       "drop": 0,
       "goal": 3,
-      "o-line": 0.0,
-      "o-scoring-line": 0,
-      "throwaway": 0
+      "o-line": 0.5,
+      "o-scoring-line": 1,
+      "throwaway": -2
     },
     "slug": "shruthi-gowda",
     "stats": {
@@ -2880,38 +3048,50 @@
         "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 3,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 1
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 4,
-      "d-scoring-line": 2,
+      "d-line": 7,
+      "d-scoring-line": 4,
       "defense": 0,
       "drop": 0,
       "goal": 1,
-      "o-line": 0,
-      "o-scoring-line": 0,
-      "throwaway": 0
+      "o-line": 1,
+      "o-scoring-line": 1,
+      "throwaway": 1
     },
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 20.5,
+    "fantasy-points": 35.5,
     "gender": "female",
     "jersey": "2",
     "name": "Sneha Patil",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/8MJjzNWx.280.jpg",
     "points-distribution": {
-      "assist": 9,
+      "assist": 12,
       "block": 0,
-      "d-line": 3.0,
-      "d-scoring-line": 8,
+      "d-line": 4.0,
+      "d-scoring-line": 12,
       "defense": 0,
-      "drop": -6,
-      "goal": 0,
-      "o-line": 2.5,
-      "o-scoring-line": 4,
+      "drop": -8,
+      "goal": 6,
+      "o-line": 3.5,
+      "o-scoring-line": 6,
       "throwaway": 0
     },
     "slug": "sneha-patil",
@@ -2927,38 +3107,50 @@
         "o-line": 5,
         "o-scoring-line": 4,
         "throwaway": 0
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 1,
+        "goal": 2,
+        "o-line": 2,
+        "o-scoring-line": 2,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
-      "assist": 3,
+      "assist": 4,
       "block": 0,
-      "d-line": 6,
-      "d-scoring-line": 4,
+      "d-line": 8,
+      "d-scoring-line": 6,
       "defense": 0,
-      "drop": 3,
-      "goal": 0,
-      "o-line": 5,
-      "o-scoring-line": 4,
+      "drop": 4,
+      "goal": 2,
+      "o-line": 7,
+      "o-scoring-line": 6,
       "throwaway": 0
     },
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 33.5,
+    "fantasy-points": 69.5,
     "gender": "female",
     "jersey": "3",
     "name": "Stania Peris",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/St1F2cBg.280.jpg",
     "points-distribution": {
-      "assist": 3,
+      "assist": 6,
       "block": 0,
-      "d-line": 2.5,
-      "d-scoring-line": 8,
-      "defense": 5,
+      "d-line": 5.5,
+      "d-scoring-line": 16,
+      "defense": 15,
       "drop": 0,
-      "goal": 9,
-      "o-line": 3.0,
-      "o-scoring-line": 5,
+      "goal": 18,
+      "o-line": 4.0,
+      "o-scoring-line": 7,
       "throwaway": -2
     },
     "slug": "stania-peris",
@@ -2974,18 +3166,30 @@
         "o-line": 6,
         "o-scoring-line": 5,
         "throwaway": 1
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 6,
+        "d-scoring-line": 4,
+        "defense": 2,
+        "drop": 0,
+        "goal": 3,
+        "o-line": 2,
+        "o-scoring-line": 2,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
-      "assist": 1,
+      "assist": 2,
       "block": 0,
-      "d-line": 5,
-      "d-scoring-line": 4,
-      "defense": 1,
+      "d-line": 11,
+      "d-scoring-line": 8,
+      "defense": 3,
       "drop": 0,
-      "goal": 3,
-      "o-line": 6,
-      "o-scoring-line": 5,
+      "goal": 6,
+      "o-line": 8,
+      "o-scoring-line": 7,
       "throwaway": 1
     },
     "team": "Karnataka State"
@@ -3003,7 +3207,7 @@
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 9.0,
+    "fantasy-points": 20.5,
     "gender": "female",
     "jersey": "3",
     "name": "Swathi Shetty",
@@ -3011,13 +3215,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2.0,
-      "d-scoring-line": 4,
+      "d-line": 4.0,
+      "d-scoring-line": 12,
       "defense": 0,
       "drop": 0,
       "goal": 3,
-      "o-line": 0.0,
-      "o-scoring-line": 0,
+      "o-line": 0.5,
+      "o-scoring-line": 1,
       "throwaway": 0
     },
     "slug": "swathi-shetty",
@@ -3033,24 +3237,36 @@
         "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 4,
+        "d-scoring-line": 4,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 4,
-      "d-scoring-line": 2,
+      "d-line": 8,
+      "d-scoring-line": 6,
       "defense": 0,
       "drop": 0,
       "goal": 1,
-      "o-line": 0,
-      "o-scoring-line": 0,
+      "o-line": 1,
+      "o-scoring-line": 1,
       "throwaway": 0
     },
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 6.0,
+    "fantasy-points": 9.0,
     "gender": "female",
     "jersey": "",
     "name": "Vaishnavi Devi",
@@ -3058,10 +3274,10 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2.0,
-      "d-scoring-line": 4,
+      "d-line": 3.0,
+      "d-scoring-line": 8,
       "defense": 0,
-      "drop": 0,
+      "drop": -2,
       "goal": 0,
       "o-line": 0.0,
       "o-scoring-line": 0,
@@ -3080,15 +3296,27 @@
         "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 1,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 4,
-      "d-scoring-line": 2,
+      "d-line": 6,
+      "d-scoring-line": 4,
       "defense": 0,
-      "drop": 0,
+      "drop": 1,
       "goal": 0,
       "o-line": 0,
       "o-scoring-line": 0,
@@ -3097,17 +3325,17 @@
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 4.0,
+    "fantasy-points": 21.0,
     "gender": "male",
     "jersey": "",
     "name": "Yadav Ajay",
     "photo": "https://secure.gravatar.com/avatar/9c85701c09702561fa5673eb8149c99c?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 0,
+      "assist": 3,
       "block": 0,
-      "d-line": 2.0,
-      "d-scoring-line": 2,
-      "defense": 0,
+      "d-line": 5.0,
+      "d-scoring-line": 8,
+      "defense": 5,
       "drop": 0,
       "goal": 0,
       "o-line": 0.0,
@@ -3127,14 +3355,26 @@
         "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 6,
+        "d-scoring-line": 3,
+        "defense": 1,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 1,
       "block": 0,
-      "d-line": 4,
-      "d-scoring-line": 1,
-      "defense": 0,
+      "d-line": 10,
+      "d-scoring-line": 4,
+      "defense": 1,
       "drop": 0,
       "goal": 0,
       "o-line": 0,
@@ -4312,19 +4552,54 @@
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 1.0,
     "gender": "female",
     "jersey": "24",
     "name": "Ananya Thomas",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/ELWv7vVs.280.png",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1.0,
+      "d-scoring-line": 2,
+      "defense": 0,
+      "drop": -2,
+      "goal": 0,
+      "o-line": 0.0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "slug": "ananya-thomas",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Madhya Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 1,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 2,
+      "d-scoring-line": 1,
+      "defense": 0,
+      "drop": 1,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 8.5,
+    "fantasy-points": 16.0,
     "gender": "female",
     "jersey": "26",
     "name": "Anudnya Jori",
@@ -4332,13 +4607,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 4.0,
-      "d-scoring-line": 4,
+      "d-line": 6.0,
+      "d-scoring-line": 8,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 0.5,
-      "o-scoring-line": 0,
+      "o-line": 1.0,
+      "o-scoring-line": 1,
       "throwaway": 0
     },
     "slug": "anudnya-jori",
@@ -4366,24 +4641,36 @@
         "o-line": 1,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 4,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 8,
-      "d-scoring-line": 2,
+      "d-line": 12,
+      "d-scoring-line": 4,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 1,
-      "o-scoring-line": 0,
+      "o-line": 2,
+      "o-scoring-line": 1,
       "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 27.0,
+    "fantasy-points": 48.5,
     "gender": "male",
     "jersey": "68",
     "name": "Chandan Dubey",
@@ -4391,17 +4678,29 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 8.5,
-      "d-scoring-line": 10,
-      "defense": 5,
+      "d-line": 13.0,
+      "d-scoring-line": 16,
+      "defense": 10,
       "drop": 0,
-      "goal": 0,
+      "goal": 6,
       "o-line": 0.5,
       "o-scoring-line": 0,
       "throwaway": 0
     },
     "slug": "chandan-dubey",
     "stats": {
+      "Delhi Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 9,
+        "d-scoring-line": 3,
+        "defense": 1,
+        "drop": 0,
+        "goal": 2,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Karnataka State;day-1": {
         "assist": 1,
         "block": 0,
@@ -4430,11 +4729,11 @@
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 17,
-      "d-scoring-line": 5,
-      "defense": 1,
+      "d-line": 26,
+      "d-scoring-line": 8,
+      "defense": 2,
       "drop": 0,
-      "goal": 0,
+      "goal": 2,
       "o-line": 1,
       "o-scoring-line": 0,
       "throwaway": 0
@@ -4442,15 +4741,50 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 1.0,
     "gender": "female",
     "jersey": "3",
     "name": "Kalpana Rathod",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/L9vx8OA4.280.jpg",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1.0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0.0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "slug": "kalpana-rathod",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Madhya Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 2,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -4513,7 +4847,7 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 1.5,
+    "fantasy-points": 4.5,
     "gender": "female",
     "jersey": "6",
     "name": "Kavya Chandel",
@@ -4521,13 +4855,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0.0,
+      "d-line": 1.5,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 0.5,
-      "o-scoring-line": 1,
+      "o-line": 1.0,
+      "o-scoring-line": 2,
       "throwaway": 0
     },
     "slug": "kavya-chandel",
@@ -4543,24 +4877,36 @@
         "o-line": 1,
         "o-scoring-line": 1,
         "throwaway": 0
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 3,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0,
+      "d-line": 3,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 1,
-      "o-scoring-line": 1,
+      "o-line": 2,
+      "o-scoring-line": 2,
       "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0.5,
+    "fantasy-points": 6.5,
     "gender": "female",
     "jersey": "27",
     "name": "Kimaya Dhongde",
@@ -4568,8 +4914,8 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0.0,
-      "d-scoring-line": 0,
+      "d-line": 2.0,
+      "d-scoring-line": 4,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -4590,13 +4936,25 @@
         "o-line": 1,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 4,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
+      "d-line": 4,
+      "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -4607,25 +4965,37 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 9.0,
+    "fantasy-points": 31.5,
     "gender": "male",
     "jersey": "63",
     "name": "Kunal Pasalkar",
     "photo": "https://secure.gravatar.com/avatar/88f1cc662cf5c0f870198fbb26beb858?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 0,
+      "assist": 6,
       "block": 0,
-      "d-line": 3.5,
-      "d-scoring-line": 4,
+      "d-line": 5.5,
+      "d-scoring-line": 8,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
-      "o-line": 0.5,
-      "o-scoring-line": 1,
+      "goal": 6,
+      "o-line": 2.0,
+      "o-scoring-line": 4,
       "throwaway": 0
     },
     "slug": "kunal-pasalkar",
     "stats": {
+      "Delhi Ultimate;day-1": {
+        "assist": 2,
+        "block": 0,
+        "d-line": 4,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 0,
+        "goal": 2,
+        "o-line": 3,
+        "o-scoring-line": 3,
+        "throwaway": 0
+      },
       "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
@@ -4652,15 +5022,15 @@
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 2,
       "block": 0,
-      "d-line": 7,
-      "d-scoring-line": 2,
+      "d-line": 11,
+      "d-scoring-line": 4,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
-      "o-line": 1,
-      "o-scoring-line": 1,
+      "goal": 2,
+      "o-line": 4,
+      "o-scoring-line": 4,
       "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
@@ -4725,7 +5095,7 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 26.0,
+    "fantasy-points": 45.5,
     "gender": "female",
     "jersey": "97",
     "name": "Nirbha Ghurye",
@@ -4733,17 +5103,29 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 10.0,
-      "d-scoring-line": 12,
+      "d-line": 15.5,
+      "d-scoring-line": 20,
       "defense": 0,
       "drop": -2,
       "goal": 3,
-      "o-line": 3.0,
-      "o-scoring-line": 2,
+      "o-line": 5.0,
+      "o-scoring-line": 6,
       "throwaway": -2
     },
     "slug": "nirbha-ghurye",
     "stats": {
+      "Delhi Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 11,
+        "d-scoring-line": 4,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 4,
+        "o-scoring-line": 4,
+        "throwaway": 0
+      },
       "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
@@ -4772,13 +5154,13 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 20,
-      "d-scoring-line": 6,
+      "d-line": 31,
+      "d-scoring-line": 10,
       "defense": 0,
       "drop": 1,
       "goal": 1,
-      "o-line": 6,
-      "o-scoring-line": 2,
+      "o-line": 10,
+      "o-scoring-line": 6,
       "throwaway": 1
     },
     "team": "Maharashtra Ultimate"
@@ -4796,7 +5178,7 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 7.0,
+    "fantasy-points": 10.5,
     "gender": "female",
     "jersey": "22",
     "name": "Radhika Rathod",
@@ -4809,12 +5191,24 @@
       "defense": 0,
       "drop": -2,
       "goal": 0,
-      "o-line": 4.5,
-      "o-scoring-line": 4,
+      "o-line": 6.0,
+      "o-scoring-line": 6,
       "throwaway": 0
     },
     "slug": "radhika-rathod",
     "stats": {
+      "Delhi Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 2,
+        "throwaway": 0
+      },
       "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
@@ -4848,14 +5242,14 @@
       "defense": 0,
       "drop": 1,
       "goal": 0,
-      "o-line": 9,
-      "o-scoring-line": 4,
+      "o-line": 12,
+      "o-scoring-line": 6,
       "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0.5,
+    "fantasy-points": 1.0,
     "gender": "male",
     "jersey": "69",
     "name": "Rohan Bijoor",
@@ -4863,7 +5257,7 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0.5,
+      "d-line": 1.0,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
@@ -4874,6 +5268,18 @@
     },
     "slug": "rohan-bijoor",
     "stats": {
+      "Delhi Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
@@ -4890,7 +5296,7 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 1,
+      "d-line": 2,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
@@ -4902,25 +5308,37 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 31.5,
+    "fantasy-points": 62.5,
     "gender": "male",
     "jersey": "23",
     "name": "Sachin Pandit",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/geMOyGfJ.280.jpg",
     "points-distribution": {
-      "assist": 12,
+      "assist": 18,
       "block": 0,
-      "d-line": 9.5,
-      "d-scoring-line": 14,
-      "defense": 5,
+      "d-line": 14.0,
+      "d-scoring-line": 20,
+      "defense": 20,
       "drop": 0,
       "goal": 0,
-      "o-line": 1.0,
-      "o-scoring-line": 2,
-      "throwaway": -12
+      "o-line": 1.5,
+      "o-scoring-line": 3,
+      "throwaway": -14
     },
     "slug": "sachin-pandit",
     "stats": {
+      "Delhi Ultimate;day-1": {
+        "assist": 2,
+        "block": 0,
+        "d-line": 9,
+        "d-scoring-line": 3,
+        "defense": 3,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 1
+      },
       "Karnataka State;day-1": {
         "assist": 3,
         "block": 0,
@@ -4947,21 +5365,21 @@
       }
     },
     "stats-distribution": {
-      "assist": 4,
+      "assist": 6,
       "block": 0,
-      "d-line": 19,
-      "d-scoring-line": 7,
-      "defense": 1,
+      "d-line": 28,
+      "d-scoring-line": 10,
+      "defense": 4,
       "drop": 0,
       "goal": 0,
-      "o-line": 2,
-      "o-scoring-line": 2,
-      "throwaway": 6
+      "o-line": 3,
+      "o-scoring-line": 3,
+      "throwaway": 7
     },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 62.5,
+    "fantasy-points": 92.0,
     "gender": "female",
     "jersey": "93",
     "name": "Sahitra Ghurye",
@@ -4969,17 +5387,29 @@
     "points-distribution": {
       "assist": 6,
       "block": 0,
-      "d-line": 9.0,
-      "d-scoring-line": 8,
-      "defense": 15,
+      "d-line": 13.5,
+      "d-scoring-line": 16,
+      "defense": 20,
       "drop": -2,
-      "goal": 9,
-      "o-line": 11.5,
-      "o-scoring-line": 12,
-      "throwaway": -6
+      "goal": 15,
+      "o-line": 15.5,
+      "o-scoring-line": 18,
+      "throwaway": -10
     },
     "slug": "sahitra-ghurye",
     "stats": {
+      "Delhi Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 9,
+        "d-scoring-line": 4,
+        "defense": 1,
+        "drop": 0,
+        "goal": 2,
+        "o-line": 8,
+        "o-scoring-line": 6,
+        "throwaway": 2
+      },
       "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
@@ -5008,37 +5438,49 @@
     "stats-distribution": {
       "assist": 2,
       "block": 0,
-      "d-line": 18,
-      "d-scoring-line": 4,
-      "defense": 3,
+      "d-line": 27,
+      "d-scoring-line": 8,
+      "defense": 4,
       "drop": 1,
-      "goal": 3,
-      "o-line": 23,
-      "o-scoring-line": 12,
-      "throwaway": 3
+      "goal": 5,
+      "o-line": 31,
+      "o-scoring-line": 18,
+      "throwaway": 5
     },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 21.5,
+    "fantasy-points": 37.0,
     "gender": "male",
     "jersey": "9",
     "name": "Sandeep Kannoujia",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/kNpvCk9s.280.jpg",
     "points-distribution": {
-      "assist": 3,
+      "assist": 9,
       "block": 0,
-      "d-line": 6.0,
-      "d-scoring-line": 8,
+      "d-line": 9.5,
+      "d-scoring-line": 16,
       "defense": 0,
       "drop": 0,
       "goal": 3,
       "o-line": 1.5,
       "o-scoring-line": 2,
-      "throwaway": -2
+      "throwaway": -4
     },
     "slug": "sandeep-kannoujia",
     "stats": {
+      "Delhi Ultimate;day-1": {
+        "assist": 2,
+        "block": 0,
+        "d-line": 7,
+        "d-scoring-line": 4,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 1
+      },
       "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
@@ -5065,21 +5507,21 @@
       }
     },
     "stats-distribution": {
-      "assist": 1,
+      "assist": 3,
       "block": 0,
-      "d-line": 12,
-      "d-scoring-line": 4,
+      "d-line": 19,
+      "d-scoring-line": 8,
       "defense": 0,
       "drop": 0,
       "goal": 1,
       "o-line": 3,
       "o-scoring-line": 2,
-      "throwaway": 1
+      "throwaway": 2
     },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 5.0,
+    "fantasy-points": 3.5,
     "gender": "male",
     "jersey": "49",
     "name": "Sanjeev Kumar",
@@ -5087,17 +5529,29 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0.5,
+      "d-line": 1.0,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
       "goal": 0,
       "o-line": 1.5,
       "o-scoring-line": 3,
-      "throwaway": 0
+      "throwaway": -2
     },
     "slug": "sanjeev-kumar",
     "stats": {
+      "Delhi Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 1
+      },
       "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
@@ -5126,14 +5580,14 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 1,
+      "d-line": 2,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
       "goal": 0,
       "o-line": 3,
       "o-scoring-line": 3,
-      "throwaway": 0
+      "throwaway": 1
     },
     "team": "Maharashtra Ultimate"
   },
@@ -5150,7 +5604,7 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 15.0,
+    "fantasy-points": 21.5,
     "gender": "female",
     "jersey": "20",
     "name": "Sharanya Ramesh",
@@ -5163,12 +5617,24 @@
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 8.0,
-      "o-scoring-line": 7,
+      "o-line": 10.5,
+      "o-scoring-line": 11,
       "throwaway": 0
     },
     "slug": "sharanya-ramesh",
     "stats": {
+      "Delhi Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 5,
+        "o-scoring-line": 4,
+        "throwaway": 0
+      },
       "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
@@ -5202,32 +5668,44 @@
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 16,
-      "o-scoring-line": 7,
+      "o-line": 21,
+      "o-scoring-line": 11,
       "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 17.0,
+    "fantasy-points": 29.5,
     "gender": "male",
     "jersey": "31",
     "name": "Shivamkumar Dubey",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/kxz7Zfdl.280.jpg",
     "points-distribution": {
-      "assist": 0,
+      "assist": 3,
       "block": 0,
-      "d-line": 1.0,
+      "d-line": 2.0,
       "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
-      "goal": 6,
-      "o-line": 6.0,
-      "o-scoring-line": 6,
+      "goal": 9,
+      "o-line": 8.5,
+      "o-scoring-line": 9,
       "throwaway": -4
     },
     "slug": "shivamkumar-dubey",
     "stats": {
+      "Delhi Ultimate;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 5,
+        "o-scoring-line": 3,
+        "throwaway": 0
+      },
       "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
@@ -5254,39 +5732,51 @@
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 1,
       "block": 0,
-      "d-line": 2,
+      "d-line": 4,
       "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
-      "goal": 2,
-      "o-line": 12,
-      "o-scoring-line": 6,
+      "goal": 3,
+      "o-line": 17,
+      "o-scoring-line": 9,
       "throwaway": 2
     },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 33.0,
+    "fantasy-points": 40.5,
     "gender": "male",
     "jersey": "74",
     "name": "Shubham More",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/5wzpQ6ns.280.jpg",
     "points-distribution": {
-      "assist": 6,
+      "assist": 15,
       "block": 0,
       "d-line": 0.0,
       "d-scoring-line": 0,
       "defense": 5,
       "drop": -2,
       "goal": 9,
-      "o-line": 8.0,
-      "o-scoring-line": 9,
-      "throwaway": -2
+      "o-line": 11.5,
+      "o-scoring-line": 14,
+      "throwaway": -12
     },
     "slug": "shubham-more",
     "stats": {
+      "Delhi Ultimate;day-1": {
+        "assist": 3,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 7,
+        "o-scoring-line": 5,
+        "throwaway": 5
+      },
       "Karnataka State;day-1": {
         "assist": 1,
         "block": 0,
@@ -5313,21 +5803,21 @@
       }
     },
     "stats-distribution": {
-      "assist": 2,
+      "assist": 5,
       "block": 0,
       "d-line": 0,
       "d-scoring-line": 0,
       "defense": 1,
       "drop": 1,
       "goal": 3,
-      "o-line": 16,
-      "o-scoring-line": 9,
-      "throwaway": 1
+      "o-line": 23,
+      "o-scoring-line": 14,
+      "throwaway": 6
     },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 13.5,
+    "fantasy-points": 17.0,
     "gender": "male",
     "jersey": "58",
     "name": "Sunil Varma",
@@ -5339,13 +5829,25 @@
       "d-scoring-line": 0,
       "defense": 10,
       "drop": -2,
-      "goal": 0,
-      "o-line": 4.0,
-      "o-scoring-line": 4,
-      "throwaway": -6
+      "goal": 3,
+      "o-line": 6.5,
+      "o-scoring-line": 8,
+      "throwaway": -12
     },
     "slug": "sunil-varma",
     "stats": {
+      "Delhi Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 5,
+        "o-scoring-line": 4,
+        "throwaway": 3
+      },
       "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
@@ -5378,33 +5880,45 @@
       "d-scoring-line": 0,
       "defense": 2,
       "drop": 1,
-      "goal": 0,
-      "o-line": 8,
-      "o-scoring-line": 4,
-      "throwaway": 3
+      "goal": 1,
+      "o-line": 13,
+      "o-scoring-line": 8,
+      "throwaway": 6
     },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 15.0,
+    "fantasy-points": 26.5,
     "gender": "male",
     "jersey": "1",
     "name": "Sushant Tapse",
     "photo": "https://secure.gravatar.com/avatar/fac6ab7f7e59195d3b2a5f9d602fef20?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 9,
+      "assist": 12,
       "block": 0,
       "d-line": 0.0,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
-      "goal": 3,
-      "o-line": 5.0,
-      "o-scoring-line": 6,
-      "throwaway": -8
+      "goal": 6,
+      "o-line": 7.5,
+      "o-scoring-line": 11,
+      "throwaway": -10
     },
     "slug": "sushant-tapse",
     "stats": {
+      "Delhi Ultimate;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 5,
+        "o-scoring-line": 5,
+        "throwaway": 1
+      },
       "Karnataka State;day-1": {
         "assist": 2,
         "block": 0,
@@ -5431,21 +5945,21 @@
       }
     },
     "stats-distribution": {
-      "assist": 3,
+      "assist": 4,
       "block": 0,
       "d-line": 0,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
-      "goal": 1,
-      "o-line": 10,
-      "o-scoring-line": 6,
-      "throwaway": 4
+      "goal": 2,
+      "o-line": 15,
+      "o-scoring-line": 11,
+      "throwaway": 5
     },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 30.0,
+    "fantasy-points": 42.0,
     "gender": "female",
     "jersey": "77",
     "name": "Sushma Tapse",
@@ -5453,17 +5967,29 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 1.5,
+      "d-line": 2.0,
       "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
-      "goal": 3,
-      "o-line": 11.5,
-      "o-scoring-line": 13,
+      "goal": 6,
+      "o-line": 15.0,
+      "o-scoring-line": 18,
       "throwaway": -4
     },
     "slug": "sushma-tapse",
     "stats": {
+      "Delhi Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 7,
+        "o-scoring-line": 5,
+        "throwaway": 0
+      },
       "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
@@ -5492,19 +6018,19 @@
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 3,
+      "d-line": 4,
       "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
-      "goal": 1,
-      "o-line": 23,
-      "o-scoring-line": 13,
+      "goal": 2,
+      "o-line": 30,
+      "o-scoring-line": 18,
       "throwaway": 2
     },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 13.0,
+    "fantasy-points": 18.0,
     "gender": "male",
     "jersey": "4",
     "name": "Tahir Siddiqui",
@@ -5512,10 +6038,10 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 5.5,
-      "d-scoring-line": 6,
+      "d-line": 8.5,
+      "d-scoring-line": 10,
       "defense": 0,
-      "drop": 0,
+      "drop": -2,
       "goal": 3,
       "o-line": 0.5,
       "o-scoring-line": 0,
@@ -5523,6 +6049,18 @@
     },
     "slug": "tahir-siddiqui",
     "stats": {
+      "Delhi Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 6,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 1,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
@@ -5551,10 +6089,10 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 11,
-      "d-scoring-line": 3,
+      "d-line": 17,
+      "d-scoring-line": 5,
       "defense": 0,
-      "drop": 0,
+      "drop": 1,
       "goal": 1,
       "o-line": 1,
       "o-scoring-line": 0,
@@ -5563,7 +6101,7 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 33.0,
+    "fantasy-points": 43.5,
     "gender": "female",
     "jersey": "73",
     "name": "Vaishnavi _",
@@ -5571,17 +6109,29 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 5.5,
+      "d-line": 8.0,
       "d-scoring-line": 6,
-      "defense": 5,
+      "defense": 10,
       "drop": -2,
       "goal": 9,
-      "o-line": 3.5,
+      "o-line": 6.5,
       "o-scoring-line": 6,
       "throwaway": 0
     },
     "slug": "vaishnavi-_",
     "stats": {
+      "Delhi Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 0,
+        "defense": 1,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 6,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
@@ -5610,19 +6160,19 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 11,
+      "d-line": 16,
       "d-scoring-line": 3,
-      "defense": 1,
+      "defense": 2,
       "drop": 1,
       "goal": 3,
-      "o-line": 7,
+      "o-line": 13,
       "o-scoring-line": 6,
       "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 19.0,
+    "fantasy-points": 31.5,
     "gender": "female",
     "jersey": "19",
     "name": "Vidya Parmar",
@@ -5630,17 +6180,29 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 7.5,
-      "d-scoring-line": 10,
+      "d-line": 11.0,
+      "d-scoring-line": 16,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
+      "goal": 3,
       "o-line": 0.5,
       "o-scoring-line": 1,
       "throwaway": 0
     },
     "slug": "vidya-parmar",
     "stats": {
+      "Delhi Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 7,
+        "d-scoring-line": 3,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Karnataka State;day-1": {
         "assist": 0,
         "block": 0,
@@ -5669,11 +6231,11 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 15,
-      "d-scoring-line": 5,
+      "d-line": 22,
+      "d-scoring-line": 8,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
+      "goal": 1,
       "o-line": 1,
       "o-scoring-line": 1,
       "throwaway": 0
@@ -5681,7 +6243,7 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 17.5,
+    "fantasy-points": 25.0,
     "gender": "male",
     "jersey": "10",
     "name": "Vikas Chauhan",
@@ -5689,17 +6251,29 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 0.5,
-      "d-scoring-line": 0,
+      "d-line": 1.0,
+      "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
       "goal": 3,
-      "o-line": 5.0,
-      "o-scoring-line": 6,
+      "o-line": 7.0,
+      "o-scoring-line": 9,
       "throwaway": 0
     },
     "slug": "vikas-chauhan",
     "stats": {
+      "Delhi Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 4,
+        "o-scoring-line": 3,
+        "throwaway": 0
+      },
       "Karnataka State;day-1": {
         "assist": 1,
         "block": 0,
@@ -5728,13 +6302,13 @@
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 1,
-      "d-scoring-line": 0,
+      "d-line": 2,
+      "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
       "goal": 1,
-      "o-line": 10,
-      "o-scoring-line": 6,
+      "o-line": 14,
+      "o-scoring-line": 9,
       "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
