@@ -130,22 +130,22 @@
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 10.5,
+    "fantasy-points": 63.5,
     "gender": "male",
     "jersey": "17",
     "name": "Aman Doharey",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/GDNTzkYT.280.jpg",
     "points-distribution": {
-      "assist": 0,
+      "assist": 12,
       "block": 0,
-      "d-line": 5.5,
-      "d-scoring-line": 2,
-      "defense": 0,
-      "drop": 0,
-      "goal": 3,
-      "o-line": 1.0,
-      "o-scoring-line": 1,
-      "throwaway": -2
+      "d-line": 10.0,
+      "d-scoring-line": 18,
+      "defense": 20,
+      "drop": -2,
+      "goal": 6,
+      "o-line": 1.5,
+      "o-scoring-line": 2,
+      "throwaway": -4
     },
     "slug": "aman-doharey",
     "stats": {
@@ -159,6 +159,18 @@
         "goal": 0,
         "o-line": 1,
         "o-scoring-line": 0,
+        "throwaway": 1
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 4,
+        "block": 0,
+        "d-line": 9,
+        "d-scoring-line": 8,
+        "defense": 4,
+        "drop": 1,
+        "goal": 1,
+        "o-line": 1,
+        "o-scoring-line": 1,
         "throwaway": 1
       },
       "Maharashtra Ultimate;day-1": {
@@ -175,21 +187,21 @@
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 4,
       "block": 0,
-      "d-line": 11,
-      "d-scoring-line": 1,
-      "defense": 0,
-      "drop": 0,
-      "goal": 1,
-      "o-line": 2,
-      "o-scoring-line": 1,
-      "throwaway": 1
+      "d-line": 20,
+      "d-scoring-line": 9,
+      "defense": 4,
+      "drop": 1,
+      "goal": 2,
+      "o-line": 3,
+      "o-scoring-line": 2,
+      "throwaway": 2
     },
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 3.5,
+    "fantasy-points": 7.0,
     "gender": "male",
     "jersey": "94",
     "name": "Aranyadev Jhala",
@@ -197,11 +209,11 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 1.0,
+      "d-line": 1.5,
       "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
+      "goal": 3,
       "o-line": 0.5,
       "o-scoring-line": 0,
       "throwaway": 0
@@ -217,6 +229,18 @@
         "drop": 0,
         "goal": 0,
         "o-line": 1,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 0
       },
@@ -236,11 +260,11 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2,
+      "d-line": 3,
       "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
+      "goal": 1,
       "o-line": 1,
       "o-scoring-line": 0,
       "throwaway": 0
@@ -248,7 +272,7 @@
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 73.0,
+    "fantasy-points": 75.5,
     "gender": "female",
     "jersey": "27",
     "name": "Garima Rathore",
@@ -256,8 +280,8 @@
     "points-distribution": {
       "assist": 9,
       "block": 0,
-      "d-line": 9.5,
-      "d-scoring-line": 16,
+      "d-line": 10.0,
+      "d-scoring-line": 18,
       "defense": 5,
       "drop": -6,
       "goal": 9,
@@ -282,8 +306,8 @@
       "Madhya Pradesh;day-1": {
         "assist": 1,
         "block": 0,
-        "d-line": 10,
-        "d-scoring-line": 6,
+        "d-line": 11,
+        "d-scoring-line": 7,
         "defense": 1,
         "drop": 2,
         "goal": 1,
@@ -307,8 +331,8 @@
     "stats-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 19,
-      "d-scoring-line": 8,
+      "d-line": 20,
+      "d-scoring-line": 9,
       "defense": 1,
       "drop": 3,
       "goal": 3,
@@ -319,21 +343,21 @@
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 32.5,
+    "fantasy-points": 65.0,
     "gender": "male",
     "jersey": "23",
     "name": "Jatin Meena",
     "photo": "https://secure.gravatar.com/avatar/5c373103b7597131bd19b6d82e53ba3e?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 9,
+      "assist": 12,
       "block": 0,
-      "d-line": 1.0,
-      "d-scoring-line": 2,
-      "defense": 5,
+      "d-line": 3.0,
+      "d-scoring-line": 10,
+      "defense": 10,
       "drop": -6,
-      "goal": 12,
-      "o-line": 8.5,
-      "o-scoring-line": 9,
+      "goal": 18,
+      "o-line": 12.0,
+      "o-scoring-line": 14,
       "throwaway": -8
     },
     "slug": "jatin-meena",
@@ -350,6 +374,18 @@
         "o-scoring-line": 5,
         "throwaway": 1
       },
+      "Madhya Pradesh;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 4,
+        "d-scoring-line": 4,
+        "defense": 1,
+        "drop": 0,
+        "goal": 2,
+        "o-line": 7,
+        "o-scoring-line": 5,
+        "throwaway": 0
+      },
       "Maharashtra Ultimate;day-1": {
         "assist": 2,
         "block": 0,
@@ -364,35 +400,35 @@
       }
     },
     "stats-distribution": {
-      "assist": 3,
+      "assist": 4,
       "block": 0,
-      "d-line": 2,
-      "d-scoring-line": 1,
-      "defense": 1,
+      "d-line": 6,
+      "d-scoring-line": 5,
+      "defense": 2,
       "drop": 3,
-      "goal": 4,
-      "o-line": 17,
-      "o-scoring-line": 9,
+      "goal": 6,
+      "o-line": 24,
+      "o-scoring-line": 14,
       "throwaway": 4
     },
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 25.0,
+    "fantasy-points": 53.0,
     "gender": "male",
     "jersey": "4",
     "name": "Kanishk K",
     "photo": "https://secure.gravatar.com/avatar/48c48ea5f2bbab02be5bc62ea7a29e30?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 6,
+      "assist": 12,
       "block": 0,
-      "d-line": 3.0,
-      "d-scoring-line": 2,
-      "defense": 5,
+      "d-line": 6.0,
+      "d-scoring-line": 8,
+      "defense": 10,
       "drop": -4,
-      "goal": 6,
-      "o-line": 7.0,
-      "o-scoring-line": 8,
+      "goal": 9,
+      "o-line": 9.0,
+      "o-scoring-line": 11,
       "throwaway": -8
     },
     "slug": "kanishk-k",
@@ -409,6 +445,18 @@
         "o-scoring-line": 4,
         "throwaway": 0
       },
+      "Madhya Pradesh;day-1": {
+        "assist": 2,
+        "block": 0,
+        "d-line": 6,
+        "d-scoring-line": 3,
+        "defense": 1,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 4,
+        "o-scoring-line": 3,
+        "throwaway": 0
+      },
       "Maharashtra Ultimate;day-1": {
         "assist": 1,
         "block": 0,
@@ -423,15 +471,15 @@
       }
     },
     "stats-distribution": {
-      "assist": 2,
+      "assist": 4,
       "block": 0,
-      "d-line": 6,
-      "d-scoring-line": 1,
-      "defense": 1,
+      "d-line": 12,
+      "d-scoring-line": 4,
+      "defense": 2,
       "drop": 2,
-      "goal": 2,
-      "o-line": 14,
-      "o-scoring-line": 8,
+      "goal": 3,
+      "o-line": 18,
+      "o-scoring-line": 11,
       "throwaway": 4
     },
     "team": "Delhi Ultimate"
@@ -638,19 +686,54 @@
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 0.5,
     "gender": "male",
     "jersey": "47",
     "name": "Michiaki Ito",
     "photo": "https://secure.gravatar.com/avatar/e95645e7e23cdb6d890ff514c14dd846?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0.5,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0.0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "slug": "michiaki-ito",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Madhya Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 13.5,
+    "fantasy-points": 14.5,
     "gender": "male",
     "jersey": "13",
     "name": "Mohit Rawat",
@@ -663,9 +746,9 @@
       "defense": 5,
       "drop": 0,
       "goal": 0,
-      "o-line": 4.5,
-      "o-scoring-line": 5,
-      "throwaway": -4
+      "o-line": 6.5,
+      "o-scoring-line": 6,
+      "throwaway": -6
     },
     "slug": "mohit-rawat",
     "stats": {
@@ -680,6 +763,18 @@
         "o-line": 5,
         "o-scoring-line": 2,
         "throwaway": 2
+      },
+      "Madhya Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 4,
+        "o-scoring-line": 1,
+        "throwaway": 1
       },
       "Maharashtra Ultimate;day-1": {
         "assist": 1,
@@ -702,9 +797,9 @@
       "defense": 1,
       "drop": 0,
       "goal": 0,
-      "o-line": 9,
-      "o-scoring-line": 5,
-      "throwaway": 2
+      "o-line": 13,
+      "o-scoring-line": 6,
+      "throwaway": 3
     },
     "team": "Delhi Ultimate"
   },
@@ -768,21 +863,21 @@
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 19.0,
+    "fantasy-points": 54.0,
     "gender": "male",
     "jersey": "6",
     "name": "Samarth Mishra",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/SlYpwCae.280.jpg",
     "points-distribution": {
-      "assist": 9,
+      "assist": 12,
       "block": 0,
-      "d-line": 5.0,
-      "d-scoring-line": 4,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 3.0,
-      "o-scoring-line": 4,
+      "d-line": 9.0,
+      "d-scoring-line": 20,
+      "defense": 5,
+      "drop": -2,
+      "goal": 6,
+      "o-line": 4.0,
+      "o-scoring-line": 6,
       "throwaway": -6
     },
     "slug": "samarth-mishra",
@@ -799,6 +894,18 @@
         "o-scoring-line": 2,
         "throwaway": 1
       },
+      "Madhya Pradesh;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 8,
+        "d-scoring-line": 8,
+        "defense": 1,
+        "drop": 1,
+        "goal": 2,
+        "o-line": 2,
+        "o-scoring-line": 2,
+        "throwaway": 0
+      },
       "Maharashtra Ultimate;day-1": {
         "assist": 1,
         "block": 0,
@@ -813,15 +920,15 @@
       }
     },
     "stats-distribution": {
-      "assist": 3,
+      "assist": 4,
       "block": 0,
-      "d-line": 10,
-      "d-scoring-line": 2,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 6,
-      "o-scoring-line": 4,
+      "d-line": 18,
+      "d-scoring-line": 10,
+      "defense": 1,
+      "drop": 1,
+      "goal": 2,
+      "o-line": 8,
+      "o-scoring-line": 6,
       "throwaway": 3
     },
     "team": "Delhi Ultimate"
@@ -874,7 +981,7 @@
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 8.0,
+    "fantasy-points": 14.5,
     "gender": "male",
     "jersey": "7",
     "name": "Sidharth Walecha",
@@ -882,9 +989,9 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 2.5,
+      "d-line": 4.0,
       "d-scoring-line": 2,
-      "defense": 0,
+      "defense": 5,
       "drop": 0,
       "goal": 0,
       "o-line": 1.5,
@@ -905,6 +1012,18 @@
         "o-scoring-line": 0,
         "throwaway": 1
       },
+      "Madhya Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 3,
+        "d-scoring-line": 0,
+        "defense": 1,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Maharashtra Ultimate;day-1": {
         "assist": 1,
         "block": 0,
@@ -921,9 +1040,9 @@
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 5,
+      "d-line": 8,
       "d-scoring-line": 1,
-      "defense": 0,
+      "defense": 1,
       "drop": 0,
       "goal": 0,
       "o-line": 3,
@@ -933,7 +1052,7 @@
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 67.0,
+    "fantasy-points": 69.5,
     "gender": "female",
     "jersey": "51",
     "name": "Sowmya Gascon",
@@ -941,8 +1060,8 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 12.5,
-      "d-scoring-line": 18,
+      "d-line": 13.0,
+      "d-scoring-line": 20,
       "defense": 0,
       "drop": 0,
       "goal": 12,
@@ -967,8 +1086,8 @@
       "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
-        "d-line": 10,
-        "d-scoring-line": 7,
+        "d-line": 11,
+        "d-scoring-line": 8,
         "defense": 0,
         "drop": 0,
         "goal": 2,
@@ -992,8 +1111,8 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 25,
-      "d-scoring-line": 9,
+      "d-line": 26,
+      "d-scoring-line": 10,
       "defense": 0,
       "drop": 0,
       "goal": 4,
@@ -1004,22 +1123,22 @@
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 16.0,
+    "fantasy-points": 34.5,
     "gender": "male",
     "jersey": "1",
     "name": "Subhadeep Guha",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/UrV5O59p.280.jpg",
     "points-distribution": {
-      "assist": 0,
+      "assist": 6,
       "block": 0,
-      "d-line": 3.0,
-      "d-scoring-line": 0,
+      "d-line": 5.5,
+      "d-scoring-line": 8,
       "defense": 0,
       "drop": -6,
-      "goal": 3,
-      "o-line": 7.0,
-      "o-scoring-line": 9,
-      "throwaway": 0
+      "goal": 6,
+      "o-line": 9.0,
+      "o-scoring-line": 10,
+      "throwaway": -4
     },
     "slug": "subhadeep-guha",
     "stats": {
@@ -1035,6 +1154,18 @@
         "o-scoring-line": 3,
         "throwaway": 0
       },
+      "Madhya Pradesh;day-1": {
+        "assist": 2,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 4,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 4,
+        "o-scoring-line": 1,
+        "throwaway": 2
+      },
       "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -1049,21 +1180,21 @@
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 2,
       "block": 0,
-      "d-line": 6,
-      "d-scoring-line": 0,
+      "d-line": 11,
+      "d-scoring-line": 4,
       "defense": 0,
       "drop": 3,
-      "goal": 1,
-      "o-line": 14,
-      "o-scoring-line": 9,
-      "throwaway": 0
+      "goal": 2,
+      "o-line": 18,
+      "o-scoring-line": 10,
+      "throwaway": 2
     },
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 60.5,
+    "fantasy-points": 88.0,
     "gender": "female",
     "jersey": "3",
     "name": "Suhani Bedi",
@@ -1071,14 +1202,14 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 12.5,
-      "d-scoring-line": 6,
-      "defense": 10,
-      "drop": 0,
-      "goal": 6,
+      "d-line": 13.0,
+      "d-scoring-line": 24,
+      "defense": 20,
+      "drop": -2,
+      "goal": 9,
       "o-line": 12.0,
       "o-scoring-line": 11,
-      "throwaway": 0
+      "throwaway": -2
     },
     "slug": "suhani-bedi",
     "stats": {
@@ -1097,14 +1228,14 @@
       "Madhya Pradesh;day-1": {
         "assist": 0,
         "block": 0,
-        "d-line": 10,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
+        "d-line": 11,
+        "d-scoring-line": 9,
+        "defense": 2,
+        "drop": 1,
+        "goal": 1,
         "o-line": 7,
         "o-scoring-line": 4,
-        "throwaway": 0
+        "throwaway": 1
       },
       "Maharashtra Ultimate;day-1": {
         "assist": 0,
@@ -1122,33 +1253,33 @@
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 25,
-      "d-scoring-line": 3,
-      "defense": 2,
-      "drop": 0,
-      "goal": 2,
+      "d-line": 26,
+      "d-scoring-line": 12,
+      "defense": 4,
+      "drop": 1,
+      "goal": 3,
       "o-line": 24,
       "o-scoring-line": 11,
-      "throwaway": 0
+      "throwaway": 1
     },
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 13.0,
+    "fantasy-points": 29.0,
     "gender": "male",
     "jersey": "0",
     "name": "Sunny Chauhan",
     "photo": "https://secure.gravatar.com/avatar/e249fbb2966607bcce71e46fc7691836?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 0,
+      "assist": 3,
       "block": 0,
-      "d-line": 6.0,
-      "d-scoring-line": 4,
-      "defense": 0,
+      "d-line": 8.5,
+      "d-scoring-line": 8,
+      "defense": 5,
       "drop": 0,
       "goal": 3,
-      "o-line": 1.0,
-      "o-scoring-line": 1,
+      "o-line": 1.5,
+      "o-scoring-line": 2,
       "throwaway": -2
     },
     "slug": "sunny-chauhan",
@@ -1165,6 +1296,18 @@
         "o-scoring-line": 0,
         "throwaway": 1
       },
+      "Madhya Pradesh;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 2,
+        "defense": 1,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 0
+      },
       "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -1179,36 +1322,36 @@
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 1,
       "block": 0,
-      "d-line": 12,
-      "d-scoring-line": 2,
-      "defense": 0,
+      "d-line": 17,
+      "d-scoring-line": 4,
+      "defense": 1,
       "drop": 0,
       "goal": 1,
-      "o-line": 2,
-      "o-scoring-line": 1,
+      "o-line": 3,
+      "o-scoring-line": 2,
       "throwaway": 1
     },
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 28.0,
+    "fantasy-points": 53.0,
     "gender": "male",
     "jersey": "74",
     "name": "Udayan Philip",
     "photo": "https://secure.gravatar.com/avatar/4978740576670c25ab72517ef79cd6c5?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 12,
+      "assist": 15,
       "block": 0,
-      "d-line": 2.5,
-      "d-scoring-line": 0,
+      "d-line": 5.0,
+      "d-scoring-line": 8,
       "defense": 5,
       "drop": 0,
-      "goal": 0,
-      "o-line": 10.5,
-      "o-scoring-line": 10,
-      "throwaway": -12
+      "goal": 6,
+      "o-line": 14.0,
+      "o-scoring-line": 14,
+      "throwaway": -14
     },
     "slug": "udayan-philip",
     "stats": {
@@ -1224,6 +1367,18 @@
         "o-scoring-line": 6,
         "throwaway": 5
       },
+      "Madhya Pradesh;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 4,
+        "defense": 0,
+        "drop": 0,
+        "goal": 2,
+        "o-line": 7,
+        "o-scoring-line": 4,
+        "throwaway": 1
+      },
       "Maharashtra Ultimate;day-1": {
         "assist": 2,
         "block": 0,
@@ -1238,21 +1393,21 @@
       }
     },
     "stats-distribution": {
-      "assist": 4,
+      "assist": 5,
       "block": 0,
-      "d-line": 5,
-      "d-scoring-line": 0,
+      "d-line": 10,
+      "d-scoring-line": 4,
       "defense": 1,
       "drop": 0,
-      "goal": 0,
-      "o-line": 21,
-      "o-scoring-line": 10,
-      "throwaway": 6
+      "goal": 2,
+      "o-line": 28,
+      "o-scoring-line": 14,
+      "throwaway": 7
     },
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 7.0,
+    "fantasy-points": 8.0,
     "gender": "female",
     "jersey": "2",
     "name": "Veena Singh",
@@ -1260,7 +1415,7 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 4.5,
+      "d-line": 5.5,
       "d-scoring-line": 4,
       "defense": 0,
       "drop": -2,
@@ -1283,6 +1438,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Madhya Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -1299,7 +1466,7 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 9,
+      "d-line": 11,
       "d-scoring-line": 2,
       "defense": 0,
       "drop": 1,
