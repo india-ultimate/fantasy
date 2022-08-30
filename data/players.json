@@ -8145,7 +8145,7 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 4.0,
+    "fantasy-points": 9.0,
     "gender": "male",
     "jersey": "",
     "name": "Arulmozhi Selvan",
@@ -8153,17 +8153,29 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0.5,
+      "d-line": 1.0,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 1.5,
-      "o-scoring-line": 2,
+      "o-line": 3.0,
+      "o-scoring-line": 5,
       "throwaway": 0
     },
     "slug": "arulmozhi-selvan",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 3,
+        "throwaway": 0
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -8180,19 +8192,19 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 1,
+      "d-line": 2,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 3,
-      "o-scoring-line": 2,
+      "o-line": 6,
+      "o-scoring-line": 5,
       "throwaway": 0
     },
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 5.0,
+    "fantasy-points": 29.5,
     "gender": "female",
     "jersey": "",
     "name": "Deepika Shankar",
@@ -8200,17 +8212,29 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 5.0,
-      "d-scoring-line": 4,
-      "defense": 0,
+      "d-line": 8.5,
+      "d-scoring-line": 12,
+      "defense": 10,
       "drop": -2,
-      "goal": 0,
+      "goal": 3,
       "o-line": 0.0,
       "o-scoring-line": 0,
       "throwaway": -2
     },
     "slug": "deepika-shankar",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 7,
+        "d-scoring-line": 4,
+        "defense": 2,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -8227,11 +8251,11 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 10,
-      "d-scoring-line": 2,
-      "defense": 0,
+      "d-line": 17,
+      "d-scoring-line": 6,
+      "defense": 2,
       "drop": 1,
-      "goal": 0,
+      "goal": 1,
       "o-line": 0,
       "o-scoring-line": 0,
       "throwaway": 1
@@ -8239,7 +8263,7 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 1.0,
+    "fantasy-points": 6.0,
     "gender": "female",
     "jersey": "",
     "name": "Gothainayagi R",
@@ -8247,17 +8271,29 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 1.0,
-      "d-scoring-line": 0,
+      "d-line": 2.5,
+      "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 0.0,
-      "o-scoring-line": 0,
+      "o-line": 0.5,
+      "o-scoring-line": 1,
       "throwaway": 0
     },
     "slug": "gothainayagi-r",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 3,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 0
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -8274,13 +8310,13 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2,
-      "d-scoring-line": 0,
+      "d-line": 5,
+      "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
+      "o-line": 1,
+      "o-scoring-line": 1,
       "throwaway": 0
     },
     "team": "Tamilnadu"
@@ -8298,25 +8334,37 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 45.0,
+    "fantasy-points": 71.0,
     "gender": "male",
     "jersey": "",
     "name": "Hariharan Kumar",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/3ZOvFcVX.280.jpg",
     "points-distribution": {
-      "assist": 12,
+      "assist": 21,
       "block": 0,
-      "d-line": 2.0,
-      "d-scoring-line": 4,
+      "d-line": 2.5,
+      "d-scoring-line": 6,
       "defense": 5,
       "drop": 0,
-      "goal": 6,
-      "o-line": 6.0,
-      "o-scoring-line": 10,
-      "throwaway": 0
+      "goal": 12,
+      "o-line": 9.5,
+      "o-scoring-line": 17,
+      "throwaway": -2
     },
     "slug": "hariharan-kumar",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 3,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 2,
+        "o-line": 7,
+        "o-scoring-line": 7,
+        "throwaway": 1
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 4,
         "block": 0,
@@ -8331,32 +8379,32 @@
       }
     },
     "stats-distribution": {
-      "assist": 4,
+      "assist": 7,
       "block": 0,
-      "d-line": 4,
-      "d-scoring-line": 2,
+      "d-line": 5,
+      "d-scoring-line": 3,
       "defense": 1,
       "drop": 0,
-      "goal": 2,
-      "o-line": 12,
-      "o-scoring-line": 10,
-      "throwaway": 0
+      "goal": 4,
+      "o-line": 19,
+      "o-scoring-line": 17,
+      "throwaway": 1
     },
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 14.0,
+    "fantasy-points": 29.0,
     "gender": "male",
     "jersey": "",
     "name": "Harsh Nisar",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/oxf3qEQ8.280.jpg",
     "points-distribution": {
-      "assist": 0,
+      "assist": 6,
       "block": 0,
-      "d-line": 2.0,
-      "d-scoring-line": 4,
+      "d-line": 5.0,
+      "d-scoring-line": 12,
       "defense": 5,
-      "drop": 0,
+      "drop": -2,
       "goal": 3,
       "o-line": 0.0,
       "o-scoring-line": 0,
@@ -8364,6 +8412,18 @@
     },
     "slug": "harsh-nisar",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 2,
+        "block": 0,
+        "d-line": 6,
+        "d-scoring-line": 4,
+        "defense": 0,
+        "drop": 1,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -8378,12 +8438,12 @@
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 2,
       "block": 0,
-      "d-line": 4,
-      "d-scoring-line": 2,
+      "d-line": 10,
+      "d-scoring-line": 6,
       "defense": 1,
-      "drop": 0,
+      "drop": 1,
       "goal": 1,
       "o-line": 0,
       "o-scoring-line": 0,
@@ -8392,25 +8452,37 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 11.0,
+    "fantasy-points": 37.0,
     "gender": "male",
     "jersey": "31",
     "name": "Harsha GK",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/ZpIv6i79.280.jpg",
     "points-distribution": {
-      "assist": 3,
+      "assist": 9,
       "block": 0,
-      "d-line": 6.0,
-      "d-scoring-line": 2,
-      "defense": 0,
+      "d-line": 10.0,
+      "d-scoring-line": 12,
+      "defense": 5,
       "drop": 0,
-      "goal": 0,
+      "goal": 3,
       "o-line": 0.0,
       "o-scoring-line": 0,
-      "throwaway": 0
+      "throwaway": -2
     },
     "slug": "harsha-gk",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 2,
+        "block": 0,
+        "d-line": 8,
+        "d-scoring-line": 5,
+        "defense": 1,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 1
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 1,
         "block": 0,
@@ -8425,21 +8497,21 @@
       }
     },
     "stats-distribution": {
-      "assist": 1,
+      "assist": 3,
       "block": 0,
-      "d-line": 12,
-      "d-scoring-line": 1,
-      "defense": 0,
+      "d-line": 20,
+      "d-scoring-line": 6,
+      "defense": 1,
       "drop": 0,
-      "goal": 0,
+      "goal": 1,
       "o-line": 0,
       "o-scoring-line": 0,
-      "throwaway": 0
+      "throwaway": 1
     },
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 2.0,
+    "fantasy-points": 21.0,
     "gender": "male",
     "jersey": "",
     "name": "Kiran Kumar",
@@ -8447,17 +8519,29 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2.0,
-      "d-scoring-line": 0,
-      "defense": 0,
+      "d-line": 5.0,
+      "d-scoring-line": 8,
+      "defense": 5,
       "drop": 0,
-      "goal": 0,
+      "goal": 3,
       "o-line": 0.0,
       "o-scoring-line": 0,
       "throwaway": 0
     },
     "slug": "kiran-kumar",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 6,
+        "d-scoring-line": 4,
+        "defense": 1,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -8474,7 +8558,54 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 4,
+      "d-line": 10,
+      "d-scoring-line": 4,
+      "defense": 1,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
+    "team": "Tamilnadu"
+  },
+  {
+    "fantasy-points": 0.5,
+    "gender": "male",
+    "jersey": "",
+    "name": "Kishore Kumar",
+    "photo": "https://secure.gravatar.com/avatar/e70c2b61380b3e64a0bc1a299e72f29d?s=280&d=mm&r=r",
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0.5,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0.0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
+    "slug": "kishore-kumar",
+    "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
@@ -8486,37 +8617,37 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 0,
-    "gender": "male",
-    "jersey": "",
-    "name": "Kishore Kumar",
-    "photo": "https://secure.gravatar.com/avatar/e70c2b61380b3e64a0bc1a299e72f29d?s=280&d=mm&r=r",
-    "points-distribution": {},
-    "slug": "kishore-kumar",
-    "stats": {},
-    "stats-distribution": {},
-    "team": "Tamilnadu"
-  },
-  {
-    "fantasy-points": 12.5,
+    "fantasy-points": 32.0,
     "gender": "female",
     "jersey": "8",
     "name": "Koka Mrinalini Siddhartha",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/0O5lKkWh.280.jpg",
     "points-distribution": {
-      "assist": 0,
+      "assist": 3,
       "block": 0,
-      "d-line": 0.5,
-      "d-scoring-line": 0,
+      "d-line": 1.5,
+      "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
-      "o-line": 4.0,
-      "o-scoring-line": 8,
+      "goal": 6,
+      "o-line": 6.5,
+      "o-scoring-line": 13,
       "throwaway": 0
     },
     "slug": "koka-mrinalini-siddhartha",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 2,
+        "o-line": 5,
+        "o-scoring-line": 5,
+        "throwaway": 0
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -8531,31 +8662,31 @@
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 1,
       "block": 0,
-      "d-line": 1,
-      "d-scoring-line": 0,
+      "d-line": 3,
+      "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
-      "o-line": 8,
-      "o-scoring-line": 8,
+      "goal": 2,
+      "o-line": 13,
+      "o-scoring-line": 13,
       "throwaway": 0
     },
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 3.0,
+    "fantasy-points": 19.5,
     "gender": "male",
     "jersey": "",
     "name": "Manikandan Kumar",
     "photo": "https://secure.gravatar.com/avatar/f9355894a0414b81e318a4c316860282?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 0,
+      "assist": 3,
       "block": 0,
-      "d-line": 3.0,
-      "d-scoring-line": 0,
-      "defense": 0,
+      "d-line": 5.5,
+      "d-scoring-line": 6,
+      "defense": 5,
       "drop": 0,
       "goal": 0,
       "o-line": 0.0,
@@ -8564,6 +8695,18 @@
     },
     "slug": "manikandan-kumar",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 3,
+        "defense": 1,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -8578,9 +8721,56 @@
       }
     },
     "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 11,
+      "d-scoring-line": 3,
+      "defense": 1,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
+    "team": "Tamilnadu"
+  },
+  {
+    "fantasy-points": 0.5,
+    "gender": "female",
+    "jersey": "",
+    "name": "Mirra",
+    "photo": "",
+    "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 6,
+      "d-line": 0.5,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0.0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
+    "slug": "mirra",
+    "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
@@ -8592,19 +8782,7 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 0,
-    "gender": "female",
-    "jersey": "",
-    "name": "Mirra",
-    "photo": "",
-    "points-distribution": {},
-    "slug": "mirra",
-    "stats": {},
-    "stats-distribution": {},
-    "team": "Tamilnadu"
-  },
-  {
-    "fantasy-points": 21.5,
+    "fantasy-points": 33.5,
     "gender": "female",
     "jersey": "",
     "name": "Monika Shankar",
@@ -8612,17 +8790,29 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 1.0,
-      "d-scoring-line": 2,
+      "d-line": 2.0,
+      "d-scoring-line": 4,
       "defense": 0,
       "drop": 0,
       "goal": 6,
-      "o-line": 5.5,
-      "o-scoring-line": 9,
+      "o-line": 8.5,
+      "o-scoring-line": 15,
       "throwaway": -2
     },
     "slug": "monika-shankar",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 6,
+        "o-scoring-line": 6,
+        "throwaway": 0
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -8639,19 +8829,19 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2,
-      "d-scoring-line": 1,
+      "d-line": 4,
+      "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
       "goal": 2,
-      "o-line": 11,
-      "o-scoring-line": 9,
+      "o-line": 17,
+      "o-scoring-line": 15,
       "throwaway": 1
     },
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 1.0,
+    "fantasy-points": 7.5,
     "gender": "female",
     "jersey": "18",
     "name": "Pooja Bapat",
@@ -8659,10 +8849,10 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 1.0,
-      "d-scoring-line": 0,
+      "d-line": 3.5,
+      "d-scoring-line": 6,
       "defense": 0,
-      "drop": 0,
+      "drop": -2,
       "goal": 0,
       "o-line": 0.0,
       "o-scoring-line": 0,
@@ -8670,6 +8860,18 @@
     },
     "slug": "pooja-bapat",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 3,
+        "defense": 0,
+        "drop": 1,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -8686,10 +8888,10 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2,
-      "d-scoring-line": 0,
+      "d-line": 7,
+      "d-scoring-line": 3,
       "defense": 0,
-      "drop": 0,
+      "drop": 1,
       "goal": 0,
       "o-line": 0,
       "o-scoring-line": 0,
@@ -8710,7 +8912,7 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 2.5,
+    "fantasy-points": 15.0,
     "gender": "male",
     "jersey": "",
     "name": "Ramkumar Nithyanandam",
@@ -8718,17 +8920,29 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2.5,
-      "d-scoring-line": 0,
+      "d-line": 6.0,
+      "d-scoring-line": 6,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
+      "goal": 3,
       "o-line": 0.0,
       "o-scoring-line": 0,
       "throwaway": 0
     },
     "slug": "ramkumar-nithyanandam",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 7,
+        "d-scoring-line": 3,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -8745,11 +8959,11 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 5,
-      "d-scoring-line": 0,
+      "d-line": 12,
+      "d-scoring-line": 3,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
+      "goal": 1,
       "o-line": 0,
       "o-scoring-line": 0,
       "throwaway": 0
@@ -8757,7 +8971,7 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 2.5,
+    "fantasy-points": 11.5,
     "gender": "female",
     "jersey": "0",
     "name": "Sagarika AP",
@@ -8765,8 +8979,8 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2.5,
-      "d-scoring-line": 0,
+      "d-line": 5.5,
+      "d-scoring-line": 6,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -8776,6 +8990,18 @@
     },
     "slug": "sagarika-ap",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 6,
+        "d-scoring-line": 3,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -8792,8 +9018,8 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 5,
-      "d-scoring-line": 0,
+      "d-line": 11,
+      "d-scoring-line": 3,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -8804,16 +9030,16 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 4.0,
+    "fantasy-points": 17.0,
     "gender": "female",
     "jersey": "94",
     "name": "Samyuktha Arvind",
     "photo": "https://secure.gravatar.com/avatar/99a8dc43479e9f21a6a9939c04deee6a?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 0,
+      "assist": 3,
       "block": 0,
-      "d-line": 2.0,
-      "d-scoring-line": 2,
+      "d-line": 6.0,
+      "d-scoring-line": 8,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -8823,6 +9049,18 @@
     },
     "slug": "samyuktha-arvind",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 8,
+        "d-scoring-line": 3,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -8837,10 +9075,10 @@
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 1,
       "block": 0,
-      "d-line": 4,
-      "d-scoring-line": 1,
+      "d-line": 12,
+      "d-scoring-line": 4,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -8851,7 +9089,7 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 30.5,
+    "fantasy-points": 51.5,
     "gender": "female",
     "jersey": "",
     "name": "Selvi Murugan",
@@ -8859,17 +9097,29 @@
     "points-distribution": {
       "assist": 6,
       "block": 0,
-      "d-line": 1.5,
-      "d-scoring-line": 4,
+      "d-line": 2.5,
+      "d-scoring-line": 6,
       "defense": 0,
       "drop": 0,
-      "goal": 3,
-      "o-line": 6.0,
-      "o-scoring-line": 10,
+      "goal": 9,
+      "o-line": 10.0,
+      "o-scoring-line": 18,
       "throwaway": 0
     },
     "slug": "selvi-murugan",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 2,
+        "o-line": 8,
+        "o-scoring-line": 8,
+        "throwaway": 0
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 2,
         "block": 0,
@@ -8886,19 +9136,19 @@
     "stats-distribution": {
       "assist": 2,
       "block": 0,
-      "d-line": 3,
-      "d-scoring-line": 2,
+      "d-line": 5,
+      "d-scoring-line": 3,
       "defense": 0,
       "drop": 0,
-      "goal": 1,
-      "o-line": 12,
-      "o-scoring-line": 10,
+      "goal": 3,
+      "o-line": 20,
+      "o-scoring-line": 18,
       "throwaway": 0
     },
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 17.0,
+    "fantasy-points": 33.0,
     "gender": "female",
     "jersey": "",
     "name": "Shruthi Nathella",
@@ -8906,17 +9156,29 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 1.5,
-      "d-scoring-line": 0,
-      "defense": 0,
+      "d-line": 2.5,
+      "d-scoring-line": 2,
+      "defense": 5,
       "drop": -2,
       "goal": 0,
-      "o-line": 5.5,
-      "o-scoring-line": 9,
-      "throwaway": 0
+      "o-line": 9.5,
+      "o-scoring-line": 17,
+      "throwaway": -4
     },
     "slug": "shruthi-nathella",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 1,
+        "defense": 1,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 8,
+        "o-scoring-line": 8,
+        "throwaway": 2
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 1,
         "block": 0,
@@ -8933,37 +9195,49 @@
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 3,
-      "d-scoring-line": 0,
-      "defense": 0,
+      "d-line": 5,
+      "d-scoring-line": 1,
+      "defense": 1,
       "drop": 1,
       "goal": 0,
-      "o-line": 11,
-      "o-scoring-line": 9,
-      "throwaway": 0
+      "o-line": 19,
+      "o-scoring-line": 17,
+      "throwaway": 2
     },
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 3.5,
+    "fantasy-points": 9.0,
     "gender": "male",
     "jersey": "",
     "name": "Sivakumar",
     "photo": "https://secure.gravatar.com/avatar/18dfb3054c53467c361a1c7c66c47236?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 0,
+      "assist": 3,
       "block": 0,
       "d-line": 0.0,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 1.5,
-      "o-scoring-line": 2,
-      "throwaway": 0
+      "o-line": 3.0,
+      "o-scoring-line": 5,
+      "throwaway": -2
     },
     "slug": "sivakumar",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 3,
+        "throwaway": 1
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -8978,39 +9252,51 @@
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 1,
       "block": 0,
       "d-line": 0,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 3,
-      "o-scoring-line": 2,
-      "throwaway": 0
+      "o-line": 6,
+      "o-scoring-line": 5,
+      "throwaway": 1
     },
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 40.5,
+    "fantasy-points": 67.5,
     "gender": "male",
     "jersey": "99",
     "name": "Sivaraman Venkatesan",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/TC5YjMxw.280.jpg",
     "points-distribution": {
-      "assist": 6,
+      "assist": 15,
       "block": 0,
-      "d-line": 0.5,
-      "d-scoring-line": 0,
+      "d-line": 1.5,
+      "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
-      "goal": 18,
-      "o-line": 6.0,
-      "o-scoring-line": 10,
+      "goal": 21,
+      "o-line": 10.0,
+      "o-scoring-line": 18,
       "throwaway": 0
     },
     "slug": "sivaraman-venkatesan",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 3,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 8,
+        "o-scoring-line": 8,
+        "throwaway": 0
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 2,
         "block": 0,
@@ -9025,21 +9311,21 @@
       }
     },
     "stats-distribution": {
-      "assist": 2,
+      "assist": 5,
       "block": 0,
-      "d-line": 1,
-      "d-scoring-line": 0,
+      "d-line": 3,
+      "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
-      "goal": 6,
-      "o-line": 12,
-      "o-scoring-line": 10,
+      "goal": 7,
+      "o-line": 20,
+      "o-scoring-line": 18,
       "throwaway": 0
     },
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 2.0,
+    "fantasy-points": 10.5,
     "gender": "female",
     "jersey": "13",
     "name": "Snehankita Rout",
@@ -9047,8 +9333,8 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2.0,
-      "d-scoring-line": 0,
+      "d-line": 4.5,
+      "d-scoring-line": 6,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -9058,6 +9344,18 @@
     },
     "slug": "snehankita-rout",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 3,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -9074,8 +9372,8 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 4,
-      "d-scoring-line": 0,
+      "d-line": 9,
+      "d-scoring-line": 3,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -9086,7 +9384,7 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 6.5,
+    "fantasy-points": 18.0,
     "gender": "female",
     "jersey": "",
     "name": "Srividya Suriyashekar",
@@ -9094,17 +9392,29 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 4.5,
-      "d-scoring-line": 2,
+      "d-line": 7.0,
+      "d-scoring-line": 8,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
+      "goal": 3,
       "o-line": 0.0,
       "o-scoring-line": 0,
       "throwaway": 0
     },
     "slug": "srividya-suriyashekar",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 3,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -9121,11 +9431,11 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 9,
-      "d-scoring-line": 1,
+      "d-line": 14,
+      "d-scoring-line": 4,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
+      "goal": 1,
       "o-line": 0,
       "o-scoring-line": 0,
       "throwaway": 0
@@ -9133,7 +9443,7 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 7.5,
+    "fantasy-points": 11.5,
     "gender": "male",
     "jersey": "5",
     "name": "Subash S",
@@ -9141,10 +9451,10 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 3.5,
-      "d-scoring-line": 4,
+      "d-line": 7.5,
+      "d-scoring-line": 8,
       "defense": 0,
-      "drop": 0,
+      "drop": -4,
       "goal": 0,
       "o-line": 0.0,
       "o-scoring-line": 0,
@@ -9152,6 +9462,18 @@
     },
     "slug": "subash-s",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 8,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 2,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -9168,10 +9490,10 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 7,
-      "d-scoring-line": 2,
+      "d-line": 15,
+      "d-scoring-line": 4,
       "defense": 0,
-      "drop": 0,
+      "drop": 2,
       "goal": 0,
       "o-line": 0,
       "o-scoring-line": 0,
@@ -9192,25 +9514,37 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 22.0,
+    "fantasy-points": 48.0,
     "gender": "male",
     "jersey": "",
     "name": "Vimanthan L",
     "photo": "https://secure.gravatar.com/avatar/539057c8f9c6086c837dff9fc9bef8d4?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 6,
+      "assist": 9,
       "block": 0,
-      "d-line": 0.0,
-      "d-scoring-line": 0,
-      "defense": 0,
+      "d-line": 1.5,
+      "d-scoring-line": 2,
+      "defense": 5,
       "drop": 0,
-      "goal": 0,
-      "o-line": 6.0,
-      "o-scoring-line": 10,
-      "throwaway": 0
+      "goal": 6,
+      "o-line": 9.5,
+      "o-scoring-line": 17,
+      "throwaway": -2
     },
     "slug": "vimanthan-l",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 3,
+        "d-scoring-line": 1,
+        "defense": 1,
+        "drop": 0,
+        "goal": 2,
+        "o-line": 7,
+        "o-scoring-line": 7,
+        "throwaway": 1
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 2,
         "block": 0,
@@ -9225,21 +9559,21 @@
       }
     },
     "stats-distribution": {
-      "assist": 2,
+      "assist": 3,
       "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
-      "defense": 0,
+      "d-line": 3,
+      "d-scoring-line": 1,
+      "defense": 1,
       "drop": 0,
-      "goal": 0,
-      "o-line": 12,
-      "o-scoring-line": 10,
-      "throwaway": 0
+      "goal": 2,
+      "o-line": 19,
+      "o-scoring-line": 17,
+      "throwaway": 1
     },
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 0.5,
+    "fantasy-points": 6.5,
     "gender": "male",
     "jersey": "",
     "name": "Yuvaraj Magesh",
@@ -9247,17 +9581,29 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0.5,
-      "d-scoring-line": 0,
+      "d-line": 1.5,
+      "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
+      "goal": 3,
       "o-line": 0.0,
       "o-scoring-line": 0,
       "throwaway": 0
     },
     "slug": "yuvaraj-magesh",
     "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Gujarat Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -9274,11 +9620,11 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 1,
-      "d-scoring-line": 0,
+      "d-line": 3,
+      "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
+      "goal": 1,
       "o-line": 0,
       "o-scoring-line": 0,
       "throwaway": 0
