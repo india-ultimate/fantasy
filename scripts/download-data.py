@@ -23,7 +23,7 @@ def get_fantasy_teams_csv(sheet_id):
 
 
 def get_player_stats(sheet_id, sheet_name):
-    print("Downloading Player Stats from Google Spreadsheet")
+    print(f"Downloading Stats from '{sheet_name}' sheet in the Google Spreadsheet")
     url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/gviz/tq?tqx=out:csv&sheet={sheet_name}"
     response = requests.get(url)
     path = DATA_DIR.joinpath(f"player-stats-{sheet_name}.csv")
