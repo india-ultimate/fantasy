@@ -11506,25 +11506,37 @@
     "team": "Uttar Pradesh"
   },
   {
-    "fantasy-points": 69.5,
+    "fantasy-points": 92.5,
     "gender": "male",
     "jersey": "45",
     "name": "Sunny Azad",
     "photo": "https://secure.gravatar.com/avatar/ac616950beb6fc7def2d4370ad3a4ec5?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 33,
+      "assist": 45,
       "block": 0,
-      "d-line": 7.5,
-      "d-scoring-line": 16,
+      "d-line": 12.0,
+      "d-scoring-line": 20,
       "defense": 5,
       "drop": -4,
       "goal": 3,
-      "o-line": 11.0,
-      "o-scoring-line": 14,
-      "throwaway": -16
+      "o-line": 17.5,
+      "o-scoring-line": 22,
+      "throwaway": -28
     },
     "slug": "sunny-azad",
     "stats": {
+      "Gujarat Ultimate;day-2": {
+        "assist": 4,
+        "block": 0,
+        "d-line": 9,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 13,
+        "o-scoring-line": 8,
+        "throwaway": 6
+      },
       "Maharashtra Ultimate;day-2": {
         "assist": 7,
         "block": 0,
@@ -11563,16 +11575,16 @@
       }
     },
     "stats-distribution": {
-      "assist": 11,
+      "assist": 15,
       "block": 0,
-      "d-line": 15,
-      "d-scoring-line": 8,
+      "d-line": 24,
+      "d-scoring-line": 10,
       "defense": 1,
       "drop": 2,
       "goal": 1,
-      "o-line": 22,
-      "o-scoring-line": 14,
-      "throwaway": 8
+      "o-line": 35,
+      "o-scoring-line": 22,
+      "throwaway": 14
     },
     "team": "Uttar Pradesh"
   },
@@ -11660,25 +11672,37 @@
     "team": "Uttar Pradesh"
   },
   {
-    "fantasy-points": 35.5,
+    "fantasy-points": 52.5,
     "gender": "male",
     "jersey": "1",
     "name": "Vikram Namdeo",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/Cz2B8yob.280.jpg",
     "points-distribution": {
-      "assist": 9,
+      "assist": 12,
       "block": 0,
-      "d-line": 5.0,
-      "d-scoring-line": 6,
-      "defense": 5,
+      "d-line": 7.5,
+      "d-scoring-line": 10,
+      "defense": 10,
       "drop": 0,
       "goal": 0,
-      "o-line": 7.5,
-      "o-scoring-line": 9,
-      "throwaway": -6
+      "o-line": 11.0,
+      "o-scoring-line": 12,
+      "throwaway": -10
     },
     "slug": "vikram-namdeo",
     "stats": {
+      "Gujarat Ultimate;day-2": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 2,
+        "defense": 1,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 7,
+        "o-scoring-line": 3,
+        "throwaway": 2
+      },
       "Maharashtra Ultimate;day-2": {
         "assist": 1,
         "block": 0,
@@ -11717,16 +11741,16 @@
       }
     },
     "stats-distribution": {
-      "assist": 3,
+      "assist": 4,
       "block": 0,
-      "d-line": 10,
-      "d-scoring-line": 3,
-      "defense": 1,
+      "d-line": 15,
+      "d-scoring-line": 5,
+      "defense": 2,
       "drop": 0,
       "goal": 0,
-      "o-line": 15,
-      "o-scoring-line": 9,
-      "throwaway": 3
+      "o-line": 22,
+      "o-scoring-line": 12,
+      "throwaway": 5
     },
     "team": "Uttar Pradesh"
   }
