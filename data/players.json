@@ -4826,7 +4826,7 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 6.5,
+    "fantasy-points": 9.5,
     "gender": "male",
     "jersey": "31",
     "name": "Shivamkumar Dubey",
@@ -4835,13 +4835,13 @@
       "assist": 0,
       "block": 0,
       "d-line": 1.0,
-      "d-scoring-line": 0,
+      "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
+      "goal": 3,
       "o-line": 2.5,
       "o-scoring-line": 3,
-      "throwaway": 0
+      "throwaway": -2
     },
     "slug": "shivamkumar-dubey",
     "stats": {
@@ -4849,63 +4849,168 @@
         "assist": 0,
         "block": 0,
         "d-line": 2,
-        "d-scoring-line": 0,
+        "d-scoring-line": 1,
         "defense": 0,
         "drop": 0,
-        "goal": 0,
+        "goal": 1,
         "o-line": 5,
         "o-scoring-line": 3,
-        "throwaway": 0
+        "throwaway": 1
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
       "d-line": 2,
-      "d-scoring-line": 0,
+      "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
+      "goal": 1,
       "o-line": 5,
       "o-scoring-line": 3,
+      "throwaway": 1
+    },
+    "team": "Maharashtra Ultimate"
+  },
+  {
+    "fantasy-points": 18.5,
+    "gender": "male",
+    "jersey": "74",
+    "name": "Shubham More",
+    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/5wzpQ6ns.280.jpg",
+    "points-distribution": {
+      "assist": 3,
+      "block": 0,
+      "d-line": 0.0,
+      "d-scoring-line": 0,
+      "defense": 5,
+      "drop": -2,
+      "goal": 3,
+      "o-line": 4.5,
+      "o-scoring-line": 5,
+      "throwaway": 0
+    },
+    "slug": "shubham-more",
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 1,
+        "drop": 1,
+        "goal": 1,
+        "o-line": 9,
+        "o-scoring-line": 5,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 1,
+      "drop": 1,
+      "goal": 1,
+      "o-line": 9,
+      "o-scoring-line": 5,
       "throwaway": 0
     },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
-    "gender": "male",
-    "jersey": "74",
-    "name": "Shubham More",
-    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/5wzpQ6ns.280.jpg",
-    "points-distribution": {},
-    "slug": "shubham-more",
-    "stats": {},
-    "stats-distribution": {},
-    "team": "Maharashtra Ultimate"
-  },
-  {
-    "fantasy-points": 0,
+    "fantasy-points": 0.5,
     "gender": "male",
     "jersey": "58",
     "name": "Sunil Varma",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/R3KqHmmG.280.jpg",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0.0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1.5,
+      "o-scoring-line": 1,
+      "throwaway": -2
+    },
     "slug": "sunil-varma",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 1,
+        "throwaway": 1
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 3,
+      "o-scoring-line": 1,
+      "throwaway": 1
+    },
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 13.0,
     "gender": "male",
     "jersey": "1",
     "name": "Sushant Tapse",
     "photo": "https://secure.gravatar.com/avatar/fac6ab7f7e59195d3b2a5f9d602fef20?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 6,
+      "block": 0,
+      "d-line": 0.0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 3,
+      "o-line": 3.0,
+      "o-scoring-line": 3,
+      "throwaway": -2
+    },
     "slug": "sushant-tapse",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 2,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 6,
+        "o-scoring-line": 3,
+        "throwaway": 1
+      }
+    },
+    "stats-distribution": {
+      "assist": 2,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 6,
+      "o-scoring-line": 3,
+      "throwaway": 1
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -4956,15 +5061,50 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 9.0,
     "gender": "male",
     "jersey": "4",
     "name": "Tahir Siddiqui",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/NGEvYqfb.280.jpg",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 3.5,
+      "d-scoring-line": 4,
+      "defense": 0,
+      "drop": 0,
+      "goal": 3,
+      "o-line": 0.5,
+      "o-scoring-line": 0,
+      "throwaway": -2
+    },
     "slug": "tahir-siddiqui",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 7,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 1,
+        "o-scoring-line": 0,
+        "throwaway": 1
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 7,
+      "d-scoring-line": 2,
+      "defense": 0,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 1,
+      "o-scoring-line": 0,
+      "throwaway": 1
+    },
     "team": "Maharashtra Ultimate"
   },
   {
@@ -5062,15 +5202,50 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 16.0,
     "gender": "male",
     "jersey": "10",
     "name": "Vikas Chauhan",
     "photo": "https://secure.gravatar.com/avatar/52868ad313644964735513dfebd87471?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 3,
+      "block": 0,
+      "d-line": 0.0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 3,
+      "o-line": 4.0,
+      "o-scoring-line": 6,
+      "throwaway": 0
+    },
     "slug": "vikas-chauhan",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 8,
+        "o-scoring-line": 6,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 1,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 1,
+      "o-line": 8,
+      "o-scoring-line": 6,
+      "throwaway": 0
+    },
     "team": "Maharashtra Ultimate"
   },
   {
