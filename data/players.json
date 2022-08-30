@@ -9632,285 +9632,75 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 0.5,
+    "fantasy-points": 0,
     "gender": "male",
     "jersey": "",
     "name": "Abimanyu Nair",
     "photo": "https://secure.gravatar.com/avatar/0faa165bd2da83615b9787788b47e708?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0.5,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0.0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
+    "points-distribution": {},
     "slug": "abimanyu-nair",
-    "stats": {
-      "Uttar Pradesh;day-1": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 1,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 0,
-        "o-scoring-line": 0,
-        "throwaway": 0
-      }
-    },
-    "stats-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 1,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
+    "stats": {},
+    "stats-distribution": {},
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 3.0,
+    "fantasy-points": 0,
     "gender": "female",
     "jersey": "",
     "name": "Akshara Domala",
     "photo": "https://secure.gravatar.com/avatar/72e4022736dfb2dd8a0934f94e07a8df?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 1.0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 2.0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
+    "points-distribution": {},
     "slug": "akshara-domala",
-    "stats": {
-      "Uttar Pradesh;day-1": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 2,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 4,
-        "o-scoring-line": 0,
-        "throwaway": 0
-      }
-    },
-    "stats-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 2,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 4,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
+    "stats": {},
+    "stats-distribution": {},
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": -1.0,
+    "fantasy-points": 0,
     "gender": "male",
     "jersey": "",
     "name": "Anil K",
     "photo": "https://secure.gravatar.com/avatar/80be51d84f025d18f6e8c7d6c03adc5e?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 1.0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0.0,
-      "o-scoring-line": 0,
-      "throwaway": -2
-    },
+    "points-distribution": {},
     "slug": "anil-k",
-    "stats": {
-      "Uttar Pradesh;day-1": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 2,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 0,
-        "o-scoring-line": 0,
-        "throwaway": 1
-      }
-    },
-    "stats-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 2,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
-      "throwaway": 1
-    },
+    "stats": {},
+    "stats-distribution": {},
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 1.5,
+    "fantasy-points": 0,
     "gender": "male",
     "jersey": "",
     "name": "Anil Naik",
     "photo": "https://secure.gravatar.com/avatar/7692d7955770c82eaf5f37525e6a2234?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 1.0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0.5,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
+    "points-distribution": {},
     "slug": "anil-naik",
-    "stats": {
-      "Uttar Pradesh;day-1": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 2,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 1,
-        "o-scoring-line": 0,
-        "throwaway": 0
-      }
-    },
-    "stats-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 2,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 1,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
+    "stats": {},
+    "stats-distribution": {},
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 4.0,
+    "fantasy-points": 0,
     "gender": "female",
     "jersey": "",
     "name": "Ankita P",
     "photo": "https://secure.gravatar.com/avatar/46357e2e2cf2177b59f50ac4399efcca?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0.5,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 3.5,
-      "o-scoring-line": 2,
-      "throwaway": -2
-    },
+    "points-distribution": {},
     "slug": "ankita-p",
-    "stats": {
-      "Uttar Pradesh;day-1": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 1,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 7,
-        "o-scoring-line": 2,
-        "throwaway": 1
-      }
-    },
-    "stats-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 1,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 7,
-      "o-scoring-line": 2,
-      "throwaway": 1
-    },
+    "stats": {},
+    "stats-distribution": {},
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 2.0,
+    "fantasy-points": 0,
     "gender": "male",
     "jersey": "",
     "name": "Dhiraj Gangaraju",
     "photo": "https://secure.gravatar.com/avatar/fcbda32556b3959f4213f5466706fdb7?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 3,
-      "block": 0,
-      "d-line": 0.5,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 4.5,
-      "o-scoring-line": 2,
-      "throwaway": -8
-    },
+    "points-distribution": {},
     "slug": "dhiraj-gangaraju",
-    "stats": {
-      "Uttar Pradesh;day-1": {
-        "assist": 1,
-        "block": 0,
-        "d-line": 1,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 9,
-        "o-scoring-line": 2,
-        "throwaway": 4
-      }
-    },
-    "stats-distribution": {
-      "assist": 1,
-      "block": 0,
-      "d-line": 1,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 9,
-      "o-scoring-line": 2,
-      "throwaway": 4
-    },
+    "stats": {},
+    "stats-distribution": {},
     "team": "Telangana Ultimate"
   },
   {
@@ -9926,191 +9716,51 @@
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 0.0,
+    "fantasy-points": 0,
     "gender": "male",
     "jersey": "1",
     "name": "Kishen Chandar",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/5hWWysTS.280.jpg",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0.5,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 1.5,
-      "o-scoring-line": 0,
-      "throwaway": -2
-    },
+    "points-distribution": {},
     "slug": "kishen-chandar",
-    "stats": {
-      "Uttar Pradesh;day-1": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 1,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 3,
-        "o-scoring-line": 0,
-        "throwaway": 1
-      }
-    },
-    "stats-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 1,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 3,
-      "o-scoring-line": 0,
-      "throwaway": 1
-    },
+    "stats": {},
+    "stats-distribution": {},
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 11.0,
+    "fantasy-points": 0,
     "gender": "female",
     "jersey": "",
     "name": "Manasa H G",
     "photo": "https://secure.gravatar.com/avatar/de8132ad055a30408f1751be1b38d625?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0.5,
-      "d-scoring-line": 0,
-      "defense": 5,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 3.5,
-      "o-scoring-line": 2,
-      "throwaway": 0
-    },
+    "points-distribution": {},
     "slug": "manasa-h-g",
-    "stats": {
-      "Uttar Pradesh;day-1": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 1,
-        "d-scoring-line": 0,
-        "defense": 1,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 7,
-        "o-scoring-line": 2,
-        "throwaway": 0
-      }
-    },
-    "stats-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 1,
-      "d-scoring-line": 0,
-      "defense": 1,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 7,
-      "o-scoring-line": 2,
-      "throwaway": 0
-    },
+    "stats": {},
+    "stats-distribution": {},
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 6.0,
+    "fantasy-points": 0,
     "gender": "male",
     "jersey": "7",
     "name": "Mayank Dawra",
     "photo": "https://secure.gravatar.com/avatar/03127b1fdf09f6ad9ed5a353f97844cc?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0.0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": -2,
-      "goal": 3,
-      "o-line": 3.0,
-      "o-scoring-line": 2,
-      "throwaway": 0
-    },
+    "points-distribution": {},
     "slug": "mayank-dawra",
-    "stats": {
-      "Uttar Pradesh;day-1": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 0,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 1,
-        "goal": 1,
-        "o-line": 6,
-        "o-scoring-line": 2,
-        "throwaway": 0
-      }
-    },
-    "stats-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 1,
-      "goal": 1,
-      "o-line": 6,
-      "o-scoring-line": 2,
-      "throwaway": 0
-    },
+    "stats": {},
+    "stats-distribution": {},
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": -2.0,
+    "fantasy-points": 0,
     "gender": "female",
     "jersey": "",
     "name": "Nayanatara Vadali",
     "photo": "https://secure.gravatar.com/avatar/f7040702d2f9ad6bbdf439d0f447c962?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 1.5,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0.5,
-      "o-scoring-line": 0,
-      "throwaway": -4
-    },
+    "points-distribution": {},
     "slug": "nayanatara-vadali",
-    "stats": {
-      "Uttar Pradesh;day-1": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 3,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 1,
-        "o-scoring-line": 0,
-        "throwaway": 2
-      }
-    },
-    "stats-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 3,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 1,
-      "o-scoring-line": 0,
-      "throwaway": 2
-    },
+    "stats": {},
+    "stats-distribution": {},
     "team": "Telangana Ultimate"
   },
   {
@@ -10126,473 +9776,123 @@
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 7.5,
+    "fantasy-points": 0,
     "gender": "male",
     "jersey": "",
     "name": "Pranay M",
     "photo": "https://secure.gravatar.com/avatar/3e3bf95b8fc86f685099b424798e36dc?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 3,
-      "block": 0,
-      "d-line": 0.5,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 3.0,
-      "o-scoring-line": 1,
-      "throwaway": 0
-    },
+    "points-distribution": {},
     "slug": "pranay-m",
-    "stats": {
-      "Uttar Pradesh;day-1": {
-        "assist": 1,
-        "block": 0,
-        "d-line": 1,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 6,
-        "o-scoring-line": 1,
-        "throwaway": 0
-      }
-    },
-    "stats-distribution": {
-      "assist": 1,
-      "block": 0,
-      "d-line": 1,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 6,
-      "o-scoring-line": 1,
-      "throwaway": 0
-    },
+    "stats": {},
+    "stats-distribution": {},
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 4.5,
+    "fantasy-points": 0,
     "gender": "female",
     "jersey": "",
     "name": "Ramya Bhavana Kothapalli",
     "photo": "https://secure.gravatar.com/avatar/f0ba6e5772276817d121cd2dde229ad8?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0.5,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 3.0,
-      "o-scoring-line": 1,
-      "throwaway": 0
-    },
+    "points-distribution": {},
     "slug": "ramya-bhavana-kothapalli",
-    "stats": {
-      "Uttar Pradesh;day-1": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 1,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 6,
-        "o-scoring-line": 1,
-        "throwaway": 0
-      }
-    },
-    "stats-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 1,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 6,
-      "o-scoring-line": 1,
-      "throwaway": 0
-    },
+    "stats": {},
+    "stats-distribution": {},
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 1.5,
+    "fantasy-points": 0,
     "gender": "male",
     "jersey": "",
     "name": "Ravitheja Tetali",
     "photo": "https://secure.gravatar.com/avatar/80f8eb3cede98b25226334964b5a0a08?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0.5,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 1.0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
+    "points-distribution": {},
     "slug": "ravitheja-tetali",
-    "stats": {
-      "Uttar Pradesh;day-1": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 1,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 2,
-        "o-scoring-line": 0,
-        "throwaway": 0
-      }
-    },
-    "stats-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 1,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 2,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
+    "stats": {},
+    "stats-distribution": {},
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 2.5,
+    "fantasy-points": 0,
     "gender": "male",
     "jersey": "",
     "name": "Sandeep G",
     "photo": "https://secure.gravatar.com/avatar/5f57579cdf34a848702b1b30ac6c18ed?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0.5,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 2.0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
+    "points-distribution": {},
     "slug": "sandeep-g",
-    "stats": {
-      "Uttar Pradesh;day-1": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 1,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 4,
-        "o-scoring-line": 0,
-        "throwaway": 0
-      }
-    },
-    "stats-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 1,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 4,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
+    "stats": {},
+    "stats-distribution": {},
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 3.5,
+    "fantasy-points": 0,
     "gender": "female",
     "jersey": "",
     "name": "Sindhu M",
     "photo": "https://secure.gravatar.com/avatar/d8c8882a71814c1f838cf505085c6f5c?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 1.0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 1.5,
-      "o-scoring-line": 1,
-      "throwaway": 0
-    },
+    "points-distribution": {},
     "slug": "sindhu-m",
-    "stats": {
-      "Uttar Pradesh;day-1": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 2,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 3,
-        "o-scoring-line": 1,
-        "throwaway": 0
-      }
-    },
-    "stats-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 2,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 3,
-      "o-scoring-line": 1,
-      "throwaway": 0
-    },
+    "stats": {},
+    "stats-distribution": {},
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 3.0,
+    "fantasy-points": 0,
     "gender": "male",
     "jersey": "",
     "name": "Suresh K",
     "photo": "https://secure.gravatar.com/avatar/4c1d1cde2489bd4645413777843972b6?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0.0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 2.0,
-      "o-scoring-line": 1,
-      "throwaway": 0
-    },
+    "points-distribution": {},
     "slug": "suresh-k",
-    "stats": {
-      "Uttar Pradesh;day-1": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 0,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 4,
-        "o-scoring-line": 1,
-        "throwaway": 0
-      }
-    },
-    "stats-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 4,
-      "o-scoring-line": 1,
-      "throwaway": 0
-    },
+    "stats": {},
+    "stats-distribution": {},
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 0.5,
+    "fantasy-points": 0,
     "gender": "male",
     "jersey": "",
     "name": "Tharun K",
     "photo": "https://secure.gravatar.com/avatar/9c33fc30318083c41240745b22352a41?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0.0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 0.5,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
+    "points-distribution": {},
     "slug": "tharun-k",
-    "stats": {
-      "Uttar Pradesh;day-1": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 0,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 1,
-        "o-scoring-line": 0,
-        "throwaway": 0
-      }
-    },
-    "stats-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 1,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
+    "stats": {},
+    "stats-distribution": {},
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 10.5,
+    "fantasy-points": 0,
     "gender": "female",
     "jersey": "",
     "name": "Usha Rani",
     "photo": "https://secure.gravatar.com/avatar/83a80d8b66c4782c4ff2c478b1d3a795?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0.5,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 3,
-      "o-line": 5.0,
-      "o-scoring-line": 2,
-      "throwaway": 0
-    },
+    "points-distribution": {},
     "slug": "usha-rani",
-    "stats": {
-      "Uttar Pradesh;day-1": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 1,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 1,
-        "o-line": 10,
-        "o-scoring-line": 2,
-        "throwaway": 0
-      }
-    },
-    "stats-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 1,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 1,
-      "o-line": 10,
-      "o-scoring-line": 2,
-      "throwaway": 0
-    },
+    "stats": {},
+    "stats-distribution": {},
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 3.0,
+    "fantasy-points": 0,
     "gender": "female",
     "jersey": "",
     "name": "Varshita M",
     "photo": "https://secure.gravatar.com/avatar/a81949f1395020eecc659544045cc00b?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 1.5,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 1.5,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
+    "points-distribution": {},
     "slug": "varshita-m",
-    "stats": {
-      "Uttar Pradesh;day-1": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 3,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 3,
-        "o-scoring-line": 0,
-        "throwaway": 0
-      }
-    },
-    "stats-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 3,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 3,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
+    "stats": {},
+    "stats-distribution": {},
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": -0.5,
+    "fantasy-points": 0,
     "gender": "male",
     "jersey": "59",
     "name": "Venkatesh Kumar",
     "photo": "https://secure.gravatar.com/avatar/2bd2eb4f2d7e0acae3185b5ff53a54cc?s=280&d=mm&r=r",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 0.5,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": -2,
-      "goal": 0,
-      "o-line": 1.0,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
+    "points-distribution": {},
     "slug": "venkatesh-kumar",
-    "stats": {
-      "Uttar Pradesh;day-1": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 1,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 1,
-        "goal": 0,
-        "o-line": 2,
-        "o-scoring-line": 0,
-        "throwaway": 0
-      }
-    },
-    "stats-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 1,
-      "d-scoring-line": 0,
-      "defense": 0,
-      "drop": 1,
-      "goal": 0,
-      "o-line": 2,
-      "o-scoring-line": 0,
-      "throwaway": 0
-    },
+    "stats": {},
+    "stats-distribution": {},
     "team": "Telangana Ultimate"
   },
   {
