@@ -1337,6 +1337,14 @@
   },
   {
     "gender": "male",
+    "jersey": "",
+    "name": "Kunal Namdev",
+    "photo": "https://secure.gravatar.com/avatar/e95bdeed0c65f64b3fe660e85f67f637?s=280&d=mm&r=r",
+    "team": "Madhya Pradesh",
+    "ucID": 1117551
+  },
+  {
+    "gender": "male",
     "jersey": "14",
     "name": "Rizwan Singh",
     "photo": "https://secure.gravatar.com/avatar/e3d8ae8fae65dd2597a04947e045e877?s=280&d=mm&r=r",
