@@ -3604,7 +3604,7 @@
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 49.0,
+    "fantasy-points": 52.0,
     "gender": "male",
     "jersey": "",
     "name": "Chethan Srikanth",
@@ -3618,7 +3618,7 @@
       "drop": 0,
       "goal": 6,
       "o-line": 3.5,
-      "o-scoring-line": 3,
+      "o-scoring-line": 6,
       "throwaway": -2
     },
     "slug": "chethan-srikanth",
@@ -3668,7 +3668,7 @@
         "drop": 0,
         "goal": 2,
         "o-line": 3,
-        "o-scoring-line": 0,
+        "o-scoring-line": 3,
         "throwaway": 0
       }
     },
@@ -3681,13 +3681,13 @@
       "drop": 0,
       "goal": 2,
       "o-line": 7,
-      "o-scoring-line": 3,
+      "o-scoring-line": 6,
       "throwaway": 1
     },
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 47.0,
+    "fantasy-points": 52.5,
     "gender": "male",
     "jersey": "0",
     "name": "Deepak Gowda",
@@ -3695,13 +3695,13 @@
     "points-distribution": {
       "assist": 15,
       "block": 0,
-      "d-line": 2.0,
+      "d-line": 4.0,
       "d-scoring-line": 6,
       "defense": 0,
       "drop": 0,
       "goal": 3,
-      "o-line": 8.0,
-      "o-scoring-line": 13,
+      "o-line": 9.5,
+      "o-scoring-line": 15,
       "throwaway": 0
     },
     "slug": "deepak-gowda",
@@ -3741,34 +3741,46 @@
         "o-line": 7,
         "o-scoring-line": 5,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 4,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 2,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 5,
       "block": 0,
-      "d-line": 4,
+      "d-line": 8,
       "d-scoring-line": 3,
       "defense": 0,
       "drop": 0,
       "goal": 1,
-      "o-line": 16,
-      "o-scoring-line": 13,
+      "o-line": 19,
+      "o-scoring-line": 15,
       "throwaway": 0
     },
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 41.0,
+    "fantasy-points": 63.0,
     "gender": "male",
     "jersey": "",
     "name": "Esai Selvan Esakki",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/2FwZJkYv.280.jpg",
     "points-distribution": {
-      "assist": 0,
+      "assist": 6,
       "block": 0,
-      "d-line": 7.0,
-      "d-scoring-line": 12,
-      "defense": 10,
+      "d-line": 10.0,
+      "d-scoring-line": 20,
+      "defense": 15,
       "drop": 0,
       "goal": 9,
       "o-line": 1.0,
@@ -3812,14 +3824,26 @@
         "o-line": 1,
         "o-scoring-line": 1,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-2": {
+        "assist": 2,
+        "block": 0,
+        "d-line": 6,
+        "d-scoring-line": 4,
+        "defense": 1,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 2,
       "block": 0,
-      "d-line": 14,
-      "d-scoring-line": 6,
-      "defense": 2,
+      "d-line": 20,
+      "d-scoring-line": 10,
+      "defense": 3,
       "drop": 0,
       "goal": 3,
       "o-line": 2,
