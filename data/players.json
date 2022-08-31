@@ -5122,7 +5122,7 @@
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 29.0,
+    "fantasy-points": 38.0,
     "gender": "male",
     "jersey": "",
     "name": "Yadav Ajay",
@@ -5130,8 +5130,8 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 6.0,
-      "d-scoring-line": 10,
+      "d-line": 9.0,
+      "d-scoring-line": 16,
       "defense": 10,
       "drop": 0,
       "goal": 0,
@@ -5176,13 +5176,25 @@
         "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 6,
+        "d-scoring-line": 3,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 12,
-      "d-scoring-line": 5,
+      "d-line": 18,
+      "d-scoring-line": 8,
       "defense": 2,
       "drop": 0,
       "goal": 0,
@@ -10712,7 +10724,7 @@
     "team": "Uttar Pradesh"
   },
   {
-    "fantasy-points": 14.5,
+    "fantasy-points": 13.0,
     "gender": "female",
     "jersey": "17",
     "name": "Anshika Itaunja",
@@ -10720,10 +10732,10 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 4.0,
+      "d-line": 4.5,
       "d-scoring-line": 10,
       "defense": 0,
-      "drop": 0,
+      "drop": -2,
       "goal": 0,
       "o-line": 0.5,
       "o-scoring-line": 0,
@@ -10738,6 +10750,18 @@
         "d-scoring-line": 0,
         "defense": 0,
         "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Karnataka State;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 1,
         "goal": 0,
         "o-line": 0,
         "o-scoring-line": 0,
@@ -10771,10 +10795,10 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 8,
+      "d-line": 9,
       "d-scoring-line": 5,
       "defense": 0,
-      "drop": 0,
+      "drop": 1,
       "goal": 0,
       "o-line": 1,
       "o-scoring-line": 0,
@@ -11079,7 +11103,7 @@
     "team": "Uttar Pradesh"
   },
   {
-    "fantasy-points": 67.0,
+    "fantasy-points": 86.5,
     "gender": "female",
     "jersey": "8",
     "name": "Kajal JMP",
@@ -11087,13 +11111,13 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 9.5,
-      "d-scoring-line": 10,
+      "d-line": 12.5,
+      "d-scoring-line": 12,
       "defense": 0,
       "drop": -2,
-      "goal": 15,
-      "o-line": 15.5,
-      "o-scoring-line": 18,
+      "goal": 21,
+      "o-line": 19.0,
+      "o-scoring-line": 23,
       "throwaway": -2
     },
     "slug": "kajal-jmp",
@@ -11108,6 +11132,18 @@
         "goal": 1,
         "o-line": 13,
         "o-scoring-line": 8,
+        "throwaway": 0
+      },
+      "Karnataka State;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 6,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 2,
+        "o-line": 7,
+        "o-scoring-line": 5,
         "throwaway": 0
       },
       "Maharashtra Ultimate;day-2": {
@@ -11150,13 +11186,13 @@
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 19,
-      "d-scoring-line": 5,
+      "d-line": 25,
+      "d-scoring-line": 6,
       "defense": 0,
       "drop": 1,
-      "goal": 5,
-      "o-line": 31,
-      "o-scoring-line": 18,
+      "goal": 7,
+      "o-line": 38,
+      "o-scoring-line": 23,
       "throwaway": 1
     },
     "team": "Uttar Pradesh"
@@ -11316,7 +11352,7 @@
     "team": "Uttar Pradesh"
   },
   {
-    "fantasy-points": 77.0,
+    "fantasy-points": 97.5,
     "gender": "female",
     "jersey": "97",
     "name": "Mabiya Parbeen",
@@ -11324,13 +11360,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 12.0,
-      "d-scoring-line": 14,
+      "d-line": 15.0,
+      "d-scoring-line": 16,
       "defense": 15,
       "drop": 0,
-      "goal": 12,
-      "o-line": 10.0,
-      "o-scoring-line": 16,
+      "goal": 18,
+      "o-line": 14.5,
+      "o-scoring-line": 21,
       "throwaway": -2
     },
     "slug": "mabiya-parbeen",
@@ -11346,6 +11382,18 @@
         "o-line": 6,
         "o-scoring-line": 4,
         "throwaway": 1
+      },
+      "Karnataka State;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 6,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 2,
+        "o-line": 9,
+        "o-scoring-line": 5,
+        "throwaway": 0
       },
       "Maharashtra Ultimate;day-2": {
         "assist": 0,
@@ -11387,19 +11435,19 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 24,
-      "d-scoring-line": 7,
+      "d-line": 30,
+      "d-scoring-line": 8,
       "defense": 3,
       "drop": 0,
-      "goal": 4,
-      "o-line": 20,
-      "o-scoring-line": 16,
+      "goal": 6,
+      "o-line": 29,
+      "o-scoring-line": 21,
       "throwaway": 1
     },
     "team": "Uttar Pradesh"
   },
   {
-    "fantasy-points": 69.5,
+    "fantasy-points": 85.5,
     "gender": "female",
     "jersey": "9",
     "name": "Manju Kushwaha",
@@ -11407,13 +11455,13 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 14.5,
+      "d-line": 17.5,
       "d-scoring-line": 28,
       "defense": 0,
       "drop": -4,
       "goal": 6,
-      "o-line": 10.0,
-      "o-scoring-line": 14,
+      "o-line": 16.0,
+      "o-scoring-line": 21,
       "throwaway": -2
     },
     "slug": "manju-kushwaha",
@@ -11428,6 +11476,18 @@
         "goal": 0,
         "o-line": 3,
         "o-scoring-line": 2,
+        "throwaway": 0
+      },
+      "Karnataka State;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 6,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 12,
+        "o-scoring-line": 7,
         "throwaway": 0
       },
       "Maharashtra Ultimate;day-2": {
@@ -11470,19 +11530,19 @@
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 29,
+      "d-line": 35,
       "d-scoring-line": 14,
       "defense": 0,
       "drop": 2,
       "goal": 2,
-      "o-line": 20,
-      "o-scoring-line": 14,
+      "o-line": 32,
+      "o-scoring-line": 21,
       "throwaway": 1
     },
     "team": "Uttar Pradesh"
   },
   {
-    "fantasy-points": 26.0,
+    "fantasy-points": 39.5,
     "gender": "female",
     "jersey": "2",
     "name": "Neha Bharti",
@@ -11490,13 +11550,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 5.0,
-      "d-scoring-line": 10,
-      "defense": 5,
+      "d-line": 5.5,
+      "d-scoring-line": 12,
+      "defense": 10,
       "drop": 0,
-      "goal": 3,
-      "o-line": 2.0,
-      "o-scoring-line": 3,
+      "goal": 6,
+      "o-line": 3.0,
+      "o-scoring-line": 5,
       "throwaway": -2
     },
     "slug": "neha-bharti",
@@ -11511,6 +11571,18 @@
         "goal": 0,
         "o-line": 0,
         "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Karnataka State;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 1,
+        "defense": 1,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 2,
+        "o-scoring-line": 2,
         "throwaway": 0
       },
       "Tamilnadu;day-1": {
@@ -11541,13 +11613,13 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 10,
-      "d-scoring-line": 5,
-      "defense": 1,
+      "d-line": 11,
+      "d-scoring-line": 6,
+      "defense": 2,
       "drop": 0,
-      "goal": 1,
-      "o-line": 4,
-      "o-scoring-line": 3,
+      "goal": 2,
+      "o-line": 6,
+      "o-scoring-line": 5,
       "throwaway": 1
     },
     "team": "Uttar Pradesh"
