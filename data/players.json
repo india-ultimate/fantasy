@@ -3610,13 +3610,13 @@
     "name": "Chethan Srikanth",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/PKjA3dD6.280.jpg",
     "points-distribution": {
-      "assist": 6,
+      "assist": 12,
       "block": 0,
       "d-line": 9.5,
       "d-scoring-line": 18,
       "defense": 5,
       "drop": 0,
-      "goal": 6,
+      "goal": 0,
       "o-line": 3.5,
       "o-scoring-line": 6,
       "throwaway": -2
@@ -3660,26 +3660,26 @@
         "throwaway": 0
       },
       "Uttar Pradesh;day-2": {
-        "assist": 0,
+        "assist": 2,
         "block": 0,
         "d-line": 3,
         "d-scoring-line": 2,
         "defense": 0,
         "drop": 0,
-        "goal": 2,
+        "goal": 0,
         "o-line": 3,
         "o-scoring-line": 3,
         "throwaway": 0
       }
     },
     "stats-distribution": {
-      "assist": 2,
+      "assist": 4,
       "block": 0,
       "d-line": 19,
       "d-scoring-line": 9,
       "defense": 1,
       "drop": 0,
-      "goal": 2,
+      "goal": 0,
       "o-line": 7,
       "o-scoring-line": 6,
       "throwaway": 1
@@ -3853,7 +3853,7 @@
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 23.0,
+    "fantasy-points": 42.5,
     "gender": "male",
     "jersey": "18",
     "name": "Grant Wagner",
@@ -3861,14 +3861,14 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 4.5,
-      "d-scoring-line": 14,
-      "defense": 0,
+      "d-line": 6.0,
+      "d-scoring-line": 18,
+      "defense": 10,
       "drop": 0,
-      "goal": 0,
-      "o-line": 1.5,
-      "o-scoring-line": 3,
-      "throwaway": 0
+      "goal": 3,
+      "o-line": 2.5,
+      "o-scoring-line": 5,
+      "throwaway": -2
     },
     "slug": "grant-wagner",
     "stats": {
@@ -3907,19 +3907,31 @@
         "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 3,
+        "d-scoring-line": 2,
+        "defense": 2,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 2,
+        "o-scoring-line": 2,
+        "throwaway": 1
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 9,
-      "d-scoring-line": 7,
-      "defense": 0,
+      "d-line": 12,
+      "d-scoring-line": 9,
+      "defense": 2,
       "drop": 0,
-      "goal": 0,
-      "o-line": 3,
-      "o-scoring-line": 3,
-      "throwaway": 0
+      "goal": 1,
+      "o-line": 5,
+      "o-scoring-line": 5,
+      "throwaway": 1
     },
     "team": "Karnataka State"
   },
@@ -4090,21 +4102,21 @@
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 12.5,
+    "fantasy-points": 25.5,
     "gender": "male",
     "jersey": "9",
     "name": "Naveen G",
     "photo": "https://secure.gravatar.com/avatar/cd62c720b68fabfca34d6eea3a7b9d66?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 0,
+      "assist": 3,
       "block": 0,
-      "d-line": 3.0,
-      "d-scoring-line": 4,
+      "d-line": 4.5,
+      "d-scoring-line": 6,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 2.5,
-      "o-scoring-line": 5,
+      "o-line": 5.0,
+      "o-scoring-line": 9,
       "throwaway": -2
     },
     "slug": "naveen-g",
@@ -4144,18 +4156,30 @@
         "o-line": 2,
         "o-scoring-line": 2,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-2": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 3,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 5,
+        "o-scoring-line": 4,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 1,
       "block": 0,
-      "d-line": 6,
-      "d-scoring-line": 2,
+      "d-line": 9,
+      "d-scoring-line": 3,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 5,
-      "o-scoring-line": 5,
+      "o-line": 10,
+      "o-scoring-line": 9,
       "throwaway": 1
     },
     "team": "Karnataka State"
@@ -4256,7 +4280,7 @@
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 31.0,
+    "fantasy-points": 44.0,
     "gender": "male",
     "jersey": "13",
     "name": "Ranjan Khyadad",
@@ -4264,13 +4288,13 @@
     "points-distribution": {
       "assist": 6,
       "block": 0,
-      "d-line": 4.0,
+      "d-line": 6.0,
       "d-scoring-line": 8,
-      "defense": 10,
+      "defense": 15,
       "drop": 0,
-      "goal": 3,
-      "o-line": 1.0,
-      "o-scoring-line": 1,
+      "goal": 6,
+      "o-line": 2.0,
+      "o-scoring-line": 3,
       "throwaway": -2
     },
     "slug": "ranjan-khyadad",
@@ -4310,24 +4334,36 @@
         "o-line": 2,
         "o-scoring-line": 1,
         "throwaway": 1
+      },
+      "Uttar Pradesh;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 4,
+        "d-scoring-line": 0,
+        "defense": 1,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 2,
+        "o-scoring-line": 2,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 2,
       "block": 0,
-      "d-line": 8,
+      "d-line": 12,
       "d-scoring-line": 4,
-      "defense": 2,
+      "defense": 3,
       "drop": 0,
-      "goal": 1,
-      "o-line": 2,
-      "o-scoring-line": 1,
+      "goal": 2,
+      "o-line": 4,
+      "o-scoring-line": 3,
       "throwaway": 1
     },
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 65.5,
+    "fantasy-points": 80.0,
     "gender": "male",
     "jersey": "",
     "name": "Sabeel Khader",
@@ -4335,14 +4371,14 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 6.0,
-      "d-scoring-line": 16,
+      "d-line": 7.0,
+      "d-scoring-line": 18,
       "defense": 15,
-      "drop": 0,
-      "goal": 9,
-      "o-line": 8.5,
-      "o-scoring-line": 10,
-      "throwaway": -2
+      "drop": -2,
+      "goal": 15,
+      "o-line": 12.0,
+      "o-scoring-line": 16,
+      "throwaway": -4
     },
     "slug": "sabeel-khader",
     "stats": {
@@ -4381,19 +4417,31 @@
         "o-line": 13,
         "o-scoring-line": 7,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 1,
+        "goal": 2,
+        "o-line": 7,
+        "o-scoring-line": 6,
+        "throwaway": 1
       }
     },
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 12,
-      "d-scoring-line": 8,
+      "d-line": 14,
+      "d-scoring-line": 9,
       "defense": 3,
-      "drop": 0,
-      "goal": 3,
-      "o-line": 17,
-      "o-scoring-line": 10,
-      "throwaway": 1
+      "drop": 1,
+      "goal": 5,
+      "o-line": 24,
+      "o-scoring-line": 16,
+      "throwaway": 2
     },
     "team": "Karnataka State"
   },
@@ -4481,7 +4529,7 @@
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 30.5,
+    "fantasy-points": 34.5,
     "gender": "male",
     "jersey": "",
     "name": "Samatv Iyer",
@@ -4489,14 +4537,14 @@
     "points-distribution": {
       "assist": 6,
       "block": 0,
-      "d-line": 6.5,
-      "d-scoring-line": 8,
+      "d-line": 9.0,
+      "d-scoring-line": 10,
       "defense": 0,
       "drop": -2,
       "goal": 3,
-      "o-line": 3.0,
-      "o-scoring-line": 6,
-      "throwaway": 0
+      "o-line": 3.5,
+      "o-scoring-line": 7,
+      "throwaway": -2
     },
     "slug": "samatv-iyer",
     "stats": {
@@ -4535,36 +4583,48 @@
         "o-line": 1,
         "o-scoring-line": 1,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 1
       }
     },
     "stats-distribution": {
       "assist": 2,
       "block": 0,
-      "d-line": 13,
-      "d-scoring-line": 4,
+      "d-line": 18,
+      "d-scoring-line": 5,
       "defense": 0,
       "drop": 1,
       "goal": 1,
-      "o-line": 6,
-      "o-scoring-line": 6,
-      "throwaway": 0
+      "o-line": 7,
+      "o-scoring-line": 7,
+      "throwaway": 1
     },
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 57.0,
+    "fantasy-points": 85.0,
     "gender": "male",
     "jersey": "43",
     "name": "Sarang Minhas",
     "photo": "https://secure.gravatar.com/avatar/7414ade9ca567e4def452079b85485ef?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 6,
+      "assist": 15,
       "block": 0,
-      "d-line": 10.0,
-      "d-scoring-line": 22,
+      "d-line": 13.0,
+      "d-scoring-line": 32,
       "defense": 10,
       "drop": 0,
-      "goal": 3,
+      "goal": 9,
       "o-line": 2.0,
       "o-scoring-line": 4,
       "throwaway": 0
@@ -4606,16 +4666,28 @@
         "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-2": {
+        "assist": 3,
+        "block": 0,
+        "d-line": 6,
+        "d-scoring-line": 5,
+        "defense": 0,
+        "drop": 0,
+        "goal": 2,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
-      "assist": 2,
+      "assist": 5,
       "block": 0,
-      "d-line": 20,
-      "d-scoring-line": 11,
+      "d-line": 26,
+      "d-scoring-line": 16,
       "defense": 2,
       "drop": 0,
-      "goal": 1,
+      "goal": 3,
       "o-line": 4,
       "o-scoring-line": 4,
       "throwaway": 0
