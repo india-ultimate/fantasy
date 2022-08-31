@@ -2448,6 +2448,22 @@
     ]
   },
   {
+    "name": "Gopinath",
+    "valid_team": true,
+    "fantasy_score": 154.0,
+    "timestamp": "23/08/2022 00:06:49",
+    "team_slugs": [
+      "abhishek-pawar",
+      "malti-jhanjhoriya",
+      "prachi-mehta",
+      "ranjan-khyadad",
+      "samyuktha-arvind",
+      "sindhu-m",
+      "sonu-kashyap",
+      "yuvaraj-magesh"
+    ]
+  },
+  {
     "name": "Parmesh",
     "valid_team": true,
     "fantasy_score": 148.0,
@@ -2461,22 +2477,6 @@
       "shrilaxmi-patil",
       "shruthi-nathella",
       "sushil-kumar"
-    ]
-  },
-  {
-    "name": "Gopinath",
-    "valid_team": true,
-    "fantasy_score": 130.0,
-    "timestamp": "23/08/2022 00:06:49",
-    "team_slugs": [
-      "abhishek-pawar",
-      "malti-jhanjhoriya",
-      "prachi-mehta",
-      "ranjan-khyadad",
-      "samyuktha-arvind",
-      "sindhu-m",
-      "sonu-kashyap",
-      "yuvaraj-magesh"
     ]
   },
   {

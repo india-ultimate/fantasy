@@ -5341,7 +5341,7 @@
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 33.0,
+    "fantasy-points": 57.0,
     "gender": "female",
     "jersey": "8",
     "name": "Harshita Kori",
@@ -5349,13 +5349,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 7.0,
-      "d-scoring-line": 6,
+      "d-line": 11.5,
+      "d-scoring-line": 12,
       "defense": 0,
       "drop": -6,
       "goal": 3,
-      "o-line": 14.0,
-      "o-scoring-line": 11,
+      "o-line": 21.5,
+      "o-scoring-line": 17,
       "throwaway": -2
     },
     "slug": "harshita-kori",
@@ -5383,18 +5383,30 @@
         "o-line": 14,
         "o-scoring-line": 7,
         "throwaway": 1
+      },
+      "Maharashtra Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 9,
+        "d-scoring-line": 3,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 15,
+        "o-scoring-line": 6,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 14,
-      "d-scoring-line": 3,
+      "d-line": 23,
+      "d-scoring-line": 6,
       "defense": 0,
       "drop": 3,
       "goal": 1,
-      "o-line": 28,
-      "o-scoring-line": 11,
+      "o-line": 43,
+      "o-scoring-line": 17,
       "throwaway": 1
     },
     "team": "Madhya Pradesh"
@@ -5483,7 +5495,7 @@
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 18.5,
+    "fantasy-points": 42.5,
     "gender": "female",
     "jersey": "13",
     "name": "Malti Jhanjhoriya",
@@ -5491,13 +5503,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 4.5,
-      "d-scoring-line": 2,
+      "d-line": 7.5,
+      "d-scoring-line": 8,
       "defense": 5,
       "drop": -6,
-      "goal": 0,
-      "o-line": 6.0,
-      "o-scoring-line": 7,
+      "goal": 6,
+      "o-line": 11.0,
+      "o-scoring-line": 11,
       "throwaway": 0
     },
     "slug": "malti-jhanjhoriya",
@@ -5525,18 +5537,30 @@
         "o-line": 7,
         "o-scoring-line": 4,
         "throwaway": 0
+      },
+      "Maharashtra Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 6,
+        "d-scoring-line": 3,
+        "defense": 0,
+        "drop": 0,
+        "goal": 2,
+        "o-line": 10,
+        "o-scoring-line": 4,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 9,
-      "d-scoring-line": 1,
+      "d-line": 15,
+      "d-scoring-line": 4,
       "defense": 1,
       "drop": 3,
-      "goal": 0,
-      "o-line": 12,
-      "o-scoring-line": 7,
+      "goal": 2,
+      "o-line": 22,
+      "o-scoring-line": 11,
       "throwaway": 0
     },
     "team": "Madhya Pradesh"
