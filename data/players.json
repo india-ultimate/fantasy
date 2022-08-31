@@ -5137,7 +5137,7 @@
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 170.5,
+    "fantasy-points": 169.5,
     "gender": "female",
     "jersey": "3",
     "name": "Stania Peris",
@@ -5145,13 +5145,13 @@
     "points-distribution": {
       "assist": 27,
       "block": 0,
-      "d-line": 12.0,
+      "d-line": 12.5,
       "d-scoring-line": 28,
       "defense": 25,
       "drop": -4,
       "goal": 36,
-      "o-line": 19.5,
-      "o-scoring-line": 29,
+      "o-line": 19.0,
+      "o-scoring-line": 28,
       "throwaway": -2
     },
     "slug": "stania-peris",
@@ -5183,13 +5183,13 @@
       "Maharashtra Ultimate;day-1": {
         "assist": 1,
         "block": 0,
-        "d-line": 8,
+        "d-line": 9,
         "d-scoring-line": 4,
         "defense": 0,
         "drop": 0,
         "goal": 3,
-        "o-line": 8,
-        "o-scoring-line": 6,
+        "o-line": 7,
+        "o-scoring-line": 5,
         "throwaway": 0
       },
       "Tamilnadu;day-2": {
@@ -5220,13 +5220,13 @@
     "stats-distribution": {
       "assist": 9,
       "block": 0,
-      "d-line": 24,
+      "d-line": 25,
       "d-scoring-line": 14,
       "defense": 5,
       "drop": 2,
       "goal": 12,
-      "o-line": 39,
-      "o-scoring-line": 29,
+      "o-line": 38,
+      "o-scoring-line": 28,
       "throwaway": 1
     },
     "team": "Karnataka State"
