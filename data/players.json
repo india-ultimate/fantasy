@@ -1742,7 +1742,7 @@
     "team": "Delhi Ultimate"
   },
   {
-    "fantasy-points": 20.0,
+    "fantasy-points": 29.5,
     "gender": "male",
     "jersey": "23",
     "name": "Akshay Surange",
@@ -1750,17 +1750,29 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 4.0,
-      "d-scoring-line": 10,
+      "d-line": 8.5,
+      "d-scoring-line": 12,
       "defense": 0,
       "drop": 0,
-      "goal": 3,
+      "goal": 6,
       "o-line": 0.0,
       "o-scoring-line": 0,
       "throwaway": 0
     },
     "slug": "akshay-surange",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 9,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh;day-2": {
         "assist": 1,
         "block": 0,
@@ -1777,11 +1789,11 @@
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 8,
-      "d-scoring-line": 5,
+      "d-line": 17,
+      "d-scoring-line": 6,
       "defense": 0,
       "drop": 0,
-      "goal": 1,
+      "goal": 2,
       "o-line": 0,
       "o-scoring-line": 0,
       "throwaway": 0
@@ -1789,7 +1801,7 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 12.0,
+    "fantasy-points": 12.5,
     "gender": "male",
     "jersey": "11",
     "name": "Altaf Shaikh",
@@ -1797,7 +1809,7 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 2.5,
+      "d-line": 3.0,
       "d-scoring-line": 4,
       "defense": 0,
       "drop": 0,
@@ -1808,6 +1820,18 @@
     },
     "slug": "altaf-shaikh",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh;day-2": {
         "assist": 1,
         "block": 0,
@@ -1824,7 +1848,7 @@
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 5,
+      "d-line": 6,
       "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
@@ -1836,7 +1860,7 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 14.5,
+    "fantasy-points": 20.5,
     "gender": "male",
     "jersey": "29",
     "name": "Ansh Kapadia",
@@ -1844,17 +1868,29 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 3.5,
-      "d-scoring-line": 8,
+      "d-line": 8.0,
+      "d-scoring-line": 10,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 0.0,
-      "o-scoring-line": 0,
-      "throwaway": 0
+      "o-line": 0.5,
+      "o-scoring-line": 1,
+      "throwaway": -2
     },
     "slug": "ansh-kapadia",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 9,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 1
+      },
       "Uttar Pradesh;day-2": {
         "assist": 1,
         "block": 0,
@@ -1871,19 +1907,19 @@
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 7,
-      "d-scoring-line": 4,
+      "d-line": 16,
+      "d-scoring-line": 5,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
-      "throwaway": 0
+      "o-line": 1,
+      "o-scoring-line": 1,
+      "throwaway": 1
     },
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 21.0,
+    "fantasy-points": 42.0,
     "gender": "female",
     "jersey": "97",
     "name": "Arya Shah",
@@ -1891,17 +1927,29 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0.0,
+      "d-line": 0.5,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
-      "goal": 9,
-      "o-line": 5.0,
-      "o-scoring-line": 9,
+      "goal": 12,
+      "o-line": 11.5,
+      "o-scoring-line": 20,
       "throwaway": -2
     },
     "slug": "arya-shah",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 13,
+        "o-scoring-line": 11,
+        "throwaway": 0
+      },
       "Uttar Pradesh;day-2": {
         "assist": 0,
         "block": 0,
@@ -1918,37 +1966,49 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0,
+      "d-line": 1,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
-      "goal": 3,
-      "o-line": 10,
-      "o-scoring-line": 9,
+      "goal": 4,
+      "o-line": 23,
+      "o-scoring-line": 20,
       "throwaway": 1
     },
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 11.0,
+    "fantasy-points": 26.5,
     "gender": "male",
     "jersey": "7",
     "name": "Atul Parmar",
     "photo": "https://secure.gravatar.com/avatar/ed6c26fadedfbea1fa2a44aef7c5bc90?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 3,
+      "assist": 9,
       "block": 0,
       "d-line": 0.0,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
-      "o-line": 3.0,
-      "o-scoring-line": 5,
+      "goal": 3,
+      "o-line": 5.5,
+      "o-scoring-line": 9,
       "throwaway": 0
     },
     "slug": "atul-parmar",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 2,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 5,
+        "o-scoring-line": 4,
+        "throwaway": 0
+      },
       "Uttar Pradesh;day-2": {
         "assist": 1,
         "block": 0,
@@ -1963,21 +2023,21 @@
       }
     },
     "stats-distribution": {
-      "assist": 1,
+      "assist": 3,
       "block": 0,
       "d-line": 0,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
-      "o-line": 6,
-      "o-scoring-line": 5,
+      "goal": 1,
+      "o-line": 11,
+      "o-scoring-line": 9,
       "throwaway": 0
     },
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 24.5,
+    "fantasy-points": 34.0,
     "gender": "female",
     "jersey": "39",
     "name": "Bhavya Jain",
@@ -1985,8 +2045,8 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 5.0,
-      "d-scoring-line": 10,
+      "d-line": 10.5,
+      "d-scoring-line": 14,
       "defense": 0,
       "drop": 0,
       "goal": 9,
@@ -1996,6 +2056,18 @@
     },
     "slug": "bhavya-jain",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 11,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh;day-2": {
         "assist": 0,
         "block": 0,
@@ -2012,8 +2084,8 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 10,
-      "d-scoring-line": 5,
+      "d-line": 21,
+      "d-scoring-line": 7,
       "defense": 0,
       "drop": 0,
       "goal": 3,
@@ -2024,7 +2096,7 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 12.5,
+    "fantasy-points": 15.0,
     "gender": "female",
     "jersey": "6",
     "name": "Dhwani Jain",
@@ -2032,7 +2104,7 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 3.5,
+      "d-line": 6.0,
       "d-scoring-line": 8,
       "defense": 0,
       "drop": -2,
@@ -2043,6 +2115,18 @@
     },
     "slug": "dhwani-jain",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh;day-2": {
         "assist": 1,
         "block": 0,
@@ -2059,7 +2143,7 @@
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 7,
+      "d-line": 12,
       "d-scoring-line": 4,
       "defense": 0,
       "drop": 1,
@@ -2071,7 +2155,7 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 11.5,
+    "fantasy-points": 17.0,
     "gender": "male",
     "jersey": "56",
     "name": "Jigarkumar Parmar",
@@ -2079,17 +2163,29 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2.5,
-      "d-scoring-line": 4,
+      "d-line": 3.0,
+      "d-scoring-line": 6,
       "defense": 5,
       "drop": 0,
-      "goal": 0,
+      "goal": 3,
       "o-line": 0.0,
       "o-scoring-line": 0,
       "throwaway": 0
     },
     "slug": "jigarkumar-parmar",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh;day-2": {
         "assist": 0,
         "block": 0,
@@ -2106,11 +2202,11 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 5,
-      "d-scoring-line": 2,
+      "d-line": 6,
+      "d-scoring-line": 3,
       "defense": 1,
       "drop": 0,
-      "goal": 0,
+      "goal": 1,
       "o-line": 0,
       "o-scoring-line": 0,
       "throwaway": 0
@@ -2118,25 +2214,37 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 19.5,
+    "fantasy-points": 67.5,
     "gender": "male",
     "jersey": "26",
     "name": "Karan Sharam",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/IIdFp0Kw.280.jpg",
     "points-distribution": {
-      "assist": 9,
+      "assist": 24,
       "block": 0,
-      "d-line": 0.0,
-      "d-scoring-line": 0,
-      "defense": 0,
+      "d-line": 0.5,
+      "d-scoring-line": 2,
+      "defense": 5,
       "drop": 0,
-      "goal": 3,
-      "o-line": 4.5,
-      "o-scoring-line": 7,
-      "throwaway": -4
+      "goal": 15,
+      "o-line": 11.0,
+      "o-scoring-line": 18,
+      "throwaway": -8
     },
     "slug": "karan-sharam",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 5,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 1,
+        "defense": 1,
+        "drop": 0,
+        "goal": 4,
+        "o-line": 13,
+        "o-scoring-line": 11,
+        "throwaway": 2
+      },
       "Uttar Pradesh;day-2": {
         "assist": 3,
         "block": 0,
@@ -2151,39 +2259,51 @@
       }
     },
     "stats-distribution": {
-      "assist": 3,
+      "assist": 8,
       "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
-      "defense": 0,
+      "d-line": 1,
+      "d-scoring-line": 1,
+      "defense": 1,
       "drop": 0,
-      "goal": 1,
-      "o-line": 9,
-      "o-scoring-line": 7,
-      "throwaway": 2
+      "goal": 5,
+      "o-line": 22,
+      "o-scoring-line": 18,
+      "throwaway": 4
     },
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 17.5,
+    "fantasy-points": 41.5,
     "gender": "male",
     "jersey": "14",
     "name": "Kenny Borsada",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/WDMSBI51.280.jpg",
     "points-distribution": {
-      "assist": 3,
+      "assist": 6,
       "block": 0,
       "d-line": 0.0,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
-      "goal": 3,
-      "o-line": 4.5,
-      "o-scoring-line": 7,
-      "throwaway": 0
+      "goal": 9,
+      "o-line": 10.5,
+      "o-scoring-line": 18,
+      "throwaway": -2
     },
     "slug": "kenny-borsada",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 2,
+        "o-line": 12,
+        "o-scoring-line": 11,
+        "throwaway": 1
+      },
       "Uttar Pradesh;day-2": {
         "assist": 1,
         "block": 0,
@@ -2198,21 +2318,21 @@
       }
     },
     "stats-distribution": {
-      "assist": 1,
+      "assist": 2,
       "block": 0,
       "d-line": 0,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
-      "goal": 1,
-      "o-line": 9,
-      "o-scoring-line": 7,
-      "throwaway": 0
+      "goal": 3,
+      "o-line": 21,
+      "o-scoring-line": 18,
+      "throwaway": 1
     },
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 8.5,
+    "fantasy-points": 16.0,
     "gender": "female",
     "jersey": "21",
     "name": "Khushi Desai",
@@ -2220,8 +2340,8 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2.5,
-      "d-scoring-line": 6,
+      "d-line": 8.0,
+      "d-scoring-line": 8,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -2231,6 +2351,18 @@
     },
     "slug": "khushi-desai",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 11,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh;day-2": {
         "assist": 0,
         "block": 0,
@@ -2247,8 +2379,8 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 5,
-      "d-scoring-line": 3,
+      "d-line": 16,
+      "d-scoring-line": 4,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -2259,7 +2391,7 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": -0.5,
+    "fantasy-points": 2.5,
     "gender": "female",
     "jersey": "18",
     "name": "Kirtika Khambhu",
@@ -2272,12 +2404,24 @@
       "defense": 0,
       "drop": -4,
       "goal": 0,
-      "o-line": 0.0,
-      "o-scoring-line": 0,
+      "o-line": 1.0,
+      "o-scoring-line": 2,
       "throwaway": 0
     },
     "slug": "kirtika-khambhu",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 2,
+        "o-scoring-line": 2,
+        "throwaway": 0
+      },
       "Uttar Pradesh;day-2": {
         "assist": 0,
         "block": 0,
@@ -2299,23 +2443,23 @@
       "defense": 0,
       "drop": 2,
       "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
+      "o-line": 2,
+      "o-scoring-line": 2,
       "throwaway": 0
     },
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 2.0,
+    "fantasy-points": 8.0,
     "gender": "male",
     "jersey": "19",
     "name": "Krish Patel",
     "photo": "https://secure.gravatar.com/avatar/86c7ccafef333d5a4771eb5d1cb6d6f5?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 0,
+      "assist": 3,
       "block": 0,
-      "d-line": 2.0,
-      "d-scoring-line": 2,
+      "d-line": 3.0,
+      "d-scoring-line": 4,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -2325,6 +2469,18 @@
     },
     "slug": "krish-patel",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh;day-2": {
         "assist": 0,
         "block": 0,
@@ -2339,10 +2495,10 @@
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 1,
       "block": 0,
-      "d-line": 4,
-      "d-scoring-line": 1,
+      "d-line": 6,
+      "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -2353,25 +2509,37 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 7.5,
+    "fantasy-points": 37.5,
     "gender": "male",
     "jersey": "10",
     "name": "Krishna Damor",
     "photo": "https://secure.gravatar.com/avatar/51104b0e57e80648f0e183bf7e13a985?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 0,
+      "assist": 9,
       "block": 0,
-      "d-line": 0.0,
+      "d-line": 0.5,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": -2,
-      "goal": 0,
-      "o-line": 3.5,
-      "o-scoring-line": 6,
+      "goal": 6,
+      "o-line": 9.0,
+      "o-scoring-line": 15,
       "throwaway": 0
     },
     "slug": "krishna-damor",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 3,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 2,
+        "o-line": 11,
+        "o-scoring-line": 9,
+        "throwaway": 0
+      },
       "Uttar Pradesh;day-2": {
         "assist": 0,
         "block": 0,
@@ -2386,21 +2554,21 @@
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 3,
       "block": 0,
-      "d-line": 0,
+      "d-line": 1,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 1,
-      "goal": 0,
-      "o-line": 7,
-      "o-scoring-line": 6,
+      "goal": 2,
+      "o-line": 18,
+      "o-scoring-line": 15,
       "throwaway": 0
     },
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 11.0,
+    "fantasy-points": 31.5,
     "gender": "female",
     "jersey": "1",
     "name": "Maitry Acharya",
@@ -2412,13 +2580,25 @@
       "d-scoring-line": 0,
       "defense": 0,
       "drop": -2,
-      "goal": 3,
-      "o-line": 5.0,
-      "o-scoring-line": 9,
+      "goal": 6,
+      "o-line": 11.5,
+      "o-scoring-line": 20,
       "throwaway": -4
     },
     "slug": "maitry-acharya",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 13,
+        "o-scoring-line": 11,
+        "throwaway": 0
+      },
       "Uttar Pradesh;day-2": {
         "assist": 0,
         "block": 0,
@@ -2439,15 +2619,15 @@
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 1,
-      "goal": 1,
-      "o-line": 10,
-      "o-scoring-line": 9,
+      "goal": 2,
+      "o-line": 23,
+      "o-scoring-line": 20,
       "throwaway": 2
     },
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 26.0,
+    "fantasy-points": 35.5,
     "gender": "female",
     "jersey": "2",
     "name": "Muskan Jain",
@@ -2455,8 +2635,8 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 6.5,
-      "d-scoring-line": 12,
+      "d-line": 12.0,
+      "d-scoring-line": 16,
       "defense": 0,
       "drop": 0,
       "goal": 6,
@@ -2466,6 +2646,18 @@
     },
     "slug": "muskan-jain",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 11,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh;day-2": {
         "assist": 0,
         "block": 0,
@@ -2482,8 +2674,8 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 13,
-      "d-scoring-line": 6,
+      "d-line": 24,
+      "d-scoring-line": 8,
       "defense": 0,
       "drop": 0,
       "goal": 2,
@@ -2494,7 +2686,7 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 0.5,
+    "fantasy-points": 1.5,
     "gender": "female",
     "jersey": "15",
     "name": "Neha Diwakar",
@@ -2502,7 +2694,7 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0.5,
+      "d-line": 1.5,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
@@ -2513,6 +2705,18 @@
     },
     "slug": "neha-diwakar",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh;day-2": {
         "assist": 0,
         "block": 0,
@@ -2529,7 +2733,7 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 1,
+      "d-line": 3,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
@@ -2541,7 +2745,7 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 8.0,
+    "fantasy-points": 12.5,
     "gender": "male",
     "jersey": "3",
     "name": "Nikhil Diwakar",
@@ -2554,12 +2758,24 @@
       "defense": 0,
       "drop": 0,
       "goal": 3,
-      "o-line": 2.0,
-      "o-scoring-line": 3,
+      "o-line": 3.5,
+      "o-scoring-line": 6,
       "throwaway": 0
     },
     "slug": "nikhil-diwakar",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 3,
+        "throwaway": 0
+      },
       "Uttar Pradesh;day-2": {
         "assist": 0,
         "block": 0,
@@ -2581,8 +2797,8 @@
       "defense": 0,
       "drop": 0,
       "goal": 1,
-      "o-line": 4,
-      "o-scoring-line": 3,
+      "o-line": 7,
+      "o-scoring-line": 6,
       "throwaway": 0
     },
     "team": "Gujarat Ultimate"
@@ -2635,7 +2851,7 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 11.5,
+    "fantasy-points": 12.0,
     "gender": "male",
     "jersey": "84",
     "name": "Noman Pthan",
@@ -2648,12 +2864,24 @@
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 2.0,
+      "o-line": 2.5,
       "o-scoring-line": 3,
       "throwaway": 0
     },
     "slug": "noman-pthan",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh;day-2": {
         "assist": 2,
         "block": 0,
@@ -2675,14 +2903,14 @@
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 4,
+      "o-line": 5,
       "o-scoring-line": 3,
       "throwaway": 0
     },
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 7.5,
+    "fantasy-points": 23.0,
     "gender": "female",
     "jersey": "17",
     "name": "Ritika Solanki",
@@ -2695,12 +2923,24 @@
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 3.5,
-      "o-scoring-line": 6,
-      "throwaway": -2
+      "o-line": 10.0,
+      "o-scoring-line": 17,
+      "throwaway": -4
     },
     "slug": "ritika-solanki",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 13,
+        "o-scoring-line": 11,
+        "throwaway": 1
+      },
       "Uttar Pradesh;day-2": {
         "assist": 0,
         "block": 0,
@@ -2722,9 +2962,9 @@
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 7,
-      "o-scoring-line": 6,
-      "throwaway": 1
+      "o-line": 20,
+      "o-scoring-line": 17,
+      "throwaway": 2
     },
     "team": "Gujarat Ultimate"
   },
@@ -2776,7 +3016,7 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 19.5,
+    "fantasy-points": 33.5,
     "gender": "male",
     "jersey": "45",
     "name": "Rutvikkumar Nayka",
@@ -2784,9 +3024,9 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 3.5,
-      "d-scoring-line": 10,
-      "defense": 0,
+      "d-line": 8.5,
+      "d-scoring-line": 14,
+      "defense": 5,
       "drop": 0,
       "goal": 3,
       "o-line": 0.0,
@@ -2795,6 +3035,18 @@
     },
     "slug": "rutvikkumar-nayka",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 10,
+        "d-scoring-line": 2,
+        "defense": 1,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh;day-2": {
         "assist": 1,
         "block": 0,
@@ -2811,9 +3063,9 @@
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 7,
-      "d-scoring-line": 5,
-      "defense": 0,
+      "d-line": 17,
+      "d-scoring-line": 7,
+      "defense": 1,
       "drop": 0,
       "goal": 1,
       "o-line": 0,
@@ -2823,16 +3075,16 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 8.0,
+    "fantasy-points": 16.0,
     "gender": "male",
     "jersey": "35",
     "name": "Sanjay Parmar",
     "photo": "https://secure.gravatar.com/avatar/1931a1c46a28fa02fd6db84f51c4dd84?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 3,
+      "assist": 6,
       "block": 0,
-      "d-line": 3.0,
-      "d-scoring-line": 2,
+      "d-line": 6.0,
+      "d-scoring-line": 4,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -2842,6 +3094,18 @@
     },
     "slug": "sanjay-parmar",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 6,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh;day-2": {
         "assist": 1,
         "block": 0,
@@ -2856,10 +3120,10 @@
       }
     },
     "stats-distribution": {
-      "assist": 1,
+      "assist": 2,
       "block": 0,
-      "d-line": 6,
-      "d-scoring-line": 1,
+      "d-line": 12,
+      "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -2870,7 +3134,7 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 3.5,
+    "fantasy-points": 11.0,
     "gender": "female",
     "jersey": "12",
     "name": "Shraddha Chaudhary",
@@ -2878,17 +3142,29 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0.0,
-      "d-scoring-line": 0,
+      "d-line": 0.5,
+      "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 1.5,
-      "o-scoring-line": 2,
+      "o-line": 3.5,
+      "o-scoring-line": 5,
       "throwaway": 0
     },
     "slug": "shraddha-chaudhary",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 4,
+        "o-scoring-line": 3,
+        "throwaway": 0
+      },
       "Uttar Pradesh;day-2": {
         "assist": 0,
         "block": 0,
@@ -2905,13 +3181,13 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
+      "d-line": 1,
+      "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 3,
-      "o-scoring-line": 2,
+      "o-line": 7,
+      "o-scoring-line": 5,
       "throwaway": 0
     },
     "team": "Gujarat Ultimate"
@@ -2964,7 +3240,7 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 4.5,
+    "fantasy-points": 5.5,
     "gender": "male",
     "jersey": "55",
     "name": "Swayam Narang",
@@ -2972,7 +3248,7 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2.5,
+      "d-line": 3.5,
       "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
@@ -2983,6 +3259,18 @@
     },
     "slug": "swayam-narang",
     "stats": {
+      "Tamilnadu;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
       "Uttar Pradesh;day-2": {
         "assist": 0,
         "block": 0,
@@ -2999,7 +3287,7 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 5,
+      "d-line": 7,
       "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
