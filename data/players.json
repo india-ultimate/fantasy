@@ -3023,7 +3023,7 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 59.0,
+    "fantasy-points": 67.0,
     "gender": "male",
     "jersey": "",
     "name": "Aaron Varghese",
@@ -3037,7 +3037,7 @@
       "drop": 0,
       "goal": 3,
       "o-line": 16.5,
-      "o-scoring-line": 17,
+      "o-scoring-line": 25,
       "throwaway": 0
     },
     "slug": "aaron-varghese",
@@ -3087,7 +3087,7 @@
         "drop": 0,
         "goal": 1,
         "o-line": 9,
-        "o-scoring-line": 0,
+        "o-scoring-line": 8,
         "throwaway": 0
       }
     },
@@ -3100,13 +3100,13 @@
       "drop": 0,
       "goal": 1,
       "o-line": 33,
-      "o-scoring-line": 17,
+      "o-scoring-line": 25,
       "throwaway": 0
     },
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 24.0,
+    "fantasy-points": 41.5,
     "gender": "male",
     "jersey": "",
     "name": "Abdul Talib",
@@ -3114,11 +3114,11 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 6.0,
-      "d-scoring-line": 10,
-      "defense": 5,
+      "d-line": 8.5,
+      "d-scoring-line": 14,
+      "defense": 10,
       "drop": 0,
-      "goal": 3,
+      "goal": 9,
       "o-line": 1.0,
       "o-scoring-line": 2,
       "throwaway": -6
@@ -3160,16 +3160,28 @@
         "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 2,
+        "defense": 1,
+        "drop": 0,
+        "goal": 2,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 12,
-      "d-scoring-line": 5,
-      "defense": 1,
+      "d-line": 17,
+      "d-scoring-line": 7,
+      "defense": 2,
       "drop": 0,
-      "goal": 1,
+      "goal": 3,
       "o-line": 2,
       "o-scoring-line": 2,
       "throwaway": 3
@@ -3592,7 +3604,7 @@
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 36.0,
+    "fantasy-points": 49.0,
     "gender": "male",
     "jersey": "",
     "name": "Chethan Srikanth",
@@ -3600,12 +3612,12 @@
     "points-distribution": {
       "assist": 6,
       "block": 0,
-      "d-line": 8.0,
-      "d-scoring-line": 14,
+      "d-line": 9.5,
+      "d-scoring-line": 18,
       "defense": 5,
       "drop": 0,
-      "goal": 0,
-      "o-line": 2.0,
+      "goal": 6,
+      "o-line": 3.5,
       "o-scoring-line": 3,
       "throwaway": -2
     },
@@ -3646,17 +3658,29 @@
         "o-line": 2,
         "o-scoring-line": 1,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 3,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 0,
+        "goal": 2,
+        "o-line": 3,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 2,
       "block": 0,
-      "d-line": 16,
-      "d-scoring-line": 7,
+      "d-line": 19,
+      "d-scoring-line": 9,
       "defense": 1,
       "drop": 0,
-      "goal": 0,
-      "o-line": 4,
+      "goal": 2,
+      "o-line": 7,
       "o-scoring-line": 3,
       "throwaway": 1
     },
