@@ -5805,7 +5805,7 @@
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 10.0,
+    "fantasy-points": 17.0,
     "gender": "male",
     "jersey": "27",
     "name": "Abhishek Pawar",
@@ -5817,9 +5817,9 @@
       "d-scoring-line": 0,
       "defense": 5,
       "drop": -2,
-      "goal": 3,
-      "o-line": 4.0,
-      "o-scoring-line": 2,
+      "goal": 6,
+      "o-line": 6.0,
+      "o-scoring-line": 4,
       "throwaway": -4
     },
     "slug": "abhishek-pawar",
@@ -5835,6 +5835,18 @@
         "o-line": 4,
         "o-scoring-line": 0,
         "throwaway": 1
+      },
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 4,
+        "o-scoring-line": 2,
+        "throwaway": 0
       },
       "Maharashtra Ultimate;day-1": {
         "assist": 0,
@@ -5868,30 +5880,30 @@
       "d-scoring-line": 0,
       "defense": 1,
       "drop": 1,
-      "goal": 1,
-      "o-line": 8,
-      "o-scoring-line": 2,
+      "goal": 2,
+      "o-line": 12,
+      "o-scoring-line": 4,
       "throwaway": 2
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 43.0,
+    "fantasy-points": 50.5,
     "gender": "male",
     "jersey": "1",
     "name": "Anish Mallah",
     "photo": "https://secure.gravatar.com/avatar/e583d3b374109404f52713b14690e9d9?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 12,
+      "assist": 15,
       "block": 0,
-      "d-line": 8.0,
+      "d-line": 10.0,
       "d-scoring-line": 6,
       "defense": 5,
       "drop": -4,
       "goal": 6,
-      "o-line": 12.0,
-      "o-scoring-line": 6,
-      "throwaway": -8
+      "o-line": 14.5,
+      "o-scoring-line": 8,
+      "throwaway": -10
     },
     "slug": "anish-mallah",
     "stats": {
@@ -5905,6 +5917,18 @@
         "goal": 1,
         "o-line": 10,
         "o-scoring-line": 0,
+        "throwaway": 1
+      },
+      "Karnataka State;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 4,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 5,
+        "o-scoring-line": 2,
         "throwaway": 1
       },
       "Maharashtra Ultimate;day-1": {
@@ -5933,21 +5957,21 @@
       }
     },
     "stats-distribution": {
-      "assist": 4,
+      "assist": 5,
       "block": 0,
-      "d-line": 16,
+      "d-line": 20,
       "d-scoring-line": 3,
       "defense": 1,
       "drop": 2,
       "goal": 2,
-      "o-line": 24,
-      "o-scoring-line": 6,
-      "throwaway": 4
+      "o-line": 29,
+      "o-scoring-line": 8,
+      "throwaway": 5
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 14.0,
+    "fantasy-points": 15.0,
     "gender": "male",
     "jersey": "7",
     "name": "Anurag Patel",
@@ -5955,7 +5979,7 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 5.0,
+      "d-line": 6.0,
       "d-scoring-line": 4,
       "defense": 0,
       "drop": 0,
@@ -5976,6 +6000,18 @@
         "goal": 0,
         "o-line": 2,
         "o-scoring-line": 1,
+        "throwaway": 0
+      },
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
         "throwaway": 0
       },
       "Maharashtra Ultimate;day-1": {
@@ -6006,7 +6042,7 @@
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 10,
+      "d-line": 12,
       "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
@@ -6018,7 +6054,7 @@
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 2.5,
+    "fantasy-points": 5.5,
     "gender": "female",
     "jersey": "88",
     "name": "Anushka Mallah",
@@ -6026,13 +6062,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0.0,
+      "d-line": 0.5,
       "d-scoring-line": 0,
       "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 1.5,
-      "o-scoring-line": 1,
+      "drop": -2,
+      "goal": 3,
+      "o-line": 2.0,
+      "o-scoring-line": 2,
       "throwaway": 0
     },
     "slug": "anushka-mallah",
@@ -6048,24 +6084,36 @@
         "o-line": 3,
         "o-scoring-line": 1,
         "throwaway": 0
+      },
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 1,
+        "goal": 1,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0,
+      "d-line": 1,
       "d-scoring-line": 0,
       "defense": 0,
-      "drop": 0,
-      "goal": 0,
-      "o-line": 3,
-      "o-scoring-line": 1,
+      "drop": 1,
+      "goal": 1,
+      "o-line": 4,
+      "o-scoring-line": 2,
       "throwaway": 0
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 96.5,
+    "fantasy-points": 98.0,
     "gender": "male",
     "jersey": "99",
     "name": "Aryan Rawat",
@@ -6073,14 +6121,14 @@
     "points-distribution": {
       "assist": 15,
       "block": 0,
-      "d-line": 11.5,
+      "d-line": 13.0,
       "d-scoring-line": 14,
-      "defense": 15,
-      "drop": -4,
+      "defense": 20,
+      "drop": -10,
       "goal": 24,
-      "o-line": 13.0,
+      "o-line": 16.0,
       "o-scoring-line": 10,
-      "throwaway": -2
+      "throwaway": -4
     },
     "slug": "aryan-rawat",
     "stats": {
@@ -6095,6 +6143,18 @@
         "o-line": 4,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 3,
+        "d-scoring-line": 0,
+        "defense": 1,
+        "drop": 3,
+        "goal": 0,
+        "o-line": 6,
+        "o-scoring-line": 0,
+        "throwaway": 1
       },
       "Maharashtra Ultimate;day-1": {
         "assist": 3,
@@ -6124,19 +6184,19 @@
     "stats-distribution": {
       "assist": 5,
       "block": 0,
-      "d-line": 23,
+      "d-line": 26,
       "d-scoring-line": 7,
-      "defense": 3,
-      "drop": 2,
+      "defense": 4,
+      "drop": 5,
       "goal": 8,
-      "o-line": 26,
+      "o-line": 32,
       "o-scoring-line": 10,
-      "throwaway": 1
+      "throwaway": 2
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 2.0,
+    "fantasy-points": 3.5,
     "gender": "male",
     "jersey": "17",
     "name": "Dhanraj Kalar",
@@ -6149,8 +6209,8 @@
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 0.0,
-      "o-scoring-line": 0,
+      "o-line": 0.5,
+      "o-scoring-line": 1,
       "throwaway": -2
     },
     "slug": "dhanraj-kalar",
@@ -6165,6 +6225,18 @@
         "goal": 0,
         "o-line": 0,
         "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
         "throwaway": 0
       },
       "Maharashtra Ultimate;day-1": {
@@ -6188,14 +6260,14 @@
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
+      "o-line": 1,
+      "o-scoring-line": 1,
       "throwaway": 1
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 0.5,
+    "fantasy-points": 2.5,
     "gender": "male",
     "jersey": "4",
     "name": "Dilbaras Parmar",
@@ -6203,17 +6275,29 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0.0,
+      "d-line": 0.5,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 0.5,
-      "o-scoring-line": 0,
+      "o-line": 1.0,
+      "o-scoring-line": 1,
       "throwaway": 0
     },
     "slug": "dilbaras-parmar",
     "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 0
+      },
       "Maharashtra Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -6230,19 +6314,19 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0,
+      "d-line": 1,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 1,
-      "o-scoring-line": 0,
+      "o-line": 2,
+      "o-scoring-line": 1,
       "throwaway": 0
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 21.0,
+    "fantasy-points": 23.0,
     "gender": "male",
     "jersey": "10",
     "name": "Harsh Kori",
@@ -6255,7 +6339,7 @@
       "defense": 0,
       "drop": 0,
       "goal": 3,
-      "o-line": 10.0,
+      "o-line": 12.0,
       "o-scoring-line": 8,
       "throwaway": -4
     },
@@ -6270,6 +6354,18 @@
         "drop": 0,
         "goal": 0,
         "o-line": 5,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 4,
         "o-scoring-line": 0,
         "throwaway": 0
       },
@@ -6306,14 +6402,14 @@
       "defense": 0,
       "drop": 0,
       "goal": 1,
-      "o-line": 20,
+      "o-line": 24,
       "o-scoring-line": 8,
       "throwaway": 2
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 57.0,
+    "fantasy-points": 64.5,
     "gender": "female",
     "jersey": "8",
     "name": "Harshita Kori",
@@ -6321,13 +6417,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 11.5,
+      "d-line": 13.5,
       "d-scoring-line": 12,
       "defense": 0,
-      "drop": -6,
+      "drop": -10,
       "goal": 3,
-      "o-line": 21.5,
-      "o-scoring-line": 17,
+      "o-line": 28.0,
+      "o-scoring-line": 20,
       "throwaway": -2
     },
     "slug": "harshita-kori",
@@ -6342,6 +6438,18 @@
         "goal": 1,
         "o-line": 14,
         "o-scoring-line": 4,
+        "throwaway": 0
+      },
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 4,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 2,
+        "goal": 0,
+        "o-line": 13,
+        "o-scoring-line": 3,
         "throwaway": 0
       },
       "Maharashtra Ultimate;day-1": {
@@ -6372,31 +6480,66 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 23,
+      "d-line": 27,
       "d-scoring-line": 6,
       "defense": 0,
-      "drop": 3,
+      "drop": 5,
       "goal": 1,
-      "o-line": 43,
-      "o-scoring-line": 17,
+      "o-line": 56,
+      "o-scoring-line": 20,
       "throwaway": 1
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 0.5,
     "gender": "female",
     "jersey": "12",
     "name": "Jiya Parmar",
     "photo": "https://secure.gravatar.com/avatar/bf3264cf7de2be6ef19c190cdb2dba88?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0.0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0.5,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "slug": "jiya-parmar",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 70.0,
+    "fantasy-points": 77.0,
     "gender": "male",
     "jersey": "77",
     "name": "Karan Mallah",
@@ -6404,13 +6547,13 @@
     "points-distribution": {
       "assist": 15,
       "block": 0,
-      "d-line": 11.0,
+      "d-line": 13.0,
       "d-scoring-line": 14,
       "defense": 15,
       "drop": -4,
       "goal": 3,
-      "o-line": 9.0,
-      "o-scoring-line": 9,
+      "o-line": 12.0,
+      "o-scoring-line": 11,
       "throwaway": -2
     },
     "slug": "karan-mallah",
@@ -6425,6 +6568,18 @@
         "goal": 0,
         "o-line": 4,
         "o-scoring-line": 1,
+        "throwaway": 0
+      },
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 4,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 6,
+        "o-scoring-line": 2,
         "throwaway": 0
       },
       "Maharashtra Ultimate;day-1": {
@@ -6455,31 +6610,66 @@
     "stats-distribution": {
       "assist": 5,
       "block": 0,
-      "d-line": 22,
+      "d-line": 26,
       "d-scoring-line": 7,
       "defense": 3,
       "drop": 2,
       "goal": 1,
-      "o-line": 18,
-      "o-scoring-line": 9,
+      "o-line": 24,
+      "o-scoring-line": 11,
       "throwaway": 1
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 2.5,
     "gender": "male",
     "jersey": "",
     "name": "Kunal Namdev",
     "photo": "https://secure.gravatar.com/avatar/e95bdeed0c65f64b3fe660e85f67f637?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0.5,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1.0,
+      "o-scoring-line": 1,
+      "throwaway": 0
+    },
     "slug": "kunal-namdev",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 2,
+        "o-scoring-line": 1,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 2,
+      "o-scoring-line": 1,
+      "throwaway": 0
+    },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 42.5,
+    "fantasy-points": 47.0,
     "gender": "female",
     "jersey": "13",
     "name": "Malti Jhanjhoriya",
@@ -6487,12 +6677,12 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 7.5,
+      "d-line": 8.5,
       "d-scoring-line": 8,
       "defense": 5,
       "drop": -6,
       "goal": 6,
-      "o-line": 11.0,
+      "o-line": 14.5,
       "o-scoring-line": 11,
       "throwaway": 0
     },
@@ -6508,6 +6698,18 @@
         "goal": 0,
         "o-line": 5,
         "o-scoring-line": 3,
+        "throwaway": 0
+      },
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 7,
+        "o-scoring-line": 0,
         "throwaway": 0
       },
       "Maharashtra Ultimate;day-1": {
@@ -6538,19 +6740,19 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 15,
+      "d-line": 17,
       "d-scoring-line": 4,
       "defense": 1,
       "drop": 3,
       "goal": 2,
-      "o-line": 22,
+      "o-line": 29,
       "o-scoring-line": 11,
       "throwaway": 0
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 78.5,
+    "fantasy-points": 90.5,
     "gender": "female",
     "jersey": "33",
     "name": "Muskaan Mallah",
@@ -6558,14 +6760,14 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 13.0,
+      "d-line": 15.5,
       "d-scoring-line": 14,
       "defense": 5,
-      "drop": 0,
-      "goal": 12,
-      "o-line": 19.5,
-      "o-scoring-line": 15,
-      "throwaway": 0
+      "drop": -2,
+      "goal": 18,
+      "o-line": 25.0,
+      "o-scoring-line": 17,
+      "throwaway": -2
     },
     "slug": "muskaan-mallah",
     "stats": {
@@ -6580,6 +6782,18 @@
         "o-line": 13,
         "o-scoring-line": 4,
         "throwaway": 0
+      },
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 1,
+        "goal": 2,
+        "o-line": 11,
+        "o-scoring-line": 2,
+        "throwaway": 1
       },
       "Maharashtra Ultimate;day-1": {
         "assist": 0,
@@ -6609,19 +6823,19 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 26,
+      "d-line": 31,
       "d-scoring-line": 7,
       "defense": 1,
-      "drop": 0,
-      "goal": 4,
-      "o-line": 39,
-      "o-scoring-line": 15,
-      "throwaway": 0
+      "drop": 1,
+      "goal": 6,
+      "o-line": 50,
+      "o-scoring-line": 17,
+      "throwaway": 1
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 31.5,
+    "fantasy-points": 34.0,
     "gender": "male",
     "jersey": "11",
     "name": "Om Yadav",
@@ -6634,7 +6848,7 @@
       "defense": 0,
       "drop": -6,
       "goal": 6,
-      "o-line": 9.0,
+      "o-line": 11.5,
       "o-scoring-line": 7,
       "throwaway": 0
     },
@@ -6650,6 +6864,18 @@
         "goal": 1,
         "o-line": 6,
         "o-scoring-line": 1,
+        "throwaway": 0
+      },
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 5,
+        "o-scoring-line": 0,
         "throwaway": 0
       },
       "Maharashtra Ultimate;day-1": {
@@ -6685,14 +6911,14 @@
       "defense": 0,
       "drop": 3,
       "goal": 2,
-      "o-line": 18,
+      "o-line": 23,
       "o-scoring-line": 7,
       "throwaway": 0
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 3.0,
+    "fantasy-points": 4.5,
     "gender": "male",
     "jersey": "3",
     "name": "Radhepal Choudhary",
@@ -6705,8 +6931,8 @@
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 0.0,
-      "o-scoring-line": 0,
+      "o-line": 0.5,
+      "o-scoring-line": 1,
       "throwaway": 0
     },
     "slug": "radhepal-choudhary",
@@ -6722,6 +6948,18 @@
         "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
@@ -6732,26 +6970,61 @@
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
+      "o-line": 1,
+      "o-scoring-line": 1,
       "throwaway": 0
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 2.5,
     "gender": "male",
     "jersey": "2",
     "name": "Rajveer Parmar",
     "photo": "https://secure.gravatar.com/avatar/5c4a4de2b9c2f16d3bcca1d01aa3fa39?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0.5,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1.0,
+      "o-scoring-line": 1,
+      "throwaway": 0
+    },
     "slug": "rajveer-parmar",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 2,
+        "o-scoring-line": 1,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 2,
+      "o-scoring-line": 1,
+      "throwaway": 0
+    },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 18.5,
+    "fantasy-points": 16.5,
     "gender": "male",
     "jersey": "14",
     "name": "Rizwan Singh",
@@ -6759,14 +7032,14 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 2.5,
+      "d-line": 3.0,
       "d-scoring-line": 2,
       "defense": 10,
-      "drop": -8,
+      "drop": -10,
       "goal": 0,
-      "o-line": 6.0,
+      "o-line": 7.5,
       "o-scoring-line": 3,
-      "throwaway": 0
+      "throwaway": -2
     },
     "slug": "rizwan-singh",
     "stats": {
@@ -6781,6 +7054,18 @@
         "o-line": 6,
         "o-scoring-line": 2,
         "throwaway": 0
+      },
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 1,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 0,
+        "throwaway": 1
       },
       "Maharashtra Ultimate;day-1": {
         "assist": 0,
@@ -6810,19 +7095,19 @@
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 5,
+      "d-line": 6,
       "d-scoring-line": 1,
       "defense": 2,
-      "drop": 4,
+      "drop": 5,
       "goal": 0,
-      "o-line": 12,
+      "o-line": 15,
       "o-scoring-line": 3,
-      "throwaway": 0
+      "throwaway": 1
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 17.5,
+    "fantasy-points": 23.5,
     "gender": "female",
     "jersey": "19",
     "name": "Sakshi Mallah",
@@ -6830,13 +7115,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 3.5,
+      "d-line": 5.0,
       "d-scoring-line": 4,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 4.0,
-      "o-scoring-line": 6,
+      "o-line": 6.5,
+      "o-scoring-line": 8,
       "throwaway": 0
     },
     "slug": "sakshi-mallah",
@@ -6851,6 +7136,18 @@
         "goal": 0,
         "o-line": 3,
         "o-scoring-line": 1,
+        "throwaway": 0
+      },
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 3,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 5,
+        "o-scoring-line": 2,
         "throwaway": 0
       },
       "Maharashtra Ultimate;day-1": {
@@ -6881,31 +7178,66 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 7,
+      "d-line": 10,
       "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 8,
-      "o-scoring-line": 6,
+      "o-line": 13,
+      "o-scoring-line": 8,
       "throwaway": 0
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 0.5,
     "gender": "female",
     "jersey": "22",
     "name": "Shagun Kori",
     "photo": "https://secure.gravatar.com/avatar/d02e216693dd51e0dc279523043354a9?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0.0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0.5,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "slug": "shagun-kori",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 1,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 46.0,
+    "fantasy-points": 52.0,
     "gender": "female",
     "jersey": "18",
     "name": "Shraddha Tiwari",
@@ -6916,10 +7248,10 @@
       "d-line": 6.5,
       "d-scoring-line": 6,
       "defense": 0,
-      "drop": -2,
+      "drop": -4,
       "goal": 6,
-      "o-line": 16.5,
-      "o-scoring-line": 12,
+      "o-line": 20.5,
+      "o-scoring-line": 16,
       "throwaway": -2
     },
     "slug": "shraddha-tiwari",
@@ -6934,6 +7266,18 @@
         "goal": 0,
         "o-line": 10,
         "o-scoring-line": 3,
+        "throwaway": 0
+      },
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 1,
+        "goal": 0,
+        "o-line": 8,
+        "o-scoring-line": 4,
         "throwaway": 0
       },
       "Maharashtra Ultimate;day-1": {
@@ -6967,16 +7311,16 @@
       "d-line": 13,
       "d-scoring-line": 3,
       "defense": 0,
-      "drop": 1,
+      "drop": 2,
       "goal": 2,
-      "o-line": 33,
-      "o-scoring-line": 12,
+      "o-line": 41,
+      "o-scoring-line": 16,
       "throwaway": 1
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 2.5,
+    "fantasy-points": 5.5,
     "gender": "female",
     "jersey": "81",
     "name": "Shruti Kori",
@@ -6984,13 +7328,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 1.5,
+      "d-line": 3.0,
       "d-scoring-line": 2,
       "defense": 0,
       "drop": -2,
       "goal": 0,
-      "o-line": 1.0,
-      "o-scoring-line": 0,
+      "o-line": 1.5,
+      "o-scoring-line": 1,
       "throwaway": 0
     },
     "slug": "shruti-kori",
@@ -7005,6 +7349,18 @@
         "goal": 0,
         "o-line": 2,
         "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Karnataka State;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 3,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
         "throwaway": 0
       },
       "Maharashtra Ultimate;day-1": {
@@ -7023,34 +7379,34 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 3,
+      "d-line": 6,
       "d-scoring-line": 1,
       "defense": 0,
       "drop": 1,
       "goal": 0,
-      "o-line": 2,
-      "o-scoring-line": 0,
+      "o-line": 3,
+      "o-scoring-line": 1,
       "throwaway": 0
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 16.5,
+    "fantasy-points": 26.5,
     "gender": "male",
     "jersey": "9",
     "name": "Stephen Charles",
     "photo": "https://secure.gravatar.com/avatar/c2cdac48c62bba5ca52a2f583e3e8930?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 12,
+      "assist": 21,
       "block": 0,
       "d-line": 1.5,
       "d-scoring-line": 0,
       "defense": 5,
-      "drop": -4,
+      "drop": -6,
       "goal": 0,
-      "o-line": 11.0,
-      "o-scoring-line": 5,
-      "throwaway": -14
+      "o-line": 16.0,
+      "o-scoring-line": 9,
+      "throwaway": -20
     },
     "slug": "stephen-charles",
     "stats": {
@@ -7065,6 +7421,18 @@
         "o-line": 7,
         "o-scoring-line": 1,
         "throwaway": 0
+      },
+      "Karnataka State;day-1": {
+        "assist": 3,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 1,
+        "goal": 0,
+        "o-line": 10,
+        "o-scoring-line": 4,
+        "throwaway": 3
       },
       "Maharashtra Ultimate;day-1": {
         "assist": 0,
@@ -7092,16 +7460,16 @@
       }
     },
     "stats-distribution": {
-      "assist": 4,
+      "assist": 7,
       "block": 0,
       "d-line": 3,
       "d-scoring-line": 0,
       "defense": 1,
-      "drop": 2,
+      "drop": 3,
       "goal": 0,
-      "o-line": 22,
-      "o-scoring-line": 5,
-      "throwaway": 7
+      "o-line": 32,
+      "o-scoring-line": 9,
+      "throwaway": 10
     },
     "team": "Madhya Pradesh"
   },
