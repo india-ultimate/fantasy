@@ -10709,7 +10709,7 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 9.0,
+    "fantasy-points": 15.0,
     "gender": "male",
     "jersey": "",
     "name": "Arulmozhi Selvan",
@@ -10717,12 +10717,12 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 1.0,
+      "d-line": 1.5,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
-      "o-line": 3.0,
+      "goal": 3,
+      "o-line": 5.5,
       "o-scoring-line": 5,
       "throwaway": 0
     },
@@ -10751,24 +10751,36 @@
         "o-line": 3,
         "o-scoring-line": 2,
         "throwaway": 0
+      },
+      "Karnataka State;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 5,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2,
+      "d-line": 3,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
-      "o-line": 6,
+      "goal": 1,
+      "o-line": 11,
       "o-scoring-line": 5,
       "throwaway": 0
     },
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 29.5,
+    "fantasy-points": 59.5,
     "gender": "female",
     "jersey": "",
     "name": "Deepika Shankar",
@@ -10776,11 +10788,11 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 8.5,
-      "d-scoring-line": 12,
-      "defense": 10,
+      "d-line": 13.5,
+      "d-scoring-line": 24,
+      "defense": 20,
       "drop": -2,
-      "goal": 3,
+      "goal": 6,
       "o-line": 0.0,
       "o-scoring-line": 0,
       "throwaway": -2
@@ -10810,16 +10822,28 @@
         "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 1
+      },
+      "Karnataka State;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 10,
+        "d-scoring-line": 6,
+        "defense": 2,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 17,
-      "d-scoring-line": 6,
-      "defense": 2,
+      "d-line": 27,
+      "d-scoring-line": 12,
+      "defense": 4,
       "drop": 1,
-      "goal": 1,
+      "goal": 2,
       "o-line": 0,
       "o-scoring-line": 0,
       "throwaway": 1
@@ -10827,7 +10851,7 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 6.0,
+    "fantasy-points": 8.5,
     "gender": "female",
     "jersey": "",
     "name": "Gothainayagi R",
@@ -10835,13 +10859,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2.5,
+      "d-line": 3.0,
       "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 0.5,
-      "o-scoring-line": 1,
+      "o-line": 1.5,
+      "o-scoring-line": 2,
       "throwaway": 0
     },
     "slug": "gothainayagi-r",
@@ -10869,18 +10893,30 @@
         "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Karnataka State;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 2,
+        "o-scoring-line": 1,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 5,
+      "d-line": 6,
       "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 1,
-      "o-scoring-line": 1,
+      "o-line": 3,
+      "o-scoring-line": 2,
       "throwaway": 0
     },
     "team": "Tamilnadu"
@@ -11181,7 +11217,7 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 32.0,
+    "fantasy-points": 44.0,
     "gender": "female",
     "jersey": "8",
     "name": "Koka Mrinalini Siddhartha",
@@ -11193,9 +11229,9 @@
       "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
-      "goal": 6,
-      "o-line": 6.5,
-      "o-scoring-line": 13,
+      "goal": 9,
+      "o-line": 9.5,
+      "o-scoring-line": 19,
       "throwaway": 0
     },
     "slug": "koka-mrinalini-siddhartha",
@@ -11223,6 +11259,18 @@
         "o-line": 8,
         "o-scoring-line": 8,
         "throwaway": 0
+      },
+      "Karnataka State;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 6,
+        "o-scoring-line": 6,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
@@ -11232,9 +11280,9 @@
       "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
-      "goal": 2,
-      "o-line": 13,
-      "o-scoring-line": 13,
+      "goal": 3,
+      "o-line": 19,
+      "o-scoring-line": 19,
       "throwaway": 0
     },
     "team": "Tamilnadu"
@@ -11346,21 +11394,21 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 33.5,
+    "fantasy-points": 61.0,
     "gender": "female",
     "jersey": "",
     "name": "Monika Shankar",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/lwU37uPR.280.jpg",
     "points-distribution": {
-      "assist": 0,
+      "assist": 6,
       "block": 0,
-      "d-line": 2.0,
-      "d-scoring-line": 4,
+      "d-line": 5.0,
+      "d-scoring-line": 12,
       "defense": 0,
       "drop": 0,
       "goal": 6,
-      "o-line": 8.5,
-      "o-scoring-line": 15,
+      "o-line": 12.0,
+      "o-scoring-line": 22,
       "throwaway": -2
     },
     "slug": "monika-shankar",
@@ -11388,24 +11436,36 @@
         "o-line": 11,
         "o-scoring-line": 9,
         "throwaway": 1
+      },
+      "Karnataka State;day-2": {
+        "assist": 2,
+        "block": 0,
+        "d-line": 6,
+        "d-scoring-line": 4,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 7,
+        "o-scoring-line": 7,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 2,
       "block": 0,
-      "d-line": 4,
-      "d-scoring-line": 2,
+      "d-line": 10,
+      "d-scoring-line": 6,
       "defense": 0,
       "drop": 0,
       "goal": 2,
-      "o-line": 17,
-      "o-scoring-line": 15,
+      "o-line": 24,
+      "o-scoring-line": 22,
       "throwaway": 1
     },
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 7.5,
+    "fantasy-points": 10.5,
     "gender": "female",
     "jersey": "18",
     "name": "Pooja Bapat",
@@ -11413,8 +11473,8 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 3.5,
-      "d-scoring-line": 6,
+      "d-line": 4.5,
+      "d-scoring-line": 8,
       "defense": 0,
       "drop": -2,
       "goal": 0,
@@ -11447,13 +11507,25 @@
         "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Karnataka State;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 7,
-      "d-scoring-line": 3,
+      "d-line": 9,
+      "d-scoring-line": 4,
       "defense": 0,
       "drop": 1,
       "goal": 0,
@@ -11535,7 +11607,7 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 11.5,
+    "fantasy-points": 16.0,
     "gender": "female",
     "jersey": "0",
     "name": "Sagarika AP",
@@ -11543,8 +11615,8 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 5.5,
-      "d-scoring-line": 6,
+      "d-line": 8.0,
+      "d-scoring-line": 8,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -11577,13 +11649,25 @@
         "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Karnataka State;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 11,
-      "d-scoring-line": 3,
+      "d-line": 16,
+      "d-scoring-line": 4,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -11594,7 +11678,7 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 17.0,
+    "fantasy-points": 22.5,
     "gender": "female",
     "jersey": "94",
     "name": "Samyuktha Arvind",
@@ -11602,11 +11686,11 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 6.0,
-      "d-scoring-line": 8,
+      "d-line": 8.5,
+      "d-scoring-line": 10,
       "defense": 0,
-      "drop": 0,
-      "goal": 0,
+      "drop": -2,
+      "goal": 3,
       "o-line": 0.0,
       "o-scoring-line": 0,
       "throwaway": 0
@@ -11636,16 +11720,28 @@
         "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Karnataka State;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 1,
+        "goal": 1,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 12,
-      "d-scoring-line": 4,
+      "d-line": 17,
+      "d-scoring-line": 5,
       "defense": 0,
-      "drop": 0,
-      "goal": 0,
+      "drop": 1,
+      "goal": 1,
       "o-line": 0,
       "o-scoring-line": 0,
       "throwaway": 0
@@ -11653,7 +11749,7 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 51.5,
+    "fantasy-points": 73.5,
     "gender": "female",
     "jersey": "",
     "name": "Selvi Murugan",
@@ -11661,13 +11757,13 @@
     "points-distribution": {
       "assist": 6,
       "block": 0,
-      "d-line": 2.5,
-      "d-scoring-line": 6,
+      "d-line": 4.0,
+      "d-scoring-line": 10,
       "defense": 0,
       "drop": 0,
-      "goal": 9,
-      "o-line": 10.0,
-      "o-scoring-line": 18,
+      "goal": 12,
+      "o-line": 14.5,
+      "o-scoring-line": 27,
       "throwaway": 0
     },
     "slug": "selvi-murugan",
@@ -11695,39 +11791,51 @@
         "o-line": 12,
         "o-scoring-line": 10,
         "throwaway": 0
+      },
+      "Karnataka State;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 3,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 9,
+        "o-scoring-line": 9,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 2,
       "block": 0,
-      "d-line": 5,
-      "d-scoring-line": 3,
+      "d-line": 8,
+      "d-scoring-line": 5,
       "defense": 0,
       "drop": 0,
-      "goal": 3,
-      "o-line": 20,
-      "o-scoring-line": 18,
+      "goal": 4,
+      "o-line": 29,
+      "o-scoring-line": 27,
       "throwaway": 0
     },
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 33.0,
+    "fantasy-points": 47.0,
     "gender": "female",
     "jersey": "",
     "name": "Shruthi Nathella",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/WW6clKqQ.280.jpg",
     "points-distribution": {
-      "assist": 3,
+      "assist": 6,
       "block": 0,
-      "d-line": 2.5,
+      "d-line": 3.0,
       "d-scoring-line": 2,
       "defense": 5,
       "drop": -2,
       "goal": 0,
-      "o-line": 9.5,
-      "o-scoring-line": 17,
-      "throwaway": -4
+      "o-line": 14.0,
+      "o-scoring-line": 25,
+      "throwaway": -6
     },
     "slug": "shruthi-nathella",
     "stats": {
@@ -11754,19 +11862,31 @@
         "o-line": 11,
         "o-scoring-line": 9,
         "throwaway": 0
+      },
+      "Karnataka State;day-2": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 9,
+        "o-scoring-line": 8,
+        "throwaway": 1
       }
     },
     "stats-distribution": {
-      "assist": 1,
+      "assist": 2,
       "block": 0,
-      "d-line": 5,
+      "d-line": 6,
       "d-scoring-line": 1,
       "defense": 1,
       "drop": 1,
       "goal": 0,
-      "o-line": 19,
-      "o-scoring-line": 17,
-      "throwaway": 2
+      "o-line": 28,
+      "o-scoring-line": 25,
+      "throwaway": 3
     },
     "team": "Tamilnadu"
   },
@@ -11889,7 +12009,7 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 10.5,
+    "fantasy-points": 15.0,
     "gender": "female",
     "jersey": "13",
     "name": "Snehankita Rout",
@@ -11897,12 +12017,12 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 4.5,
-      "d-scoring-line": 6,
+      "d-line": 6.5,
+      "d-scoring-line": 8,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 0.0,
+      "o-line": 0.5,
       "o-scoring-line": 0,
       "throwaway": 0
     },
@@ -11931,24 +12051,36 @@
         "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Karnataka State;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 4,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 9,
-      "d-scoring-line": 3,
+      "d-line": 13,
+      "d-scoring-line": 4,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 0,
+      "o-line": 1,
       "o-scoring-line": 0,
       "throwaway": 0
     },
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 18.0,
+    "fantasy-points": 39.0,
     "gender": "female",
     "jersey": "",
     "name": "Srividya Suriyashekar",
@@ -11956,11 +12088,11 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 7.0,
-      "d-scoring-line": 8,
+      "d-line": 13.0,
+      "d-scoring-line": 20,
       "defense": 0,
       "drop": 0,
-      "goal": 3,
+      "goal": 6,
       "o-line": 0.0,
       "o-scoring-line": 0,
       "throwaway": 0
@@ -11990,16 +12122,28 @@
         "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Karnataka State;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 12,
+        "d-scoring-line": 6,
+        "defense": 0,
+        "drop": 0,
+        "goal": 1,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 14,
-      "d-scoring-line": 4,
+      "d-line": 26,
+      "d-scoring-line": 10,
       "defense": 0,
       "drop": 0,
-      "goal": 1,
+      "goal": 2,
       "o-line": 0,
       "o-scoring-line": 0,
       "throwaway": 0
