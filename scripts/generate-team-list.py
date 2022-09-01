@@ -9,13 +9,13 @@ DATA_DIR = ROOT_DIR.joinpath("data")
 COLUMNS = [
     "assist",
     "goal",
-    "throwaway",
+    "defense",
     "drop",
+    "throwaway",
     "o-line",
     "d-line",
     "o-scoring-line",
     "d-scoring-line",
-    "defense",
 ]
 
 
