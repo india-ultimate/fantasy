@@ -2120,7 +2120,7 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 25.5,
+    "fantasy-points": 26.5,
     "gender": "female",
     "jersey": "6",
     "name": "Dhwani Jain",
@@ -2134,7 +2134,7 @@
       "drop": -2,
       "goal": 0,
       "o-line": 1.0,
-      "o-scoring-line": 0,
+      "o-scoring-line": 1,
       "throwaway": 0
     },
     "slug": "dhwani-jain",
@@ -2160,7 +2160,7 @@
         "drop": 0,
         "goal": 0,
         "o-line": 2,
-        "o-scoring-line": 0,
+        "o-scoring-line": 1,
         "throwaway": 0
       },
       "Uttar Pradesh;day-2": {
@@ -2185,7 +2185,7 @@
       "drop": 1,
       "goal": 0,
       "o-line": 2,
-      "o-scoring-line": 0,
+      "o-scoring-line": 1,
       "throwaway": 0
     },
     "team": "Gujarat Ultimate"
@@ -2887,22 +2887,22 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 12.0,
+    "fantasy-points": 31.0,
     "gender": "male",
     "jersey": "84",
     "name": "Noman Pthan",
     "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/TPGVs559.280.jpg",
     "points-distribution": {
-      "assist": 6,
+      "assist": 9,
       "block": 0,
-      "d-line": 0.5,
+      "d-line": 1.5,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
-      "o-line": 2.5,
+      "goal": 15,
+      "o-line": 6.5,
       "o-scoring-line": 3,
-      "throwaway": 0
+      "throwaway": -4
     },
     "slug": "noman-pthan",
     "stats": {
@@ -2918,6 +2918,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Telangana Ultimate;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 5,
+        "o-line": 8,
+        "o-scoring-line": 0,
+        "throwaway": 2
+      },
       "Uttar Pradesh;day-2": {
         "assist": 2,
         "block": 0,
@@ -2932,16 +2944,16 @@
       }
     },
     "stats-distribution": {
-      "assist": 2,
+      "assist": 3,
       "block": 0,
-      "d-line": 1,
+      "d-line": 3,
       "d-scoring-line": 0,
       "defense": 0,
       "drop": 0,
-      "goal": 0,
-      "o-line": 5,
+      "goal": 5,
+      "o-line": 13,
       "o-scoring-line": 3,
-      "throwaway": 0
+      "throwaway": 2
     },
     "team": "Gujarat Ultimate"
   },
@@ -3111,22 +3123,22 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 16.0,
+    "fantasy-points": 26.0,
     "gender": "male",
     "jersey": "35",
     "name": "Sanjay Parmar",
     "photo": "https://secure.gravatar.com/avatar/1931a1c46a28fa02fd6db84f51c4dd84?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 6,
+      "assist": 9,
       "block": 0,
-      "d-line": 6.0,
-      "d-scoring-line": 4,
+      "d-line": 8.0,
+      "d-scoring-line": 8,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 0.0,
-      "o-scoring-line": 0,
-      "throwaway": 0
+      "o-line": 1.0,
+      "o-scoring-line": 2,
+      "throwaway": -2
     },
     "slug": "sanjay-parmar",
     "stats": {
@@ -3142,6 +3154,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Telangana Ultimate;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 4,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 2,
+        "o-scoring-line": 2,
+        "throwaway": 1
+      },
       "Uttar Pradesh;day-2": {
         "assist": 1,
         "block": 0,
@@ -3156,16 +3180,16 @@
       }
     },
     "stats-distribution": {
-      "assist": 2,
+      "assist": 3,
       "block": 0,
-      "d-line": 12,
-      "d-scoring-line": 2,
+      "d-line": 16,
+      "d-scoring-line": 4,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
-      "throwaway": 0
+      "o-line": 2,
+      "o-scoring-line": 2,
+      "throwaway": 1
     },
     "team": "Gujarat Ultimate"
   },
@@ -3276,7 +3300,7 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 5.5,
+    "fantasy-points": 27.0,
     "gender": "male",
     "jersey": "55",
     "name": "Swayam Narang",
@@ -3284,14 +3308,14 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 3.5,
-      "d-scoring-line": 2,
-      "defense": 0,
-      "drop": 0,
+      "d-line": 8.5,
+      "d-scoring-line": 14,
+      "defense": 10,
+      "drop": -2,
       "goal": 0,
-      "o-line": 0.0,
+      "o-line": 0.5,
       "o-scoring-line": 0,
-      "throwaway": 0
+      "throwaway": -4
     },
     "slug": "swayam-narang",
     "stats": {
@@ -3306,6 +3330,18 @@
         "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Telangana Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 10,
+        "d-scoring-line": 6,
+        "defense": 2,
+        "drop": 1,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 0,
+        "throwaway": 2
       },
       "Uttar Pradesh;day-2": {
         "assist": 0,
@@ -3323,14 +3359,14 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 7,
-      "d-scoring-line": 1,
-      "defense": 0,
-      "drop": 0,
+      "d-line": 17,
+      "d-scoring-line": 7,
+      "defense": 2,
+      "drop": 1,
       "goal": 0,
-      "o-line": 0,
+      "o-line": 1,
       "o-scoring-line": 0,
-      "throwaway": 0
+      "throwaway": 2
     },
     "team": "Gujarat Ultimate"
   },
@@ -5841,7 +5877,7 @@
     "team": "Karnataka State"
   },
   {
-    "fantasy-points": 17.0,
+    "fantasy-points": 21.0,
     "gender": "male",
     "jersey": "27",
     "name": "Abhishek Pawar",
@@ -5849,14 +5885,14 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2.0,
-      "d-scoring-line": 0,
+      "d-line": 3.0,
+      "d-scoring-line": 2,
       "defense": 5,
       "drop": -2,
       "goal": 6,
-      "o-line": 6.0,
-      "o-scoring-line": 4,
-      "throwaway": -4
+      "o-line": 7.0,
+      "o-scoring-line": 6,
+      "throwaway": -6
     },
     "slug": "abhishek-pawar",
     "stats": {
@@ -5907,38 +5943,50 @@
         "o-line": 1,
         "o-scoring-line": 1,
         "throwaway": 0
+      },
+      "Telangana Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 2,
+        "o-scoring-line": 2,
+        "throwaway": 1
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 4,
-      "d-scoring-line": 0,
+      "d-line": 6,
+      "d-scoring-line": 1,
       "defense": 1,
       "drop": 1,
       "goal": 2,
-      "o-line": 12,
-      "o-scoring-line": 4,
-      "throwaway": 2
+      "o-line": 14,
+      "o-scoring-line": 6,
+      "throwaway": 3
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 50.5,
+    "fantasy-points": 73.0,
     "gender": "male",
     "jersey": "1",
     "name": "Anish Mallah",
     "photo": "https://secure.gravatar.com/avatar/e583d3b374109404f52713b14690e9d9?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 15,
+      "assist": 24,
       "block": 0,
-      "d-line": 10.0,
-      "d-scoring-line": 6,
-      "defense": 5,
-      "drop": -4,
+      "d-line": 13.5,
+      "d-scoring-line": 8,
+      "defense": 10,
+      "drop": -8,
       "goal": 6,
-      "o-line": 14.5,
-      "o-scoring-line": 8,
+      "o-line": 17.5,
+      "o-scoring-line": 12,
       "throwaway": -10
     },
     "slug": "anish-mallah",
@@ -5990,18 +6038,30 @@
         "o-line": 6,
         "o-scoring-line": 1,
         "throwaway": 1
+      },
+      "Telangana Ultimate;day-2": {
+        "assist": 3,
+        "block": 0,
+        "d-line": 7,
+        "d-scoring-line": 1,
+        "defense": 1,
+        "drop": 2,
+        "goal": 0,
+        "o-line": 6,
+        "o-scoring-line": 4,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
-      "assist": 5,
+      "assist": 8,
       "block": 0,
-      "d-line": 20,
-      "d-scoring-line": 3,
-      "defense": 1,
-      "drop": 2,
+      "d-line": 27,
+      "d-scoring-line": 4,
+      "defense": 2,
+      "drop": 4,
       "goal": 2,
-      "o-line": 29,
-      "o-scoring-line": 8,
+      "o-line": 35,
+      "o-scoring-line": 12,
       "throwaway": 5
     },
     "team": "Madhya Pradesh"
@@ -6090,7 +6150,7 @@
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 5.5,
+    "fantasy-points": 7.0,
     "gender": "female",
     "jersey": "88",
     "name": "Anushka Mallah",
@@ -6103,8 +6163,8 @@
       "defense": 0,
       "drop": -2,
       "goal": 3,
-      "o-line": 2.0,
-      "o-scoring-line": 2,
+      "o-line": 2.5,
+      "o-scoring-line": 3,
       "throwaway": 0
     },
     "slug": "anushka-mallah",
@@ -6132,6 +6192,18 @@
         "o-line": 1,
         "o-scoring-line": 1,
         "throwaway": 0
+      },
+      "Telangana Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
@@ -6142,14 +6214,14 @@
       "defense": 0,
       "drop": 1,
       "goal": 1,
-      "o-line": 4,
-      "o-scoring-line": 2,
+      "o-line": 5,
+      "o-scoring-line": 3,
       "throwaway": 0
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 98.0,
+    "fantasy-points": 122.5,
     "gender": "male",
     "jersey": "99",
     "name": "Aryan Rawat",
@@ -6157,13 +6229,13 @@
     "points-distribution": {
       "assist": 15,
       "block": 0,
-      "d-line": 13.0,
-      "d-scoring-line": 14,
-      "defense": 20,
-      "drop": -10,
-      "goal": 24,
-      "o-line": 16.0,
-      "o-scoring-line": 10,
+      "d-line": 18.0,
+      "d-scoring-line": 16,
+      "defense": 25,
+      "drop": -18,
+      "goal": 36,
+      "o-line": 19.5,
+      "o-scoring-line": 15,
       "throwaway": -4
     },
     "slug": "aryan-rawat",
@@ -6215,18 +6287,30 @@
         "o-line": 11,
         "o-scoring-line": 3,
         "throwaway": 1
+      },
+      "Telangana Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 10,
+        "d-scoring-line": 1,
+        "defense": 1,
+        "drop": 4,
+        "goal": 4,
+        "o-line": 7,
+        "o-scoring-line": 5,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 5,
       "block": 0,
-      "d-line": 26,
-      "d-scoring-line": 7,
-      "defense": 4,
-      "drop": 5,
-      "goal": 8,
-      "o-line": 32,
-      "o-scoring-line": 10,
+      "d-line": 36,
+      "d-scoring-line": 8,
+      "defense": 5,
+      "drop": 9,
+      "goal": 12,
+      "o-line": 39,
+      "o-scoring-line": 15,
       "throwaway": 2
     },
     "team": "Madhya Pradesh"
@@ -6362,22 +6446,22 @@
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 23.0,
+    "fantasy-points": 45.5,
     "gender": "male",
     "jersey": "10",
     "name": "Harsh Kori",
     "photo": "https://secure.gravatar.com/avatar/ac399f55bce1113ea6f947d6b8ec5042?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 3,
+      "assist": 6,
       "block": 0,
       "d-line": 1.0,
       "d-scoring-line": 0,
-      "defense": 0,
+      "defense": 5,
       "drop": 0,
-      "goal": 3,
-      "o-line": 12.0,
-      "o-scoring-line": 8,
-      "throwaway": -4
+      "goal": 9,
+      "o-line": 16.5,
+      "o-scoring-line": 14,
+      "throwaway": -6
     },
     "slug": "harsh-kori",
     "stats": {
@@ -6428,39 +6512,51 @@
         "o-line": 8,
         "o-scoring-line": 5,
         "throwaway": 0
+      },
+      "Telangana Ultimate;day-2": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 1,
+        "drop": 0,
+        "goal": 2,
+        "o-line": 9,
+        "o-scoring-line": 6,
+        "throwaway": 1
       }
     },
     "stats-distribution": {
-      "assist": 1,
+      "assist": 2,
       "block": 0,
       "d-line": 2,
       "d-scoring-line": 0,
-      "defense": 0,
+      "defense": 1,
       "drop": 0,
-      "goal": 1,
-      "o-line": 24,
-      "o-scoring-line": 8,
-      "throwaway": 2
+      "goal": 3,
+      "o-line": 33,
+      "o-scoring-line": 14,
+      "throwaway": 3
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 64.5,
+    "fantasy-points": 96.5,
     "gender": "female",
     "jersey": "8",
     "name": "Harshita Kori",
     "photo": "https://secure.gravatar.com/avatar/4bab0617e51a43291b0362b715fdfdf1?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 0,
+      "assist": 3,
       "block": 0,
-      "d-line": 13.5,
-      "d-scoring-line": 12,
-      "defense": 0,
-      "drop": -10,
-      "goal": 3,
-      "o-line": 28.0,
-      "o-scoring-line": 20,
-      "throwaway": -2
+      "d-line": 19.0,
+      "d-scoring-line": 16,
+      "defense": 5,
+      "drop": -12,
+      "goal": 6,
+      "o-line": 34.5,
+      "o-scoring-line": 29,
+      "throwaway": -4
     },
     "slug": "harshita-kori",
     "stats": {
@@ -6511,24 +6607,36 @@
         "o-line": 15,
         "o-scoring-line": 6,
         "throwaway": 0
+      },
+      "Telangana Ultimate;day-2": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 11,
+        "d-scoring-line": 2,
+        "defense": 1,
+        "drop": 1,
+        "goal": 1,
+        "o-line": 13,
+        "o-scoring-line": 9,
+        "throwaway": 1
       }
     },
     "stats-distribution": {
-      "assist": 0,
+      "assist": 1,
       "block": 0,
-      "d-line": 27,
-      "d-scoring-line": 6,
-      "defense": 0,
-      "drop": 5,
-      "goal": 1,
-      "o-line": 56,
-      "o-scoring-line": 20,
-      "throwaway": 1
+      "d-line": 38,
+      "d-scoring-line": 8,
+      "defense": 1,
+      "drop": 6,
+      "goal": 2,
+      "o-line": 69,
+      "o-scoring-line": 29,
+      "throwaway": 2
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 0.5,
+    "fantasy-points": 3.0,
     "gender": "female",
     "jersey": "12",
     "name": "Jiya Parmar",
@@ -6536,8 +6644,8 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0.0,
-      "d-scoring-line": 0,
+      "d-line": 0.5,
+      "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -6558,13 +6666,25 @@
         "o-line": 1,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Telangana Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0,
-      "d-scoring-line": 0,
+      "d-line": 1,
+      "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -6575,21 +6695,21 @@
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 77.0,
+    "fantasy-points": 92.5,
     "gender": "male",
     "jersey": "77",
     "name": "Karan Mallah",
     "photo": "https://secure.gravatar.com/avatar/5242a5bcbb8ea024beec553b1f6ffef3?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 15,
+      "assist": 18,
       "block": 0,
-      "d-line": 13.0,
-      "d-scoring-line": 14,
+      "d-line": 18.0,
+      "d-scoring-line": 18,
       "defense": 15,
       "drop": -4,
       "goal": 3,
-      "o-line": 12.0,
-      "o-scoring-line": 11,
+      "o-line": 13.5,
+      "o-scoring-line": 13,
       "throwaway": -2
     },
     "slug": "karan-mallah",
@@ -6641,18 +6761,30 @@
         "o-line": 6,
         "o-scoring-line": 3,
         "throwaway": 1
+      },
+      "Telangana Ultimate;day-2": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 10,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 2,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
-      "assist": 5,
+      "assist": 6,
       "block": 0,
-      "d-line": 26,
-      "d-scoring-line": 7,
+      "d-line": 36,
+      "d-scoring-line": 9,
       "defense": 3,
       "drop": 2,
       "goal": 1,
-      "o-line": 24,
-      "o-scoring-line": 11,
+      "o-line": 27,
+      "o-scoring-line": 13,
       "throwaway": 1
     },
     "team": "Madhya Pradesh"
@@ -6705,7 +6837,7 @@
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 47.0,
+    "fantasy-points": 50.5,
     "gender": "female",
     "jersey": "13",
     "name": "Malti Jhanjhoriya",
@@ -6713,13 +6845,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 8.5,
+      "d-line": 9.0,
       "d-scoring-line": 8,
       "defense": 5,
       "drop": -6,
       "goal": 6,
-      "o-line": 14.5,
-      "o-scoring-line": 11,
+      "o-line": 15.5,
+      "o-scoring-line": 13,
       "throwaway": 0
     },
     "slug": "malti-jhanjhoriya",
@@ -6771,24 +6903,36 @@
         "o-line": 10,
         "o-scoring-line": 4,
         "throwaway": 0
+      },
+      "Telangana Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 2,
+        "o-scoring-line": 2,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 17,
+      "d-line": 18,
       "d-scoring-line": 4,
       "defense": 1,
       "drop": 3,
       "goal": 2,
-      "o-line": 29,
-      "o-scoring-line": 11,
+      "o-line": 31,
+      "o-scoring-line": 13,
       "throwaway": 0
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 90.5,
+    "fantasy-points": 115.0,
     "gender": "female",
     "jersey": "33",
     "name": "Muskaan Mallah",
@@ -6796,13 +6940,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 15.5,
-      "d-scoring-line": 14,
+      "d-line": 21.0,
+      "d-scoring-line": 18,
       "defense": 5,
-      "drop": -2,
-      "goal": 18,
-      "o-line": 25.0,
-      "o-scoring-line": 17,
+      "drop": -4,
+      "goal": 21,
+      "o-line": 31.0,
+      "o-scoring-line": 25,
       "throwaway": -2
     },
     "slug": "muskaan-mallah",
@@ -6854,38 +6998,50 @@
         "o-line": 15,
         "o-scoring-line": 6,
         "throwaway": 0
+      },
+      "Telangana Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 11,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 1,
+        "goal": 1,
+        "o-line": 12,
+        "o-scoring-line": 8,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 31,
-      "d-scoring-line": 7,
+      "d-line": 42,
+      "d-scoring-line": 9,
       "defense": 1,
-      "drop": 1,
-      "goal": 6,
-      "o-line": 50,
-      "o-scoring-line": 17,
+      "drop": 2,
+      "goal": 7,
+      "o-line": 62,
+      "o-scoring-line": 25,
       "throwaway": 1
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 34.0,
+    "fantasy-points": 68.0,
     "gender": "male",
     "jersey": "11",
     "name": "Om Yadav",
     "photo": "https://secure.gravatar.com/avatar/ca271786296911447593a05e88d49b8a?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 6,
+      "assist": 15,
       "block": 0,
-      "d-line": 3.5,
-      "d-scoring-line": 6,
-      "defense": 0,
-      "drop": -6,
+      "d-line": 5.0,
+      "d-scoring-line": 8,
+      "defense": 10,
+      "drop": -8,
       "goal": 6,
-      "o-line": 11.5,
-      "o-scoring-line": 7,
+      "o-line": 17.0,
+      "o-scoring-line": 15,
       "throwaway": 0
     },
     "slug": "om-yadav",
@@ -6937,24 +7093,36 @@
         "o-line": 7,
         "o-scoring-line": 3,
         "throwaway": 0
+      },
+      "Telangana Ultimate;day-2": {
+        "assist": 3,
+        "block": 0,
+        "d-line": 3,
+        "d-scoring-line": 1,
+        "defense": 2,
+        "drop": 1,
+        "goal": 0,
+        "o-line": 11,
+        "o-scoring-line": 8,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
-      "assist": 2,
+      "assist": 5,
       "block": 0,
-      "d-line": 7,
-      "d-scoring-line": 3,
-      "defense": 0,
-      "drop": 3,
+      "d-line": 10,
+      "d-scoring-line": 4,
+      "defense": 2,
+      "drop": 4,
       "goal": 2,
-      "o-line": 23,
-      "o-scoring-line": 7,
+      "o-line": 34,
+      "o-scoring-line": 15,
       "throwaway": 0
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 4.5,
+    "fantasy-points": 5.5,
     "gender": "male",
     "jersey": "3",
     "name": "Radhepal Choudhary",
@@ -6962,7 +7130,7 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 1.0,
+      "d-line": 2.0,
       "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
@@ -6996,12 +7164,24 @@
         "o-line": 1,
         "o-scoring-line": 1,
         "throwaway": 0
+      },
+      "Telangana Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 2,
+      "d-line": 4,
       "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
@@ -7060,7 +7240,7 @@
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 16.5,
+    "fantasy-points": 33.5,
     "gender": "male",
     "jersey": "14",
     "name": "Rizwan Singh",
@@ -7068,13 +7248,13 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 3.0,
-      "d-scoring-line": 2,
+      "d-line": 5.0,
+      "d-scoring-line": 6,
       "defense": 10,
       "drop": -10,
-      "goal": 0,
-      "o-line": 7.5,
-      "o-scoring-line": 3,
+      "goal": 9,
+      "o-line": 8.5,
+      "o-scoring-line": 4,
       "throwaway": -2
     },
     "slug": "rizwan-singh",
@@ -7126,24 +7306,36 @@
         "o-line": 1,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Telangana Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 4,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 0,
+        "goal": 3,
+        "o-line": 2,
+        "o-scoring-line": 1,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 6,
-      "d-scoring-line": 1,
+      "d-line": 10,
+      "d-scoring-line": 3,
       "defense": 2,
       "drop": 5,
-      "goal": 0,
-      "o-line": 15,
-      "o-scoring-line": 3,
+      "goal": 3,
+      "o-line": 17,
+      "o-scoring-line": 4,
       "throwaway": 1
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 23.5,
+    "fantasy-points": 36.0,
     "gender": "female",
     "jersey": "19",
     "name": "Sakshi Mallah",
@@ -7151,13 +7343,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 5.0,
-      "d-scoring-line": 4,
+      "d-line": 7.5,
+      "d-scoring-line": 6,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 6.5,
-      "o-scoring-line": 8,
+      "o-line": 9.5,
+      "o-scoring-line": 13,
       "throwaway": 0
     },
     "slug": "sakshi-mallah",
@@ -7209,18 +7401,30 @@
         "o-line": 2,
         "o-scoring-line": 2,
         "throwaway": 0
+      },
+      "Telangana Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 5,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 6,
+        "o-scoring-line": 5,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 10,
-      "d-scoring-line": 2,
+      "d-line": 15,
+      "d-scoring-line": 3,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 13,
-      "o-scoring-line": 8,
+      "o-line": 19,
+      "o-scoring-line": 13,
       "throwaway": 0
     },
     "team": "Madhya Pradesh"
@@ -7273,7 +7477,7 @@
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 52.0,
+    "fantasy-points": 65.5,
     "gender": "female",
     "jersey": "18",
     "name": "Shraddha Tiwari",
@@ -7281,13 +7485,13 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 6.5,
+      "d-line": 9.5,
       "d-scoring-line": 6,
       "defense": 0,
-      "drop": -4,
+      "drop": -6,
       "goal": 6,
-      "o-line": 20.5,
-      "o-scoring-line": 16,
+      "o-line": 26.0,
+      "o-scoring-line": 23,
       "throwaway": -2
     },
     "slug": "shraddha-tiwari",
@@ -7339,24 +7543,36 @@
         "o-line": 12,
         "o-scoring-line": 4,
         "throwaway": 0
+      },
+      "Telangana Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 6,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 1,
+        "goal": 0,
+        "o-line": 11,
+        "o-scoring-line": 7,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 13,
+      "d-line": 19,
       "d-scoring-line": 3,
       "defense": 0,
-      "drop": 2,
+      "drop": 3,
       "goal": 2,
-      "o-line": 41,
-      "o-scoring-line": 16,
+      "o-line": 52,
+      "o-scoring-line": 23,
       "throwaway": 1
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 5.5,
+    "fantasy-points": 7.0,
     "gender": "female",
     "jersey": "81",
     "name": "Shruti Kori",
@@ -7364,12 +7580,12 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 3.0,
+      "d-line": 4.0,
       "d-scoring-line": 2,
       "defense": 0,
       "drop": -2,
       "goal": 0,
-      "o-line": 1.5,
+      "o-line": 2.0,
       "o-scoring-line": 1,
       "throwaway": 0
     },
@@ -7410,39 +7626,51 @@
         "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Telangana Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 6,
+      "d-line": 8,
       "d-scoring-line": 1,
       "defense": 0,
       "drop": 1,
       "goal": 0,
-      "o-line": 3,
+      "o-line": 4,
       "o-scoring-line": 1,
       "throwaway": 0
     },
     "team": "Madhya Pradesh"
   },
   {
-    "fantasy-points": 26.5,
+    "fantasy-points": 35.0,
     "gender": "male",
     "jersey": "9",
     "name": "Stephen Charles",
     "photo": "https://secure.gravatar.com/avatar/c2cdac48c62bba5ca52a2f583e3e8930?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 21,
+      "assist": 27,
       "block": 0,
-      "d-line": 1.5,
+      "d-line": 2.5,
       "d-scoring-line": 0,
       "defense": 5,
-      "drop": -6,
+      "drop": -8,
       "goal": 0,
-      "o-line": 16.0,
-      "o-scoring-line": 9,
-      "throwaway": -20
+      "o-line": 18.5,
+      "o-scoring-line": 12,
+      "throwaway": -22
     },
     "slug": "stephen-charles",
     "stats": {
@@ -7493,19 +7721,31 @@
         "o-line": 11,
         "o-scoring-line": 4,
         "throwaway": 3
+      },
+      "Telangana Ultimate;day-2": {
+        "assist": 2,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 1,
+        "goal": 0,
+        "o-line": 5,
+        "o-scoring-line": 3,
+        "throwaway": 1
       }
     },
     "stats-distribution": {
-      "assist": 7,
+      "assist": 9,
       "block": 0,
-      "d-line": 3,
+      "d-line": 5,
       "d-scoring-line": 0,
       "defense": 1,
-      "drop": 3,
+      "drop": 4,
       "goal": 0,
-      "o-line": 32,
-      "o-scoring-line": 9,
-      "throwaway": 10
+      "o-line": 37,
+      "o-scoring-line": 12,
+      "throwaway": 11
     },
     "team": "Madhya Pradesh"
   },
