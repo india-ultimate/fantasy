@@ -1919,7 +1919,7 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 42.0,
+    "fantasy-points": 44.0,
     "gender": "female",
     "jersey": "97",
     "name": "Arya Shah",
@@ -1927,13 +1927,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0.5,
-      "d-scoring-line": 0,
+      "d-line": 1.0,
+      "d-scoring-line": 2,
       "defense": 0,
-      "drop": 0,
+      "drop": -2,
       "goal": 12,
-      "o-line": 11.5,
-      "o-scoring-line": 20,
+      "o-line": 12.0,
+      "o-scoring-line": 21,
       "throwaway": -2
     },
     "slug": "arya-shah",
@@ -1948,6 +1948,18 @@
         "goal": 1,
         "o-line": 13,
         "o-scoring-line": 11,
+        "throwaway": 0
+      },
+      "Telangana Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 1,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
         "throwaway": 0
       },
       "Uttar Pradesh;day-2": {
@@ -1966,13 +1978,13 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 1,
-      "d-scoring-line": 0,
+      "d-line": 2,
+      "d-scoring-line": 1,
       "defense": 0,
-      "drop": 0,
+      "drop": 1,
       "goal": 4,
-      "o-line": 23,
-      "o-scoring-line": 20,
+      "o-line": 24,
+      "o-scoring-line": 21,
       "throwaway": 1
     },
     "team": "Gujarat Ultimate"
@@ -2037,7 +2049,7 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 34.0,
+    "fantasy-points": 38.0,
     "gender": "female",
     "jersey": "39",
     "name": "Bhavya Jain",
@@ -2045,8 +2057,8 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 10.5,
-      "d-scoring-line": 14,
+      "d-line": 12.5,
+      "d-scoring-line": 16,
       "defense": 0,
       "drop": 0,
       "goal": 9,
@@ -2061,6 +2073,18 @@
         "block": 0,
         "d-line": 11,
         "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Telangana Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 4,
+        "d-scoring-line": 1,
         "defense": 0,
         "drop": 0,
         "goal": 0,
@@ -2084,8 +2108,8 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 21,
-      "d-scoring-line": 7,
+      "d-line": 25,
+      "d-scoring-line": 8,
       "defense": 0,
       "drop": 0,
       "goal": 3,
@@ -2096,7 +2120,7 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 15.0,
+    "fantasy-points": 25.5,
     "gender": "female",
     "jersey": "6",
     "name": "Dhwani Jain",
@@ -2104,12 +2128,12 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 6.0,
-      "d-scoring-line": 8,
+      "d-line": 9.5,
+      "d-scoring-line": 14,
       "defense": 0,
       "drop": -2,
       "goal": 0,
-      "o-line": 0.0,
+      "o-line": 1.0,
       "o-scoring-line": 0,
       "throwaway": 0
     },
@@ -2124,6 +2148,18 @@
         "drop": 0,
         "goal": 0,
         "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Telangana Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 7,
+        "d-scoring-line": 3,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 2,
         "o-scoring-line": 0,
         "throwaway": 0
       },
@@ -2143,12 +2179,12 @@
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 12,
-      "d-scoring-line": 4,
+      "d-line": 19,
+      "d-scoring-line": 7,
       "defense": 0,
       "drop": 1,
       "goal": 0,
-      "o-line": 0,
+      "o-line": 2,
       "o-scoring-line": 0,
       "throwaway": 0
     },
