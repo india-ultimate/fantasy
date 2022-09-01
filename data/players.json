@@ -3508,21 +3508,21 @@
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 33.5,
+    "fantasy-points": 62.5,
     "gender": "male",
     "jersey": "45",
     "name": "Rutvikkumar Nayka",
     "photo": "https://secure.gravatar.com/avatar/17ceb02a1d51eddb9540ac42d1ea9c6f?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 3,
+      "assist": 15,
       "block": 0,
-      "d-line": 8.5,
-      "d-scoring-line": 14,
+      "d-line": 13.0,
+      "d-scoring-line": 20,
       "defense": 5,
       "drop": 0,
       "goal": 3,
-      "o-line": 0.0,
-      "o-scoring-line": 0,
+      "o-line": 2.5,
+      "o-scoring-line": 4,
       "throwaway": 0
     },
     "slug": "rutvikkumar-nayka",
@@ -3539,6 +3539,18 @@
         "o-scoring-line": 0,
         "throwaway": 0
       },
+      "Tamilnadu;day-2": {
+        "assist": 4,
+        "block": 0,
+        "d-line": 9,
+        "d-scoring-line": 3,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 5,
+        "o-scoring-line": 4,
+        "throwaway": 0
+      },
       "Uttar Pradesh;day-2": {
         "assist": 1,
         "block": 0,
@@ -3553,21 +3565,21 @@
       }
     },
     "stats-distribution": {
-      "assist": 1,
+      "assist": 5,
       "block": 0,
-      "d-line": 17,
-      "d-scoring-line": 7,
+      "d-line": 26,
+      "d-scoring-line": 10,
       "defense": 1,
       "drop": 0,
       "goal": 1,
-      "o-line": 0,
-      "o-scoring-line": 0,
+      "o-line": 5,
+      "o-scoring-line": 4,
       "throwaway": 0
     },
     "team": "Gujarat Ultimate"
   },
   {
-    "fantasy-points": 26.0,
+    "fantasy-points": 29.0,
     "gender": "male",
     "jersey": "35",
     "name": "Sanjay Parmar",
@@ -3575,8 +3587,8 @@
     "points-distribution": {
       "assist": 9,
       "block": 0,
-      "d-line": 8.0,
-      "d-scoring-line": 8,
+      "d-line": 9.0,
+      "d-scoring-line": 10,
       "defense": 0,
       "drop": 0,
       "goal": 0,
@@ -3590,6 +3602,18 @@
         "assist": 1,
         "block": 0,
         "d-line": 6,
+        "d-scoring-line": 1,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      },
+      "Tamilnadu;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
         "d-scoring-line": 1,
         "defense": 0,
         "drop": 0,
@@ -3626,8 +3650,8 @@
     "stats-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 16,
-      "d-scoring-line": 4,
+      "d-line": 18,
+      "d-scoring-line": 5,
       "defense": 0,
       "drop": 0,
       "goal": 0,
