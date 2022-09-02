@@ -2,7 +2,7 @@
   {
     "name": "Shashank",
     "valid_team": true,
-    "fantasy_score": 1061.5,
+    "fantasy_score": 1094.5,
     "timestamp": "26/08/2022 22:03:46",
     "team_slugs": [
       "deepika-shankar",
@@ -18,7 +18,7 @@
   {
     "name": "Ashish",
     "valid_team": true,
-    "fantasy_score": 1049.5,
+    "fantasy_score": 1082.5,
     "timestamp": "25/08/2022 16:46:41",
     "team_slugs": [
       "arya-shah",
@@ -34,7 +34,7 @@
   {
     "name": "Farhan",
     "valid_team": true,
-    "fantasy_score": 1049.5,
+    "fantasy_score": 1082.5,
     "timestamp": "26/08/2022 16:41:17",
     "team_slugs": [
       "arya-shah",
@@ -45,6 +45,102 @@
       "selvi-murugan",
       "sivaraman-venkatesan",
       "stania-peris"
+    ]
+  },
+  {
+    "name": "Sushma",
+    "valid_team": true,
+    "fantasy_score": 1075.0,
+    "timestamp": "26/08/2022 16:35:28",
+    "team_slugs": [
+      "chandan-dubey",
+      "karan-sharam",
+      "maitry-acharya",
+      "sabeel-khader",
+      "sahitra-ghurye",
+      "sivaraman-venkatesan",
+      "sneha-patil",
+      "suhani-bedi"
+    ]
+  },
+  {
+    "name": "Farhan",
+    "valid_team": true,
+    "fantasy_score": 1061.0,
+    "timestamp": "22/08/2022 16:59:21",
+    "team_slugs": [
+      "arya-shah",
+      "deepika-shankar",
+      "karan-sharam",
+      "maksood-chaudhary",
+      "sabeel-khader",
+      "sahitra-ghurye",
+      "sivaraman-venkatesan",
+      "stania-peris"
+    ]
+  },
+  {
+    "name": "Naren zala",
+    "valid_team": true,
+    "fantasy_score": 1055.5,
+    "timestamp": "22/08/2022 18:09:58",
+    "team_slugs": [
+      "arya-shah",
+      "karan-sharam",
+      "maksood-chaudhary",
+      "sahitra-ghurye",
+      "selvi-murugan",
+      "sivaraman-venkatesan",
+      "suhani-bedi",
+      "sunny-azad"
+    ]
+  },
+  {
+    "name": "Alex",
+    "valid_team": true,
+    "fantasy_score": 1054.0,
+    "timestamp": "22/08/2022 18:56:19",
+    "team_slugs": [
+      "karan-sharam",
+      "maksood-chaudhary",
+      "monika-shankar",
+      "sabeel-khader",
+      "sahitra-ghurye",
+      "sivaraman-venkatesan",
+      "sneha-patil",
+      "suhani-bedi"
+    ]
+  },
+  {
+    "name": "Swapnil Godbole",
+    "valid_team": true,
+    "fantasy_score": 1052.0,
+    "timestamp": "25/08/2022 13:04:05",
+    "team_slugs": [
+      "arya-shah",
+      "garima-rathore",
+      "karan-sharam",
+      "sabeel-khader",
+      "sahitra-ghurye",
+      "sivaraman-venkatesan",
+      "stania-peris",
+      "sunil-varma"
+    ]
+  },
+  {
+    "name": "Tahir Siddiqui",
+    "valid_team": true,
+    "fantasy_score": 1045.0,
+    "timestamp": "25/08/2022 08:10:52",
+    "team_slugs": [
+      "karan-sharam",
+      "maksood-chaudhary",
+      "sabeel-khader",
+      "sahitra-ghurye",
+      "shruthi-nathella",
+      "stania-peris",
+      "suhani-bedi",
+      "vimanthan-l"
     ]
   },
   {
@@ -80,99 +176,51 @@
     ]
   },
   {
-    "name": "Farhan",
+    "name": "Sushmitha Janakiram",
     "valid_team": true,
-    "fantasy_score": 1028.0,
-    "timestamp": "22/08/2022 16:59:21",
+    "fantasy_score": 1018.0,
+    "timestamp": "26/08/2022 19:20:27",
     "team_slugs": [
-      "arya-shah",
-      "deepika-shankar",
-      "karan-sharam",
+      "esai-selvan-esakki",
+      "hariharan-kumar",
       "maksood-chaudhary",
-      "sabeel-khader",
-      "sahitra-ghurye",
-      "sivaraman-venkatesan",
-      "stania-peris"
-    ]
-  },
-  {
-    "name": "Naren zala",
-    "valid_team": true,
-    "fantasy_score": 1022.5,
-    "timestamp": "22/08/2022 18:09:58",
-    "team_slugs": [
-      "arya-shah",
-      "karan-sharam",
-      "maksood-chaudhary",
+      "rutvikkumar-nayka",
       "sahitra-ghurye",
       "selvi-murugan",
-      "sivaraman-venkatesan",
-      "suhani-bedi",
-      "sunny-azad"
-    ]
-  },
-  {
-    "name": "Alex",
-    "valid_team": true,
-    "fantasy_score": 1021.0,
-    "timestamp": "22/08/2022 18:56:19",
-    "team_slugs": [
-      "karan-sharam",
-      "maksood-chaudhary",
-      "monika-shankar",
-      "sabeel-khader",
-      "sahitra-ghurye",
-      "sivaraman-venkatesan",
-      "sneha-patil",
+      "stania-peris",
       "suhani-bedi"
     ]
   },
   {
-    "name": "Swapnil Godbole",
+    "name": "Parth Jain",
     "valid_team": true,
-    "fantasy_score": 1019.0,
-    "timestamp": "25/08/2022 13:04:05",
+    "fantasy_score": 1017.5,
+    "timestamp": "22/08/2022 16:46:56",
     "team_slugs": [
-      "arya-shah",
-      "garima-rathore",
-      "karan-sharam",
-      "sabeel-khader",
-      "sahitra-ghurye",
-      "sivaraman-venkatesan",
-      "stania-peris",
-      "sunil-varma"
-    ]
-  },
-  {
-    "name": "Sushma",
-    "valid_team": true,
-    "fantasy_score": 1012.5,
-    "timestamp": "26/08/2022 16:35:28",
-    "team_slugs": [
-      "chandan-dubey",
       "karan-sharam",
       "maitry-acharya",
-      "sabeel-khader",
-      "sahitra-ghurye",
-      "sivaraman-venkatesan",
-      "sneha-patil",
-      "suhani-bedi"
-    ]
-  },
-  {
-    "name": "Tahir Siddiqui",
-    "valid_team": true,
-    "fantasy_score": 1012.0,
-    "timestamp": "25/08/2022 08:10:52",
-    "team_slugs": [
-      "karan-sharam",
       "maksood-chaudhary",
       "sabeel-khader",
       "sahitra-ghurye",
-      "shruthi-nathella",
       "stania-peris",
       "suhani-bedi",
       "vimanthan-l"
+    ]
+  },
+  {
+    "name": "Sarang",
+    "valid_team": true,
+    "fantasy_score": 1012.0,
+    "timestamp": "22/08/2022 16:43:02",
+    "team_slugs": [
+      "karan-sharam",
+      "maksood-chaudhary",
+      "sahitra-ghurye",
+      "sarang-minhas",
+      "shruthi-nathella",
+      "sivaraman-venkatesan",
+      "sneha-patil",
+      "suhani-bedi"
     ]
   },
   {
@@ -208,51 +256,67 @@
     ]
   },
   {
-    "name": "Sushmitha Janakiram",
+    "name": "Anjana",
     "valid_team": true,
-    "fantasy_score": 985.0,
-    "timestamp": "26/08/2022 19:20:27",
+    "fantasy_score": 994.5,
+    "timestamp": "26/08/2022 23:25:27",
     "team_slugs": [
-      "esai-selvan-esakki",
-      "hariharan-kumar",
-      "maksood-chaudhary",
-      "rutvikkumar-nayka",
-      "sahitra-ghurye",
-      "selvi-murugan",
-      "stania-peris",
-      "suhani-bedi"
-    ]
-  },
-  {
-    "name": "Parth Jain",
-    "valid_team": true,
-    "fantasy_score": 984.5,
-    "timestamp": "22/08/2022 16:46:56",
-    "team_slugs": [
-      "karan-sharam",
-      "maitry-acharya",
+      "krishna-damor",
       "maksood-chaudhary",
       "sabeel-khader",
       "sahitra-ghurye",
-      "stania-peris",
+      "selvi-murugan",
+      "sneha-patil",
       "suhani-bedi",
       "vimanthan-l"
     ]
   },
   {
-    "name": "Sarang",
+    "name": "Virag Lakhani",
     "valid_team": true,
-    "fantasy_score": 979.0,
-    "timestamp": "22/08/2022 16:43:02",
+    "fantasy_score": 993.0,
+    "timestamp": "26/08/2022 21:02:46",
     "team_slugs": [
-      "karan-sharam",
+      "arya-shah",
+      "deepika-shankar",
+      "krishna-damor",
       "maksood-chaudhary",
       "sahitra-ghurye",
-      "sarang-minhas",
-      "shruthi-nathella",
+      "samarth-mishra",
       "sivaraman-venkatesan",
-      "sneha-patil",
-      "suhani-bedi"
+      "stania-peris"
+    ]
+  },
+  {
+    "name": "Punch",
+    "valid_team": true,
+    "fantasy_score": 988.5,
+    "timestamp": "27/08/2022 06:39:04",
+    "team_slugs": [
+      "arya-shah",
+      "karan-sharam",
+      "maksood-chaudhary",
+      "monika-shankar",
+      "sahitra-ghurye",
+      "sivaraman-venkatesan",
+      "suhani-bedi",
+      "udayan-philip"
+    ]
+  },
+  {
+    "name": "Maitreyi A",
+    "valid_team": true,
+    "fantasy_score": 988.0,
+    "timestamp": "22/08/2022 21:05:35",
+    "team_slugs": [
+      "arya-shah",
+      "krishna-damor",
+      "monika-shankar",
+      "sabeel-khader",
+      "sahitra-ghurye",
+      "shubham-more",
+      "sivaraman-venkatesan",
+      "sneha-patil"
     ]
   },
   {
@@ -272,35 +336,19 @@
     ]
   },
   {
-    "name": "Anjana",
+    "name": "Sudharshana MVL",
     "valid_team": true,
-    "fantasy_score": 961.5,
-    "timestamp": "26/08/2022 23:25:27",
+    "fantasy_score": 969.5,
+    "timestamp": "22/08/2022 17:22:12",
     "team_slugs": [
-      "krishna-damor",
+      "arya-shah",
+      "kenny-borsada",
       "maksood-chaudhary",
       "sabeel-khader",
       "sahitra-ghurye",
-      "selvi-murugan",
-      "sneha-patil",
-      "suhani-bedi",
+      "shruthi-nathella",
+      "stania-peris",
       "vimanthan-l"
-    ]
-  },
-  {
-    "name": "Virag Lakhani",
-    "valid_team": true,
-    "fantasy_score": 960.0,
-    "timestamp": "26/08/2022 21:02:46",
-    "team_slugs": [
-      "arya-shah",
-      "deepika-shankar",
-      "krishna-damor",
-      "maksood-chaudhary",
-      "sahitra-ghurye",
-      "samarth-mishra",
-      "sivaraman-venkatesan",
-      "stania-peris"
     ]
   },
   {
@@ -320,35 +368,19 @@
     ]
   },
   {
-    "name": "Punch",
+    "name": "Dhruv Nath",
     "valid_team": true,
-    "fantasy_score": 955.5,
-    "timestamp": "27/08/2022 06:39:04",
+    "fantasy_score": 951.5,
+    "timestamp": "25/08/2022 12:08:01",
     "team_slugs": [
       "arya-shah",
       "karan-sharam",
       "maksood-chaudhary",
-      "monika-shankar",
+      "ranjan-khyadad",
       "sahitra-ghurye",
       "sivaraman-venkatesan",
-      "suhani-bedi",
-      "udayan-philip"
-    ]
-  },
-  {
-    "name": "Maitreyi A",
-    "valid_team": true,
-    "fantasy_score": 955.0,
-    "timestamp": "22/08/2022 21:05:35",
-    "team_slugs": [
-      "arya-shah",
-      "krishna-damor",
-      "monika-shankar",
-      "sabeel-khader",
-      "sahitra-ghurye",
-      "shubham-more",
-      "sivaraman-venkatesan",
-      "sneha-patil"
+      "sneha-patil",
+      "suhani-bedi"
     ]
   },
   {
@@ -384,6 +416,22 @@
     ]
   },
   {
+    "name": "Vishnu das.CK",
+    "valid_team": true,
+    "fantasy_score": 945.5,
+    "timestamp": "25/08/2022 10:04:11",
+    "team_slugs": [
+      "arya-shah",
+      "krishna-damor",
+      "sabeel-khader",
+      "sahitra-ghurye",
+      "selvi-murugan",
+      "sneha-patil",
+      "sunil-varma",
+      "vimanthan-l"
+    ]
+  },
+  {
     "name": "Joshua",
     "valid_team": true,
     "fantasy_score": 937.5,
@@ -397,22 +445,6 @@
       "selvi-murugan",
       "stania-peris",
       "suhani-bedi"
-    ]
-  },
-  {
-    "name": "Sudharshana MVL",
-    "valid_team": true,
-    "fantasy_score": 936.5,
-    "timestamp": "22/08/2022 17:22:12",
-    "team_slugs": [
-      "arya-shah",
-      "kenny-borsada",
-      "maksood-chaudhary",
-      "sabeel-khader",
-      "sahitra-ghurye",
-      "shruthi-nathella",
-      "stania-peris",
-      "vimanthan-l"
     ]
   },
   {
@@ -496,19 +528,35 @@
     ]
   },
   {
-    "name": "Dhruv Nath",
+    "name": "Athir",
     "valid_team": true,
-    "fantasy_score": 918.5,
-    "timestamp": "25/08/2022 12:08:01",
+    "fantasy_score": 922.0,
+    "timestamp": "22/08/2022 16:51:08",
     "team_slugs": [
+      "akshay-surange",
       "arya-shah",
+      "sahitra-ghurye",
+      "samarth-mishra",
+      "shruthi-nathella",
+      "sivaraman-venkatesan",
+      "stania-peris",
+      "sunil-varma"
+    ]
+  },
+  {
+    "name": "Akhil Khatri",
+    "valid_team": true,
+    "fantasy_score": 920.5,
+    "timestamp": "25/08/2022 10:19:48",
+    "team_slugs": [
+      "arulmozhi-selvan",
+      "arya-shah",
+      "deepika-shankar",
       "karan-sharam",
       "maksood-chaudhary",
-      "ranjan-khyadad",
+      "sabeel-khader",
       "sahitra-ghurye",
-      "sivaraman-venkatesan",
-      "sneha-patil",
-      "suhani-bedi"
+      "stania-peris"
     ]
   },
   {
@@ -525,22 +573,6 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "sunny-azad"
-    ]
-  },
-  {
-    "name": "Vishnu das.CK",
-    "valid_team": true,
-    "fantasy_score": 912.5,
-    "timestamp": "25/08/2022 10:04:11",
-    "team_slugs": [
-      "arya-shah",
-      "krishna-damor",
-      "sabeel-khader",
-      "sahitra-ghurye",
-      "selvi-murugan",
-      "sneha-patil",
-      "sunil-varma",
-      "vimanthan-l"
     ]
   },
   {
@@ -573,6 +605,22 @@
       "stania-peris",
       "suhani-bedi",
       "sunny-azad"
+    ]
+  },
+  {
+    "name": "Rohan bijoor",
+    "valid_team": true,
+    "fantasy_score": 906.5,
+    "timestamp": "25/08/2022 02:45:49",
+    "team_slugs": [
+      "arya-shah",
+      "krish-patel",
+      "krishna-singh",
+      "maksood-chaudhary",
+      "sahitra-ghurye",
+      "sivaraman-venkatesan",
+      "stania-peris",
+      "suhani-bedi"
     ]
   },
   {
@@ -624,6 +672,38 @@
     ]
   },
   {
+    "name": "Tariq",
+    "valid_team": true,
+    "fantasy_score": 904.0,
+    "timestamp": "26/08/2022 19:40:24",
+    "team_slugs": [
+      "deepak-gowda",
+      "deepika-shankar",
+      "krishna-damor",
+      "maitry-acharya",
+      "maksood-chaudhary",
+      "sahitra-ghurye",
+      "sivaraman-venkatesan",
+      "sneha-patil"
+    ]
+  },
+  {
+    "name": "Karan Mantri",
+    "valid_team": true,
+    "fantasy_score": 903.0,
+    "timestamp": "22/08/2022 18:36:46",
+    "team_slugs": [
+      "arya-shah",
+      "karan-sharam",
+      "maksood-chaudhary",
+      "mayank-dawra",
+      "sahitra-ghurye",
+      "sivaraman-venkatesan",
+      "sneha-patil",
+      "suhani-bedi"
+    ]
+  },
+  {
     "name": "Vishwaa Sekar",
     "valid_team": true,
     "fantasy_score": 903.0,
@@ -636,6 +716,22 @@
       "pooja-raghu",
       "sabeel-khader",
       "sivaraman-venkatesan",
+      "suhani-bedi"
+    ]
+  },
+  {
+    "name": "Andrew Samuel",
+    "valid_team": true,
+    "fantasy_score": 902.5,
+    "timestamp": "24/08/2022 19:04:06",
+    "team_slugs": [
+      "arya-shah",
+      "chandan-dubey",
+      "kenny-borsada",
+      "monika-shankar",
+      "sabeel-khader",
+      "stania-peris",
+      "subash-s",
       "suhani-bedi"
     ]
   },
@@ -672,22 +768,6 @@
     ]
   },
   {
-    "name": "Athir",
-    "valid_team": true,
-    "fantasy_score": 889.0,
-    "timestamp": "22/08/2022 16:51:08",
-    "team_slugs": [
-      "akshay-surange",
-      "arya-shah",
-      "sahitra-ghurye",
-      "samarth-mishra",
-      "shruthi-nathella",
-      "sivaraman-venkatesan",
-      "stania-peris",
-      "sunil-varma"
-    ]
-  },
-  {
     "name": "Kush Kothari",
     "valid_team": true,
     "fantasy_score": 888.0,
@@ -704,19 +784,19 @@
     ]
   },
   {
-    "name": "Akhil Khatri",
+    "name": "Divakar Rai",
     "valid_team": true,
     "fantasy_score": 887.5,
-    "timestamp": "25/08/2022 10:19:48",
+    "timestamp": "22/08/2022 17:32:42",
     "team_slugs": [
-      "arulmozhi-selvan",
-      "arya-shah",
-      "deepika-shankar",
       "karan-sharam",
       "maksood-chaudhary",
-      "sabeel-khader",
+      "manju-kushwaha",
+      "priyanshu-singh",
       "sahitra-ghurye",
-      "stania-peris"
+      "srividya-suriyashekar",
+      "suhani-bedi",
+      "udayan-philip"
     ]
   },
   {
@@ -800,34 +880,18 @@
     ]
   },
   {
-    "name": "Rohan bijoor",
+    "name": "Nishant Ragate (Bolt)",
     "valid_team": true,
-    "fantasy_score": 873.5,
-    "timestamp": "25/08/2022 02:45:49",
+    "fantasy_score": 874.0,
+    "timestamp": "26/08/2022 15:53:45",
     "team_slugs": [
-      "arya-shah",
-      "krish-patel",
-      "krishna-singh",
+      "deepika-shankar",
+      "karan-sharam",
       "maksood-chaudhary",
-      "sahitra-ghurye",
-      "sivaraman-venkatesan",
-      "stania-peris",
-      "suhani-bedi"
-    ]
-  },
-  {
-    "name": "Andrew Samuel",
-    "valid_team": true,
-    "fantasy_score": 873.0,
-    "timestamp": "24/08/2022 19:04:06",
-    "team_slugs": [
-      "arya-shah",
-      "chandan-dubey",
-      "kenny-borsada",
-      "monika-shankar",
       "sabeel-khader",
-      "stania-peris",
-      "subash-s",
+      "sahitra-ghurye",
+      "sivakumar",
+      "sneha-patil",
       "suhani-bedi"
     ]
   },
@@ -848,22 +912,6 @@
     ]
   },
   {
-    "name": "Tariq",
-    "valid_team": true,
-    "fantasy_score": 871.0,
-    "timestamp": "26/08/2022 19:40:24",
-    "team_slugs": [
-      "deepak-gowda",
-      "deepika-shankar",
-      "krishna-damor",
-      "maitry-acharya",
-      "maksood-chaudhary",
-      "sahitra-ghurye",
-      "sivaraman-venkatesan",
-      "sneha-patil"
-    ]
-  },
-  {
     "name": "Ranjan Khyadad",
     "valid_team": true,
     "fantasy_score": 870.5,
@@ -874,22 +922,6 @@
       "maitry-acharya",
       "maksood-chaudhary",
       "sabeel-khader",
-      "sivaraman-venkatesan",
-      "sneha-patil",
-      "suhani-bedi"
-    ]
-  },
-  {
-    "name": "Karan Mantri",
-    "valid_team": true,
-    "fantasy_score": 870.0,
-    "timestamp": "22/08/2022 18:36:46",
-    "team_slugs": [
-      "arya-shah",
-      "karan-sharam",
-      "maksood-chaudhary",
-      "mayank-dawra",
-      "sahitra-ghurye",
       "sivaraman-venkatesan",
       "sneha-patil",
       "suhani-bedi"
@@ -912,6 +944,22 @@
     ]
   },
   {
+    "name": "Hardik Jikkar",
+    "valid_team": true,
+    "fantasy_score": 865.0,
+    "timestamp": "26/08/2022 16:47:22",
+    "team_slugs": [
+      "akshay-surange",
+      "arulmozhi-selvan",
+      "jatin-meena",
+      "maksood-chaudhary",
+      "muskan-jain",
+      "sahitra-ghurye",
+      "selvi-murugan",
+      "stania-peris"
+    ]
+  },
+  {
     "name": "Sriraam VG",
     "valid_team": true,
     "fantasy_score": 864.0,
@@ -925,6 +973,54 @@
       "sabeel-khader",
       "sneha-patil",
       "suhani-bedi"
+    ]
+  },
+  {
+    "name": "Siva Kumar - Blitzkrieg",
+    "valid_team": true,
+    "fantasy_score": 863.5,
+    "timestamp": "24/08/2022 18:10:59",
+    "team_slugs": [
+      "akshara-domala",
+      "arun-kumar",
+      "karan-mallah",
+      "krishna-damor",
+      "sahitra-ghurye",
+      "sivaraman-venkatesan",
+      "stania-peris",
+      "suhani-bedi"
+    ]
+  },
+  {
+    "name": "Abhishek Gosavi",
+    "valid_team": true,
+    "fantasy_score": 862.5,
+    "timestamp": "22/08/2022 19:13:00",
+    "team_slugs": [
+      "abdul-talib",
+      "arya-shah",
+      "harsh-nisar",
+      "karan-sharam",
+      "maksood-chaudhary",
+      "sahitra-ghurye",
+      "sneha-patil",
+      "suhani-bedi"
+    ]
+  },
+  {
+    "name": "Shrilaxmi",
+    "valid_team": true,
+    "fantasy_score": 862.5,
+    "timestamp": "26/08/2022 16:43:52",
+    "team_slugs": [
+      "arya-shah",
+      "divakar-rai",
+      "garima-rathore",
+      "harsh-nisar",
+      "kanishk-k",
+      "karan-sharam",
+      "sahitra-ghurye",
+      "selvi-murugan"
     ]
   },
   {
@@ -960,6 +1056,22 @@
     ]
   },
   {
+    "name": "Vikas Chauhan",
+    "valid_team": true,
+    "fantasy_score": 861.5,
+    "timestamp": "22/08/2022 19:17:26",
+    "team_slugs": [
+      "kenny-borsada",
+      "maitry-acharya",
+      "sahitra-ghurye",
+      "selvi-murugan",
+      "sivaraman-venkatesan",
+      "sneha-patil",
+      "stephen-charles",
+      "vikas-chauhan"
+    ]
+  },
+  {
     "name": "NISHANTH SRIVATSAN",
     "valid_team": true,
     "fantasy_score": 860.0,
@@ -992,19 +1104,19 @@
     ]
   },
   {
-    "name": "Divakar Rai",
+    "name": "Shubham Anant More",
     "valid_team": true,
-    "fantasy_score": 854.5,
-    "timestamp": "22/08/2022 17:32:42",
+    "fantasy_score": 859.0,
+    "timestamp": "22/08/2022 17:29:53",
     "team_slugs": [
+      "esai-selvan-esakki",
+      "hariharan-kumar",
       "karan-sharam",
+      "khushi-desai",
       "maksood-chaudhary",
-      "manju-kushwaha",
-      "priyanshu-singh",
+      "sagarika-ap",
       "sahitra-ghurye",
-      "srividya-suriyashekar",
-      "suhani-bedi",
-      "udayan-philip"
+      "suhani-bedi"
     ]
   },
   {
@@ -1088,18 +1200,18 @@
     ]
   },
   {
-    "name": "Nishant Ragate (Bolt)",
+    "name": "Mayank",
     "valid_team": true,
-    "fantasy_score": 841.0,
-    "timestamp": "26/08/2022 15:53:45",
+    "fantasy_score": 843.0,
+    "timestamp": "27/08/2022 00:20:00",
     "team_slugs": [
       "deepika-shankar",
+      "hariharan-kumar",
       "karan-sharam",
       "maksood-chaudhary",
+      "naina-mathews",
+      "nirbha-ghurye",
       "sabeel-khader",
-      "sahitra-ghurye",
-      "sivakumar",
-      "sneha-patil",
       "suhani-bedi"
     ]
   },
@@ -1136,73 +1248,41 @@
     ]
   },
   {
-    "name": "Hardik Jikkar",
+    "name": "Namritha Anbarasan",
     "valid_team": true,
-    "fantasy_score": 832.0,
-    "timestamp": "26/08/2022 16:47:22",
+    "fantasy_score": 834.0,
+    "timestamp": "24/08/2022 18:28:08",
     "team_slugs": [
-      "akshay-surange",
-      "arulmozhi-selvan",
-      "jatin-meena",
+      "arya-shah",
+      "krishna-damor",
       "maksood-chaudhary",
-      "muskan-jain",
+      "sabeel-khader",
+      "sagarika-ap",
       "sahitra-ghurye",
-      "selvi-murugan",
-      "stania-peris"
+      "stania-peris",
+      "subash-s"
     ]
   },
   {
-    "name": "Siva Kumar - Blitzkrieg",
+    "name": "Nishtha Goyal",
     "valid_team": true,
-    "fantasy_score": 830.5,
-    "timestamp": "24/08/2022 18:10:59",
+    "fantasy_score": 834.0,
+    "timestamp": "22/08/2022 16:50:58",
     "team_slugs": [
-      "akshara-domala",
-      "arun-kumar",
-      "karan-mallah",
+      "divakar-rai",
       "krishna-damor",
+      "maksood-chaudhary",
+      "sagarika-ap",
       "sahitra-ghurye",
-      "sivaraman-venkatesan",
+      "sarang-minhas",
       "stania-peris",
       "suhani-bedi"
     ]
   },
   {
-    "name": "Abhishek Gosavi",
-    "valid_team": true,
-    "fantasy_score": 829.5,
-    "timestamp": "22/08/2022 19:13:00",
-    "team_slugs": [
-      "abdul-talib",
-      "arya-shah",
-      "harsh-nisar",
-      "karan-sharam",
-      "maksood-chaudhary",
-      "sahitra-ghurye",
-      "sneha-patil",
-      "suhani-bedi"
-    ]
-  },
-  {
-    "name": "Shrilaxmi",
-    "valid_team": true,
-    "fantasy_score": 829.5,
-    "timestamp": "26/08/2022 16:43:52",
-    "team_slugs": [
-      "arya-shah",
-      "divakar-rai",
-      "garima-rathore",
-      "harsh-nisar",
-      "kanishk-k",
-      "karan-sharam",
-      "sahitra-ghurye",
-      "selvi-murugan"
-    ]
-  },
-  {
     "name": "Bharath",
     "valid_team": true,
-    "fantasy_score": 829.0,
+    "fantasy_score": 830.5,
     "timestamp": "25/08/2022 19:15:49",
     "team_slugs": [
       "arya-shah",
@@ -1232,35 +1312,19 @@
     ]
   },
   {
-    "name": "Vikas Chauhan",
+    "name": "Kunal",
     "valid_team": true,
-    "fantasy_score": 828.5,
-    "timestamp": "22/08/2022 19:17:26",
+    "fantasy_score": 826.5,
+    "timestamp": "22/08/2022 16:39:12",
     "team_slugs": [
-      "kenny-borsada",
-      "maitry-acharya",
+      "bhavya-jain",
+      "dhiraj-gangaraju",
+      "karan-sharam",
+      "maksood-chaudhary",
+      "sabeel-khader",
       "sahitra-ghurye",
       "selvi-murugan",
-      "sivaraman-venkatesan",
-      "sneha-patil",
-      "stephen-charles",
-      "vikas-chauhan"
-    ]
-  },
-  {
-    "name": "Shubham Anant More",
-    "valid_team": true,
-    "fantasy_score": 826.0,
-    "timestamp": "22/08/2022 17:29:53",
-    "team_slugs": [
-      "esai-selvan-esakki",
-      "hariharan-kumar",
-      "karan-sharam",
-      "khushi-desai",
-      "maksood-chaudhary",
-      "sagarika-ap",
-      "sahitra-ghurye",
-      "suhani-bedi"
+      "sneha-patil"
     ]
   },
   {
@@ -1293,22 +1357,6 @@
       "stania-peris",
       "suhani-bedi",
       "vimanthan-l"
-    ]
-  },
-  {
-    "name": "Mayank",
-    "valid_team": true,
-    "fantasy_score": 820.5,
-    "timestamp": "27/08/2022 00:20:00",
-    "team_slugs": [
-      "deepika-shankar",
-      "hariharan-kumar",
-      "karan-sharam",
-      "maksood-chaudhary",
-      "naina-mathews",
-      "nirbha-ghurye",
-      "sabeel-khader",
-      "suhani-bedi"
     ]
   },
   {
@@ -1360,38 +1408,6 @@
     ]
   },
   {
-    "name": "Namritha Anbarasan",
-    "valid_team": true,
-    "fantasy_score": 801.0,
-    "timestamp": "24/08/2022 18:28:08",
-    "team_slugs": [
-      "arya-shah",
-      "krishna-damor",
-      "maksood-chaudhary",
-      "sabeel-khader",
-      "sagarika-ap",
-      "sahitra-ghurye",
-      "stania-peris",
-      "subash-s"
-    ]
-  },
-  {
-    "name": "Nishtha Goyal",
-    "valid_team": true,
-    "fantasy_score": 801.0,
-    "timestamp": "22/08/2022 16:50:58",
-    "team_slugs": [
-      "divakar-rai",
-      "krishna-damor",
-      "maksood-chaudhary",
-      "sagarika-ap",
-      "sahitra-ghurye",
-      "sarang-minhas",
-      "stania-peris",
-      "suhani-bedi"
-    ]
-  },
-  {
     "name": "Panvi",
     "valid_team": true,
     "fantasy_score": 800.0,
@@ -1405,6 +1421,22 @@
       "sarang-minhas",
       "selvi-murugan",
       "sivaraman-venkatesan"
+    ]
+  },
+  {
+    "name": "Craig Savio Fonseca",
+    "valid_team": true,
+    "fantasy_score": 799.0,
+    "timestamp": "26/08/2022 18:38:59",
+    "team_slugs": [
+      "arya-shah",
+      "deepak-gowda",
+      "garima-rathore",
+      "karan-arora",
+      "noman-pthan",
+      "sivaraman-venkatesan",
+      "stania-peris",
+      "sushma-tapse"
     ]
   },
   {
@@ -1424,25 +1456,9 @@
     ]
   },
   {
-    "name": "Kunal",
-    "valid_team": true,
-    "fantasy_score": 793.5,
-    "timestamp": "22/08/2022 16:39:12",
-    "team_slugs": [
-      "bhavya-jain",
-      "dhiraj-gangaraju",
-      "karan-sharam",
-      "maksood-chaudhary",
-      "sabeel-khader",
-      "sahitra-ghurye",
-      "selvi-murugan",
-      "sneha-patil"
-    ]
-  },
-  {
     "name": "Cyril Binoy",
     "valid_team": true,
-    "fantasy_score": 792.5,
+    "fantasy_score": 796.0,
     "timestamp": "24/08/2022 20:35:47",
     "team_slugs": [
       "arya-shah",
@@ -1453,6 +1469,22 @@
       "sunil-varma",
       "udayan-philip",
       "vidya-parmar"
+    ]
+  },
+  {
+    "name": "Rohan Manoj",
+    "valid_team": true,
+    "fantasy_score": 794.5,
+    "timestamp": "26/08/2022 18:26:01",
+    "team_slugs": [
+      "esai-selvan-esakki",
+      "koka-mrinalini-siddhartha",
+      "krishna-damor",
+      "maksood-chaudhary",
+      "sahitra-ghurye",
+      "sivaraman-venkatesan",
+      "sowmya-gascon",
+      "vandana-jhanjhoriya"
     ]
   },
   {
@@ -1504,6 +1536,22 @@
     ]
   },
   {
+    "name": "Aditya Dubey",
+    "valid_team": true,
+    "fantasy_score": 786.0,
+    "timestamp": "22/08/2022 17:13:44",
+    "team_slugs": [
+      "arya-shah",
+      "esai-selvan-esakki",
+      "karan-sharam",
+      "maksood-chaudhary",
+      "sagarika-ap",
+      "sahitra-ghurye",
+      "sivakumar",
+      "stania-peris"
+    ]
+  },
+  {
     "name": "Vaishnavi",
     "valid_team": true,
     "fantasy_score": 786.0,
@@ -1536,6 +1584,22 @@
     ]
   },
   {
+    "name": "Navaneeth Holla",
+    "valid_team": true,
+    "fantasy_score": 779.5,
+    "timestamp": "24/08/2022 18:32:27",
+    "team_slugs": [
+      "bhavya-jain",
+      "karan-sharam",
+      "mayank-dawra",
+      "sabeel-khader",
+      "sahitra-ghurye",
+      "shruthi-nathella",
+      "sneha-patil",
+      "subash-s"
+    ]
+  },
+  {
     "name": "Rishubh Singh",
     "valid_team": true,
     "fantasy_score": 775.0,
@@ -1552,19 +1616,19 @@
     ]
   },
   {
-    "name": "Craig Savio Fonseca",
+    "name": "pawan singh negi",
     "valid_team": true,
-    "fantasy_score": 771.5,
-    "timestamp": "26/08/2022 18:38:59",
+    "fantasy_score": 773.5,
+    "timestamp": "26/08/2022 10:58:16",
     "team_slugs": [
-      "arya-shah",
-      "deepak-gowda",
-      "garima-rathore",
+      "atul-parmar",
       "karan-arora",
-      "noman-pthan",
+      "muskan-jain",
+      "sahitra-ghurye",
+      "samyuktha-arvind",
       "sivaraman-venkatesan",
-      "stania-peris",
-      "sushma-tapse"
+      "sowmya-gascon",
+      "subhadeep-guha"
     ]
   },
   {
@@ -1600,6 +1664,22 @@
     ]
   },
   {
+    "name": "Sravanthi Nadiminti",
+    "valid_team": true,
+    "fantasy_score": 765.5,
+    "timestamp": "24/08/2022 18:07:09",
+    "team_slugs": [
+      "arya-shah",
+      "esai-selvan-esakki",
+      "garima-rathore",
+      "krishna-damor",
+      "stania-peris",
+      "sunil-varma",
+      "sushma-tapse",
+      "udayan-philip"
+    ]
+  },
+  {
     "name": "Gokulavanan P",
     "valid_team": true,
     "fantasy_score": 763.5,
@@ -1629,86 +1709,6 @@
       "stania-peris",
       "subash-s",
       "suhani-bedi"
-    ]
-  },
-  {
-    "name": "Rohan Manoj",
-    "valid_team": true,
-    "fantasy_score": 761.5,
-    "timestamp": "26/08/2022 18:26:01",
-    "team_slugs": [
-      "esai-selvan-esakki",
-      "koka-mrinalini-siddhartha",
-      "krishna-damor",
-      "maksood-chaudhary",
-      "sahitra-ghurye",
-      "sivaraman-venkatesan",
-      "sowmya-gascon",
-      "vandana-jhanjhoriya"
-    ]
-  },
-  {
-    "name": "Aditya Dubey",
-    "valid_team": true,
-    "fantasy_score": 753.0,
-    "timestamp": "22/08/2022 17:13:44",
-    "team_slugs": [
-      "arya-shah",
-      "esai-selvan-esakki",
-      "karan-sharam",
-      "maksood-chaudhary",
-      "sagarika-ap",
-      "sahitra-ghurye",
-      "sivakumar",
-      "stania-peris"
-    ]
-  },
-  {
-    "name": "Navaneeth Holla",
-    "valid_team": true,
-    "fantasy_score": 746.5,
-    "timestamp": "24/08/2022 18:32:27",
-    "team_slugs": [
-      "bhavya-jain",
-      "karan-sharam",
-      "mayank-dawra",
-      "sabeel-khader",
-      "sahitra-ghurye",
-      "shruthi-nathella",
-      "sneha-patil",
-      "subash-s"
-    ]
-  },
-  {
-    "name": "pawan singh negi",
-    "valid_team": true,
-    "fantasy_score": 740.5,
-    "timestamp": "26/08/2022 10:58:16",
-    "team_slugs": [
-      "atul-parmar",
-      "karan-arora",
-      "muskan-jain",
-      "sahitra-ghurye",
-      "samyuktha-arvind",
-      "sivaraman-venkatesan",
-      "sowmya-gascon",
-      "subhadeep-guha"
-    ]
-  },
-  {
-    "name": "Sravanthi Nadiminti",
-    "valid_team": true,
-    "fantasy_score": 738.0,
-    "timestamp": "24/08/2022 18:07:09",
-    "team_slugs": [
-      "arya-shah",
-      "esai-selvan-esakki",
-      "garima-rathore",
-      "krishna-damor",
-      "stania-peris",
-      "sunil-varma",
-      "sushma-tapse",
-      "udayan-philip"
     ]
   },
   {
@@ -1760,6 +1760,54 @@
     ]
   },
   {
+    "name": "Andrew",
+    "valid_team": true,
+    "fantasy_score": 716.5,
+    "timestamp": "24/08/2022 18:56:36",
+    "team_slugs": [
+      "altaf-shaikh",
+      "arya-shah",
+      "chandan-dubey",
+      "deepika-shankar",
+      "poonam-pokale",
+      "sabeel-khader",
+      "stania-peris",
+      "subash-s"
+    ]
+  },
+  {
+    "name": "Sumit",
+    "valid_team": true,
+    "fantasy_score": 716.0,
+    "timestamp": "22/08/2022 17:31:07",
+    "team_slugs": [
+      "arya-shah",
+      "grant-wagner",
+      "karan-sharam",
+      "pooja-s",
+      "sahitra-ghurye",
+      "shubham-more",
+      "sivakumar",
+      "stania-peris"
+    ]
+  },
+  {
+    "name": "Saumya",
+    "valid_team": true,
+    "fantasy_score": 706.0,
+    "timestamp": "22/08/2022 17:43:03",
+    "team_slugs": [
+      "arun-kumar",
+      "arya-shah",
+      "jatin-meena",
+      "kenny-borsada",
+      "maksood-chaudhary",
+      "neha-bharti",
+      "sahitra-ghurye",
+      "suhani-bedi"
+    ]
+  },
+  {
     "name": "Arjun (FUEL)",
     "valid_team": true,
     "fantasy_score": 697.0,
@@ -1773,6 +1821,22 @@
       "selvi-murugan",
       "sivaraman-venkatesan",
       "vandana-jhanjhoriya"
+    ]
+  },
+  {
+    "name": "Aatish",
+    "valid_team": true,
+    "fantasy_score": 689.5,
+    "timestamp": "22/08/2022 19:10:01",
+    "team_slugs": [
+      "harsh-nisar",
+      "karan-sharam",
+      "khushi-desai",
+      "naina-mathews",
+      "sarang-minhas",
+      "selvi-murugan",
+      "sunil-varma",
+      "sushma-tapse"
     ]
   },
   {
@@ -1792,22 +1856,6 @@
     ]
   },
   {
-    "name": "Andrew",
-    "valid_team": true,
-    "fantasy_score": 687.0,
-    "timestamp": "24/08/2022 18:56:36",
-    "team_slugs": [
-      "altaf-shaikh",
-      "arya-shah",
-      "chandan-dubey",
-      "deepika-shankar",
-      "poonam-pokale",
-      "sabeel-khader",
-      "stania-peris",
-      "subash-s"
-    ]
-  },
-  {
     "name": "Roshini Palaniappan",
     "valid_team": true,
     "fantasy_score": 684.0,
@@ -1824,19 +1872,19 @@
     ]
   },
   {
-    "name": "Sumit",
+    "name": "Om Gandhi",
     "valid_team": true,
-    "fantasy_score": 683.0,
-    "timestamp": "22/08/2022 17:31:07",
+    "fantasy_score": 682.0,
+    "timestamp": "22/08/2022 19:08:24",
     "team_slugs": [
-      "arya-shah",
-      "grant-wagner",
-      "karan-sharam",
-      "pooja-s",
-      "sahitra-ghurye",
+      "dhwani-jain",
+      "kenny-borsada",
+      "prachi-mehta",
       "shubham-more",
-      "sivakumar",
-      "stania-peris"
+      "sivaraman-venkatesan",
+      "stania-peris",
+      "sunny-chauhan",
+      "sushma-tapse"
     ]
   },
   {
@@ -1904,22 +1952,6 @@
     ]
   },
   {
-    "name": "Saumya",
-    "valid_team": true,
-    "fantasy_score": 673.0,
-    "timestamp": "22/08/2022 17:43:03",
-    "team_slugs": [
-      "arun-kumar",
-      "arya-shah",
-      "jatin-meena",
-      "kenny-borsada",
-      "maksood-chaudhary",
-      "neha-bharti",
-      "sahitra-ghurye",
-      "suhani-bedi"
-    ]
-  },
-  {
     "name": "Aditya",
     "valid_team": true,
     "fantasy_score": 669.5,
@@ -1949,22 +1981,6 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "usha-rani"
-    ]
-  },
-  {
-    "name": "Aatish",
-    "valid_team": true,
-    "fantasy_score": 662.0,
-    "timestamp": "22/08/2022 19:10:01",
-    "team_slugs": [
-      "harsh-nisar",
-      "karan-sharam",
-      "khushi-desai",
-      "naina-mathews",
-      "sarang-minhas",
-      "selvi-murugan",
-      "sunil-varma",
-      "sushma-tapse"
     ]
   },
   {
@@ -2000,25 +2016,9 @@
     ]
   },
   {
-    "name": "Om Gandhi",
-    "valid_team": true,
-    "fantasy_score": 654.5,
-    "timestamp": "22/08/2022 19:08:24",
-    "team_slugs": [
-      "dhwani-jain",
-      "kenny-borsada",
-      "prachi-mehta",
-      "shubham-more",
-      "sivaraman-venkatesan",
-      "stania-peris",
-      "sunny-chauhan",
-      "sushma-tapse"
-    ]
-  },
-  {
     "name": "Sanat Vohra",
     "valid_team": true,
-    "fantasy_score": 651.5,
+    "fantasy_score": 655.0,
     "timestamp": "26/08/2022 12:19:34",
     "team_slugs": [
       "garima-rathore",
@@ -2032,9 +2032,25 @@
     ]
   },
   {
+    "name": "Pranav",
+    "valid_team": true,
+    "fantasy_score": 651.5,
+    "timestamp": "22/08/2022 17:30:05",
+    "team_slugs": [
+      "ajith-jagadish",
+      "apoorva-c-a",
+      "kenny-borsada",
+      "maksood-chaudhary",
+      "riya-rathod",
+      "sahitra-ghurye",
+      "sivaraman-venkatesan",
+      "veena-singh"
+    ]
+  },
+  {
     "name": "Aadi",
     "valid_team": true,
-    "fantasy_score": 644.0,
+    "fantasy_score": 645.0,
     "timestamp": "26/08/2022 15:24:17",
     "team_slugs": [
       "aaron-varghese",
@@ -2050,7 +2066,7 @@
   {
     "name": "Anshul Agarwal",
     "valid_team": true,
-    "fantasy_score": 643.5,
+    "fantasy_score": 644.5,
     "timestamp": "22/08/2022 19:41:52",
     "team_slugs": [
       "akshay-surange",
@@ -2061,6 +2077,22 @@
       "sagarika-ap",
       "sapna-dodmani",
       "sivaraman-venkatesan"
+    ]
+  },
+  {
+    "name": "Swetha Aldrine",
+    "valid_team": true,
+    "fantasy_score": 629.5,
+    "timestamp": "26/08/2022 16:51:31",
+    "team_slugs": [
+      "deepak-gowda",
+      "deepika-shankar",
+      "kenny-borsada",
+      "kimaya-dhongde",
+      "maitry-acharya",
+      "maksood-chaudhary",
+      "stania-peris",
+      "subash-s"
     ]
   },
   {
@@ -2093,38 +2125,6 @@
       "naina-mathews",
       "naveen-g",
       "sivaraman-venkatesan"
-    ]
-  },
-  {
-    "name": "Swetha Aldrine",
-    "valid_team": true,
-    "fantasy_score": 625.0,
-    "timestamp": "26/08/2022 16:51:31",
-    "team_slugs": [
-      "deepak-gowda",
-      "deepika-shankar",
-      "kenny-borsada",
-      "kimaya-dhongde",
-      "maitry-acharya",
-      "maksood-chaudhary",
-      "stania-peris",
-      "subash-s"
-    ]
-  },
-  {
-    "name": "Pranav",
-    "valid_team": true,
-    "fantasy_score": 618.5,
-    "timestamp": "22/08/2022 17:30:05",
-    "team_slugs": [
-      "ajith-jagadish",
-      "apoorva-c-a",
-      "kenny-borsada",
-      "maksood-chaudhary",
-      "riya-rathod",
-      "sahitra-ghurye",
-      "sivaraman-venkatesan",
-      "veena-singh"
     ]
   },
   {
@@ -2194,7 +2194,7 @@
   {
     "name": "SANDEEP KANNOUJIA (SANDY)",
     "valid_team": true,
-    "fantasy_score": 545.0,
+    "fantasy_score": 578.0,
     "timestamp": "22/08/2022 21:14:46",
     "team_slugs": [
       "atul-parmar",
@@ -2258,7 +2258,7 @@
   {
     "name": "Rajat Kumar",
     "valid_team": true,
-    "fantasy_score": 482.5,
+    "fantasy_score": 483.5,
     "timestamp": "25/08/2022 21:47:56",
     "team_slugs": [
       "aman-doharey",
@@ -2290,7 +2290,7 @@
   {
     "name": "Jhumka",
     "valid_team": true,
-    "fantasy_score": 468.5,
+    "fantasy_score": 469.5,
     "timestamp": "27/08/2022 05:46:43",
     "team_slugs": [
       "apoorva-c-a",
@@ -2301,6 +2301,22 @@
       "maitry-acharya",
       "maksood-chaudhary",
       "sapna-dodmani"
+    ]
+  },
+  {
+    "name": "Rutuja Chavan",
+    "valid_team": true,
+    "fantasy_score": 464.0,
+    "timestamp": "24/08/2022 07:01:32",
+    "team_slugs": [
+      "auroshree-mohanta",
+      "deepak-gowda",
+      "goundla-mamatha",
+      "harsha-gk",
+      "maksood-chaudhary",
+      "panvi--s",
+      "sagarika-ap",
+      "sushma-tapse"
     ]
   },
   {
@@ -2322,7 +2338,7 @@
   {
     "name": "Mikhail Nazareth",
     "valid_team": true,
-    "fantasy_score": 445.0,
+    "fantasy_score": 447.5,
     "timestamp": "26/08/2022 17:38:57",
     "team_slugs": [
       "akshay-surange",
@@ -2354,7 +2370,7 @@
   {
     "name": "Anish Paralikar",
     "valid_team": true,
-    "fantasy_score": 440.5,
+    "fantasy_score": 442.0,
     "timestamp": "22/08/2022 16:46:35",
     "team_slugs": [
       "ankita-p",
@@ -2365,22 +2381,6 @@
       "maksood-chaudhary",
       "sivakumar",
       "stania-peris"
-    ]
-  },
-  {
-    "name": "Rutuja Chavan",
-    "valid_team": true,
-    "fantasy_score": 436.5,
-    "timestamp": "24/08/2022 07:01:32",
-    "team_slugs": [
-      "auroshree-mohanta",
-      "deepak-gowda",
-      "goundla-mamatha",
-      "harsha-gk",
-      "maksood-chaudhary",
-      "panvi--s",
-      "sagarika-ap",
-      "sushma-tapse"
     ]
   },
   {
@@ -2450,7 +2450,7 @@
   {
     "name": "Bhavya",
     "valid_team": true,
-    "fantasy_score": 342.0,
+    "fantasy_score": 346.5,
     "timestamp": "22/08/2022 17:16:17",
     "team_slugs": [
       "akshai-abraham",
