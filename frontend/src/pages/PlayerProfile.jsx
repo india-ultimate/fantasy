@@ -265,7 +265,9 @@ const PlayerProfile = () => {
 													component="p"
 													color="primary"
 												>
-													{`${player["stats-distribution"][statName]}`}
+													{`${player[
+														"stats-distribution"
+													][statName] || 0}`}
 												</Typography>
 											</Grid>
 											<Grid item xs={3}>
@@ -279,7 +281,9 @@ const PlayerProfile = () => {
 													component="p"
 													color="primary"
 												>
-													{`${player["points-distribution"][statName]}`}
+													{`${player[
+														"points-distribution"
+													][statName] || 0}`}
 												</Typography>
 											</Grid>
 										</>
