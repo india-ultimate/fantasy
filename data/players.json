@@ -10159,7 +10159,7 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 204.0,
+    "fantasy-points": 206.0,
     "gender": "female",
     "jersey": "93",
     "name": "Sahitra Ghurye",
@@ -10170,7 +10170,7 @@
       "d-line": 28.0,
       "d-scoring-line": 46,
       "defense": 30,
-      "drop": -4,
+      "drop": -2,
       "goal": 39,
       "o-line": 28.0,
       "o-scoring-line": 38,
@@ -10244,7 +10244,7 @@
         "d-line": 8,
         "d-scoring-line": 2,
         "defense": 2,
-        "drop": 1,
+        "drop": 0,
         "goal": 2,
         "o-line": 11,
         "o-scoring-line": 6,
@@ -10257,7 +10257,7 @@
       "d-line": 56,
       "d-scoring-line": 23,
       "defense": 6,
-      "drop": 2,
+      "drop": 1,
       "goal": 13,
       "o-line": 56,
       "o-scoring-line": 38,
@@ -10266,7 +10266,7 @@
     "team": "Maharashtra Ultimate"
   },
   {
-    "fantasy-points": 97.0,
+    "fantasy-points": 95.0,
     "gender": "male",
     "jersey": "9",
     "name": "Sandeep Kannoujia",
@@ -10281,7 +10281,7 @@
       "goal": 6,
       "o-line": 4.5,
       "o-scoring-line": 8,
-      "throwaway": -8
+      "throwaway": -10
     },
     "slug": "sandeep-kannoujia",
     "stats": {
@@ -10355,7 +10355,7 @@
         "goal": 1,
         "o-line": 3,
         "o-scoring-line": 2,
-        "throwaway": 1
+        "throwaway": 2
       }
     },
     "stats-distribution": {
@@ -10368,7 +10368,7 @@
       "goal": 2,
       "o-line": 9,
       "o-scoring-line": 8,
-      "throwaway": 4
+      "throwaway": 5
     },
     "team": "Maharashtra Ultimate"
   },
