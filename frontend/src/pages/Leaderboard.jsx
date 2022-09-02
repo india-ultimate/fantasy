@@ -34,7 +34,6 @@ const Leaderboard = () => {
 			data
 				.filter((p) => p["valid_team"])
 				.map((p, i) => {
-					console.log(p);
 					return {
 						...p,
 						rank: i + 1,
