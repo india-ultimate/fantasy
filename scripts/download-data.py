@@ -32,6 +32,27 @@ def get_player_stats(sheet_id, sheet_name):
     return path
 
 
+def get_volunteers(sheet_id, sheet_name):
+    print(f"Downloading Stats from '{sheet_name}' sheet in the Google Spreadsheet")
+    url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/gviz/tq?tqx=out:csv&sheet={sheet_name}"
+    response = requests.get(url)
+    columns = [[], [], [], [], []]
+    for i, row in enumerate(response.text.splitlines()):
+        row = row.replace('"', "").split(",")
+        if i == 0:
+            headers = row
+        else:
+            for i, each in enumerate(row):
+                if each:
+                    columns[i].append(each)
+
+    data = {headers[i]: column for i, column in enumerate(columns)}
+    path = DATA_DIR.joinpath("volunteers.json")
+    with open(path, "w") as f:
+        json.dump(data, f)
+    return path
+
+
 def get_stats_csvs(team_ids):
     # Delete all existsing stats files. Useful to remove old stats files for
     # teams removed from the team_ids list.
@@ -175,6 +196,8 @@ def main():
     get_player_stats(sheet_id, "Pool-A")
     get_player_stats(sheet_id, "Pool-B")
     get_player_stats(sheet_id, "Brackets")
+
+    get_volunteers(sheet_id, "Volunteers")
 
     sheet_id = os.environ["PLAYERS_SHEET_ID"]
     event_id = "152238"
