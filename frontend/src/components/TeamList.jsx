@@ -11,7 +11,12 @@ const TeamList = () => {
 			style={{ width: "100%" }}
 		>
 			{teamLinks.map((team) => (
-				<img src={team.logo} width="40%" style={{ margin: "5%" }} />
+				<img
+					key={team.iuSlug}
+					src={team.logo}
+					width="40%"
+					style={{ margin: "5%" }}
+				/>
 			))}
 		</Grid>
 	);
