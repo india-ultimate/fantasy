@@ -3,6 +3,7 @@ import React from "react";
 import Navbar from "../components/Navbar";
 import TeamList from "../components/TeamList";
 import SponsorList from "../components/SponsorList";
+import VolunteerList from "../components/VolunteerList";
 import KeyboardDoubleArrowRightIcon from "@mui/icons-material/KeyboardDoubleArrowRight";
 import { useNavigate } from "react-router-dom";
 
@@ -185,6 +186,20 @@ const Home = () => {
 						{/* </Link> */}
 					</Grid>
 				</Grid>
+				<Divider>
+					<Typography
+						variant="overline"
+						component="h3"
+						align="center"
+						sx={{
+							fontSize: "3.5vw",
+							opacity: 0.65,
+						}}
+					>
+						Volunteers
+					</Typography>
+				</Divider>
+				<VolunteerList />
 				<Divider>
 					<Typography
 						variant="overline"
