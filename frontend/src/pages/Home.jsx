@@ -109,6 +109,40 @@ const Home = () => {
 						</Button>
 					</Grid>
 					<Grid item xs={12}>
+						<Button
+							variant="outlined"
+							sx={{
+								display: "block",
+								width: "100%",
+								height: "15vh",
+								my: "1vh",
+							}}
+							onClick={() => navigate("/rules")}
+						>
+							<KeyboardDoubleArrowRightIcon
+								sx={{
+									position: "absolute",
+									right: "10%",
+									top: "40%",
+								}}
+							/>
+							<Typography
+								variant="h5"
+								component="h5"
+								align="left"
+							>
+								<strong>Rules</strong>
+							</Typography>
+							<Typography
+								variant="caption"
+								component="p"
+								align="left"
+							>
+								How does it work?
+							</Typography>
+						</Button>
+					</Grid>
+					<Grid item xs={12}>
 						{/* <Link
 							href="https://forms.gle/kVeJG27Jf6PGmwQHA"
 							target="_blank"

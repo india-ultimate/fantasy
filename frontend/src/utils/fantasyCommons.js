@@ -23,3 +23,15 @@ export const displayNames = {
 	"o-scoring-line": "On scoring O Line",
 	throwaway: "Throwaway",
 };
+
+export const points = [
+	{ event: "goal", points: 3 },
+	{ event: "assist", points: 3 },
+	{ event: "o-line", points: 0.5 },
+	{ event: "o-scoring-line", points: 1 },
+	{ event: "block", points: 5 },
+	{ event: "d-line", points: 0.5 },
+	{ event: "d-scoring-line", points: 2 },
+	{ event: "drop", points: -2 },
+	{ event: "throwaway", points: -2 },
+];
