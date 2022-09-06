@@ -42,7 +42,7 @@ const PlayerRow = ({ player }) => {
 						// backgroundClip: "text",
 						// color: "transparent",
 						lineHeight: "2.66",
-						font: "bold 3.5vw/2.66 Poppins, sans-serif",
+						font: "bold min(3.5vw, 24px)/2.66 Poppins, sans-serif",
 					}}
 					variant="overline"
 					component="p"
