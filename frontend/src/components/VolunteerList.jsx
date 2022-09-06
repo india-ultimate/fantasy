@@ -5,18 +5,17 @@ const VolunteerList = () => {
 	return (
 		<Grid
 			container
-			spacing={0}
-			alignItems="center"
+			spacing={1}
 			justifyContent="center"
 			style={{ width: "100%" }}
 		>
 			<Typography
 				sx={{
-					font: "regular 2vw Poppins, sans-serif",
+					font: "normal min(4vw,24px) Poppins, sans-serif",
 					mb: "2vh",
 				}}
 				variant="body2"
-				component="body2"
+				component="p"
 				align="left"
 				color="primary"
 			>
@@ -24,7 +23,9 @@ const VolunteerList = () => {
 				hours of data cleanup and entry and 50+ hours of tech work,
 				apart from all the hours of ideation and operations/logistics
 				work. A big thanks to all the volunteers who helped make this
-				happen. Click{" "}
+				happen. <br />
+				<br />
+				Click{" "}
 				<Link
 					target="_blank"
 					href="https://docs.google.com/spreadsheets/d/1kqC0AcrOOWmOYdrZFKgZKsY2LQyWsTlD832w9sBd1Wk/edit?usp=sharing"
@@ -36,21 +37,27 @@ const VolunteerList = () => {
 			{Object.keys(volunteers).map((category) => {
 				const names = volunteers[category];
 				return (
-					<Grid item xs={12} key={category}>
+					<Grid item xs={12} md={6} lg={4} key={category}>
 						<Typography
 							sx={{
-								font: "bold 4vw Poppins, sans-serif",
+								font: "bold min(4vw,24px) Poppins, sans-serif",
 							}}
 							variant="h6"
 							component="h6"
-							align="left"
+							align="center"
 							color="primary"
 						>
 							{category}
 						</Typography>
 						<ul>
 							{names.map((name) => (
-								<li>{name}</li>
+								<li
+									style={{
+										font: "normal 18px Poppins, sans-serif",
+									}}
+								>
+									{name}
+								</li>
 							))}
 						</ul>
 					</Grid>
