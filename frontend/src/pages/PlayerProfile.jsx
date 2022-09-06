@@ -7,6 +7,7 @@ import {
 	Chip,
 	Divider,
 	Grid,
+	Link,
 	Paper,
 	Table,
 	TableBody,
@@ -22,6 +23,7 @@ import ArrowBackIosNewIcon from "@mui/icons-material/ArrowBackIosNew";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import { statsOrder, displayNames } from "../utils/fantasyCommons";
 import data from "../data/players.json";
+import OpenInNewIcon from "@mui/icons-material/OpenInNew";
 
 const PlayerProfile = () => {
 	let { slug } = useParams();
@@ -120,7 +122,7 @@ const PlayerProfile = () => {
 									align="center"
 									sx={{
 										fontSize: "3vw",
-										opacity: 0.65
+										opacity: 0.65,
 									}}
 								>
 									Number of Games
@@ -131,7 +133,7 @@ const PlayerProfile = () => {
 										// 	"-webkit-linear-gradient(60deg, #002B5B, #EF5B0C)",
 										// backgroundClip: "text",
 										// color: "transparent",
-										font: "5vw Poppins, sans-serif"
+										font: "5vw Poppins, sans-serif",
 									}}
 									variant="h6"
 									component="h4"
@@ -265,9 +267,11 @@ const PlayerProfile = () => {
 													component="p"
 													color="primary"
 												>
-													{`${player[
-														"stats-distribution"
-													][statName] || 0}`}
+													{`${
+														player[
+															"stats-distribution"
+														][statName] || 0
+													}`}
 												</Typography>
 											</Grid>
 											<Grid item xs={3}>
@@ -281,9 +285,11 @@ const PlayerProfile = () => {
 													component="p"
 													color="primary"
 												>
-													{`${player[
-														"points-distribution"
-													][statName] || 0}`}
+													{`${
+														player[
+															"points-distribution"
+														][statName] || 0
+													}`}
 												</Typography>
 											</Grid>
 										</>
@@ -303,7 +309,7 @@ const PlayerProfile = () => {
 								>
 									Game Stats
 								</Typography>
-								{Object.keys(player.stats).map(teamDay => {
+								{Object.keys(player.stats).map((teamDay) => {
 									const [team, day] = teamDay.split(";");
 									return (
 										<Accordion>
@@ -318,7 +324,7 @@ const PlayerProfile = () => {
 														component="span"
 														sx={{
 															textTransform:
-																"capitalize"
+																"capitalize",
 														}}
 													>
 														{day}
@@ -332,15 +338,16 @@ const PlayerProfile = () => {
 													<Table aria-label="simple table">
 														<TableBody>
 															{statsOrder.map(
-																statName => (
+																(statName) => (
 																	<TableRow
 																		key={
 																			statName
 																		}
 																		sx={{
-																			"&:last-child td, &:last-child th": {
-																				border: 0
-																			}
+																			"&:last-child td, &:last-child th":
+																				{
+																					border: 0,
+																				},
 																		}}
 																	>
 																		<TableCell
@@ -374,6 +381,19 @@ const PlayerProfile = () => {
 									);
 								})}
 							</Grid>
+							<Link
+								href="https://docs.google.com/spreadsheets/d/1kqC0AcrOOWmOYdrZFKgZKsY2LQyWsTlD832w9sBd1Wk/edit?usp=sharing"
+								target="_blank"
+							>
+								<Button
+									variant="text"
+									startIcon={<OpenInNewIcon />}
+									size="small"
+									sx={{ mt: "10px" }}
+								>
+									Checkout raw data
+								</Button>
+							</Link>
 						</>
 					) : (
 						<>

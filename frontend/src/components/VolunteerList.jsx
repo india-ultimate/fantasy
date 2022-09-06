@@ -1,4 +1,4 @@
-import { Grid, Typography } from "@mui/material";
+import { Grid, Link, Typography } from "@mui/material";
 import volunteers from "../data/volunteers.json";
 
 const VolunteerList = () => {
@@ -24,7 +24,14 @@ const VolunteerList = () => {
 				hours of data cleanup and entry and 50+ hours of tech work,
 				apart from all the hours of ideation and operations/logistics
 				work. A big thanks to all the volunteers who helped make this
-				happen.
+				happen. Click{" "}
+				<Link
+					target="_blank"
+					href="https://docs.google.com/spreadsheets/d/1kqC0AcrOOWmOYdrZFKgZKsY2LQyWsTlD832w9sBd1Wk/edit?usp=sharing"
+				>
+					here
+				</Link>{" "}
+				to see the raw data collected!
 			</Typography>
 			{Object.keys(volunteers).map((category) => {
 				const names = volunteers[category];
@@ -32,7 +39,7 @@ const VolunteerList = () => {
 					<Grid item xs={12} key={category}>
 						<Typography
 							sx={{
-								font: "bold 2vw Poppins, sans-serif",
+								font: "bold 4vw Poppins, sans-serif",
 							}}
 							variant="h6"
 							component="h6"
