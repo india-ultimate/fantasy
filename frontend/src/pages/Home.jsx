@@ -14,34 +14,37 @@ const Home = () => {
 			<Navbar>
 				<Grid
 					container
-					spacing={0}
+					spacing={2}
 					alignItems="center"
 					justifyContent="center"
-					style={{ width: "100%" }}
+					sx={{ width: "100%" }}
 				>
 					<img
 						src="https://res.cloudinary.com/india-ultimate/image/upload/v1661508047/ultimate-fantasy-league/logo-horizontal-2022.png"
 						alt="logo"
-						style={{ width: "100%" }}
+						style={{ width: "100%", maxWidth: "500px" }}
 					/>
-					<Typography
-						sx={{
-							// backgroundImage:
-							// 	"-webkit-linear-gradient(60deg, #002B5B, #EF5B0C)",
-							// backgroundClip: "text",
-							// color: "transparent",
-							font: "bold 10vw Poppins, sans-serif",
-							mt: "2vh",
-							mb: "5vh",
-						}}
-						variant="h1"
-						component="h1"
-						align="center"
-						color="primary"
-					>
-						Fantasy League
-					</Typography>
 					<Grid item xs={12}>
+						<Typography
+							sx={{
+								// backgroundImage:
+								// 	"-webkit-linear-gradient(60deg, #002B5B, #EF5B0C)",
+								// backgroundClip: "text",
+								// color: "transparent",
+								font: "bold min(10vw, 62px) Poppins, sans-serif",
+								mt: "2vh",
+								mb: "5vh",
+							}}
+							variant="h1"
+							component="h1"
+							align="center"
+							color="primary"
+						>
+							Fantasy League
+						</Typography>
+					</Grid>
+
+					<Grid item xs={12} md={6}>
 						<Button
 							variant="outlined"
 							sx={{
@@ -75,7 +78,7 @@ const Home = () => {
 							</Typography>
 						</Button>
 					</Grid>
-					<Grid item xs={12}>
+					<Grid item xs={12} md={6}>
 						<Button
 							variant="outlined"
 							sx={{
@@ -109,7 +112,7 @@ const Home = () => {
 							</Typography>
 						</Button>
 					</Grid>
-					<Grid item xs={12}>
+					<Grid item xs={12} md={6}>
 						<Button
 							variant="outlined"
 							sx={{
@@ -143,7 +146,7 @@ const Home = () => {
 							</Typography>
 						</Button>
 					</Grid>
-					<Grid item xs={12}>
+					<Grid item xs={12} md={6}>
 						{/* <Link
 							href="https://forms.gle/kVeJG27Jf6PGmwQHA"
 							target="_blank"
@@ -192,7 +195,7 @@ const Home = () => {
 						component="h3"
 						align="center"
 						sx={{
-							fontSize: "3.5vw",
+							fontSize: "min(3.5vw,32px)",
 							opacity: 0.65,
 						}}
 					>
@@ -206,7 +209,7 @@ const Home = () => {
 						component="h3"
 						align="center"
 						sx={{
-							fontSize: "3.5vw",
+							fontSize: "min(3.5vw,32px)",
 							opacity: 0.65,
 						}}
 					>
@@ -220,7 +223,7 @@ const Home = () => {
 						component="h3"
 						align="center"
 						sx={{
-							fontSize: "3.5vw",
+							fontSize: "min(3.5vw,32px)",
 							opacity: 0.65,
 						}}
 					>
