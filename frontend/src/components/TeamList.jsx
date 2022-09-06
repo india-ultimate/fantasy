@@ -5,18 +5,15 @@ const TeamList = () => {
 	return (
 		<Grid
 			container
-			spacing={0}
+			spacing={12}
 			alignItems="center"
 			justifyContent="center"
 			style={{ width: "100%" }}
 		>
 			{teamLinks.map((team) => (
-				<img
-					key={team.iuSlug}
-					src={team.logo}
-					width="40%"
-					style={{ margin: "5%" }}
-				/>
+				<Grid item xs={6} md={4} lg={3}>
+					<img key={team.iuSlug} src={team.logo} width="100%" />
+				</Grid>
 			))}
 		</Grid>
 	);
