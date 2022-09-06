@@ -5,7 +5,7 @@ const SponsorList = () => {
 	return (
 		<Grid
 			container
-			spacing={12}
+			spacing={4}
 			alignItems="center"
 			justifyContent="center"
 			style={{ width: "100%" }}
