@@ -27,6 +27,10 @@ const navItems = [
 		title: "Leaderboard",
 		url: "/leaderboard",
 	},
+	{
+		title: "Rules",
+		url: "/rules",
+	},
 ];
 
 function Navbar(props) {
