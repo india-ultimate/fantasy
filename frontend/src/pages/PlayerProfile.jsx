@@ -72,7 +72,7 @@ const PlayerProfile = () => {
 										// 	"-webkit-linear-gradient(60deg, #002B5B, #EF5B0C)",
 										// backgroundClip: "text",
 										// color: "transparent",
-										font: "bold 8vw Poppins, sans-serif",
+										font: "bold min(8vw, 48px) Poppins, sans-serif",
 										mt: "2vh",
 									}}
 									variant="h6"
@@ -87,7 +87,7 @@ const PlayerProfile = () => {
 									component="h2"
 									align="center"
 									sx={{
-										fontSize: "4vw",
+										fontSize: "min(4vw, 28px)",
 										opacity: 0.65,
 									}}
 								>
@@ -117,11 +117,11 @@ const PlayerProfile = () => {
 							/>
 							<Grid item xs={12}>
 								<Typography
-									variant="body1"
+									variant="overline"
 									component="h3"
 									align="center"
 									sx={{
-										fontSize: "3vw",
+										fontSize: "min(3.5vw, 28px)",
 										opacity: 0.65,
 									}}
 								>
@@ -133,7 +133,7 @@ const PlayerProfile = () => {
 										// 	"-webkit-linear-gradient(60deg, #002B5B, #EF5B0C)",
 										// backgroundClip: "text",
 										// color: "transparent",
-										font: "5vw Poppins, sans-serif",
+										font: "bold min(8vw, 32px) Poppins, sans-serif",
 									}}
 									variant="h6"
 									component="h4"
@@ -149,7 +149,7 @@ const PlayerProfile = () => {
 									component="h3"
 									align="center"
 									sx={{
-										fontSize: "3.5vw",
+										fontSize: "min(3.5vw, 28px)",
 										opacity: 0.65,
 									}}
 								>
@@ -161,7 +161,7 @@ const PlayerProfile = () => {
 										// 	"-webkit-linear-gradient(60deg, #002B5B, #EF5B0C)",
 										// backgroundClip: "text",
 										// color: "transparent",
-										font: "bold 8vw Poppins, sans-serif",
+										font: "bold min(8vw, 32px) Poppins, sans-serif",
 									}}
 									variant="h6"
 									component="h4"
@@ -177,12 +177,13 @@ const PlayerProfile = () => {
 									component="h3"
 									align="center"
 									sx={{
-										fontSize: "3.5vw",
+										fontSize: "min(3.5vw, 28px)",
 										opacity: 0.65,
 									}}
 								>
 									Scorecard
 								</Typography>
+
 								<Grid
 									container
 									spacing={0}
@@ -201,7 +202,8 @@ const PlayerProfile = () => {
 												variant="overline"
 												component="p"
 												sx={{
-													fontSize: "3.5vw",
+													fontSize:
+														"min(3.5vw, 32px)",
 													opacity: 0.65,
 												}}
 											>
@@ -217,7 +219,7 @@ const PlayerProfile = () => {
 													// backgroundClip: "text",
 													// color: "transparent",
 													lineHeight: "2.66",
-													font: "bold 3.5vw/2.66 Poppins, sans-serif",
+													font: "bold min(3.5vw, 20px)/2.66 Poppins, sans-serif",
 												}}
 												variant="overline"
 												component="p"
@@ -231,7 +233,7 @@ const PlayerProfile = () => {
 												align="center"
 												sx={{
 													lineHeight: "2.66",
-													font: "bold 3.5vw/2.66 Poppins, sans-serif",
+													font: "bold min(3.5vw, 20px)/2.66 Poppins, sans-serif",
 												}}
 												variant="overline"
 												component="p"
@@ -249,7 +251,8 @@ const PlayerProfile = () => {
 													variant="overline"
 													component="p"
 													sx={{
-														fontSize: "3.5vw",
+														fontSize:
+															"min(3.5vw, 20px)",
 														opacity: 0.65,
 													}}
 												>
@@ -261,7 +264,7 @@ const PlayerProfile = () => {
 													align="center"
 													sx={{
 														lineHeight: "2.66",
-														font: "bold 3.5vw/2.66 Poppins, sans-serif",
+														font: "bold min(3.5vw, 20px)/2.66 Poppins, sans-serif",
 													}}
 													variant="overline"
 													component="p"
@@ -279,7 +282,7 @@ const PlayerProfile = () => {
 													align="center"
 													sx={{
 														lineHeight: "2.66",
-														font: "bold 3.5vw/2.66 Poppins, sans-serif",
+														font: "bold min(3.5vw, 20px)/2.66 Poppins, sans-serif",
 													}}
 													variant="overline"
 													component="p"
@@ -303,7 +306,7 @@ const PlayerProfile = () => {
 									component="h3"
 									align="center"
 									sx={{
-										fontSize: "3.5vw",
+										fontSize: "min(3.5vw, 28px)",
 										opacity: 0.65,
 									}}
 								>
