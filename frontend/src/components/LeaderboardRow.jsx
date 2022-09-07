@@ -92,24 +92,29 @@ const LeaderboardRow = ({ player, playersMap }) => {
 					</IconButton>
 				</TableCell>
 			</TableRow>
-			<TableRow key={player.rank + "-details"}>
-				<TableCell
-					style={{ paddingBottom: 0, paddingTop: 0 }}
-					colSpan={6}
-				>
-					<Collapse in={open} timeout="auto">
-						<TableContainer component={Paper} sx={{ my: "2vh" }}>
-							<Table aria-label="simple table">
-								<TableBody>
-									{players.map((p) => (
-										<PlayerRow player={p} />
-									))}
-								</TableBody>
-							</Table>
-						</TableContainer>
-					</Collapse>
-				</TableCell>
-			</TableRow>
+			{open && (
+				<TableRow key={player.rank + "-details"}>
+					<TableCell
+						style={{ paddingBottom: 0, paddingTop: 0 }}
+						colSpan={6}
+					>
+						<Collapse in={open} timeout="auto">
+							<TableContainer
+								component={Paper}
+								sx={{ my: "2vh" }}
+							>
+								<Table aria-label="simple table">
+									<TableBody>
+										{players.map((p) => (
+											<PlayerRow player={p} />
+										))}
+									</TableBody>
+								</Table>
+							</TableContainer>
+						</Collapse>
+					</TableCell>
+				</TableRow>
+			)}
 		</>
 	);
 };
