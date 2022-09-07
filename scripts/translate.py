@@ -14,6 +14,7 @@ NAME_TRANSLATIONS = {
     "Yuvaraj": "Yuvaraj Magesh",
     "Subhash": "Subash S",
     "Samyuktha": "Samyuktha Arvind",
+    "Karan Sharam": "Karan Sharma",
 }
 
 
