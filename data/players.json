@@ -14452,7 +14452,7 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 12.5,
+    "fantasy-points": 13.0,
     "gender": "male",
     "jersey": "",
     "name": "Abimanyu Nair",
@@ -14460,7 +14460,7 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 3.0,
+      "d-line": 3.5,
       "d-scoring-line": 0,
       "defense": 5,
       "drop": -2,
@@ -14518,12 +14518,24 @@
         "o-line": 3,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 6,
+      "d-line": 7,
       "d-scoring-line": 0,
       "defense": 1,
       "drop": 1,
@@ -14535,7 +14547,7 @@
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 29.5,
+    "fantasy-points": 30.5,
     "gender": "female",
     "jersey": "",
     "name": "Akshara Domala",
@@ -14543,12 +14555,12 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 7.0,
+      "d-line": 8.0,
       "d-scoring-line": 8,
       "defense": 0,
-      "drop": -2,
+      "drop": -4,
       "goal": 6,
-      "o-line": 5.5,
+      "o-line": 7.5,
       "o-scoring-line": 5,
       "throwaway": 0
     },
@@ -14601,17 +14613,29 @@
         "o-line": 4,
         "o-scoring-line": 1,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 1,
+        "goal": 0,
+        "o-line": 4,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 14,
+      "d-line": 16,
       "d-scoring-line": 4,
       "defense": 0,
-      "drop": 1,
+      "drop": 2,
       "goal": 2,
-      "o-line": 11,
+      "o-line": 15,
       "o-scoring-line": 5,
       "throwaway": 0
     },
@@ -14701,7 +14725,7 @@
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 13.5,
+    "fantasy-points": 15.5,
     "gender": "male",
     "jersey": "",
     "name": "Anil Naik",
@@ -14709,12 +14733,12 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 6.0,
+      "d-line": 7.5,
       "d-scoring-line": 8,
       "defense": 0,
       "drop": -4,
       "goal": 0,
-      "o-line": 1.5,
+      "o-line": 2.0,
       "o-scoring-line": 2,
       "throwaway": 0
     },
@@ -14767,24 +14791,36 @@
         "o-line": 1,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 3,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 12,
+      "d-line": 15,
       "d-scoring-line": 4,
       "defense": 0,
       "drop": 2,
       "goal": 0,
-      "o-line": 3,
+      "o-line": 4,
       "o-scoring-line": 2,
       "throwaway": 0
     },
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 48.0,
+    "fantasy-points": 50.5,
     "gender": "female",
     "jersey": "",
     "name": "Ankita P",
@@ -14792,14 +14828,14 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 7.0,
+      "d-line": 7.5,
       "d-scoring-line": 8,
       "defense": 0,
       "drop": -4,
       "goal": 0,
-      "o-line": 17.0,
-      "o-scoring-line": 17,
-      "throwaway": 0
+      "o-line": 21.0,
+      "o-scoring-line": 19,
+      "throwaway": -4
     },
     "slug": "ankita-p",
     "stats": {
@@ -14850,39 +14886,51 @@
         "o-line": 6,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 8,
+        "o-scoring-line": 2,
+        "throwaway": 2
       }
     },
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 14,
+      "d-line": 15,
       "d-scoring-line": 4,
       "defense": 0,
       "drop": 2,
       "goal": 0,
-      "o-line": 34,
-      "o-scoring-line": 17,
-      "throwaway": 0
+      "o-line": 42,
+      "o-scoring-line": 19,
+      "throwaway": 2
     },
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 47.5,
+    "fantasy-points": 52.5,
     "gender": "male",
     "jersey": "",
     "name": "Dhiraj Gangaraju",
     "photo": "https://secure.gravatar.com/avatar/fcbda32556b3959f4213f5466706fdb7?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 12,
+      "assist": 15,
       "block": 0,
       "d-line": 3.0,
       "d-scoring-line": 6,
       "defense": 15,
-      "drop": -4,
+      "drop": -6,
       "goal": 3,
-      "o-line": 14.5,
-      "o-scoring-line": 14,
-      "throwaway": -16
+      "o-line": 18.5,
+      "o-scoring-line": 16,
+      "throwaway": -18
     },
     "slug": "dhiraj-gangaraju",
     "stats": {
@@ -14933,24 +14981,36 @@
         "o-line": 6,
         "o-scoring-line": 1,
         "throwaway": 3
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 1,
+        "goal": 0,
+        "o-line": 8,
+        "o-scoring-line": 2,
+        "throwaway": 1
       }
     },
     "stats-distribution": {
-      "assist": 4,
+      "assist": 5,
       "block": 0,
       "d-line": 6,
       "d-scoring-line": 3,
       "defense": 3,
-      "drop": 2,
+      "drop": 3,
       "goal": 1,
-      "o-line": 29,
-      "o-scoring-line": 14,
-      "throwaway": 8
+      "o-line": 37,
+      "o-scoring-line": 16,
+      "throwaway": 9
     },
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 11.5,
+    "fantasy-points": 13.5,
     "gender": "female",
     "jersey": "",
     "name": "Goundla Mamatha",
@@ -14958,12 +15018,12 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 4.0,
+      "d-line": 4.5,
       "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 5.5,
+      "o-line": 7.0,
       "o-scoring-line": 4,
       "throwaway": -4
     },
@@ -15016,24 +15076,36 @@
         "o-line": 4,
         "o-scoring-line": 1,
         "throwaway": 1
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 8,
+      "d-line": 9,
       "d-scoring-line": 1,
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 11,
+      "o-line": 14,
       "o-scoring-line": 4,
       "throwaway": 2
     },
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 8.5,
+    "fantasy-points": 6.5,
     "gender": "male",
     "jersey": "1",
     "name": "Kishen Chandar",
@@ -15041,14 +15113,14 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 5.0,
+      "d-line": 5.5,
       "d-scoring-line": 2,
       "defense": 0,
       "drop": -2,
       "goal": 0,
-      "o-line": 4.5,
+      "o-line": 6.0,
       "o-scoring-line": 2,
-      "throwaway": -6
+      "throwaway": -10
     },
     "slug": "kishen-chandar",
     "stats": {
@@ -15099,24 +15171,36 @@
         "o-line": 5,
         "o-scoring-line": 1,
         "throwaway": 1
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 0,
+        "throwaway": 2
       }
     },
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 10,
+      "d-line": 11,
       "d-scoring-line": 1,
       "defense": 0,
       "drop": 1,
       "goal": 0,
-      "o-line": 9,
+      "o-line": 12,
       "o-scoring-line": 2,
-      "throwaway": 3
+      "throwaway": 5
     },
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 27.0,
+    "fantasy-points": 32.5,
     "gender": "female",
     "jersey": "",
     "name": "Manasa H G",
@@ -15129,8 +15213,8 @@
       "defense": 5,
       "drop": -4,
       "goal": 0,
-      "o-line": 8.0,
-      "o-scoring-line": 3,
+      "o-line": 11.5,
+      "o-scoring-line": 5,
       "throwaway": -2
     },
     "slug": "manasa-h-g",
@@ -15182,6 +15266,18 @@
         "o-line": 7,
         "o-scoring-line": 1,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 7,
+        "o-scoring-line": 2,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
@@ -15192,14 +15288,14 @@
       "defense": 1,
       "drop": 2,
       "goal": 0,
-      "o-line": 16,
-      "o-scoring-line": 3,
+      "o-line": 23,
+      "o-scoring-line": 5,
       "throwaway": 1
     },
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 60.0,
+    "fantasy-points": 66.0,
     "gender": "male",
     "jersey": "7",
     "name": "Mayank Dawra",
@@ -15210,10 +15306,10 @@
       "d-line": 3.5,
       "d-scoring-line": 6,
       "defense": 0,
-      "drop": -2,
-      "goal": 15,
-      "o-line": 13.5,
-      "o-scoring-line": 13,
+      "drop": -4,
+      "goal": 18,
+      "o-line": 16.5,
+      "o-scoring-line": 15,
       "throwaway": -4
     },
     "slug": "mayank-dawra",
@@ -15265,6 +15361,18 @@
         "o-line": 5,
         "o-scoring-line": 0,
         "throwaway": 1
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 1,
+        "goal": 1,
+        "o-line": 6,
+        "o-scoring-line": 2,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
@@ -15273,16 +15381,16 @@
       "d-line": 7,
       "d-scoring-line": 3,
       "defense": 0,
-      "drop": 1,
-      "goal": 5,
-      "o-line": 27,
-      "o-scoring-line": 13,
+      "drop": 2,
+      "goal": 6,
+      "o-line": 33,
+      "o-scoring-line": 15,
       "throwaway": 2
     },
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 31.5,
+    "fantasy-points": 33.5,
     "gender": "female",
     "jersey": "",
     "name": "Nayanatara Vadali",
@@ -15290,14 +15398,14 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 8.0,
+      "d-line": 9.5,
       "d-scoring-line": 8,
       "defense": 5,
       "drop": -4,
       "goal": 3,
-      "o-line": 8.5,
-      "o-scoring-line": 5,
-      "throwaway": -2
+      "o-line": 10.0,
+      "o-scoring-line": 6,
+      "throwaway": -4
     },
     "slug": "nayanatara-vadali",
     "stats": {
@@ -15348,24 +15456,36 @@
         "o-line": 6,
         "o-scoring-line": 1,
         "throwaway": 1
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 3,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 1,
+        "throwaway": 1
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 16,
+      "d-line": 19,
       "d-scoring-line": 4,
       "defense": 1,
       "drop": 2,
       "goal": 1,
-      "o-line": 17,
-      "o-scoring-line": 5,
-      "throwaway": 1
+      "o-line": 20,
+      "o-scoring-line": 6,
+      "throwaway": 2
     },
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 35.5,
+    "fantasy-points": 36.5,
     "gender": "male",
     "jersey": "",
     "name": "Panvi S",
@@ -15373,7 +15493,7 @@
     "points-distribution": {
       "assist": 6,
       "block": 0,
-      "d-line": 7.5,
+      "d-line": 8.5,
       "d-scoring-line": 6,
       "defense": 10,
       "drop": -6,
@@ -15431,12 +15551,24 @@
         "o-line": 1,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 2,
       "block": 0,
-      "d-line": 15,
+      "d-line": 17,
       "d-scoring-line": 3,
       "defense": 2,
       "drop": 3,
@@ -15448,22 +15580,22 @@
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 48.0,
+    "fantasy-points": 53.0,
     "gender": "male",
     "jersey": "",
     "name": "Pranay M",
     "photo": "https://secure.gravatar.com/avatar/3e3bf95b8fc86f685099b424798e36dc?s=280&d=mm&r=r",
     "points-distribution": {
-      "assist": 9,
+      "assist": 12,
       "block": 0,
       "d-line": 1.0,
       "d-scoring-line": 2,
       "defense": 5,
       "drop": -2,
       "goal": 6,
-      "o-line": 14.0,
-      "o-scoring-line": 15,
-      "throwaway": -2
+      "o-line": 18.0,
+      "o-scoring-line": 17,
+      "throwaway": -6
     },
     "slug": "pranay-m",
     "stats": {
@@ -15514,24 +15646,36 @@
         "o-line": 5,
         "o-scoring-line": 1,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 1,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 8,
+        "o-scoring-line": 2,
+        "throwaway": 2
       }
     },
     "stats-distribution": {
-      "assist": 3,
+      "assist": 4,
       "block": 0,
       "d-line": 2,
       "d-scoring-line": 1,
       "defense": 1,
       "drop": 1,
       "goal": 2,
-      "o-line": 28,
-      "o-scoring-line": 15,
-      "throwaway": 1
+      "o-line": 36,
+      "o-scoring-line": 17,
+      "throwaway": 3
     },
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 22.0,
+    "fantasy-points": 21.5,
     "gender": "female",
     "jersey": "",
     "name": "Ramya Bhavana Kothapalli",
@@ -15542,9 +15686,9 @@
       "d-line": 2.0,
       "d-scoring-line": 2,
       "defense": 0,
-      "drop": 0,
+      "drop": -2,
       "goal": 0,
-      "o-line": 10.0,
+      "o-line": 11.5,
       "o-scoring-line": 8,
       "throwaway": 0
     },
@@ -15597,6 +15741,18 @@
         "o-line": 6,
         "o-scoring-line": 1,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 1,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
@@ -15605,16 +15761,16 @@
       "d-line": 4,
       "d-scoring-line": 1,
       "defense": 0,
-      "drop": 0,
+      "drop": 1,
       "goal": 0,
-      "o-line": 20,
+      "o-line": 23,
       "o-scoring-line": 8,
       "throwaway": 0
     },
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 8.0,
+    "fantasy-points": 10.0,
     "gender": "male",
     "jersey": "",
     "name": "Ravitheja Tetali",
@@ -15622,12 +15778,12 @@
     "points-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 4.5,
+      "d-line": 5.0,
       "d-scoring-line": 4,
       "defense": 0,
       "drop": -4,
       "goal": 3,
-      "o-line": 5.5,
+      "o-line": 7.0,
       "o-scoring-line": 2,
       "throwaway": -10
     },
@@ -15680,24 +15836,36 @@
         "o-line": 4,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 1,
       "block": 0,
-      "d-line": 9,
+      "d-line": 10,
       "d-scoring-line": 2,
       "defense": 0,
       "drop": 2,
       "goal": 1,
-      "o-line": 11,
+      "o-line": 14,
       "o-scoring-line": 2,
       "throwaway": 5
     },
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 21.5,
+    "fantasy-points": 23.5,
     "gender": "male",
     "jersey": "",
     "name": "Sandeep G",
@@ -15705,12 +15873,12 @@
     "points-distribution": {
       "assist": 9,
       "block": 0,
-      "d-line": 6.5,
+      "d-line": 7.0,
       "d-scoring-line": 6,
       "defense": 0,
       "drop": -6,
       "goal": 0,
-      "o-line": 5.0,
+      "o-line": 6.5,
       "o-scoring-line": 3,
       "throwaway": -2
     },
@@ -15763,24 +15931,36 @@
         "o-line": 4,
         "o-scoring-line": 1,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 3,
       "block": 0,
-      "d-line": 13,
+      "d-line": 14,
       "d-scoring-line": 3,
       "defense": 0,
       "drop": 3,
       "goal": 0,
-      "o-line": 10,
+      "o-line": 13,
       "o-scoring-line": 3,
       "throwaway": 1
     },
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 29.0,
+    "fantasy-points": 31.0,
     "gender": "female",
     "jersey": "",
     "name": "Sindhu M",
@@ -15788,12 +15968,12 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 4.0,
+      "d-line": 4.5,
       "d-scoring-line": 4,
       "defense": 0,
       "drop": 0,
       "goal": 6,
-      "o-line": 8.0,
+      "o-line": 9.5,
       "o-scoring-line": 7,
       "throwaway": 0
     },
@@ -15846,24 +16026,36 @@
         "o-line": 4,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 8,
+      "d-line": 9,
       "d-scoring-line": 2,
       "defense": 0,
       "drop": 0,
       "goal": 2,
-      "o-line": 16,
+      "o-line": 19,
       "o-scoring-line": 7,
       "throwaway": 0
     },
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 45.5,
+    "fantasy-points": 48.5,
     "gender": "male",
     "jersey": "",
     "name": "Suresh K",
@@ -15876,8 +16068,8 @@
       "defense": 20,
       "drop": -4,
       "goal": 9,
-      "o-line": 6.5,
-      "o-scoring-line": 5,
+      "o-line": 8.5,
+      "o-scoring-line": 6,
       "throwaway": -2
     },
     "slug": "suresh-k",
@@ -15929,6 +16121,18 @@
         "o-line": 4,
         "o-scoring-line": 2,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 4,
+        "o-scoring-line": 1,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
@@ -15939,14 +16143,14 @@
       "defense": 4,
       "drop": 2,
       "goal": 3,
-      "o-line": 13,
-      "o-scoring-line": 5,
+      "o-line": 17,
+      "o-scoring-line": 6,
       "throwaway": 1
     },
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 7.5,
+    "fantasy-points": 8.0,
     "gender": "male",
     "jersey": "",
     "name": "Tharun K",
@@ -15959,7 +16163,7 @@
       "defense": 0,
       "drop": -6,
       "goal": 0,
-      "o-line": 6.0,
+      "o-line": 6.5,
       "o-scoring-line": 3,
       "throwaway": 0
     },
@@ -16012,6 +16216,18 @@
         "o-line": 4,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
@@ -16022,14 +16238,14 @@
       "defense": 0,
       "drop": 3,
       "goal": 0,
-      "o-line": 12,
+      "o-line": 13,
       "o-scoring-line": 3,
       "throwaway": 0
     },
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 50.0,
+    "fantasy-points": 57.5,
     "gender": "female",
     "jersey": "",
     "name": "Usha Rani",
@@ -16040,10 +16256,10 @@
       "d-line": 5.0,
       "d-scoring-line": 6,
       "defense": 5,
-      "drop": -4,
-      "goal": 15,
-      "o-line": 13.0,
-      "o-scoring-line": 12,
+      "drop": -6,
+      "goal": 18,
+      "o-line": 17.5,
+      "o-scoring-line": 14,
       "throwaway": -2
     },
     "slug": "usha-rani",
@@ -16095,6 +16311,18 @@
         "o-line": 5,
         "o-scoring-line": 1,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 1,
+        "goal": 1,
+        "o-line": 9,
+        "o-scoring-line": 2,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
@@ -16103,16 +16331,16 @@
       "d-line": 10,
       "d-scoring-line": 3,
       "defense": 1,
-      "drop": 2,
-      "goal": 5,
-      "o-line": 26,
-      "o-scoring-line": 12,
+      "drop": 3,
+      "goal": 6,
+      "o-line": 35,
+      "o-scoring-line": 14,
       "throwaway": 1
     },
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 35.0,
+    "fantasy-points": 37.5,
     "gender": "female",
     "jersey": "",
     "name": "Varshita M",
@@ -16120,12 +16348,12 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 5.0,
+      "d-line": 6.0,
       "d-scoring-line": 2,
       "defense": 5,
       "drop": 0,
       "goal": 3,
-      "o-line": 11.0,
+      "o-line": 12.5,
       "o-scoring-line": 11,
       "throwaway": -2
     },
@@ -16178,24 +16406,36 @@
         "o-line": 6,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 10,
+      "d-line": 12,
       "d-scoring-line": 1,
       "defense": 1,
       "drop": 0,
       "goal": 1,
-      "o-line": 22,
+      "o-line": 25,
       "o-scoring-line": 11,
       "throwaway": 1
     },
     "team": "Telangana Ultimate"
   },
   {
-    "fantasy-points": 7.0,
+    "fantasy-points": 8.5,
     "gender": "male",
     "jersey": "59",
     "name": "Venkatesh Kumar",
@@ -16208,7 +16448,7 @@
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 5.0,
+      "o-line": 6.5,
       "o-scoring-line": 5,
       "throwaway": -6
     },
@@ -16261,6 +16501,18 @@
         "o-line": 1,
         "o-scoring-line": 0,
         "throwaway": 1
+      },
+      "Uttar Pradesh;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 0,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 3,
+        "o-scoring-line": 0,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
@@ -16271,7 +16523,7 @@
       "defense": 0,
       "drop": 0,
       "goal": 0,
-      "o-line": 10,
+      "o-line": 13,
       "o-scoring-line": 5,
       "throwaway": 3
     },
