@@ -5,8 +5,6 @@ name: Update data and Publish Site
 on:
   # Add run this workflow button to GH
   workflow_dispatch:
-  schedule:
-    - cron: "20,40 * * * *"
 
 # A workflow run is made up of one or more jobs (sequential or parallel)
 jobs:
