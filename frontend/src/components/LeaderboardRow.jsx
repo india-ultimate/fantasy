@@ -73,7 +73,7 @@ const LeaderboardRow = ({ player }) => {
 						}}
 						variant="overline"
 						component="p"
-						color={"primary"}
+						color={player.is_perfect ? "secondary" : "primary"}
 					>
 						{player["fantasy_score"]}
 					</Typography>
