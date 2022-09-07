@@ -1,5 +1,22 @@
 [
   {
+    "name": "Perfect 8",
+    "valid_team": true,
+    "fantasy_score": 1273.5,
+    "timestamp": "now",
+    "team_slugs": [
+      "chandan-dubey",
+      "jatin-meena",
+      "roshni-bharti",
+      "sahitra-ghurye",
+      "sivaraman-venkatesan",
+      "stania-peris",
+      "suhani-bedi",
+      "sunny-azad"
+    ],
+    "is_perfect": true
+  },
+  {
     "name": "Naren zala",
     "valid_team": true,
     "fantasy_score": 1129.0,
@@ -13,7 +30,8 @@
       "sivaraman-venkatesan",
       "suhani-bedi",
       "sunny-azad"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Shashank",
@@ -29,7 +47,8 @@
       "sivaraman-venkatesan",
       "stania-peris",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Ashish",
@@ -45,7 +64,8 @@
       "selvi-murugan",
       "sivaraman-venkatesan",
       "stania-peris"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Farhan",
@@ -61,7 +81,8 @@
       "selvi-murugan",
       "sivaraman-venkatesan",
       "stania-peris"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Alex",
@@ -77,7 +98,8 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Farhan",
@@ -93,7 +115,8 @@
       "sahitra-ghurye",
       "sivaraman-venkatesan",
       "stania-peris"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Tahir Siddiqui",
@@ -109,7 +132,8 @@
       "stania-peris",
       "suhani-bedi",
       "vimanthan-l"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Sushma",
@@ -125,7 +149,8 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Swapnil Godbole",
@@ -141,7 +166,8 @@
       "sivaraman-venkatesan",
       "stania-peris",
       "sunil-varma"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Sushmitha Janakiram",
@@ -157,7 +183,8 @@
       "selvi-murugan",
       "stania-peris",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Parth Jain",
@@ -173,7 +200,8 @@
       "stania-peris",
       "suhani-bedi",
       "vimanthan-l"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Sarang",
@@ -189,7 +217,8 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Vinay Vyas",
@@ -205,7 +234,8 @@
       "suhani-bedi",
       "sunny-azad",
       "vandana-kashyap"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Vinay Vyas",
@@ -221,7 +251,8 @@
       "suhani-bedi",
       "sunny-azad",
       "vandana-kashyap"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Punch",
@@ -237,7 +268,8 @@
       "sivaraman-venkatesan",
       "suhani-bedi",
       "udayan-philip"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Anjana",
@@ -253,7 +285,8 @@
       "sneha-patil",
       "suhani-bedi",
       "vimanthan-l"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Arjun",
@@ -269,7 +302,8 @@
       "stania-peris",
       "suhani-bedi",
       "sunny-azad"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Dickson George P",
@@ -285,7 +319,8 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "sunny-azad"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Virag Lakhani",
@@ -301,7 +336,8 @@
       "samarth-mishra",
       "sivaraman-venkatesan",
       "stania-peris"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Goutham",
@@ -317,7 +353,8 @@
       "selvi-murugan",
       "sivaraman-venkatesan",
       "stania-peris"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Karan Mantri",
@@ -333,7 +370,8 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Stephen",
@@ -349,7 +387,8 @@
       "priyanshu-singh",
       "sivaraman-venkatesan",
       "stania-peris"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Sudharshana MVL",
@@ -365,7 +404,8 @@
       "shruthi-nathella",
       "stania-peris",
       "vimanthan-l"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Maitreyi A",
@@ -381,7 +421,8 @@
       "shubham-more",
       "sivaraman-venkatesan",
       "sneha-patil"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Dhruv Nath",
@@ -397,7 +438,8 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "KK",
@@ -413,7 +455,8 @@
       "sivaraman-venkatesan",
       "stania-peris",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Aniketh MJ",
@@ -429,7 +472,8 @@
       "stania-peris",
       "suhani-bedi",
       "vimanthan-l"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Joshua",
@@ -445,7 +489,8 @@
       "selvi-murugan",
       "stania-peris",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Sanjeev",
@@ -461,7 +506,8 @@
       "stania-peris",
       "suhani-bedi",
       "sunny-azad"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Kumaresh Rajendran",
@@ -477,7 +523,8 @@
       "sivaraman-venkatesan",
       "stania-peris",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Divakar Rai",
@@ -493,7 +540,8 @@
       "srividya-suriyashekar",
       "suhani-bedi",
       "udayan-philip"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Anirudh",
@@ -509,7 +557,8 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Kenny",
@@ -525,7 +574,8 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Hari",
@@ -541,7 +591,8 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Vishnu das.CK",
@@ -557,7 +608,8 @@
       "sneha-patil",
       "sunil-varma",
       "vimanthan-l"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Nandan",
@@ -573,7 +625,8 @@
       "shruthi-nathella",
       "stania-peris",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Rohan bijoor",
@@ -589,7 +642,8 @@
       "sivaraman-venkatesan",
       "stania-peris",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Akhil Khatri",
@@ -605,7 +659,8 @@
       "sabeel-khader",
       "sahitra-ghurye",
       "stania-peris"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Ramesh",
@@ -621,7 +676,8 @@
       "samarth-mishra",
       "stania-peris",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Vishwaa Sekar",
@@ -637,7 +693,8 @@
       "sabeel-khader",
       "sivaraman-venkatesan",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Athir",
@@ -653,7 +710,8 @@
       "sivaraman-venkatesan",
       "stania-peris",
       "sunil-varma"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Tharakai",
@@ -669,7 +727,8 @@
       "muskan-jain",
       "sivaraman-venkatesan",
       "stania-peris"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Cow",
@@ -685,7 +744,8 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "sunny-azad"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Maitry Acharya",
@@ -701,7 +761,8 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Tariq",
@@ -717,7 +778,8 @@
       "sahitra-ghurye",
       "sivaraman-venkatesan",
       "sneha-patil"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Sangamithra Rajender",
@@ -733,7 +795,8 @@
       "sabeel-khader",
       "stania-peris",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Vijay",
@@ -749,7 +812,8 @@
       "sivaraman-venkatesan",
       "stania-peris",
       "vandana-kashyap"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Sanchit Bansal",
@@ -765,7 +829,8 @@
       "sivaraman-venkatesan",
       "stania-peris",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Kush Kothari",
@@ -781,7 +846,8 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Tejhas J",
@@ -797,7 +863,8 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Hardik Jikkar",
@@ -813,7 +880,8 @@
       "sahitra-ghurye",
       "selvi-murugan",
       "stania-peris"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Aravind",
@@ -829,7 +897,8 @@
       "suhani-bedi",
       "tahir-siddiqui",
       "vimanthan-l"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Nishant Ragate (Bolt)",
@@ -845,7 +914,8 @@
       "sivakumar",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Anand",
@@ -861,7 +931,8 @@
       "suhani-bedi",
       "udayan-philip",
       "vandana-kashyap"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Karan sharma",
@@ -877,7 +948,8 @@
       "stania-peris",
       "subash-s",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Ranjan Khyadad",
@@ -893,7 +965,8 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Samyuktha",
@@ -909,7 +982,8 @@
       "sabeel-khader",
       "samyuktha-arvind",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Bharadwaj (Barry)",
@@ -925,7 +999,8 @@
       "stania-peris",
       "suhani-bedi",
       "vimanthan-l"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Kush Kothari",
@@ -941,7 +1016,8 @@
       "stania-peris",
       "subash-s",
       "sunny-azad"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Andrew Samuel",
@@ -957,7 +1033,8 @@
       "stania-peris",
       "subash-s",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Kunal",
@@ -973,7 +1050,8 @@
       "sahitra-ghurye",
       "selvi-murugan",
       "sneha-patil"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Abhishek Gosavi",
@@ -989,7 +1067,8 @@
       "sahitra-ghurye",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Sriraam VG",
@@ -1005,7 +1084,8 @@
       "sabeel-khader",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Srikanth Shankaran",
@@ -1021,7 +1101,8 @@
       "sneha-patil",
       "suhani-bedi",
       "vimanthan-l"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Shubham Anant More",
@@ -1037,7 +1118,8 @@
       "sagarika-ap",
       "sahitra-ghurye",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "NISHANTH SRIVATSAN",
@@ -1053,7 +1135,8 @@
       "stania-peris",
       "subash-s",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Joker",
@@ -1069,7 +1152,8 @@
       "muskan-jain",
       "stania-peris",
       "vimanthan-l"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Raghu rock",
@@ -1085,7 +1169,8 @@
       "suhani-bedi",
       "sunil-varma",
       "vimanthan-l"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Ravi",
@@ -1101,7 +1186,8 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Siva Kumar - Blitzkrieg",
@@ -1117,7 +1203,8 @@
       "sivaraman-venkatesan",
       "stania-peris",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Joker",
@@ -1133,7 +1220,8 @@
       "stania-peris",
       "suhani-bedi",
       "vimanthan-l"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Shrilaxmi",
@@ -1149,7 +1237,8 @@
       "karan-sharma",
       "sahitra-ghurye",
       "selvi-murugan"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Harit Khadepaw",
@@ -1165,7 +1254,8 @@
       "stania-peris",
       "sunil-varma",
       "udayan-philip"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Mayank",
@@ -1181,7 +1271,8 @@
       "nirbha-ghurye",
       "sabeel-khader",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Nishtha Goyal",
@@ -1197,7 +1288,8 @@
       "sarang-minhas",
       "stania-peris",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Prem",
@@ -1213,7 +1305,8 @@
       "suhani-bedi",
       "sunil-varma",
       "vimanthan-l"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Pooja",
@@ -1229,7 +1322,8 @@
       "sabeel-khader",
       "stania-peris",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Namritha Anbarasan",
@@ -1245,7 +1339,8 @@
       "sahitra-ghurye",
       "stania-peris",
       "subash-s"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Vikas Chauhan",
@@ -1261,7 +1356,8 @@
       "sneha-patil",
       "stephen-charles",
       "vikas-chauhan"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Karthik Viswanathan",
@@ -1277,7 +1373,8 @@
       "subash-s",
       "suhani-bedi",
       "sunil-varma"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Gaurav",
@@ -1293,7 +1390,8 @@
       "shruthi-nathella",
       "stania-peris",
       "subash-s"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Bharath",
@@ -1309,7 +1407,8 @@
       "sabeel-khader",
       "stania-peris",
       "vimanthan-l"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Jayaprakash Narayanan",
@@ -1325,7 +1424,8 @@
       "shubham-more",
       "sivaraman-venkatesan",
       "stania-peris"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Battery",
@@ -1341,7 +1441,8 @@
       "sivaraman-venkatesan",
       "stania-peris",
       "udayan-philip"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Amberish",
@@ -1357,7 +1458,8 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Ayush Lalchandani",
@@ -1373,7 +1475,8 @@
       "stania-peris",
       "suhani-bedi",
       "sushil-kumar"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Rishvanjas Raghavan",
@@ -1389,7 +1492,8 @@
       "sivaraman-venkatesan",
       "stania-peris",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Navaneeth Holla",
@@ -1405,7 +1509,8 @@
       "shruthi-nathella",
       "sneha-patil",
       "subash-s"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Cyril Binoy",
@@ -1421,7 +1526,8 @@
       "sunil-varma",
       "udayan-philip",
       "vidya-parmar"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Vimal",
@@ -1437,7 +1543,8 @@
       "stania-peris",
       "subash-s",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Rohan Manoj",
@@ -1453,7 +1560,8 @@
       "sivaraman-venkatesan",
       "sowmya-gascon",
       "vandana-jhanjhoriya"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Vennela",
@@ -1469,7 +1577,8 @@
       "sivaraman-venkatesan",
       "stania-peris",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Vishwaa Sekar",
@@ -1485,7 +1594,8 @@
       "sivaraman-venkatesan",
       "suhani-bedi",
       "sushil-kumar"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Bhavya jain",
@@ -1501,7 +1611,8 @@
       "sabeel-khader",
       "stania-peris",
       "subash-s"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Vaishnavi",
@@ -1517,7 +1628,8 @@
       "shubham-more",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Harish",
@@ -1533,7 +1645,8 @@
       "stania-peris",
       "subash-s",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Rishubh Singh",
@@ -1549,7 +1662,8 @@
       "stania-peris",
       "suhani-bedi",
       "vikram-namdeo"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Panvi",
@@ -1565,7 +1679,8 @@
       "sarang-minhas",
       "selvi-murugan",
       "sivaraman-venkatesan"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Aditya Dubey",
@@ -1581,7 +1696,8 @@
       "sahitra-ghurye",
       "sivakumar",
       "stania-peris"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Kush Kothari",
@@ -1597,7 +1713,8 @@
       "suhani-bedi",
       "sunil-varma",
       "sunny-azad"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Craig Savio Fonseca",
@@ -1613,7 +1730,8 @@
       "sivaraman-venkatesan",
       "stania-peris",
       "sushma-tapse"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Sravanthi Nadiminti",
@@ -1629,7 +1747,8 @@
       "sunil-varma",
       "sushma-tapse",
       "udayan-philip"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Smithi Manickam",
@@ -1645,7 +1764,8 @@
       "stania-peris",
       "subash-s",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Giri Prasad M S",
@@ -1661,7 +1781,8 @@
       "sneha-patil",
       "suhani-bedi",
       "vimanthan-l"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Tarun Karthik",
@@ -1677,7 +1798,8 @@
       "sneha-patil",
       "suhani-bedi",
       "sushil-kumar"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Gokulavanan P",
@@ -1693,7 +1815,8 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "pawan singh negi",
@@ -1709,7 +1832,8 @@
       "sivaraman-venkatesan",
       "sowmya-gascon",
       "subhadeep-guha"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Saumya",
@@ -1725,7 +1849,8 @@
       "neha-bharti",
       "sahitra-ghurye",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Roshini Palaniappan",
@@ -1741,7 +1866,8 @@
       "stania-peris",
       "udayan-philip",
       "vimanthan-l"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Jonathan Samuel J",
@@ -1757,7 +1883,8 @@
       "monika-shankar",
       "shrilaxmi-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Monika",
@@ -1773,7 +1900,8 @@
       "manju-kushwaha",
       "rutvikkumar-nayka",
       "sneha-patil"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Arjun (FUEL)",
@@ -1789,7 +1917,8 @@
       "selvi-murugan",
       "sivaraman-venkatesan",
       "vandana-jhanjhoriya"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Sreekesh",
@@ -1805,7 +1934,8 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "usha-rani"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Varsha Yeshwant Kumar",
@@ -1821,7 +1951,8 @@
       "koka-mrinalini-siddhartha",
       "sivaraman-venkatesan",
       "sneha-patil"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Akshai Abraham",
@@ -1837,7 +1968,8 @@
       "kenny-borsada",
       "shraddha-tiwari",
       "stephen-charles"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Peter J Pulikkunnel",
@@ -1853,7 +1985,8 @@
       "kajal-jmp",
       "sivaraman-venkatesan",
       "sneha-patil"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Ashish Parmar",
@@ -1869,7 +2002,8 @@
       "sanjay-parmar",
       "sneha-patil",
       "udayan-philip"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Sumit",
@@ -1885,7 +2019,8 @@
       "shubham-more",
       "sivakumar",
       "stania-peris"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Venkey",
@@ -1901,7 +2036,8 @@
       "selvi-murugan",
       "shubham-more",
       "sneha-patil"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "ASR",
@@ -1917,7 +2053,8 @@
       "maksood-chaudhary",
       "manju-kushwaha",
       "stania-peris"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Andrew",
@@ -1933,7 +2070,8 @@
       "sabeel-khader",
       "stania-peris",
       "subash-s"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Aatish",
@@ -1949,7 +2087,8 @@
       "selvi-murugan",
       "sunil-varma",
       "sushma-tapse"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Om Gandhi",
@@ -1965,7 +2104,8 @@
       "stania-peris",
       "sunny-chauhan",
       "sushma-tapse"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Aditya",
@@ -1981,7 +2121,8 @@
       "sangeeta-singh",
       "sivaraman-venkatesan",
       "stania-peris"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Arvind (Birdie)",
@@ -1997,7 +2138,8 @@
       "sagarika-ap",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Pranav",
@@ -2013,7 +2155,8 @@
       "sahitra-ghurye",
       "sivaraman-venkatesan",
       "veena-singh"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Neha bharti",
@@ -2029,7 +2172,8 @@
       "koka-mrinalini-siddhartha",
       "manju-kushwaha",
       "sunny-azad"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Rohit",
@@ -2045,7 +2189,8 @@
       "sneha-patil",
       "subash-s",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Sanat Vohra",
@@ -2061,7 +2206,8 @@
       "sanjeev-kumar",
       "stania-peris",
       "vidya-parmar"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "SC",
@@ -2077,7 +2223,8 @@
       "sneha-patil",
       "subash-s",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Naveen G",
@@ -2093,7 +2240,8 @@
       "naina-mathews",
       "naveen-g",
       "sivaraman-venkatesan"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Swetha Aldrine",
@@ -2109,7 +2257,8 @@
       "maksood-chaudhary",
       "stania-peris",
       "subash-s"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Anshul Agarwal",
@@ -2125,7 +2274,8 @@
       "sagarika-ap",
       "sapna-dodmani",
       "sivaraman-venkatesan"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Aadi",
@@ -2141,7 +2291,8 @@
       "sagarika-ghanagam",
       "sapna-dodmani",
       "sivaraman-venkatesan"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Arjun sharan",
@@ -2157,7 +2308,8 @@
       "roshni-bharti",
       "suhani-bedi",
       "tahir-siddiqui"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Anjana Mohan",
@@ -2173,7 +2325,8 @@
       "sneha-patil",
       "tahir-siddiqui",
       "vimanthan-l"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "SANDEEP KANNOUJIA (SANDY)",
@@ -2189,7 +2342,8 @@
       "suhani-bedi",
       "sunil-varma",
       "sushil-kumar"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Viswa",
@@ -2205,7 +2359,8 @@
       "sabeel-khader",
       "sandeep-g",
       "subash-s"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "B THAMIZHARASAN",
@@ -2221,7 +2376,8 @@
       "sabeel-khader",
       "sagarika-ap",
       "sivaraman-venkatesan"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Arnob Das",
@@ -2237,7 +2393,8 @@
       "sneha-patil",
       "snehankita-rout",
       "swayam-narang"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Anish Paralikar",
@@ -2253,7 +2410,8 @@
       "maksood-chaudhary",
       "sivakumar",
       "stania-peris"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Deepak Chander Sharma",
@@ -2269,7 +2427,8 @@
       "srividya-suriyashekar",
       "suhani-bedi",
       "suresh-k"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Kushagra Tak",
@@ -2285,7 +2444,8 @@
       "krishna-sharma",
       "sagarika-ap",
       "sneha-patil"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Rajat Kumar",
@@ -2301,7 +2461,8 @@
       "sapna-dodmani",
       "shrilaxmi-patil",
       "sivakumar"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Rutuja Chavan",
@@ -2317,7 +2478,8 @@
       "panvi--s",
       "sagarika-ap",
       "sushma-tapse"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Jhumka",
@@ -2333,7 +2495,8 @@
       "maitry-acharya",
       "maksood-chaudhary",
       "sapna-dodmani"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Aprameya K A",
@@ -2349,7 +2512,8 @@
       "shruthi-nathella",
       "sivakumar",
       "stania-peris"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Harsh Nisar",
@@ -2365,7 +2529,8 @@
       "sakshi-mallah",
       "sneha-patil",
       "tanisha-rathod"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Mikhail Nazareth",
@@ -2381,7 +2546,8 @@
       "muskan-jain",
       "sanjeev-kumar",
       "stania-peris"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Vishesh Balani",
@@ -2397,7 +2563,8 @@
       "nimisha-vasava",
       "ramya-bhavana-kothapalli",
       "vikas-chauhan"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Tharan Kumar A",
@@ -2413,7 +2580,8 @@
       "roshni-bharti",
       "shagun-kori",
       "udayan-philip"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Parmesh",
@@ -2429,7 +2597,8 @@
       "shrilaxmi-patil",
       "shruthi-nathella",
       "sushil-kumar"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Kaushik Das",
@@ -2445,7 +2614,8 @@
       "sarang-minhas",
       "sivakumar",
       "tahir-siddiqui"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Bhavya",
@@ -2461,7 +2631,8 @@
       "maitry-acharya",
       "samatv-iyer",
       "shruthi-nathella"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Gopinath",
@@ -2477,7 +2648,8 @@
       "sindhu-m",
       "sonu-kashyap",
       "yuvaraj-magesh"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Goundla Mamatha",
@@ -2493,7 +2665,8 @@
       "shubham-more",
       "sidharth-walecha",
       "sivakumar"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Aaron",
@@ -2509,7 +2682,8 @@
       "sabeel-khader",
       "sivaraman-venkatesan",
       "sneha-patil"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Abhijit Kumar Nageshkumar",
@@ -2525,7 +2699,8 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Abhishek",
@@ -2541,7 +2716,8 @@
       "sagarika-ghanagam",
       "shrilaxmi-patil",
       "sivakumar"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Amberish (evil)",
@@ -2557,7 +2733,8 @@
       "rizwan-singh",
       "sagarika-ap",
       "shruthi-nathella"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Anil Bhukya",
@@ -2573,14 +2750,16 @@
       "naina-mathews",
       "sivaraman-venkatesan",
       "tanisha-rathod"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Arjun",
     "valid_team": false,
     "fantasy_score": 0,
     "timestamp": "22/08/2022 00:23:46",
-    "team_slugs": []
+    "team_slugs": [],
+    "is_perfect": false
   },
   {
     "name": "Arya",
@@ -2596,14 +2775,16 @@
       "sivaraman-venkatesan",
       "stania-peris",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Athir",
     "valid_team": false,
     "fantasy_score": 0,
     "timestamp": "22/08/2022 00:22:12",
-    "team_slugs": []
+    "team_slugs": [],
+    "is_perfect": false
   },
   {
     "name": "Chaitanya",
@@ -2619,7 +2800,8 @@
       "sneha-patil",
       "suhani-bedi",
       "udayan-philip"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Deepika",
@@ -2635,7 +2817,8 @@
       "sabeel-khader",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Harish",
@@ -2651,14 +2834,16 @@
       "sneha-patil",
       "stania-peris",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Ishav Punia",
     "valid_team": false,
     "fantasy_score": 0,
     "timestamp": "22/08/2022 02:06:00",
-    "team_slugs": []
+    "team_slugs": [],
+    "is_perfect": false
   },
   {
     "name": "Jones Alfred",
@@ -2674,14 +2859,16 @@
       "sabeel-khader",
       "stania-peris",
       "vimanthan-l"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Karan Mantri",
     "valid_team": false,
     "fantasy_score": 0,
     "timestamp": "22/08/2022 00:24:11",
-    "team_slugs": []
+    "team_slugs": [],
+    "is_perfect": false
   },
   {
     "name": "Keshav Gupta",
@@ -2697,14 +2884,16 @@
       "rohan-bijoor",
       "stania-peris",
       "yuvaraj-magesh"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Kush Kothari",
     "valid_team": false,
     "fantasy_score": 0,
     "timestamp": "22/08/2022 00:14:42",
-    "team_slugs": []
+    "team_slugs": [],
+    "is_perfect": false
   },
   {
     "name": "Mikhail Nazareth",
@@ -2720,14 +2909,16 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "stania-peris"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Moses",
     "valid_team": false,
     "fantasy_score": 0,
     "timestamp": "22/08/2022 00:44:21",
-    "team_slugs": []
+    "team_slugs": [],
+    "is_perfect": false
   },
   {
     "name": "Narayani",
@@ -2743,7 +2934,8 @@
       "raveena-kannaujia",
       "sidharth-walecha",
       "sushma-tapse"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Naveen",
@@ -2759,7 +2951,8 @@
       "rutvikkumar-nayka",
       "sagarika-ap",
       "sneha-patil"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Neetant",
@@ -2775,7 +2968,8 @@
       "sidharth-walecha",
       "sowmya-gascon",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Neha bharti",
@@ -2791,7 +2985,8 @@
       "roshni-bharti",
       "shruthi-gowda",
       "sunny-azad"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Nishanth",
@@ -2807,7 +3002,8 @@
       "shruthi-nathella",
       "shubham-more",
       "sivaraman-venkatesan"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Parth Jain",
@@ -2823,7 +3019,8 @@
       "sneha-patil",
       "stania-peris",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Poonam",
@@ -2839,7 +3036,8 @@
       "sabeel-khader",
       "sahitra-ghurye",
       "shruthi-gowda"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Raghuveer",
@@ -2855,7 +3053,8 @@
       "stania-peris",
       "subash-s",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Rahul chennai",
@@ -2871,7 +3070,8 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "stania-peris"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Sahukar",
@@ -2887,7 +3087,8 @@
       "sagarika-ap",
       "srividya-suriyashekar",
       "sushant-tapse"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Samhita",
@@ -2903,7 +3104,8 @@
       "ranjan-khyadad",
       "riya-rathod",
       "sneha-patil"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Shanmugam R",
@@ -2919,7 +3121,8 @@
       "sabeel-khader",
       "selvi-murugan",
       "sivaraman-venkatesan"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Shashank Adhikari",
@@ -2935,21 +3138,24 @@
       "sneha-patil",
       "stania-peris",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Shubham Anant More",
     "valid_team": false,
     "fantasy_score": 0,
     "timestamp": "22/08/2022 00:13:57",
-    "team_slugs": []
+    "team_slugs": [],
+    "is_perfect": false
   },
   {
     "name": "Siva Kumar - Blitzkrieg",
     "valid_team": false,
     "fantasy_score": 0,
     "timestamp": "22/08/2022 00:15:57",
-    "team_slugs": []
+    "team_slugs": [],
+    "is_perfect": false
   },
   {
     "name": "Smrithi Shankar",
@@ -2965,7 +3171,8 @@
       "shrilaxmi-patil",
       "tanisha-rathod",
       "veena-singh"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Sravani Garapati",
@@ -2981,7 +3188,8 @@
       "ramya-bhavana-kothapalli",
       "ravitheja-tetali",
       "venkatesh-kumar"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Swapnil",
@@ -2997,7 +3205,8 @@
       "suhani-bedi",
       "sunil-varma",
       "sushma-tapse"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Tejhas Jagadish",
@@ -3013,7 +3222,8 @@
       "sivaraman-venkatesan",
       "sneha-patil",
       "suhani-bedi"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Vikas Badiger",
@@ -3029,7 +3239,8 @@
       "sivakumar",
       "sneha-patil",
       "vandana-kashyap"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Virag Lakhani",
@@ -3045,13 +3256,15 @@
       "shrilaxmi-patil",
       "sivaraman-venkatesan",
       "stania-peris"
-    ]
+    ],
+    "is_perfect": false
   },
   {
     "name": "Yuvraj Jain",
     "valid_team": false,
     "fantasy_score": 0,
     "timestamp": "22/08/2022 07:31:52",
-    "team_slugs": []
+    "team_slugs": [],
+    "is_perfect": false
   }
 ]

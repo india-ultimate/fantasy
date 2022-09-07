@@ -71,10 +71,40 @@ def generate_slugs(team):
     return sorted({player.name.lower().strip().replace(" ", "-") for player in team})
 
 
+def perfect_team(stats):
+    # print(stats)
+    teams = {p["team"] for p in stats}
+    top_male = [
+        max(
+            stats,
+            key=lambda p: p["team"] == team
+            and p["gender"] == "male"
+            and p["fantasy-points"],
+        )
+        for team in teams
+    ]
+    top_female = [
+        max(
+            stats,
+            key=lambda p: p["team"] == team
+            and p["gender"] == "female"
+            and p["fantasy-points"],
+        )
+        for team in teams
+    ]
+
+    male = sorted(top_male, key=lambda p: p["fantasy-points"], reverse=True)[:4]
+    female = sorted(top_female, key=lambda p: p["fantasy-points"], reverse=True)[:4]
+    team = [
+        Player(p["team"], p["jersey"], p["name"], p["gender"]) for p in female + male
+    ]
+    return team
+
+
 def main(teams_csv, stats_json):
     with open(stats_json) as f:
-        data = json.load(f)
-        stats = reshape_stats(data)
+        stats_data = json.load(f)
+        stats = reshape_stats(stats_data)
 
     with open(teams_csv) as f:
         data = list(csv.DictReader(f))
@@ -94,9 +124,20 @@ def main(teams_csv, stats_json):
                 "fantasy_score": fantasy_score,
                 "timestamp": row["Timestamp"],
                 "team_slugs": generate_slugs(team),
+                "is_perfect": False,
             }
             entries.append(entry)
 
+    t = perfect_team(stats_data)
+    perfect = {
+        "name": "Perfect 8",
+        "valid_team": True,
+        "fantasy_score": score(t, stats),
+        "timestamp": "now",
+        "team_slugs": generate_slugs(t),
+        "is_perfect": True,
+    }
+    entries.append(perfect)
     entries = sorted(
         entries, key=lambda x: (-x["fantasy_score"], -x["valid_team"], x["name"])
     )
