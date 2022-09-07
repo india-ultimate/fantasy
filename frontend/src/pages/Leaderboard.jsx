@@ -35,7 +35,7 @@ const Leaderboard = () => {
 				.map((p, i) => {
 					return {
 						...p,
-						rank: i + 1,
+						rank: i,
 					};
 				})
 		);
