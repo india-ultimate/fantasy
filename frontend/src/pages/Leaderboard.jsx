@@ -53,7 +53,7 @@ const Leaderboard = () => {
 								// 	"-webkit-linear-gradient(60deg, #002B5B, #EF5B0C)",
 								// backgroundClip: "text",
 								// color: "transparent",
-								font: "bold 10vw Poppins, sans-serif",
+								font: "bold min(10vw, 62px) Poppins, sans-serif",
 							}}
 							variant="h6"
 							component="h6"
