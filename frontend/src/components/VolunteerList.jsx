@@ -19,7 +19,7 @@ const VolunteerList = () => {
 				align="left"
 				color="primary"
 			>
-				The fantasy league needed 80+ hours of data collection, 40+
+				The fantasy league needed 80+ hours of data collection, 50+
 				hours of data cleanup and entry and 50+ hours of tech work,
 				apart from all the hours of ideation and operations/logistics
 				work. A big thanks to all the volunteers who helped make this
