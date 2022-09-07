@@ -16,7 +16,7 @@ import playersData from "../data/players.json";
 import PlayerRow from "./PlayerRow";
 import teamsData from "../data/teams.json";
 
-const LeaderboardRow = ({ player, playersMap }) => {
+const LeaderboardRow = ({ player }) => {
 	const [open, setOpen] = React.useState(false);
 	const [players, setPlayers] = React.useState([]);
 	const unknown = { name: "Unknown Player", team: "" };

@@ -27,7 +27,6 @@ import LeaderboardRow from "../components/LeaderboardRow";
 const Leaderboard = () => {
 	const [validScores, setValidScores] = useState();
 	const [search, setSearch] = useState("");
-	let playersMap = new Map();
 
 	useEffect(() => {
 		setValidScores(
@@ -99,7 +98,6 @@ const Leaderboard = () => {
 											.map((player) => (
 												<LeaderboardRow
 													player={player}
-													playersMap={playersMap}
 												/>
 											))}
 								</TableBody>
