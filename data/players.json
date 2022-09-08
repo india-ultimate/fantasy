@@ -12943,7 +12943,7 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 3.0,
+    "fantasy-points": 2.5,
     "gender": "female",
     "jersey": "",
     "name": "Mirra",
@@ -12951,7 +12951,7 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 1.5,
+      "d-line": 1.0,
       "d-scoring-line": 4,
       "defense": 0,
       "drop": -4,
@@ -12962,18 +12962,6 @@
     },
     "slug": "mirra",
     "stats": {
-      "Delhi Ultimate;day-2": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 1,
-        "d-scoring-line": 0,
-        "defense": 0,
-        "drop": 0,
-        "goal": 0,
-        "o-line": 0,
-        "o-scoring-line": 0,
-        "throwaway": 0
-      },
       "Telangana Ultimate;day-1": {
         "assist": 0,
         "block": 0,
@@ -12990,7 +12978,7 @@
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 3,
+      "d-line": 2,
       "d-scoring-line": 2,
       "defense": 0,
       "drop": 2,
@@ -14250,15 +14238,50 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 0,
+    "fantasy-points": 0.5,
     "gender": "female",
     "jersey": "2",
     "name": "Vijaya Dharshini M",
     "photo": "https://secure.gravatar.com/avatar/12658ae780dc00ce2976d3f1aa8a9bfe?s=280&d=mm&r=r",
-    "points-distribution": {},
+    "points-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 0.5,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0.0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "slug": "vijaya-dharshini-m",
-    "stats": {},
-    "stats-distribution": {},
+    "stats": {
+      "Delhi Ultimate;day-2": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 1,
+        "d-scoring-line": 0,
+        "defense": 0,
+        "drop": 0,
+        "goal": 0,
+        "o-line": 0,
+        "o-scoring-line": 0,
+        "throwaway": 0
+      }
+    },
+    "stats-distribution": {
+      "assist": 0,
+      "block": 0,
+      "d-line": 1,
+      "d-scoring-line": 0,
+      "defense": 0,
+      "drop": 0,
+      "goal": 0,
+      "o-line": 0,
+      "o-scoring-line": 0,
+      "throwaway": 0
+    },
     "team": "Tamilnadu"
   },
   {
