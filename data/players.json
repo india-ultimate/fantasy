@@ -12943,50 +12943,15 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 2.5,
+    "fantasy-points": 0,
     "gender": "female",
     "jersey": "",
     "name": "Mirra",
     "photo": "",
-    "points-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 1.0,
-      "d-scoring-line": 4,
-      "defense": 0,
-      "drop": -4,
-      "goal": 0,
-      "o-line": 0.5,
-      "o-scoring-line": 1,
-      "throwaway": 0
-    },
+    "points-distribution": {},
     "slug": "mirra",
-    "stats": {
-      "Telangana Ultimate;day-1": {
-        "assist": 0,
-        "block": 0,
-        "d-line": 2,
-        "d-scoring-line": 2,
-        "defense": 0,
-        "drop": 2,
-        "goal": 0,
-        "o-line": 1,
-        "o-scoring-line": 1,
-        "throwaway": 0
-      }
-    },
-    "stats-distribution": {
-      "assist": 0,
-      "block": 0,
-      "d-line": 2,
-      "d-scoring-line": 2,
-      "defense": 0,
-      "drop": 2,
-      "goal": 0,
-      "o-line": 1,
-      "o-scoring-line": 1,
-      "throwaway": 0
-    },
+    "stats": {},
+    "stats-distribution": {},
     "team": "Tamilnadu"
   },
   {
@@ -14238,7 +14203,7 @@
     "team": "Tamilnadu"
   },
   {
-    "fantasy-points": 0.5,
+    "fantasy-points": 3.0,
     "gender": "female",
     "jersey": "2",
     "name": "Vijaya Dharshini M",
@@ -14246,13 +14211,13 @@
     "points-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 0.5,
-      "d-scoring-line": 0,
+      "d-line": 1.5,
+      "d-scoring-line": 4,
       "defense": 0,
-      "drop": 0,
+      "drop": -4,
       "goal": 0,
-      "o-line": 0.0,
-      "o-scoring-line": 0,
+      "o-line": 0.5,
+      "o-scoring-line": 1,
       "throwaway": 0
     },
     "slug": "vijaya-dharshini-m",
@@ -14268,18 +14233,30 @@
         "o-line": 0,
         "o-scoring-line": 0,
         "throwaway": 0
+      },
+      "Telangana Ultimate;day-1": {
+        "assist": 0,
+        "block": 0,
+        "d-line": 2,
+        "d-scoring-line": 2,
+        "defense": 0,
+        "drop": 2,
+        "goal": 0,
+        "o-line": 1,
+        "o-scoring-line": 1,
+        "throwaway": 0
       }
     },
     "stats-distribution": {
       "assist": 0,
       "block": 0,
-      "d-line": 1,
-      "d-scoring-line": 0,
+      "d-line": 3,
+      "d-scoring-line": 2,
       "defense": 0,
-      "drop": 0,
+      "drop": 2,
       "goal": 0,
-      "o-line": 0,
-      "o-scoring-line": 0,
+      "o-line": 1,
+      "o-scoring-line": 1,
       "throwaway": 0
     },
     "team": "Tamilnadu"
