@@ -2533,6 +2533,23 @@
     "is_perfect": false
   },
   {
+    "name": "Mikhail Nazareth",
+    "valid_team": true,
+    "fantasy_score": 452.0,
+    "timestamp": "26/08/2022 17:38:57",
+    "team_slugs": [
+      "akshay-surange",
+      "esai-selvan-esakki",
+      "kalpana-rathod",
+      "michiaki-ito",
+      "muskan-jain",
+      "sanjeev-kumar",
+      "stania-peris",
+      "vijaya-dharshini-m"
+    ],
+    "is_perfect": false
+  },
+  {
     "name": "Vishesh Balani",
     "valid_team": true,
     "fantasy_score": 452.0,
@@ -2550,36 +2567,19 @@
     "is_perfect": false
   },
   {
-    "name": "Mikhail Nazareth",
-    "valid_team": true,
-    "fantasy_score": 449.0,
-    "timestamp": "26/08/2022 17:38:57",
-    "team_slugs": [
-      "akshay-surange",
-      "esai-selvan-esakki",
-      "kalpana-rathod",
-      "michiaki-ito",
-      "mirra",
-      "muskan-jain",
-      "sanjeev-kumar",
-      "stania-peris"
-    ],
-    "is_perfect": false
-  },
-  {
     "name": "Tharan Kumar A",
     "valid_team": true,
-    "fantasy_score": 428.0,
+    "fantasy_score": 431.0,
     "timestamp": "25/08/2022 11:30:09",
     "team_slugs": [
       "abhishek-pawar",
       "altaf-shaikh",
       "arulmozhi-selvan",
-      "mirra",
       "muskan-jain",
       "roshni-bharti",
       "shagun-kori",
-      "udayan-philip"
+      "udayan-philip",
+      "vijaya-dharshini-m"
     ],
     "is_perfect": false
   },
@@ -2726,13 +2726,13 @@
     "timestamp": "22/08/2022 16:17:44",
     "team_slugs": [
       "harsh-kori",
-      "mirra",
       "om-yadav",
       "pooja-s",
       "rajveer-parmar",
       "rizwan-singh",
       "sagarika-ap",
-      "shruthi-nathella"
+      "shruthi-nathella",
+      "vijaya-dharshini-m"
     ],
     "is_perfect": false
   },
@@ -2904,11 +2904,11 @@
       "ananya-shaju",
       "esai-selvan-esakki",
       "grant-wagner",
-      "mirra",
       "rutvikkumar-nayka",
       "sivaraman-venkatesan",
       "sneha-patil",
-      "stania-peris"
+      "stania-peris",
+      "vijaya-dharshini-m"
     ],
     "is_perfect": false
   },

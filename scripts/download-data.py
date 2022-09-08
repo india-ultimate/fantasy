@@ -82,8 +82,7 @@ def get_topscore_access_token(client_id, client_secret, session):
         "client_secret": client_secret,
     }
     print("Fetching access token")
-    response = session.post(
-        "{}/api/oauth/server".format(UPAI_BASE_URL), data=data)
+    response = session.post("{}/api/oauth/server".format(UPAI_BASE_URL), data=data)
     if response.status_code != 200:
         print("Could not fetch access token")
         return ""
@@ -110,8 +109,7 @@ def download_teams_info(sheet_id, event_id, client_id, client_secret):
     print("Downloading State Championship Teams from Google Spreadsheet")
     url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv"
     response = requests.get(url)
-    team_data = {row["id"]: row for row in csv.DictReader(
-        io.StringIO(response.text))}
+    team_data = {row["id"]: row for row in csv.DictReader(io.StringIO(response.text))}
     registration_data = {
         person["person_id"]: person
         for person in fetch_registration_data(event_id, client_id, client_secret)
@@ -157,25 +155,6 @@ def download_teams_info(sheet_id, event_id, client_id, client_secret):
                     "ucID": id_,
                 }
                 data.append(player_info)
-
-    # Add couple of missing players
-    hannah = {
-        "name": "Hannah Deborah",
-        "gender": "female",
-        "jersey": "",
-        "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/PWnDrAUK.280.jpg",
-        "team": "Tamilnadu",
-        "ucID": 1033257,
-    }
-    mirra = {
-        "name": "Mirra",
-        "gender": "female",
-        "jersey": "",
-        "photo": "",
-        "team": "Tamilnadu",
-        "ucID": 0,
-    }
-    data.extend([hannah, mirra])
 
     print(f"Saving data for {len(data)} players...")
 

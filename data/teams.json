@@ -1,13 +1,5 @@
 [
   {
-    "gender": "female",
-    "jersey": "",
-    "name": "Mirra",
-    "photo": "",
-    "team": "Tamilnadu",
-    "ucID": 0
-  },
-  {
     "gender": "male",
     "jersey": "18",
     "name": "Grant Wagner",
@@ -1190,14 +1182,6 @@
     "photo": "https://secure.gravatar.com/avatar/88f1cc662cf5c0f870198fbb26beb858?s=280&d=mm&r=r",
     "team": "Maharashtra Ultimate",
     "ucID": 1021202
-  },
-  {
-    "gender": "female",
-    "jersey": "",
-    "name": "Hannah Deborah",
-    "photo": "https://d36m266ykvepgv.cloudfront.net/uploads/person/PWnDrAUK.280.jpg",
-    "team": "Tamilnadu",
-    "ucID": 1033257
   },
   {
     "gender": "female",
