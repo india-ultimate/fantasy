@@ -118,10 +118,7 @@ const Rules = () => {
 										>
 											{displayNames[event.event]}
 										</TableCell>
-										<TableCell
-											align="center"
-											title={`${player.name} — ${player.timestamp}`}
-										>
+										<TableCell align="center">
 											{event.points}
 										</TableCell>
 									</TableRow>
